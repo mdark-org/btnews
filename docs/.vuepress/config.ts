@@ -63,8 +63,10 @@ export default defineUserConfig({
             },
 
         ],
-        repo: "https://github.com/ktKongTong/btnews",
         sidebar: sidebarCfg,
+        repo: "https://github.com/ktKongTong/btnews",
+        docsBranch: "master",
+        docsDir: "docs",
         plugins: {
             blog: true,
             mdEnhance: {
