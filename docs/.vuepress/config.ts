@@ -1,12 +1,37 @@
 import { defineUserConfig } from 'vuepress'
 import { hopeTheme } from "vuepress-theme-hope";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
-import {archiveRouterPlugin} from "./router";
 import { sidebarCfg } from "./sidebar";
+import {replaceLink, rplink} from "./link";
+import * as path from "path";
+import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepareDatePagesIndex} from "./page";
+import {archiveNavbar} from "./categoryArchiveList";
 export default defineUserConfig({
     lang: 'zh-CN',
     title: '睡前消息文稿集合',
     description: '睡前消息文稿集合，通过 whisper 模型进行语音识别，生成往期文稿集合',
+    extendsMarkdown: (md) => {
+        md.use(rplink,{replaceLink: replaceLink})
+    },
+    extendsPageOptions: (pageOptions, app) => {
+        pageOptions.frontmatter = pageOptions.frontmatter ?? {}
+        if (pageOptions.filePath?.startsWith(app.dir.source("btnews"))) {
+            pageOptions.frontmatter.category = "睡前消息"
+            let filename = path.basename(pageOptions.filePath)
+            let id = filename.match(/[0-9]{3,4}/)?.at(0)
+            pageOptions.frontmatter.permalink = `/btnews/${id}/`
+            pageOptions.frontmatter.type = "index"
+        }
+    },
+    onInitialized: async (app): Promise<void> => {
+        // 生成年月视图的 page
+        await prepareDatePages(app)
+        await prepareDatePagesIndex(app)
+        // 生成合集 page
+        await prepareArchivePages(app)
+        await prepareArchivePagesIndex(app)
+    },
+
     theme: hopeTheme({
         navbar: [
             {
@@ -32,23 +57,10 @@ export default defineUserConfig({
                 icon: "lightbulb",
             },
             {
-                text: "分类",
-                link: "/category",
+                text: "合集",
                 icon: "lightbulb",
+                children: archiveNavbar(),
             },
-            // {
-            //     text: "合集",
-            //     icon: "lightbulb",
-            //     children: [{
-            //         text:"高流说航天",
-            //         link: "/btnews/archive/高流说航天",
-            //         },
-            //         {
-            //             text:"新朋友正威集团",
-            //             link: "/btnews/archive/新朋友正威集团",
-            //         }
-            //     ]
-            // },
 
         ],
         repo: "https://github.com/ktKongTong/btnews",
@@ -68,7 +80,6 @@ export default defineUserConfig({
         }
     }),
     plugins: [
-        archiveRouterPlugin(),
         searchProPlugin({
             indexContent: true,
         }),
