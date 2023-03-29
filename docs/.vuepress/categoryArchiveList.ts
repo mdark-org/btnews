@@ -22,7 +22,7 @@ export const categoryArchiveList: categoryArchive[] = [{
     },
     {
       name: "老朋友以岭药业",
-      content: ["btnews_288.md"]
+      content: ["btnews_288.md","btnews_0424.md"]
     },
     {
       name: "俄乌战争合订本",
@@ -30,7 +30,7 @@ export const categoryArchiveList: categoryArchive[] = [{
     },
     {
       name: "AI与新闻",
-      content: ["btnews_374.md","btnews_184.md","btnews_233.md","btnews_233.md","btnews_363.md","btnews_378.md"]
+      content: ["btnews_374.md","btnews_184.md","btnews_233.md","btnews_363.md","btnews_378.md"]
     },
     {
       name: "集成电路国产化进程",

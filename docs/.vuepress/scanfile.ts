@@ -37,6 +37,9 @@ export const contentMap:Map<string,any> = files.reduce((acc:Map<string,any>, cur
         let fm = match[1]
         let lines = fm.split('\n')
         lines.forEach(line => {
+            if (line.trim() == ""){
+                return
+            }
             let [key, value] = line.split(':')
             frontmatter[key.trim()] = value.trim()
         })
