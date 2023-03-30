@@ -14,35 +14,35 @@ export const categoryArchiveList: categoryArchive[] = [{
   archiveList:[
     {
       name: "社会化抚养",
-      content: ["btnews_296.md","btnews_360.md","btnews_400.md"]
+      content: ["btnews_0296.md","btnews_0360.md","btnews_0400.md"]
     },
     {
       name: "年度新闻合订本",
-      content: ["btnews_215.md","btnews_216.md","btnews_386.md"]
+      content: ["btnews_0215.md","btnews_0216.md","btnews_0386.md"]
     },
     {
       name: "老朋友以岭药业",
-      content: ["btnews_288.md","btnews_0424.md"]
+      content: ["btnews_0288.md","btnews_0424.md"]
     },
     {
       name: "俄乌战争合订本",
-      content: ["btnews_310.md","btnews_390.md"]
+      content: ["btnews_0310.md","btnews_0390.md"]
     },
     {
       name: "AI与新闻",
-      content: ["btnews_374.md","btnews_184.md","btnews_233.md","btnews_363.md","btnews_378.md"]
+      content: ["btnews_0374.md","btnews_0184.md","btnews_0233.md","btnews_0363.md","btnews_0378.md"]
     },
     {
       name: "集成电路国产化进程",
-      content: ["btnews_167.md","btnews_184.md","btnews_233.md","btnews_233.md","btnews_363.md","btnews_378.md"]
+      content: ["btnews_0167.md","btnews_0184.md","btnews_0233.md","btnews_0363.md","btnews_0378.md"]
     },
     {
       name: "智利新宪法改革历史",
-      content: ["btnews_301.md"]
+      content: ["btnews_0301.md"]
     },
     {
       name: "戈尔巴乔夫专题",
-      content:["btnews_304.md","btnews_387.md"]
+      content:["btnews_0304.md","btnews_0387.md"]
     }
   ]
 },
