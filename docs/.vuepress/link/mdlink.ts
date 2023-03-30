@@ -30,6 +30,9 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     if (path.isAbsolute(link)){
         return link
     }
+    if (path.extname(link) != ".md") {
+        return link
+    }
     let filename = path.basename(link)
     let prefix = filename.split("_")[0]
     let id = filename.split("_")[1].replace(".md", "")
