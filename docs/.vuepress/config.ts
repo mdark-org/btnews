@@ -6,6 +6,7 @@ import {replaceLink, rplink} from "./link";
 import * as path from "path";
 import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepareDatePagesIndex} from "./page";
 import {archiveNavbar} from "./categoryArchiveList";
+import * as util from "./utils";
 export default defineUserConfig({
     lang: 'zh-CN',
     title: '睡前消息文稿集合',
@@ -18,7 +19,8 @@ export default defineUserConfig({
         if (pageOptions.filePath?.startsWith(app.dir.source("btnews"))) {
             pageOptions.frontmatter.category = "睡前消息"
             let filename = path.basename(pageOptions.filePath)
-            let id = filename.match(/[0-9]{3,4}/)?.at(0)
+            let id = util.getIdFromFilename(pageOptions.filePath)
+            id = id.replace("_", ".")
             pageOptions.frontmatter.permalink = `/btnews/${id}/`
             pageOptions.frontmatter.type = "index"
         }
@@ -40,6 +42,10 @@ export default defineUserConfig({
                 icon: "lightbulb",
             },
             {
+                text: "2019",
+                link: "/btnews/2019/",
+            },
+            {
                 text: "2020",
                 link: "/btnews/2020/",
             },
@@ -50,6 +56,10 @@ export default defineUserConfig({
             {
                 text: "2022",
                 link: "/btnews/2022/",
+            },
+            {
+                text: "2023",
+                link: "/btnews/2023/",
             },
             {
                 text: "标签",

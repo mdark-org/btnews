@@ -1,5 +1,6 @@
 import {fs} from '@vuepress/utils';
 import * as path from "path";
+import {getIndependentIdFromFilename} from "./utils";
 
 type  opts = {
     exclude:RegExp[]
@@ -45,6 +46,7 @@ export const contentMap:Map<string,any> = files.reduce((acc:Map<string,any>, cur
         })
     }
     let name = path.basename(cur)
-    acc.set(name, {path: cur,frontmatter: frontmatter})
+    let key = getIndependentIdFromFilename(name)
+    acc.set(key, {path: cur,frontmatter: frontmatter})
     return acc
 }, new Map())

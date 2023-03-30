@@ -1,10 +1,12 @@
 import {contentMap} from "../scanfile";
 import {categoryArchiveList} from "../categoryArchiveList";
+import {getIdFromFilename} from "../utils";
 
 
 const generatePageSidebarFromId = (archiveItem:string,category,archive) => {
     let item = contentMap.get(archiveItem)
-    let id = archiveItem.match(/\d{3,4}/)[0]
+    let id = getIdFromFilename(archiveItem)
+    id = id.replace(/_/g,".")
     return {
         text: item.frontmatter.title,
         link: `/${category.category}/archive/${archive.name}/${id}/`,

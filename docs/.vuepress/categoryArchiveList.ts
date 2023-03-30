@@ -14,35 +14,35 @@ export const categoryArchiveList: categoryArchive[] = [{
   archiveList:[
     {
       name: "社会化抚养",
-      content: ["btnews_0296.md","btnews_0360.md","btnews_0400.md"]
+      content: ["btnews_0296","btnews_0360","btnews_0400"]
     },
     {
       name: "年度新闻合订本",
-      content: ["btnews_0215.md","btnews_0216.md","btnews_0386.md"]
+      content: ["btnews_0215","btnews_0216","btnews_0386"]
     },
     {
       name: "老朋友以岭药业",
-      content: ["btnews_0288.md","btnews_0424.md"]
+      content: ["btnews_0288","btnews_0424"]
     },
     {
       name: "俄乌战争合订本",
-      content: ["btnews_0310.md","btnews_0390.md"]
+      content: ["btnews_0310","btnews_0390"]
     },
     {
       name: "AI与新闻",
-      content: ["btnews_0374.md","btnews_0184.md","btnews_0233.md","btnews_0363.md","btnews_0378.md"]
+      content: ["btnews_0374","btnews_0184","btnews_0233","btnews_0363","btnews_0378"]
     },
     {
       name: "集成电路国产化进程",
-      content: ["btnews_0167.md","btnews_0184.md","btnews_0233.md","btnews_0363.md","btnews_0378.md"]
+      content: ["btnews_0167","btnews_0184","btnews_0233","btnews_0363","btnews_0378"]
     },
     {
       name: "智利新宪法改革历史",
-      content: ["btnews_0301.md"]
+      content: ["btnews_0301"]
     },
     {
       name: "戈尔巴乔夫专题",
-      content:["btnews_0304.md","btnews_0387.md"]
+      content:["btnews_0304","btnews_0387"]
     }
   ]
 },

@@ -28,7 +28,7 @@ const generateSidebarByDate = (mds:md[], prefix:string):any => {
     let yearSideBar = []
     for(let year in datePage){
         // todo 日期过滤
-        if (year == undefined || !["2020","2021","2022","2023"].includes(year)) {
+        if (year == undefined || !["2019","2020","2021","2022","2023"].includes(year)) {
             continue
         }
         let yearSB = {

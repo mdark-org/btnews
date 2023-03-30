@@ -12,14 +12,19 @@ export const groupBy = (array, f) => {
 }
 
 
-
+export const getCategoryFromFilename = (filename):string|undefined => {
+    let fn = path.basename(filename)
+    let category = fn.indexOf('_') > 0 ? fn.split('_')[0] : fn.replace(path.extname(fn),"")
+    return category
+}
 export const getIdFromFilename = (filename):string|undefined => {
     // btnews_0013_5.md
     let fn = path.basename(filename)
-    let id = fn.match(/\d{3,4}_\d/)?.at(0)
+    let id = fn.match(/\d{4}(_\d)?/).at(0)
     return id
 }
 
+// 从文件名中获取唯一 id（带分类）
 export const getIndependentIdFromFilename = (filename):string|undefined => {
     let fn = path.basename(filename)
     return fn.replace(path.extname(fn),"")

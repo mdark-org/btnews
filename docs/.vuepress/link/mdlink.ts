@@ -3,6 +3,7 @@ import MarkdownIt from 'markdown-it'
 import {contentMap} from "../scanfile";
 // @ts-ignore
 import path from "path";
+import {getCategoryFromFilename, getIdFromFilename, getIndependentIdFromFilename} from "../utils";
 // export const mdlink = (md: MarkdownIt, options: any) => {
 //     md.core.ruler.after('inline', 'mdlink', (state) => {
 //         let tokens = state.tokens
@@ -30,22 +31,23 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     if (path.isAbsolute(link)){
         return link
     }
+    if (path.extname(link) == ".jpg" || path.extname(link) == ".png"){
+        return replaceImageLink(link, env, token, htmlToken)
+    }
     if (path.extname(link) != ".md") {
         return link
     }
-    let filename = path.basename(link)
-    let prefix = filename.split("_")[0]
-    let id = filename.split("_")[1].replace(".md", "")
-    // check 是否是mdlink
-    let file = contentMap.get(filename)
+    let category = getCategoryFromFilename(link)
+    let file = contentMap.get(getIndependentIdFromFilename(link))
+    let id = getIdFromFilename(link)
     if (!file) {
         return link
     }
     if (env.frontmatter.type === "index") {
-        return `/${prefix}/${id}/`
+        return `/${category}/${id}/`
     }
     if (env.frontmatter.type === "archive") {
-        return `/${prefix}/${id}/`
+        return `/${category}/${id}/`
     }
     let date = file.frontmatter.date
     if (!date) {
@@ -54,5 +56,10 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     let y = date.split("-")[0]
     let m = date.split("-")[1]
     let d = date.split("-")[2]
-    return `/${prefix}/${y}/${m}/${d}/`
+    return `/${category}/${y}/${m}/${d}/`
+}
+
+const replaceImageLink = (link, env, token, htmlToken):string =>{
+    //
+    return link
 }
