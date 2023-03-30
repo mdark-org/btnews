@@ -9,8 +9,11 @@ import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 export default defineUserConfig({
     lang: 'zh-CN',
-    title: '睡前消息文稿集合',
-    description: '睡前消息文稿集合，通过 whisper 模型进行语音识别，生成往期文稿集合',
+    title: '睡前消息文稿合集',
+    head: [
+        ['link', { rel: 'icon', href: '/images/favicon.png' }],
+        ],
+    description: '睡前消息文稿合集，通过 whisper 模型进行语音识别，生成往期文稿合集,从 414期开始，则是从公众号内容获取的',
     extendsMarkdown: (md) => {
         md.use(rplink,{replaceLink: replaceLink})
     },
@@ -35,6 +38,15 @@ export default defineUserConfig({
     },
 
     theme: hopeTheme({
+        logo: "/images/favicon.png",
+        fullscreen: true,
+        themeColor: {
+            blue: "#2196f3",
+            red: "#f26d6d",
+            green: "#3eaf7c",
+            orange: "#fb9b5f",
+        },
+
         navbar: [
             {
                 text: "索引",
@@ -74,13 +86,28 @@ export default defineUserConfig({
 
         ],
         sidebar: sidebarCfg,
+        sidebarSorter: "date",
         repo: "https://github.com/ktKongTong/btnews",
         docsBranch: "master",
         docsDir: "docs",
+        blog: {
+            sidebarDisplay:"none"
+        },
         plugins: {
             blog: true,
+            autoCatalog:{
+                orderGetter: (page) => {
+                    let date = page.date
+                    if (date === undefined) {
+                        return 0
+                    }
+                    let [year, month, day] = date.split("-")
+                    return new Date(parseInt(year), parseInt(month) - 1, parseInt(day)).getTime()
+                }
+            },
             mdEnhance: {
                 tabs: true,
+                imgMark: true,
             },
             components: {
                 components: [
