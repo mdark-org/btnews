@@ -7,6 +7,7 @@ import * as path from "path";
 import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepareDatePagesIndex} from "./page";
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
+import {cloudflareAnalyticsPlugin} from "./plugins-cloudflare-analytics/node";
 export default defineUserConfig({
     lang: 'zh-CN',
     title: '睡前消息文稿合集',
@@ -50,7 +51,7 @@ export default defineUserConfig({
         navbar: [
             {
                 text: "索引",
-                link: "/",
+                link: "/btnews",
                 icon: "lightbulb",
             },
             {
@@ -119,6 +120,10 @@ export default defineUserConfig({
         }
     }),
     plugins: [
+        cloudflareAnalyticsPlugin({
+           token:"e1c872145f074ee9868b1c6f37dccc70",
+           debug: true
+        }),
         searchProPlugin({
             indexContent: true,
         }),
