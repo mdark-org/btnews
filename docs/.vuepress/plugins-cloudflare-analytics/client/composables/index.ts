@@ -20,8 +20,8 @@ export const useCloudflareAnalytics = (
     const gtagScript = document.createElement('script')
     gtagScript.src = `https://static.cloudflareinsights.com/beacon.min.js`
     gtagScript.defer = true
-    gtagScript.setAttribute("data-cf-beacon",`{"token"${options.token}}`)
-    console.log(gtagScript)
+    gtagScript.setAttribute("data-cf-beacon",`{"token":"${options.token}"}`)
+    // console.log(gtagScript)
     document.head.appendChild(gtagScript)
     window.dataLayer = window.dataLayer || []
     window.gtag = function () {
