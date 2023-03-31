@@ -122,7 +122,7 @@ export default defineUserConfig({
     plugins: [
         cloudflareAnalyticsPlugin({
            token:"e1c872145f074ee9868b1c6f37dccc70",
-           debug: true
+           debug: false
         }),
         searchProPlugin({
             indexContent: true,
