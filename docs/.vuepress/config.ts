@@ -1,4 +1,5 @@
 import { defineUserConfig } from 'vuepress'
+import { viteBundler } from '@vuepress/bundler-vite'
 import { hopeTheme } from "vuepress-theme-hope";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { sidebarCfg } from "./sidebar";
@@ -9,6 +10,25 @@ import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import {cloudflareAnalyticsPlugin} from "./plugins-cloudflare-analytics/node";
 export default defineUserConfig({
+    bundler: viteBundler({
+        viteOptions: {
+            experimental: {
+                renderBuiltUrl(filename: string, {hostId, hostType, type}: {
+                    hostId: string,
+                    hostType: 'js' | 'css' | 'html',
+                    type: 'public' | 'asset'
+                }) {
+                    if (type === 'public' && filename.startsWith("/images")) {
+                        return 'https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/docs/.vuepress/public/' + filename
+                    } else if (path.extname(hostId) === '.js') {
+                        return {runtime: `window.__assetsPath(${JSON.stringify(filename)})`}
+                    } else {
+                        return 'https://btnews.ktlab.io' + filename
+                    }
+                }
+            },
+        },
+    }),
     lang: 'zh-CN',
     title: '睡前消息文稿合集',
     head: [
