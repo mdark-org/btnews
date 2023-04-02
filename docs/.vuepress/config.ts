@@ -23,7 +23,7 @@ export default defineUserConfig({
                     } else if (path.extname(hostId) === '.js') {
                         return {runtime: `window.__assetsPath(${JSON.stringify(filename)})`}
                     } else {
-                        return 'https://btnews.ktlab.io' + filename
+                        return 'https://btnews.ktlab.io/' + filename
                     }
                 }
             },
