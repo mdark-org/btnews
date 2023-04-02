@@ -18,12 +18,8 @@ export default defineUserConfig({
                     hostType: 'js' | 'css' | 'html',
                     type: 'public' | 'asset'
                 }) {
-                    if (type === 'public' && filename.startsWith("/images")) {
+                    if(filename.startsWith("/images")) {
                         return 'https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/docs/.vuepress/public/' + filename
-                    } else if (path.extname(hostId) === '.js') {
-                        return {runtime: `window.__assetsPath(${JSON.stringify(filename)})`}
-                    } else {
-                        return 'https://btnews.ktlab.io/' + filename
                     }
                 }
             },
