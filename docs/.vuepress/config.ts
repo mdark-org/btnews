@@ -18,7 +18,7 @@ export default defineUserConfig({
                     hostType: 'js' | 'css' | 'html',
                     type: 'public' | 'asset'
                 }) {
-                    if(filename.startsWith("/images")) {
+                    if(filename.startsWith("images")) {
                         return 'https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/docs/.vuepress/public/' + filename
                     }
                 }
