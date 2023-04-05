@@ -26,7 +26,15 @@ export const extractItem = async (elem,pathPrefix:string,imgPath:string,images:M
             return "\n\n"
         case "strong":
             // @ts-ignore
-            return `**${cheerio.text(elem.children)}**`
+            if (cheerio.text(elem.children)==""){
+                for (let item of elem.children) {
+                    ans += await extractItem(item, pathPrefix, imgPath, images)
+                }
+            }else {
+                // @ts-ignore
+                return `**${cheerio.text(elem.children)}**`
+            }
+            return ans
         case "p":
         case "section":
             for (let item of elem.children) {
