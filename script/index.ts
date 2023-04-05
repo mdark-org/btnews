@@ -2,6 +2,7 @@ import {getArticle} from "./article"
 import {parserToMd} from "./parser";
 import * as path from "path";
 import {saveToMd} from "./saver";
+import {SourceInfo} from "./type";
 
 const timestmapToStr = (ts:string) => {
     let date = new Date(parseInt(ts) * 1000);
@@ -29,12 +30,9 @@ const getRangeById = (id:string):string => {
     return `${s.toString().padStart(4, "0")}_${e.toString().padStart(4, "0")}`;
 }
 
-(async () => {
-    const res = await getArticle(2)
-    if (res == undefined){
-        console.log("error")
-        return
-    }
+
+
+const get = async (res: SourceInfo) => {
     let url = res.url
     let content = await fetch(url)
     let a =await content.text()
@@ -48,5 +46,29 @@ const getRangeById = (id:string):string => {
 
     let md = await parserToMd(title,timestmapToStr(res.date),a,imgPathPrefix,imagePath)
     saveToMd(md,filePath)
+}
+
+(async () => {
+
+    // let articles = [{
+    //     msgid: "2247591077",
+    //     title: "睡前消息376期文稿：惩罚校园暴力，20人给1人抵命",
+    //     url: "https://mp.weixin.qq.com/s/OrVVgLK8MV_cAbxeBff24A",
+    //     date:"1641562200",
+    // },{
+    //     msgid: "2247591077",
+    //     title: "睡前消息374期文稿：复旦演讲：8条标准，支撑我的媒体平台梦想",
+    //     url: "https://mp.weixin.qq.com/s/1AeNuZ5aVVa4Aia0-QC3QA",
+    //     date:"1641189060",
+    // }]
+    // for (let i = 0; i < articles.length; i++) {
+    //     await get(articles[i])
+    // }
+    // 获取最新文章
+    const res = await getArticle(1)
+    if (res == null) {
+        throw new Error("获取文章失败")
+    }
+    await get(res)
 })();
 

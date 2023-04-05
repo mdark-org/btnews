@@ -4,7 +4,7 @@ export type SourceInfo = {
     title: string
     url: string
     date: string
-} | undefined
+}
 
 export type ParserResult = {
     content: string
