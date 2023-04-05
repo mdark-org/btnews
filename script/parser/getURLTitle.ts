@@ -11,6 +11,7 @@ export const getURLTitle = (url:string,retries = 3) => {
             const $ = cheerio.load(responseText);
             return $('title').text()
         }).catch(function(error) {
+            //todo 超时设置
             if (retries > 0) {
                 return new Promise(function(resolve) {
                     setTimeout(function() {
@@ -18,6 +19,6 @@ export const getURLTitle = (url:string,retries = 3) => {
                     }, 3000);
                 });
             }
-            throw error;
+            return "none";
         });
 }
