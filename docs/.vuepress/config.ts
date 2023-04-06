@@ -124,7 +124,14 @@ export default defineUserConfig({
             },
             mdEnhance: {
                 tabs: true,
+                // 启用 figure
+                figure: true,
+                // 启用图片懒加载
+                imgLazyload: true,
+                // 启用图片标记
                 imgMark: true,
+                // 启用图片大小
+                imgSize: true,
             },
             components: {
                 components: [
