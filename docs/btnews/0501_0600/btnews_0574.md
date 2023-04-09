@@ -1,6 +1,8 @@
 ---
 title: 【睡前消息574】ChatGPT是做题家 中国欠他一套模拟卷
 date: 2023-04-09
+description: 分析ChatGPT对社会的影响，以及在中国的发展前景。
+tag: ["AI","chatgpt","人工智能"]
 ---
 
 
