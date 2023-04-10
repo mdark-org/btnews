@@ -1,9 +1,16 @@
 ---
 title: 【睡前消息570】放下GDP和考试，安吉游戏改变中国
 date: 2023-03-31
+description: 分析正在兴起的“安吉游戏”教育模式。
+tag: ["中国","学习","教育","安吉游戏"]
 ---
+::: tabs
+@tab:active Bilibili
+<BiliBili bvid="BV1wm4y1z7U2" height="500px"/>
 
-
+@tab YouTube
+<YouTube id="ErWnxbPYOVs" height="500px"/>
+:::
 
 
 
