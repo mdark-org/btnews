@@ -52,18 +52,14 @@ const get = async (res: SourceInfo) => {
 
     // let articles = [{
     //     msgid: "2247591077",
-    //     title: "睡前消息376期文稿：惩罚校园暴力，20人给1人抵命",
-    //     url: "https://mp.weixin.qq.com/s/OrVVgLK8MV_cAbxeBff24A",
-    //     date:"1641562200",
-    // },{
-    //     msgid: "2247591077",
-    //     title: "睡前消息374期文稿：复旦演讲：8条标准，支撑我的媒体平台梦想",
-    //     url: "https://mp.weixin.qq.com/s/1AeNuZ5aVVa4Aia0-QC3QA",
-    //     date:"1641189060",
+    //     title: "睡前消息576期文稿：新冠保险不赔钱 香港内地是一家",
+    //     url: "https://mp.weixin.qq.com/s/CUHtqioAX0yD4LYCzu6xPw",
+    //     date:"1681445700",
     // }]
     // for (let i = 0; i < articles.length; i++) {
     //     await get(articles[i])
     // }
+
     // 获取最新文章
     const res = await getArticle(1)
     if (res == null) {
