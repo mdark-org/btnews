@@ -1,5 +1,6 @@
 .idea
 .vscode
+.yarn
 *.iml
 node_modules
 .temp

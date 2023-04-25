@@ -9,11 +9,12 @@
   "description": "睡前消息文稿集合",
   "license": "MIT",
   "devDependencies": {
-    "vuepress-theme-hope": "^2.0.0-beta.199",
+    "@types/uuid": "^9.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "uuid": "^9.0.0",
     "vuepress": "2.0.0-beta.61",
     "vuepress-plugin-search-pro": "^2.0.0-beta.199",
-    "@types/uuid": "^9.0.1",
-    "uuid": "^9.0.0",
-    "cheerio": "^1.0.0-rc.12"
-  }
+    "vuepress-theme-hope": "^2.0.0-beta.199"
+  },
+  "packageManager": "yarn@3.5.0"
 }
