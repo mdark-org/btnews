@@ -6,7 +6,7 @@
     "docs:build": "vuepress build docs",
     "get:new": "ts-node script/index.ts"
   },
-  "description": "睡前消息文稿集合",
+  "description": "睡前消息文稿合集",
   "license": "MIT",
   "devDependencies": {
     "vuepress-theme-hope": "^2.0.0-beta.199",

@@ -29,8 +29,10 @@ export default defineUserConfig({
     title: '睡前消息文稿合集',
     head: [
         ['link', { rel: 'icon', href: '/images/favicon.png' }],
+        ['meta', { name: 'keywords', content: '睡前消息文稿合集,睡前消息,合集,bedtimenews,btnews'}],
+
         ],
-    description: '睡前消息文稿合集，通过 whisper 模型进行语音识别，生成往期文稿合集,从 414期开始，则是从公众号内容获取的',
+    description: '睡前消息文稿合集',
     extendsMarkdown: (md) => {
         md.use(rplink,{replaceLink: replaceLink})
     },
