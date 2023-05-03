@@ -9,7 +9,12 @@ import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepare
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import {cloudflareAnalyticsPlugin} from "./plugins-cloudflare-analytics/node";
+import { inject } from '@vercel/analytics';
+
 export default defineUserConfig({
+    onPrepared:()=>{
+        inject();
+    },
     bundler: viteBundler({
         viteOptions: {
             experimental: {
