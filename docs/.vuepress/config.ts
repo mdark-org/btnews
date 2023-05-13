@@ -8,7 +8,6 @@ import * as path from "path";
 import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepareDatePagesIndex} from "./page";
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
-import {cloudflareAnalyticsPlugin} from "./plugins-cloudflare-analytics/node";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
 export default defineUserConfig({
@@ -147,12 +146,13 @@ export default defineUserConfig({
         }
     }),
     plugins: [
-        cloudflareAnalyticsPlugin({
-           token:"e1c872145f074ee9868b1c6f37dccc70",
-           debug: false
-        }),
+        // cloudflareAnalyticsPlugin({
+        //    token:"e1c872145f074ee9868b1c6f37dccc70",
+        //    debug: false
+        // }),
         googleAnalyticsPlugin({
             id: "G-Q682X1H6PN",
+            debug: true
           }),
         searchProPlugin({
             indexContent: true,
