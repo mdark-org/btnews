@@ -152,7 +152,7 @@ export default defineUserConfig({
         // }),
         googleAnalyticsPlugin({
             id: "G-Q682X1H6PN",
-            debug: true
+            debug: false
           }),
         searchProPlugin({
             indexContent: true,
