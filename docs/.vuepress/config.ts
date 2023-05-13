@@ -9,12 +9,9 @@ import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepare
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import {cloudflareAnalyticsPlugin} from "./plugins-cloudflare-analytics/node";
-import { inject } from '@vercel/analytics';
+import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
 export default defineUserConfig({
-    onPrepared:()=>{
-        inject();
-    },
     bundler: viteBundler({
         viteOptions: {
             experimental: {
@@ -154,6 +151,9 @@ export default defineUserConfig({
            token:"e1c872145f074ee9868b1c6f37dccc70",
            debug: false
         }),
+        googleAnalyticsPlugin({
+            id: "G-Q682X1H6PN",
+          }),
         searchProPlugin({
             indexContent: true,
         }),
