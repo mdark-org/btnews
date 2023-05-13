@@ -34,6 +34,11 @@ export default defineUserConfig({
 
         ],
     description: '睡前消息文稿合集',
+    shouldPrefetch:(file, type) => {
+        // console.log("file", file)
+        // console.log("type", type)
+        return false
+    },
     extendsMarkdown: (md) => {
         md.use(rplink,{replaceLink: replaceLink})
     },
