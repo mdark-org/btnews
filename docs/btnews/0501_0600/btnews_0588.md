@@ -1,7 +1,7 @@
 ---
 title: 【睡前消息588】城投债四大网红，柳州第一
 date: 2023-05-12
-description: 分析柳州及全国的地方债务问题。
+description: 分析柳州及全国的地方债务问题。前几年，地方城投债“四大天王”是遵义、镇江、湘潭、大连。其中遵义已经公开赖账，揭开了全国地方债务集体跳水的序幕。最近市场推陈出新，柳州、兰州、潍坊、昆明成为新的“四大网红”。而柳州一直以实体经济发达著称，出现在名单上略感意外。
 tag: ["柳州","财政","城投债"]
 ---
 
@@ -11,9 +11,8 @@ tag: ["柳州","财政","城投债"]
 @tab:active Bilibili
 <BiliBili bvid="BV13M4y1t7kM" height="500px"/>
 
-<!-- @tab YouTube
-<YouTube id="iJeMaq_HpDU" height="500px"/>
- -->
+@tab YouTube
+<YouTube id="O4ekodV8wpc" height="500px"/>
 :::
 
 大家好，2023年5月12日星期五，欢迎收看588期睡前消息，请静静介绍话题。

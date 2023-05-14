@@ -2,6 +2,7 @@
   "name": "btnews",
   "version": "0.0.1",
   "scripts": {
+    "vite:dev": "vitepress",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "get:new": "ts-node script/index.ts"
@@ -13,6 +14,7 @@
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.62",
     "cheerio": "^1.0.0-rc.12",
     "uuid": "^9.0.0",
+    "vitepress": "^1.0.0-alpha.75",
     "vuepress": "2.0.0-beta.61",
     "vuepress-plugin-search-pro": "^2.0.0-beta.199",
     "vuepress-theme-hope": "^2.0.0-beta.199"
