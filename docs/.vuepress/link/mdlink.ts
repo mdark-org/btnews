@@ -31,11 +31,8 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     if (path.isAbsolute(link)){
         return link
     }
-    if (path.extname(link) == ".jpg" || path.extname(link) == ".png" ||
-        path.extname(link) == ".gif" || path.extname(link) == ".svg" ||
-        
-        path.extname(link) == ".tif" || 
-        path.extname(link) == ".jpeg" || path.extname(link) == ".webp"){
+    const imageExtensions = ['.jpg', '.png', '.gif', '.svg', '.tif', '.GIF', '.jpeg', '.webp']
+    if (imageExtensions.includes(path.extname(link))){
         return replaceImageLink(link, env, token, htmlToken)
     }
     if (path.extname(link) != ".md") {
