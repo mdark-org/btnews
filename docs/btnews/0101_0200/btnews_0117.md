@@ -43,7 +43,7 @@ TVB是香港第一家拿到无线牌照的电视台，也叫无线电视台。�
 
 1980年香港人均GDP已经达到5700美元，是台湾省的两倍多，大陆的十几倍。新兴市民阶层形成了现代都市文化，迫切需要自己的娱乐产品。这时香港最大的电影公司是邵氏兄弟公司，邵逸夫非常了解大众的文化需求。一旦港英政府不再强制播放进口节目，邵逸夫立即通过股份收购控制了TVB，打通了文化产业链，开始大规模生产港剧。
 
-![](images/btnews/0101_0200/0117/media/image7.GIF)
+![](images/btnews/0101_0200/0117/media/image7.gif)
 
 ![](images/btnews/0101_0200/0117/media/image8.png)
 
@@ -145,7 +145,7 @@ YBCO涂层带材
 
 ![](images/btnews/0101_0200/0117/media/image24.png)
 
-![](images/btnews/0101_0200/0117/media/image25.GIF)
+![](images/btnews/0101_0200/0117/media/image25.gif)
 
 ![](images/btnews/0101_0200/0117/media/image26.jpeg)
 

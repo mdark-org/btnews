@@ -81,7 +81,7 @@ date: 2020-05-24
 
 [ é¡µé¢æ²¡ææ¾å° ](http://shenzhen.sina.com.cn/news/s/2020-05-09/detail-iircuyvi2092355.shtml)
 
-![](images/btnews/0101_0200/0119/media/image10.tiff)![](images/btnews/0101_0200/0119/media/image11.tiff)
+![](images/btnews/0101_0200/0119/media/image10.png)![](images/btnews/0101_0200/0119/media/image11.png)
 
 [æ­¦æ±å¤§å­¦æä¸åææ°åºåä½åå­¦---æ·±å³åæ¥å¤åªä½æ°å­æ¥åå¹³å°](http://szsb.sznews.com/html/2016-08/27/content_3605440.htm)
 
@@ -105,7 +105,7 @@ date: 2020-05-24
 
 ![](images/btnews/0101_0200/0119/media/image14.png)
 
-![](images/btnews/0101_0200/0119/media/image15.tiff)
+![](images/btnews/0101_0200/0119/media/image15.png)
 
 [ä¸æµ·äº¤å¤§æ·±å³æ ¡åºæè½æ·åå±±è¥¿ä¸½---æ·±å³åæ¥å¤åªä½æ°å­æ¥åå¹³å°](http://szsb.sznews.com/html/2017-02/15/content_3724608.htm)
 

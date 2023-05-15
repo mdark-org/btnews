@@ -18,13 +18,13 @@ date: 2021-03-07
 
 睡前消息第236期，督工你分享过电影《你好，李焕英》的观感。2月24日，微博账号“张小斐全国粉丝后援会”发布长文，表示后援会管理员多次与经纪公司对接，想了解张小斐未来发展方向，分配粉丝需要配合的工作，比如说“数据支持”“粉丝活动”“现场活动”“接机送机”。
 
-![](images/btnews/0201_0300/0245/media/image1.tif)
+![](images/btnews/0201_0300/0245/media/image1.png)
 
 没想到，张小斐本人和经纪公司不仅没有回应喊话，两天后还直接解散了“张小斐全国粉丝后援会”“张小斐粉丝团”，经纪公司接管了微博超话。督工，你怎么看待这件事？
 
 [Sina Visitor System](https://weibo.com/1642591402/K3QjjAm4i?from=page_1002061642591402_profile&wvr=6&mod=weibotime&type=comment)
 
-![](images/btnews/0201_0300/0245/media/image2.tif)![](images/btnews/0201_0300/0245/media/image3.png)
+![](images/btnews/0201_0300/0245/media/image2.png)![](images/btnews/0201_0300/0245/media/image3.png)
 
 张小斐是个清醒的演员，远离粉圈游戏，也许暂时损失一点热闹，但是可以避免被粉圈的潜规则绑架，避开了很多风险，更重要的完全掌握了个人发展主动权。这个操作值得整个娱乐圈学习。
 
@@ -48,13 +48,13 @@ date: 2021-03-07
 
 张小斐如果为了这些短期利益，接受了粉圈游戏规则，就很容易被粉丝团队的惯性裹挟，而且还很难拒绝，因为职业粉丝会宣称这是粉丝的爱与奉献，普通粉丝也会跟着赞同。所以，后援会经常理直气壮地提建议，小到明星当天的发型妆容，大到团队的用人安排、明年的事业规划，粉丝都会指手画脚，甚至直接替演员做决定。
 
-![](images/btnews/0201_0300/0245/media/image6.tif)
+![](images/btnews/0201_0300/0245/media/image6.png)
 
-![](images/btnews/0201_0300/0245/media/image7.tif)
+![](images/btnews/0201_0300/0245/media/image7.png)
 
 ![](images/btnews/0201_0300/0245/media/image8.png)
 
-![](images/btnews/0201_0300/0245/media/image9.tif)
+![](images/btnews/0201_0300/0245/media/image9.png)
 
 ![](images/btnews/0201_0300/0245/media/image10.png)
 

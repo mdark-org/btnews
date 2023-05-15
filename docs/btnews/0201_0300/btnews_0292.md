@@ -82,7 +82,7 @@ aerial phenomena）。**
 
 除此之外，美国的气象雷达网，以及空军的战略预警系统，也是独立成网的。和主雷达网可以交叉验证。
 
-![](images/btnews/0201_0300/0292/media/image10.GIF)
+![](images/btnews/0201_0300/0292/media/image10.gif)
 
 ![](images/btnews/0201_0300/0292/media/image11.png)
 

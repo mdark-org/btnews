@@ -232,7 +232,7 @@ date: 2020-07-03
 
 6月11日，北京新发地市场出现新冠肺炎爆发式传染，成为新的疫情中心。之后，北京迅速开始大规模病毒检测。六月的北京天气炎热，又不像南方梅雨季节那样有云彩挡住太阳，很多工作人员在30度的气温下穿防护服工作，还要被太阳暴晒，很容易中暑，所以不少网友质疑后勤工作不到位。
 
-![](images/btnews/0101_0200/0136/media/image43.tif)![](images/btnews/0101_0200/0136/media/image44.png)
+![](images/btnews/0101_0200/0136/media/image43.png)![](images/btnews/0101_0200/0136/media/image44.png)
 
 6月15日，新发地附近银地家园，一名医护人员中暑。
 
@@ -246,7 +246,7 @@ date: 2020-07-03
 
 [Sina Visitor System](https://weibo.com/1662214194/J6UKMfJM5?from=page_1005051662214194_profile&wvr=6&mod=weibotime&type=comment)
 
-![](images/btnews/0101_0200/0136/media/image45.png)![](images/btnews/0101_0200/0136/media/image46.tif)
+![](images/btnews/0101_0200/0136/media/image45.png)![](images/btnews/0101_0200/0136/media/image46.png)
 
 ![](images/btnews/0101_0200/0136/media/image47.png)
 
@@ -280,7 +280,7 @@ date: 2020-07-03
 
 但是，就在网络讨论越来越激烈的同时，医疗机构已经做出了自己的选择。6月16日新民晚报报道，上海中山医院西院出现了类似的核酸采样亭，正压密闭室配置了进风扇，用物理方式避免医护人员感染。。
 
-![](images/btnews/0101_0200/0136/media/image57.tif)
+![](images/btnews/0101_0200/0136/media/image57.png)
 
 [消毒频次不减  登记细节有增 - 电子报详情页](https://paper.xinmin.cn/html/xmwb/2020-06-16/3/72396.html)
 
@@ -293,7 +293,7 @@ date: 2020-07-03
 当天，北京协和医院医院已经开始准备采购检测方舱。6月21日晚上，协和的新冠核酸采样方舱完工，建造只用了
 70小时。
 
-![](images/btnews/0101_0200/0136/media/image58.tif)
+![](images/btnews/0101_0200/0136/media/image58.png)
 
 [仅用70小时！北京协和医院建成核酸采样方舱](https://www.guancha.cn/politics/2020_06_22_554954_s.shtml)
 
@@ -301,15 +301,15 @@ date: 2020-07-03
 
 6月24日，北京市首个核酸采样工作站在天坛体育中心投入使用。新闻说，采样站从开始设计到完成研制，仅用5天。也就是说从18号左右就开始设计了。从现场图片看，检疫人员不用穿防护服，通过密闭的袖套进行采样，舱内有内循环空调。
 
-![](images/btnews/0101_0200/0136/media/image59.tif)
+![](images/btnews/0101_0200/0136/media/image59.png)
 
-![](images/btnews/0101_0200/0136/media/image60.tif)
+![](images/btnews/0101_0200/0136/media/image60.png)
 
 [Sina Visitor System](https://weibo.com/1893892941/J865pBglq?from=page_1002061893892941_profile&wvr=6&mod=weibotime&type=comment%23_rnd1593413517655)
 
 视频：[Sina Visitor System](https://weibo.com/2194868354/J7ZCa9bQT?from=page_1005052194868354_profile&wvr=6&mod=weibotime&type=comment)
 
-同一天，北京佑安医院也开始试用“移动核酸筛查亭”。根据报道，研制团队将在近期生产出二代设备，向北京22家市属医院投放。![](images/btnews/0101_0200/0136/media/image61.png)![](images/btnews/0101_0200/0136/media/image62.tif)
+同一天，北京佑安医院也开始试用“移动核酸筛查亭”。根据报道，研制团队将在近期生产出二代设备，向北京22家市属医院投放。![](images/btnews/0101_0200/0136/media/image61.png)![](images/btnews/0101_0200/0136/media/image62.png)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1670471144838816082&wfr=spider&for=pc)
 

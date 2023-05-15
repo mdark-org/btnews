@@ -25,7 +25,7 @@ date: 2020-12-25
 
 ![](images/btnews/0201_0300/0212/media/image4.jpeg)
 
-![](images/btnews/0201_0300/0212/media/image5.tif)
+![](images/btnews/0201_0300/0212/media/image5.png)
 
 这个障碍对于古人来说是个大工程，对于现代人来说只是个小麻烦。所以从上世纪八十年代开始，浙江就提出修建浙赣人工运河，沟通浙江和江西的内河航线。让太湖流域的船不用进长江就能到达鄱阳湖，甚至到达南边的赣州。
 
@@ -33,7 +33,7 @@ date: 2020-12-25
 
 今年4月，浙江方面批准了钱塘江上游常山江航电枢纽项目，远期规划就是通过23公里的运河与江西信江航道连通。
 
-[](https://mp.weixin.qq.com/s/-TM0NTy1YYXZNpqlT_gsAQ)![](images/btnews/0201_0300/0212/media/image6.tif)
+[](https://mp.weixin.qq.com/s/-TM0NTy1YYXZNpqlT_gsAQ)![](images/btnews/0201_0300/0212/media/image6.png)
 
 11月24日，浙江发布《义甬舟开放大通道西延行动方案》，项目总投资超过4000亿元，大部分用于交通基础设施，方案也提到了浙赣运河。
 
@@ -95,38 +95,38 @@ date: 2020-12-25
 
 80年代中期富春江船闸
 
-![](images/btnews/0201_0300/0212/media/image13.tif)
+![](images/btnews/0201_0300/0212/media/image13.png)
 
-![](images/btnews/0201_0300/0212/media/image14.tif)
+![](images/btnews/0201_0300/0212/media/image14.png)
 
 今年浙江宣布，为了提高钱塘江干线运输能力，要在富春江上再造一座二线船闸。把双向极限通过能力提升到4580万吨。
 
 https://dy.163.com/article/FLK9H0UK0512GTK3.html
 
-![](images/btnews/0201_0300/0212/media/image15.tif)
+![](images/btnews/0201_0300/0212/media/image15.png)
 
 这个计划最大的受益者就是靠近江西省的衢州市。
 
 ![](images/btnews/0201_0300/0212/media/image16.jpeg)
 
-![](images/btnews/0201_0300/0212/media/image17.tif)
+![](images/btnews/0201_0300/0212/media/image17.png)
 
 衢州市的经济在浙江省是最差一档的。2019年杭州和宁波的GDP都已经突破万亿，衢州还在1000多亿的水平，人均7.09万，只比全国平均水平多100块。《睡前消息》107期里曾经分析过衢州文化产业的问题，当地为了所谓儒家城市品牌，发明了一套新的礼节，要求小学生见到孔子像就作揖，想和北方的曲阜抢一点高考家庭的香火钱。这个想法虽然不靠谱，但也说明衢州交通不便对实体经济的影响。现在钱塘江干线航运打通，浙赣运河提上日程，希望衢州可以多发展一点实体经济，也可以借着航运搞一点正经旅游业。
 
-![](images/btnews/0201_0300/0212/media/image18.tif)
+![](images/btnews/0201_0300/0212/media/image18.png)
 
 浙江省有八大主要水系，钱塘江只是其中一条，其他水系有类似的航道改造吗？
 
-![](images/btnews/0201_0300/0212/media/image19.tif)
+![](images/btnews/0201_0300/0212/media/image19.png)
 
 作为一个湿润的南方省份，浙江的内河航运水平是很差的。除了北部靠近江苏上海的太湖流域，其他地区都缺乏高级航道。到2012年的时候，浙江三级以上航道只有207公里，还不如山东多。
 
-![](images/btnews/0201_0300/0212/media/image20.tif)
+![](images/btnews/0201_0300/0212/media/image20.png)
 
 所以，2012年，浙江省做了一个《内河水运复兴行动计划》，原则是<span
 dir="rtl">“</span>北提升、南畅通、东通海、西振兴”。所谓“西振兴”，就是前面说的钱塘江航运。
 
-![](images/btnews/0201_0300/0212/media/image21.tif)
+![](images/btnews/0201_0300/0212/media/image21.png)
 
 “北提升”，就是积极沟通长江和太湖航道，挖掘京杭运河的潜力。现在杭州正在修八堡船闸，把京杭运河南段提升到三级航道，让千吨级内河船可以从山东开到杭州。
 
@@ -143,7 +143,7 @@ dir="rtl">“</span>南畅通”，主要是整治静静家乡温州附近的瓯
 
 [ÊýÊ®ÒÚ´ó¹¤³Ìº¼ð®ÔËºÓºÄÊ±°ËÄê Äþ²¨¶ÎÒÀ¾É"±ù·â"¡ª¡ªÖÐÐÂÍø](https://www.chinanews.com/sh/news/2010/05-26/2305517.shtml)
 
-![](images/btnews/0201_0300/0212/media/image22.tif)
+![](images/btnews/0201_0300/0212/media/image22.png)
 
 <https://zj.qq.com/a/20140530/008954.htm>
 
@@ -160,7 +160,7 @@ dir="rtl">“</span>江海直达”型船舶从浙江舟山出发，进入杭甬
 
 [无需换乘一船直达 杭甬运河开启“河海联运”新篇章_新金](https://www.sohu.com/a/435870287_162758)
 
-![](images/btnews/0201_0300/0212/media/image24.tif)
+![](images/btnews/0201_0300/0212/media/image24.png)
 
 [再见，内河船不能达海的时代！宁波首艘江海联运船舶投用！\_澎湃号·政务_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_10261177)
 

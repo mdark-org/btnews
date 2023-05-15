@@ -143,7 +143,8 @@ http://news.bandao.cn/news_html/201111/20111110/news_20111110_1695776.shtml
 
 ![](images/btnews/0201_0300/0262/media/image27.png)
 
-[¿í´ø·´Â¢¶Ïµ÷²éÐèÆÊÎöËÄ´óÉî²ã´ÎÎÊÌâ\_¹ö¶¯ÐÂÎÅ_ÐÂÀË²Æ¾­\_ÐÂÀËÍø](http://finance.sina.com.cn/roll/20111123/074110865608.shtml)
+[¿í´ø·´Â¢¶Ïµ÷²éÐèÆÊÎöËÄ´óÉî²ã´ÎÎÊÌâ
+\_¹ö¶¯ÐÂÎÅ_ÐÂÀË²Æ¾­\_ÐÂÀËÍø](http://finance.sina.com.cn/roll/20111123/074110865608.shtml)
 
 ![](images/btnews/0201_0300/0262/media/image28.png)
 

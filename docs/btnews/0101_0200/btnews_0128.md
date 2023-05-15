@@ -202,9 +202,9 @@ Zeboski，美联社）
 
 [The hidden Trump voter — the police - The Boston Globe](https://www.bostonglobe.com/opinion/2016/11/09/the-hidden-trump-voter-police/71MUxHoqBzNCKZZcpH42nO/story.html)
 
-![](images/btnews/0101_0200/0128/media/image24.GIF)
+![](images/btnews/0101_0200/0128/media/image24.gif)
 
-![](images/btnews/0101_0200/0128/media/image25.GIF)
+![](images/btnews/0101_0200/0128/media/image25.gif)
 
 [What do police officers think about gun control: National survey by PoliceOne tells all (Joe's Outdoor Office) - al.com](https://www.al.com/sports/2013/04/whatt_do_police_officers_think.html)
 

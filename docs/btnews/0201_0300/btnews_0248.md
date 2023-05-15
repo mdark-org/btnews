@@ -130,7 +130,7 @@ dir="rtl">“</span>全球请愿”，要制造文化争论。结果总共只有
 
 当时韩国视频下的的热评第一是：中国人不要再抢别人的东西了，多拍点这样有意思的东西。现在，这条评论排名往下掉到热评第九位，点赞数增加到1.2万个。
 
-![](images/btnews/0201_0300/0248/media/image12.tif)![](images/btnews/0201_0300/0248/media/image13.png)
+![](images/btnews/0201_0300/0248/media/image12.png)![](images/btnews/0201_0300/0248/media/image13.png)
 
 除此之外，这位网友还翻译了很多评论，其中既有正面的，也有负面的。他对中国网民说，翻译的初衷是<span
 dir="rtl">“</span>曝光更多偷国人（文化）行为”，然后挑出 <span
@@ -140,13 +140,13 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 ![](images/btnews/0201_0300/0248/media/image14.png)
 
-![](images/btnews/0201_0300/0248/media/image15.tif)
+![](images/btnews/0201_0300/0248/media/image15.png)
 
-![](images/btnews/0201_0300/0248/media/image16.tif)
+![](images/btnews/0201_0300/0248/media/image16.png)
 
-![](images/btnews/0201_0300/0248/media/image17.tif)
+![](images/btnews/0201_0300/0248/media/image17.png)
 
-![](images/btnews/0201_0300/0248/media/image18.tif)
+![](images/btnews/0201_0300/0248/media/image18.png)
 
 ![](images/btnews/0201_0300/0248/media/image19.png)
 

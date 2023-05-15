@@ -19,7 +19,7 @@ date: 2020-07-05
 
 现在流传最广的一条新闻标题是“靠谎言、跑步、信用卡，养大了120个孩子”。下面的内容还提到，柏剑说服自己的父母和兄弟姐妹一起来做慈善活动，是全家付出。至于社会方面的捐助，柏剑说有人米面油，但长期没钱，可以理解为主要靠自己。
 
-![](images/btnews/0101_0200/0137/media/image2.tif)
+![](images/btnews/0101_0200/0137/media/image2.png)
 
 [<u>http://athletic.sport.org.cn/bulletin/2010-12-24/342347.html</u>](http://athletic.sport.org.cn/bulletin/2010-12-24/342347.html)
 
