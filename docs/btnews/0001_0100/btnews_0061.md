@@ -24,7 +24,7 @@ date: 2020-01-03
 
 [中共中央办公厅、国务院办公厅印发《关于进一步弘扬科学家精神加强作风和学风建设意见》的通知](http://www.sohu.com/a/322157609_120029245)
 
-![](images/btnews/0001_0100/0061/media/image3.tif)
+![](images/btnews/0001_0100/0061/media/image3.png)
 
 ![](images/btnews/0001_0100/0061/media/image4.jpeg)
 
@@ -36,7 +36,7 @@ date: 2020-01-03
 
 [ é¡µé¢æ²¡ææ¾å° ](http://finance.sina.com.cn/chanjing/cyxw/2019-06-04/doc-ihvhiews6718237.shtml)
 
-![](images/btnews/0001_0100/0061/media/image5.tif)
+![](images/btnews/0001_0100/0061/media/image5.png)
 
 为了尽快招聘优秀人才，人民大学又拿出了一条非常给力的条件，安排教授子女进入人民大学附属的中学小学和幼儿园，这最后一个条件吸引了全国媒体的关注。
 
@@ -58,7 +58,7 @@ date: 2020-01-03
 
 [Çå»ª±±´óµÈÃûÐ£Ë¶²©ÖÐÑ§ÈÎ½Ì£ºÈË¾¡Æä²Å--½ÌÓý--ÈËÃñÍø ](http://edu.people.com.cn/n1/2019/0518/c1006-31091498.html)
 
-![](images/btnews/0001_0100/0061/media/image7.tif)
+![](images/btnews/0001_0100/0061/media/image7.png)
 
 马前卒工作室研究了这个现象的深层原因，
 
@@ -98,9 +98,9 @@ https://news.163.com/19/1230/06/F1KGAODE0001875P.html
 
 <https://m.gmw.cn/baijia/2019-01/16/1300137867.html>
 
-![](images/btnews/0001_0100/0061/media/image13.tif)
+![](images/btnews/0001_0100/0061/media/image13.png)
 
-![](images/btnews/0001_0100/0061/media/image14.tif)
+![](images/btnews/0001_0100/0061/media/image14.png)
 
 从2019年这些消息看，虽然我们国家不承认教育是明码标价的商品，实际上已经根据阶层划分了教育服务。上层社会嘴上不说，也承认优质教育服务可以决定下一代的阶级。下层社会买不起优质的教育，重新开始相信读书无用论，甚至默许子女辍学。现在中国暂时还有一大批简单劳动需要这些辍学少年去干，比如说杀鱼卖鱼，甚至三和大神也能打零工，干一天，玩三天，所以问题还不算太严重。不会有太多的人反社会，不会轻易参加贩毒集团。
 

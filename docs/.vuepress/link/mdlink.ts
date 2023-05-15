@@ -31,7 +31,7 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     if (path.isAbsolute(link)){
         return link
     }
-    const imageExtensions = ['.jpg', '.png', '.gif', '.svg', '.tif', '.GIF', '.jpeg', '.webp']
+    const imageExtensions = ['.jpg', '.png', '.gif', '.svg', '.tif', '.GIF', '.jpeg', '.webp','.jfif','.emf','.tiff']
     if (imageExtensions.includes(path.extname(link))){
         return replaceImageLink(link, env, token, htmlToken)
     }

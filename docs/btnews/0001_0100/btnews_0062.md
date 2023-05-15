@@ -46,13 +46,13 @@ date: 2020-01-05
 
 在浙江省内部，温州人口只占浙江省的15%，经济总量占11%，但是浙江省高院2017年做过总结，温州地区的破产案占全省的38%，审结案件占到50%。可以说，温州是全国破产官司最多的地方，所以800万人口就要专门设一个破产法庭。
 
-![](images/btnews/0001_0100/0062/media/image3.tif)
+![](images/btnews/0001_0100/0062/media/image3.png)
 
-![](images/btnews/0001_0100/0062/media/image4.tif)
+![](images/btnews/0001_0100/0062/media/image4.png)
 
-![](images/btnews/0001_0100/0062/media/image5.tif)
+![](images/btnews/0001_0100/0062/media/image5.png)
 
-![](images/btnews/0001_0100/0062/media/image6.tif)
+![](images/btnews/0001_0100/0062/media/image6.png)
 
 为什么温州的破产事件这么多？
 

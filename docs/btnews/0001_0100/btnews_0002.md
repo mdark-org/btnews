@@ -126,9 +126,9 @@ tag: ["俄罗斯","特种兵"]
 
 7月10日，江苏省淮安市委宣传部发布了一则新闻，新郎新娘在拍婚纱照的时候跳水救人。图片传播的很快，我们马前卒工程队也在微信公号转了。但很快，新闻就引来了网友质疑，因为画面太干净了，连新娘的裙摆都整整齐齐。而且除了新郎新娘，其他人不来帮忙，似乎也很奇怪。
 
-![](images/btnews/0001_0100/0002/media/image13.tif)
+![](images/btnews/0001_0100/0002/media/image13.png)
 
-然后又有网友发现，照片的拍摄者是盱眙县宣传部副部长周海军。他在2005年就拍摄过同题材照片。这似乎有点太巧合了。![](images/btnews/0001_0100/0002/media/image14.tif)
+然后又有网友发现，照片的拍摄者是盱眙县宣传部副部长周海军。他在2005年就拍摄过同题材照片。这似乎有点太巧合了。![](images/btnews/0001_0100/0002/media/image14.png)
 
 周海军也觉得必须回应一下，说2005年的照片不是自己拍的，自己只是写了报道文字。但是从现在能找到的网页截图看，当时只有他一个人的署名。
 
@@ -160,7 +160,7 @@ tag: ["俄罗斯","特种兵"]
 
 时隔一年，月亮好像还是那个月亮，飞机也几乎长得一模一样，看来飞机很配合周部长。![](images/btnews/0001_0100/0002/media/image18.png)
 
-今年，周海军发表了2019年第一个日出摄影![](images/btnews/0001_0100/0002/media/image19.png)![](images/btnews/0001_0100/0002/media/image20.tif)![](images/btnews/0001_0100/0002/media/image21.jpeg)。（[该文章已不存在_手机新浪网](http://k.sina.com.cn/article_6867521020_199560dfc00100mosi.html?from=travel&subch=)）
+今年，周海军发表了2019年第一个日出摄影![](images/btnews/0001_0100/0002/media/image19.png)![](images/btnews/0001_0100/0002/media/image20.png)![](images/btnews/0001_0100/0002/media/image21.jpeg)。（[该文章已不存在_手机新浪网](http://k.sina.com.cn/article_6867521020_199560dfc00100mosi.html?from=travel&subch=)）
 
 但是，从盱眙县的地图可以看出，淮河在城区的西侧。
 
