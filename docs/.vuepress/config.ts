@@ -17,7 +17,7 @@ function stripImage () {
       resolveId (source) {
         return source === 'virtual-module' ? source : null
       },
-      writeBundle (outputOptions, inputOptions) {
+      renderStart (outputOptions, inputOptions) {
         const outDir = outputOptions.dir;
         const imageDir = path.resolve(outDir, 'images');
         fs.rm(imageDir, { recursive: true }, () => console.log(`Deleted ${imageDir}`))
