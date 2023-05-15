@@ -7,3 +7,5 @@ node_modules
 docs/.vuepress/dist
 .yarn
 backup
+# docs/btnews/*
+yarn-error.log
