@@ -9,10 +9,26 @@ import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepare
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+import fs from 'fs'
+
+function stripImage () {
+    return {
+      name: 'strip-image',
+      resolveId (source) {
+        return source === 'virtual-module' ? source : null
+      },
+      writeBundle (outputOptions, inputOptions) {
+        const outDir = outputOptions.dir;
+        const imageDir = path.resolve(outDir, 'images');
+        fs.rm(imageDir, { recursive: true }, () => console.log(`Deleted ${imageDir}`))
+      }
+    }
+  }
 
 export default defineUserConfig({
     bundler: viteBundler({
         viteOptions: {
+            plugins:[stripImage()],
             experimental: {
                 renderBuiltUrl(filename: string, {hostId, hostType, type}: {
                     hostId: string,
