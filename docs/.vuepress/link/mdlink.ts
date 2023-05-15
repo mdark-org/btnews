@@ -31,7 +31,11 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     if (path.isAbsolute(link)){
         return link
     }
-    if (path.extname(link) == ".jpg" || path.extname(link) == ".png"){
+    if (path.extname(link) == ".jpg" || path.extname(link) == ".png" ||
+        path.extname(link) == ".gif" || path.extname(link) == ".svg" ||
+        
+        path.extname(link) == ".tif" || 
+        path.extname(link) == ".jpeg" || path.extname(link) == ".webp"){
         return replaceImageLink(link, env, token, htmlToken)
     }
     if (path.extname(link) != ".md") {
@@ -60,6 +64,8 @@ export const replaceLink =  function (link, env, token, htmlToken) {
 }
 
 const replaceImageLink = (link, env, token, htmlToken):string =>{
-    //
+    if (!link.startsWith("/")){
+        return "/"+link
+    }
     return link
 }
