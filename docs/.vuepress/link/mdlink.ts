@@ -62,7 +62,7 @@ export const replaceLink =  function (link, env, token, htmlToken) {
 
 const replaceImageLink = (link, env, token, htmlToken):string =>{
     if (!link.startsWith("/")){
-        return "https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/docs/.vuepress/public/"+link
+        return "https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/"+link
     }
     return link
 }

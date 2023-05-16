@@ -36,7 +36,7 @@ export default defineUserConfig({
                     type: 'public' | 'asset'
                 }) {
                     if(filename.startsWith("images")) {
-                        return 'https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/docs/.vuepress/public/' + filename
+                        return 'https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/' + filename
                     }
                 }
             },
