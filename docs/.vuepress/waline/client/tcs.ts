@@ -41,6 +41,14 @@ export { pageviewCount };
 export default defineComponent({
   name: "WalineComment",
 
+  props: {
+    /**
+     * Whether the component is in darkmode
+     *
+     * 组件是否处于夜间模式
+     */
+    darkmode: Boolean,
+  },
   setup() {
     let walineOptions = useWalineOptions();
     
@@ -114,22 +122,21 @@ export default defineComponent({
     able.value
         ? h(
             "div",
-            { class: "waline-wrapper", id: "comment" },
+            { class: "waline-wrapper", id: "comment",
+            style: { display: able.value ? "block" : "none" }, },
             able.value
               ? h(
-                  defineAsyncComponent({
+                h("client-only",{},
+                h(defineAsyncComponent({
                     loader: async () =>
                       (
-                        await import(
-                          /* webpackChunkName: "waline" */ "@waline/client/dist/component.mjs"
-                        )
+                        await import("@waline/client/dist/component.mjs")
                       ).Waline,
                     loadingComponent: LoadingIcon,
                   }),
-                  walineProps.value
+                  walineProps.value)
                 )
-              : []
-          )
-        : null;
+                ) : []
+          ) : null;
   },
 });
