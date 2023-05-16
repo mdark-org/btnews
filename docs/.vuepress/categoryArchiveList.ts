@@ -6,9 +6,6 @@ type Archive = {
   name : string
   content: string[]
 }
-
-
-
 export const categoryArchiveList: categoryArchive[] = [{
   category: "btnews",
   archiveList:[
@@ -65,7 +62,7 @@ export const categoryArchiveList: categoryArchive[] = [{
 // 自定义合集
 export const archiveNavbar = () => {
   let al = categoryArchiveList[0].archiveList
-  let res = []
+  let res:any = []
   for (let i = 0; i < al.length; i++) {
     res.push({
       text: al[i].name,

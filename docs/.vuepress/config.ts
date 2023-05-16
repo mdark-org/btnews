@@ -4,31 +4,31 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { sidebarCfg } from "./sidebar";
 import {replaceLink, rplink} from "./link";
-import * as path from "path";
 import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepareDatePagesIndex} from "./page";
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import fs from 'fs'
+// import * as path from "path";
+// import fs from 'fs'
 
-function stripImage () {
-    return {
-      name: 'strip-image',
-      resolveId (source) {
-        return source === 'virtual-module' ? source : null
-      },
-      renderStart (outputOptions, inputOptions) {
-        const outDir = outputOptions.dir;
-        const imageDir = path.resolve(outDir, 'images');
-        fs.rm(imageDir, { recursive: true }, () => console.log(`Deleted ${imageDir}`))
-      }
-    }
-  }
+// function stripImage () {
+//     return {
+//       name: 'strip-image',
+//       resolveId (source) {
+//         return source === 'virtual-module' ? source : null
+//       },
+//       renderStart (outputOptions, inputOptions) {
+//         const outDir = outputOptions.dir;
+//         const imageDir = path.resolve(outDir, 'images');
+//         fs.rm(imageDir, { recursive: true }, () => console.log(`Deleted ${imageDir}`))
+//       }
+//     }
+//   }
 
 export default defineUserConfig({
     bundler: viteBundler({
         viteOptions: {
-            plugins:[stripImage()],
+            // plugins:[stripImage()],
             experimental: {
                 renderBuiltUrl(filename: string, {hostId, hostType, type}: {
                     hostId: string,
@@ -61,10 +61,10 @@ export default defineUserConfig({
     extendsPageOptions: (pageOptions, app) => {
         pageOptions.frontmatter = pageOptions.frontmatter ?? {}
         if (pageOptions.filePath?.startsWith(app.dir.source("btnews"))) {
-            pageOptions.frontmatter.category = "睡前消息"
-            let filename = path.basename(pageOptions.filePath)
+            // pageOptions.frontmatter.category = "睡前消息"
+            // let filename = path.basename(pageOptions.filePath)
             let id = util.getIdFromFilename(pageOptions.filePath)
-            id = id.replace("_", ".")
+            id = id?.replace("_", ".")
             pageOptions.frontmatter.permalink = `/btnews/${id}/`
             pageOptions.frontmatter.type = "index"
         }
@@ -83,15 +83,15 @@ export default defineUserConfig({
         fullscreen: true,
         themeColor: {
             blue: "#2196f3",
-            red: "#f26d6d",
-            green: "#3eaf7c",
-            orange: "#fb9b5f",
+            // red: "#f26d6d",
+            // green: "#3eaf7c",
+            // orange: "#fb9b5f",
         },
 
         navbar: [
             {
                 text: "索引",
-                link: "/btnews",
+                link: "/btnews/",
                 icon: "lightbulb",
             },
             {
@@ -137,6 +137,9 @@ export default defineUserConfig({
         plugins: {
             blog: true,
             autoCatalog:{
+                shouldIndex(page) {
+                    return page.frontmatter.type === "index"
+                },
                 orderGetter: (page) => {
                     let date = page.date
                     if (date === undefined) {
@@ -167,10 +170,6 @@ export default defineUserConfig({
         }
     }),
     plugins: [
-        // cloudflareAnalyticsPlugin({
-        //    token:"e1c872145f074ee9868b1c6f37dccc70",
-        //    debug: false
-        // }),
         googleAnalyticsPlugin({
             id: "G-Q682X1H6PN",
             debug: false

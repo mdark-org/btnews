@@ -7,7 +7,7 @@ type  opts = {
     match:RegExp[]
 }
 const scanDir = async (dir: string, options: opts): Promise<string[]> => {
-    let result = []
+    let result :any= []
     // 读取目录中的所有文件和子目录
     let files = await fs.readdir(dir);
     for (let file of files) {
