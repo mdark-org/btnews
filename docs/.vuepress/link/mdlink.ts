@@ -28,11 +28,14 @@ import {getCategoryFromFilename, getIdFromFilename, getIndependentIdFromFilename
 // }
 // 替换 markdown 中对其他文件的引用链接
 export const replaceLink =  function (link, env, token, htmlToken) {
+    if(link.startsWith("/images")){
+        return replaceImageLink(link, env, token, htmlToken)        
+    }
     if (path.isAbsolute(link)){
         return link
     }
     const imageExtensions = ['.jpg', '.png', '.gif', '.svg', '.tif', '.GIF', '.jpeg', '.webp','.jfif','.emf','.tiff']
-    if (imageExtensions.includes(path.extname(link))){
+    if (link.startsWith("/images") || imageExtensions.includes(path.extname(link))){
         return replaceImageLink(link, env, token, htmlToken)
     }
     if (path.extname(link) != ".md") {
@@ -64,6 +67,7 @@ const replaceImageLink = (link, env, token, htmlToken):string =>{
     if (!link.startsWith("/")){
         return "https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master/"+link
     }else if (link.startsWith("/images")){
+        // console.log("replaceImageLink", link)
         return "https://cdn.jsdelivr.net/gh/ktKongTong/btnews@master"+link
     }
     return link
