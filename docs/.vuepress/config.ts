@@ -8,6 +8,11 @@ import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepare
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+
+import { getDirname, path } from '@vuepress/utils'
+import { commentPlugin } from './waline';
+
+const __dirname = getDirname(import.meta.url)
 // import * as path from "path";
 // import fs from 'fs'
 
@@ -64,8 +69,12 @@ export default defineUserConfig({
             // pageOptions.frontmatter.category = "睡前消息"
             // let filename = path.basename(pageOptions.filePath)
             let id = util.getIdFromFilename(pageOptions.filePath)
+            if (!id) {
+                return
+            }
             id = id?.replace("_", ".")
-            pageOptions.frontmatter.permalink = `/btnews/${id}/`
+            pageOptions.frontmatter.permalink = `/btnews/idx/${id}/`
+            pageOptions.frontmatter.idx = id
             pageOptions.frontmatter.type = "index"
         }
     },
@@ -81,17 +90,10 @@ export default defineUserConfig({
     theme: hopeTheme({
         logo: "/images/favicon.png",
         fullscreen: true,
-        themeColor: {
-            blue: "#2196f3",
-            // red: "#f26d6d",
-            // green: "#3eaf7c",
-            // orange: "#fb9b5f",
-        },
-
         navbar: [
             {
                 text: "索引",
-                link: "/btnews/",
+                link: "/btnews/idx/",
                 icon: "lightbulb",
             },
             {
@@ -135,11 +137,17 @@ export default defineUserConfig({
             sidebarDisplay:"none"
         },
         plugins: {
-            blog: true,
+            blog: true,        
+            comment: {
+                provider: "Waline",
+                serverURL: "https://waline-btnews.vercel.app/",
+            },
             autoCatalog:{
                 shouldIndex(page) {
                     return page.frontmatter.type === "index"
                 },
+                exclude: [
+                ],
                 orderGetter: (page) => {
                     let date = page.date
                     if (date === undefined) {
@@ -177,5 +185,8 @@ export default defineUserConfig({
         searchProPlugin({
             indexContent: true,
         }),
+        commentPlugin({
+                serverURL: "https://waline-btnews.vercel.app/",
+            },),
     ],
 })

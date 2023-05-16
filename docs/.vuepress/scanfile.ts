@@ -26,7 +26,7 @@ const scanDir = async (dir: string, options: opts): Promise<string[]> => {
 }
 
 // @ts-ignore
-const files = await scanDir('./docs', {match: [/\.md$/], exclude: [/\.vuepress/]})
+const files = await scanDir('./docs', {match: [/\.md$/], exclude: [/\.vuepress/, "btnews.md", "readme.md"]})
 
 
 // 文件名 -> 文件元数据映射

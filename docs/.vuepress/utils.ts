@@ -20,7 +20,7 @@ export const getCategoryFromFilename = (filename):string|undefined => {
 export const getIdFromFilename = (filename):string|undefined => {
     // btnews_0013_5.md
     let fn = path.basename(filename)
-    let id = fn.match(/\d{4}(_\d)?/).at(0)
+    let id = fn.match(/\d{4}(_\d)?/)?.at(0)
     return id
 }
 

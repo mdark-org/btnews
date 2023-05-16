@@ -2013,6 +2013,16 @@
     marked "^4.3.0"
     vue "^3.2.47"
 
+"@waline/client@^2.15.5-alpha.0":
+  version "2.15.5-alpha.0"
+  resolved "https://registry.yarnpkg.com/@waline/client/-/client-2.15.5-alpha.0.tgz#c62739a5604822a0dafc8316eb389b61396b8eb5"
+  integrity sha512-7TYcNxPU5oqZpGr1MA/A21SzOKXTqer2bGFi/QtstTR3yBKTFChqZq/B/Og3+PL7EbVZJaEJ5sxw8pMdbNcWfw==
+  dependencies:
+    "@vueuse/core" "^10.1.0"
+    autosize "^6.0.1"
+    marked "^4.3.0"
+    vue "^3.2.47"
+
 abortcontroller-polyfill@^1.7.5:
   version "1.7.5"
   resolved "https://registry.yarnpkg.com/abortcontroller-polyfill/-/abortcontroller-polyfill-1.7.5.tgz#6738495f4e901fbb57b6c0611d0c75f76c485bed"
@@ -5318,7 +5328,7 @@ vuepress-plugin-sitemap2@2.0.0-beta.211:
     sitemap "^7.1.1"
     vuepress-shared "2.0.0-beta.211"
 
-vuepress-shared@2.0.0-beta.211:
+vuepress-shared@2.0.0-beta.211, vuepress-shared@^2.0.0-beta.211:
   version "2.0.0-beta.211"
   resolved "https://registry.yarnpkg.com/vuepress-shared/-/vuepress-shared-2.0.0-beta.211.tgz#45d1e5d2d26f06c63599af8ed6566b694e39ae08"
   integrity sha512-CHrLS0i/FsHj3XdgPbHKpCH7AEmFu04JEe8EIwIIPZswPphSbTFb8P+6K1jupoJm6I27owHzAY/FAntXXnyqhQ==

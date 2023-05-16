@@ -8,7 +8,7 @@ export const prepareArchivePages = async (app): Promise<void> => {
         category.archiveList.forEach(archive => {
             archive.content.forEach(archiveItem=>{
                 let id = archiveItem.match(/\d{3,4}/)[0]
-                let page = app.pages.find(p => p.path === `/${category.category}/${id}/`)
+                let page = app.pages.find(p => p.path === `/${category.category}/idx/${id}/`)
                 if (page === undefined) {
                     return
                 }
@@ -40,6 +40,14 @@ export const prepareArchivePagesIndex = async (app): Promise<void> => {
         return page.frontmatter.archive
     })
     let pageToBeGenerated = new Set()
+
+    let archiveIndexPage = {
+        path: `/btnews/archive/`,
+        frontmatter: {
+            title: "Archive",
+        },
+        content: ``
+    }
     for (let i in archives) {
         let item = archives[i]
         let res = {
@@ -52,8 +60,10 @@ export const prepareArchivePagesIndex = async (app): Promise<void> => {
         for (let i = 0; i <item.length; i++) {
             res.content += `\n### [${item[i].frontmatter.title}](${item[i].path})`
         }
+        archiveIndexPage.content += `\n### [${i}](${res.path})`
         pageToBeGenerated.add(res)
     }
+    pageToBeGenerated.add(archiveIndexPage)
     await Promise.all(
         Array.from(pageToBeGenerated).map((page) => {
             return createPage(app, page);

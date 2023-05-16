@@ -2,7 +2,7 @@ import {createPage} from "vuepress";
 import {groupBy} from "../utils";
 
 export const prepareDatePages = async (app): Promise<void> => {
-    let pages = app.pages.filter(page => page.path.match(/\/btnews\/[0-9]{3,4}/))
+    let pages = app.pages.filter(page => page.path.match(/\/btnews\/idx\/[0-9]{4}/))
     for (let i = 0; i < pages.length; i++) {
         const page = pages[i];
         let frontmatter = page.frontmatter ?? {}
