@@ -1,5 +1,5 @@
 <script setup lang="ts">
-
+import Tag from './Tag.vue';
 const {title, description, tags, link, date} = defineProps({
     title: {
         type: String,
@@ -26,17 +26,12 @@ const {title, description, tags, link, date} = defineProps({
         default: ""
     }
 })
-import { useRouter } from "vue-router"
-const router = useRouter()
-const click = () => {
-    router.push(link)
-}
+
 // yyyy-mm-dd weekday
 let dateFormat = new Date(date)
 let dateFormated = dateFormat.toLocaleDateString('zh-CN', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
-const clickTag = (tag: string) => {
-    router.push("/tag/"+tag)
-}
+
+
 </script>
 <template>
     <div class="card-item">
@@ -49,7 +44,7 @@ const clickTag = (tag: string) => {
             {{ dateFormated }}
         </div>
         <div class="card-item-tags" v-if="tags&&tags.length>0">
-            <span v-for="tag in tags" :key="tag" class="card-item-tag" @click="clickTag(tag)">{{ tag }}</span>
+            <Tag v-for="tag in tags" :key="tag" :tag="tag" class="tag-item"/>
         </div>
         </div>
         <div class="card-item-description text-overflow">
@@ -105,24 +100,11 @@ const clickTag = (tag: string) => {
     margin: 0.1rem 1rem;
     display: flex;
     flex-wrap: wrap;
-
  }
-.card-item-tag{
-    margin: 0.2rem 0.2rem;
+ .tag-item{
     max-width: 100px;
-    padding: 0.2rem 0.5rem;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    border-radius: 5px;
-    background-color: var(--border-color-light);
-    font-size: 0.8rem;
-    font-weight: bold;
-    display: inline-block;
-    cursor: pointer;
-}
-.card-item-tag:hover{
-    background-color: var(--bg-color-light);
-    color: var(--theme-color);
-}
+ }
 </style>

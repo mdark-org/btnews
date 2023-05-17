@@ -182,10 +182,14 @@ export default defineUserConfig({
         videoPlugin({}),
     ],
     clientConfigFile: path.join(__dirname, "./client.ts"),
-    // alias: {
-    //     "@theme-hope/modules/blog/components/TagList": path.resolve(
-    //       __dirname,
-    //       "./components/TagList.vue"
-    //     ),
-    //   },
+    alias: {
+        "@theme-hope/modules/blog/components/TagList": path.resolve(
+          __dirname,
+          "./components/TagList.vue"
+        ),
+        "@theme-hope/modules/info/components/TagInfo": path.resolve(
+          __dirname,
+          "./components/PageTag.vue"
+        ),
+      },
 })

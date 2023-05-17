@@ -1,6 +1,5 @@
 <script setup>
-// import { RouterLink } from "vue-router";
-// import { type BlogPluginCategoryFrontmatter } from "vuepress-plugin-blog2";
+import Tag from "./Tag.vue";
 import { useTagMap } from "@theme-hope/modules/blog/composables/index";
 
 const tags = useTagMap();
@@ -18,38 +17,38 @@ let tagsArr = Object.keys(tagMap).map((key) => {
 tagsArr.sort((a, b) => {
     return b.count - a.count;
 })
-console.log(tagsArr)
 </script>
 <template>
 
     <div class="tag-list-wrapper">
             <div class="tag-list-content">
-                <div class="tag-list-item" v-for="tag in tagsArr" :key="tag.key">
-                    <RouterLink :to="tag.path">{{ tag.key }}({{ tag.count }})</RouterLink>
-                </div>
+                <Tag v-for="tag in tagsArr" :tag="tag.key" :key="tag.key" :count="tag.count" class="tag-item"></Tag>
         </div>
     </div>
 </template>
 
 <style scoped>
 .tag-list-wrapper{
-    /* overflow: hidden; */
+    overflow: hidden;
     max-height: 20rem;
+    margin: 10px;
 }
 
 .tag-list-content{
     max-height: 20rem;
   margin: 5px auto;
   display: flex;
+  overflow: scroll;
   flex-wrap: wrap;
+
   outline: 10px var(--bg-color-light);
 }
-.tag-list-item{
-    border: 1px solid var(--border-color);
-    background-color: var(--bg-color-light);
+.tag-item{
+    /* border: 1px solid var(--border-color);
+    background-color: var(--bg-color-light); */
     border-radius: 5px;
-    padding: 0.2rem;
-    margin: 0.2rem;
+    padding: 0.2rem 0.3rem;
+    margin: 0.2rem 0.2rem;
     text-align: center;
     cursor: pointer;
 }
