@@ -25,10 +25,9 @@ const scanDir = async (dir: string, options: opts): Promise<string[]> => {
     return result;
 }
 
+let docPath = path.join(__dirname, '../btnews')
 // @ts-ignore
-const files = await scanDir('./docs', {match: [/\.md$/], exclude: [/\.vuepress/, "btnews.md", "readme.md"]})
-
-
+const files = await scanDir(docPath, {match: [/\.md$/], exclude: [/\.vuepress/, "btnews.md", "readme.md"]})
 // 文件名 -> 文件元数据映射
 export const contentMap:Map<string,any> = files.reduce((acc:Map<string,any>, cur) => {
     let frontmatter = {}

@@ -1,5 +1,4 @@
-// arrat To obj?map
-import * as path from "path";
+import  path from "path";
 
 export const groupBy = (array, f) => {
     let groups = {};

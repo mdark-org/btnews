@@ -8,32 +8,11 @@ import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepare
 import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-
-import { getDirname, path } from '@vuepress/utils'
 import { commentPlugin } from './waline';
-
-const __dirname = getDirname(import.meta.url)
-// import * as path from "path";
-// import fs from 'fs'
-
-// function stripImage () {
-//     return {
-//       name: 'strip-image',
-//       resolveId (source) {
-//         return source === 'virtual-module' ? source : null
-//       },
-//       renderStart (outputOptions, inputOptions) {
-//         const outDir = outputOptions.dir;
-//         const imageDir = path.resolve(outDir, 'images');
-//         fs.rm(imageDir, { recursive: true }, () => console.log(`Deleted ${imageDir}`))
-//       }
-//     }
-//   }
 
 export default defineUserConfig({
     bundler: viteBundler({
         viteOptions: {
-            // plugins:[stripImage()],
             experimental: {
                 renderBuiltUrl(filename: string, {hostId, hostType, type}: {
                     hostId: string,
@@ -47,6 +26,16 @@ export default defineUserConfig({
             },
         },
     }),
+    pagePatterns:[
+    '**/*.md', 
+    '!**/README.md', 
+    '!.*',
+    '!node_modules',
+    '!backup',
+    '!docs',
+    '!images',
+    '!README.md',
+],
     lang: 'zh-CN',
     title: '睡前消息文稿合集',
     head: [
@@ -55,19 +44,13 @@ export default defineUserConfig({
 
         ],
     description: '睡前消息文稿合集',
-    shouldPrefetch:(file, type) => {
-        // console.log("file", file)
-        // console.log("type", type)
-        return false
-    },
+    shouldPrefetch:false,
     extendsMarkdown: (md) => {
         md.use(rplink,{replaceLink: replaceLink})
     },
     extendsPageOptions: (pageOptions, app) => {
         pageOptions.frontmatter = pageOptions.frontmatter ?? {}
         if (pageOptions.filePath?.startsWith(app.dir.source("btnews"))) {
-            // pageOptions.frontmatter.category = "睡前消息"
-            // let filename = path.basename(pageOptions.filePath)
             let id = util.getIdFromFilename(pageOptions.filePath)
             if (!id) {
                 return

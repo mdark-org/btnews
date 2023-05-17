@@ -4,6 +4,7 @@
 node_modules
 .temp
 .cache
+.vuepress/dist
 docs/.vuepress/dist
 .yarn
 backup

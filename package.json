@@ -2,10 +2,11 @@
   "name": "btnews",
   "version": "0.0.1",
   "scripts": {
-    "vite:dev": "vitepress",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "get:new": "ts-node script/index.ts"
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "get:new": "ts-node script/index.ts",
+    "clean": "rm -rf .vuepress/dist .vuepress/.temp .vuepress/.cache",
+    "pure": "yarn clean  && rm -rf node_modules"
   },
   "description": "睡前消息文稿合集",
   "license": "MIT",
