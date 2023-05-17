@@ -5,15 +5,10 @@ description: 分析柳州及全国的地方债务问题。前几年，地方城�
 tag: ["柳州","财政","城投债"]
 ---
 
-
-
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV13M4y1t7kM" height="500px"/>
-
-@tab YouTube
-<YouTube id="O4ekodV8wpc" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['O4ekodV8wpc','BV13M4y1t7kM']"
+/>
 
 大家好，2023年5月12日星期五，欢迎收看588期睡前消息，请静静介绍话题。
 

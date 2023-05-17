@@ -5,14 +5,10 @@ description: 分析对台贸易壁垒调查的力度。商务部宣布，对台�
 tag: ["贸易壁垒","台湾"]
 ---
 
-
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1ba4y1g7wv" height="500px"/>
-
-@tab YouTube
-<YouTube id="iJeMaq_HpDU" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['iJeMaq_HpDU','BV1ba4y1g7wv']"
+/>
 
 大家好，2023年5月9日星期二，欢迎收看587期睡前消息，请静静介绍话题。
 

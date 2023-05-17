@@ -4,14 +4,10 @@ date: 2023-05-05
 description: 1 分析中非中国金矿屠杀案。2 介绍瓦格纳集团在非洲的扩张。3月份，在中非开金矿的中国企业被军队袭击，9个中国人被示威性屠杀。事后，政府军在俄国瓦格纳集团支持下，和反政府武装相互指责，都声称对方策划了袭击。但无论凶手是谁，从当地的军阀视角来看，没有军队驻扎的中国矿山都是砧上鱼肉，迟早要被吃。
 tag: ["瓦格纳","俄罗斯", "战争", "中非"]
 ---
-
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1js4y137Gf" height="500px"/>
-
-@tab YouTube
-<YouTube id="othxG-RO_j8" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['othxG-RO_j8','BV1js4y137Gf']"
+/>
 
 大家好，2023年5月5日星期五，欢迎收看585期睡前消息，请静静介绍话题。
 

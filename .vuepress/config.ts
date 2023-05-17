@@ -1,3 +1,4 @@
+
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { hopeTheme } from "vuepress-theme-hope";
@@ -9,7 +10,11 @@ import {archiveNavbar} from "./categoryArchiveList";
 import * as util from "./utils";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import { commentPlugin } from './waline';
-
+import { videoPlugin } from './video';
+import { prepareHomePage } from './homepage';
+// import path from "path";
+import { getDirname, path } from "@vuepress/utils";
+const __dirname = getDirname(import.meta.url);
 export default defineUserConfig({
     bundler: viteBundler({
         viteOptions: {
@@ -68,6 +73,7 @@ export default defineUserConfig({
         // 生成合集 page
         await prepareArchivePages(app)
         await prepareArchivePagesIndex(app)
+        await prepareHomePage(app)
     },
 
     theme: hopeTheme({
@@ -159,6 +165,8 @@ export default defineUserConfig({
                 ],
             }
         }
+    },{
+        custom:true
     }),
     plugins: [
         googleAnalyticsPlugin({
@@ -171,5 +179,13 @@ export default defineUserConfig({
         commentPlugin({
                 serverURL: "https://waline-btnews.vercel.app/",
             },),
+        videoPlugin({}),
     ],
+    clientConfigFile: path.join(__dirname, "./client.ts"),
+    // alias: {
+    //     "@theme-hope/modules/blog/components/TagList": path.resolve(
+    //       __dirname,
+    //       "./components/TagList.vue"
+    //     ),
+    //   },
 })
