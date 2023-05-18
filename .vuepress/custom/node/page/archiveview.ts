@@ -1,18 +1,24 @@
 import {createPage} from "vuepress";
 import {groupBy} from "../utils";
-import {categoryArchiveList} from "../categoryArchiveList";
 
-export const prepareArchivePages = async (app): Promise<void> => {
-    let pageToBeGenerated = []
+export const prepareArchivePages = async (categoryArchiveList, app): Promise<void> => {
+    let pageToBeGenerated:any = []
     categoryArchiveList.forEach(category => {
         category.archiveList.forEach(archive => {
             archive.content.forEach(archiveItem=>{
-                let id = archiveItem.match(/\d{3,4}/)[0]
-                let page = app.pages.find(p => p.path === `/${category.category}/idx/${id}/`)
+                let fileId = archiveItem.match(/\d{4}(_5)?/)
+                if (fileId === null) {
+                    return
+                }
+                let id = fileId[0].replace("_", ".")
+                // console.log(app)
+                let page = app.pages?.find(p => p.path === `/${category.category}/idx/${id}/`)
                 if (page === undefined) {
                     return
                 }
+                // deep copy frontmatter to avoid side effect
                 let frontmatter = page.frontmatter ?? {}
+                frontmatter = JSON.parse(JSON.stringify(frontmatter))
                 frontmatter.permalink = `/${category.category}/archive/${archive.name}/${id}`
                 frontmatter.type = "archive"
                 frontmatter.archive = archive.name
@@ -31,18 +37,22 @@ export const prepareArchivePages = async (app): Promise<void> => {
     ).then((pages) => {
         app.pages.push(...pages);
     });
+    categoryArchiveList.forEach(async ({ category }) => {
+        await prepareArchivePagesIndex(category, app);
+    })
 }
 // 目录页面
-export const prepareArchivePagesIndex = async (app): Promise<void> => {
-    let archivePage = app.pages.filter(page => page.path.match(/^\/btnews\/archive\/.*\/\d{3,4}/))
-    // 按 archive name 分组
+export const prepareArchivePagesIndex = async (category:string,app): Promise<void> => {
+    
+    let regStr = `^/${category}/archive/.*/\\d{4}(_5)?`
+    let archivePage = app.pages.filter(page => page.path.match(new RegExp(regStr, "g")))
     let archives = groupBy(archivePage, page=>{
         return page.frontmatter.archive
     })
     let pageToBeGenerated = new Set()
 
     let archiveIndexPage = {
-        path: `/btnews/archive/`,
+        path: `/${category}/archive/`,
         frontmatter: {
             title: "Archive",
         },
@@ -51,7 +61,7 @@ export const prepareArchivePagesIndex = async (app): Promise<void> => {
     for (let i in archives) {
         let item = archives[i]
         let res = {
-            path: `/btnews/archive/${i}/`,
+            path: `/${category}/archive/${i}/`,
             frontmatter: {
                 title: i,
             },

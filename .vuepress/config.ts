@@ -3,19 +3,22 @@ import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { hopeTheme } from "vuepress-theme-hope";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
-import { sidebarCfg } from "./sidebar";
-import {replaceLink, rplink} from "./link";
-import {prepareArchivePages, prepareArchivePagesIndex, prepareDatePages, prepareDatePagesIndex} from "./page";
-import {archiveNavbar} from "./categoryArchiveList";
-import * as util from "./utils";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+
+import {archiveNavbar} from "./categoryArchiveList";
+import { sidebarCfg } from "./sidebar";
 import { commentPlugin } from './waline';
 import { videoPlugin } from './video';
-import { prepareHomePage } from './homepage';
-// import path from "path";
-import { getDirname, path } from "@vuepress/utils";
-const __dirname = getDirname(import.meta.url);
+import { customPlugin } from './custom';
 export default defineUserConfig({
+    lang: 'zh-CN',
+    title: '睡前消息文稿合集',
+    description: '睡前消息文稿合集',
+    head: [
+        ['link', { rel: 'icon', href: '/images/favicon.png' }],
+        ['meta', { name: 'keywords', content: '睡前消息文稿合集,睡前消息,合集,bedtimenews,btnews'}],
+    ],
+    pagePatterns:['**/*.md',  '!**/README.md', '!.*', '!node_modules','!images', '!README.md',],
     bundler: viteBundler({
         viteOptions: {
             experimental: {
@@ -31,53 +34,11 @@ export default defineUserConfig({
             },
         },
     }),
-    pagePatterns:[
-    '**/*.md', 
-    '!**/README.md', 
-    '!.*',
-    '!node_modules',
-    '!backup',
-    '!docs',
-    '!images',
-    '!README.md',
-],
-    lang: 'zh-CN',
-    title: '睡前消息文稿合集',
-    head: [
-        ['link', { rel: 'icon', href: '/images/favicon.png' }],
-        ['meta', { name: 'keywords', content: '睡前消息文稿合集,睡前消息,合集,bedtimenews,btnews'}],
 
-        ],
-    description: '睡前消息文稿合集',
     shouldPrefetch:false,
-    extendsMarkdown: (md) => {
-        md.use(rplink,{replaceLink: replaceLink})
-    },
-    extendsPageOptions: (pageOptions, app) => {
-        pageOptions.frontmatter = pageOptions.frontmatter ?? {}
-        if (pageOptions.filePath?.startsWith(app.dir.source("btnews"))) {
-            let id = util.getIdFromFilename(pageOptions.filePath)
-            if (!id) {
-                return
-            }
-            id = id?.replace("_", ".")
-            pageOptions.frontmatter.permalink = `/btnews/idx/${id}/`
-            pageOptions.frontmatter.idx = id
-            pageOptions.frontmatter.type = "index"
-        }
-    },
-    onInitialized: async (app): Promise<void> => {
-        // 生成年月视图的 page
-        await prepareDatePages(app)
-        await prepareDatePagesIndex(app)
-        // 生成合集 page
-        await prepareArchivePages(app)
-        await prepareArchivePagesIndex(app)
-        await prepareHomePage(app)
-    },
-
     theme: hopeTheme({
         logo: "/images/favicon.png",
+        hostname: "https://btnews.ktlab.io",
         fullscreen: true,
         navbar: [
             {
@@ -121,7 +82,6 @@ export default defineUserConfig({
         sidebarSorter: "date",
         repo: "https://github.com/ktKongTong/btnews",
         docsBranch: "master",
-        docsDir: "docs",
         blog: {
             sidebarDisplay:"none"
         },
@@ -148,21 +108,17 @@ export default defineUserConfig({
             },
             mdEnhance: {
                 tabs: true,
-                // 启用 figure
                 figure: true,
-                // 启用图片懒加载
                 imgLazyload: true,
-                // 启用图片标记
                 imgMark: true,
-                // 启用图片大小
                 imgSize: true,
             },
             components: {
-                components: [
-                    "BiliBili",
-                    "YouTube",
-                    "XiGua"
-                ],
+                components: ["BiliBili","YouTube","XiGua"],
+            },
+            feed:{
+                rss: true,
+                filter: ({ frontmatter }):boolean => frontmatter.type === "index",
             }
         }
     },{
@@ -177,19 +133,9 @@ export default defineUserConfig({
             indexContent: true,
         }),
         commentPlugin({
-                serverURL: "https://waline-btnews.vercel.app/",
-            },),
+            serverURL: "https://waline-btnews.vercel.app/",
+        },),
         videoPlugin({}),
+        customPlugin,
     ],
-    clientConfigFile: path.join(__dirname, "./client.ts"),
-    alias: {
-        "@theme-hope/modules/blog/components/TagList": path.resolve(
-          __dirname,
-          "./components/TagList.vue"
-        ),
-        "@theme-hope/modules/info/components/TagInfo": path.resolve(
-          __dirname,
-          "./components/PageTag.vue"
-        ),
-      },
 })

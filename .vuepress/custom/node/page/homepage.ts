@@ -6,7 +6,6 @@ export const prepareHomePage = async (app): Promise<void> => {
         return b.frontmatter.date - a.frontmatter.date
     })
     let recentPage = pages.slice(0, 6)
-
     let homePages = recentPage.map(page => {
         return {
             link: page.path,

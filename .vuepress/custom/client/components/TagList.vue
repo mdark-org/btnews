@@ -30,7 +30,7 @@ tagsArr.sort((a, b) => {
 <style scoped>
 .tag-list-wrapper{
     overflow: hidden;
-    max-height: 20rem;
+    /* max-height: 20rem; */
     margin: 10px;
 }
 
@@ -39,9 +39,10 @@ tagsArr.sort((a, b) => {
   margin: 5px auto;
   display: flex;
   overflow: scroll;
+  padding-bottom: 25px;
+    padding-top: 20px;
+    overflow-x: auto;
   flex-wrap: wrap;
-
-  outline: 10px var(--bg-color-light);
 }
 .tag-item{
     /* border: 1px solid var(--border-color);

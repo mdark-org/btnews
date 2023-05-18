@@ -1,12 +1,18 @@
 import {contentMap} from "../scanfile";
 import {categoryArchiveList} from "../categoryArchiveList";
-import {getIdFromFilename} from "../utils";
+import path from "path"
 
+const getIdFromFilename = (filename):string|undefined => {
+    // btnews_0013_5.md
+    let fn = path.basename(filename)
+    let id = fn.match(/\d{4}(_\d)?/)?.at(0)
+    return id
+}
 
 const generatePageSidebarFromId = (archiveItem:string,category,archive) => {
     let item = contentMap.get(archiveItem)
     let id = getIdFromFilename(archiveItem)
-    id = id.replace(/_/g,".")
+    id = id?.replace(/_/g,".")
     return {
         text: item.frontmatter.title,
         link: `/${category.category}/archive/${archive.name}/${id}/`,

@@ -1,19 +1,22 @@
 import {createPage} from "vuepress";
 import {groupBy} from "../utils";
 
-export const prepareDatePages = async (app): Promise<void> => {
-    let pages = app.pages.filter(page => page.path.match(/\/btnews\/idx\/[0-9]{4}/))
+export const prepareDatePages = async (category,app): Promise<void> => {
+    let regStr = `^/${category}/idx/\\d{4}(.5)?`
+    let pages = app.pages.filter(page => page.path.match(new RegExp(regStr, "g")))
     for (let i = 0; i < pages.length; i++) {
         const page = pages[i];
+        // deep copy frontmatter to avoid side effect
         let frontmatter = page.frontmatter ?? {}
         if (page.frontmatter.date == undefined) {
             continue
         }
+        frontmatter = JSON.parse(JSON.stringify(frontmatter))
         let date = page.frontmatter.date;
         let d = date.getDate();
         let m = date.getMonth() + 1;
         let y = date.getFullYear();
-        frontmatter.permalink = `/btnews/${y}/${(m<=9 ? '0' + m : m)}/${(d <= 9 ? '0' + d : d)}/`
+        frontmatter.permalink = `/${category}/${y}/${(m<=9 ? '0' + m : m)}/${(d <= 9 ? '0' + d : d)}/`
         frontmatter.type = "date"
         let p = await createPage(app, {
             path: frontmatter.permalink,
@@ -22,10 +25,12 @@ export const prepareDatePages = async (app): Promise<void> => {
         })
         app.pages.push(p)
     }
+    await prepareDatePagesIndex(category,app)
 }
 
-export const prepareDatePagesIndex = async (app): Promise<void> => {
-    let datePage = app.pages.filter(page => page.path.match(/^\/btnews\/20[1,2][0-9]\/[0,1][0-9]\//))
+export const prepareDatePagesIndex = async(category,app): Promise<void> => {
+    let regStr = `^/${category}/\\d{4}/\\d{2}/\\d{2}/`
+    let datePage = app.pages.filter(page => page.path.match(new RegExp(regStr, "g")))
     // 按年分组
     let year = groupBy(datePage, page => {
         return page.frontmatter.date.getFullYear()
@@ -44,7 +49,7 @@ export const prepareDatePagesIndex = async (app): Promise<void> => {
         let year = page.frontmatter.date.getFullYear()
         let m = page.frontmatter.date.getMonth() + 1
         let res = {
-            path: `/btnews/${year}/${(m < 10) ? "0" + m : m}/`,
+            path: `/${category}/${year}/${(m < 10) ? "0" + m : m}/`,
             frontmatter: {
                 title: `${year}年${(m < 10) ? "0" + m : m}月`,
             },
@@ -57,7 +62,7 @@ export const prepareDatePagesIndex = async (app): Promise<void> => {
     }
     for (let year in res) {
         let page = {
-            path: `/btnews/${year}/`,
+            path: `/${category}/${year}/`,
             frontmatter: {
                 title: `${year}年`,
             },

@@ -1,31 +1,8 @@
 // @ts-ignore
-import MarkdownIt from 'markdown-it'
-import {contentMap} from "../scanfile";
+import {contentMap} from "../../../scanfile";
 // @ts-ignore
 import path from "path";
 import {getCategoryFromFilename, getIdFromFilename, getIndependentIdFromFilename} from "../utils";
-// export const mdlink = (md: MarkdownIt, options: any) => {
-//     md.core.ruler.after('inline', 'mdlink', (state) => {
-//         let tokens = state.tokens
-//         tokens.forEach((token, index) => {
-//             if (token.type === 'inline') {
-//                 let children = token.children
-//                 children.forEach((child, index) => {
-//                     if (child.type === 'link_open') {
-//                         let href = child.attrGet('href')
-//                         if (href.startsWith('mdlink:')) {
-//                             let id = href.slice(7)
-//                             let info = contentMap[id]
-//                             if (info) {
-//                                 child.attrSet('href', info.frontmatter.permalink)
-//                             }
-//                         }
-//                     }
-//                 })
-//             }
-//         })
-//     })
-// }
 // 替换 markdown 中对其他文件的引用链接
 export const replaceLink =  function (link, env, token, htmlToken) {
     if(link.startsWith("/images")){
@@ -53,14 +30,20 @@ export const replaceLink =  function (link, env, token, htmlToken) {
     if (env.frontmatter.type === "archive") {
         return `/${category}/${id}/`
     }
-    let date = file.frontmatter.date
+    let date = file.frontmatter.date as Date
     if (!date) {
         return link
     }
-    let y = date.split("-")[0]
-    let m = date.split("-")[1]
-    let d = date.split("-")[2]
-    return `/${category}/${y}/${m}/${d}/`
+    
+    let y = date.getFullYear()
+    let m = date.getMonth() + 1
+    let d = date.getDate() 
+    return `/${category}/${y}/${zfill(m,2)}/${zfill(d,2)}/`
+}
+const zfill = (num, size) => {
+    let s = num + ""
+    while (s.length < size) s = "0" + s
+    return s
 }
 
 const replaceImageLink = (link, env, token, htmlToken):string =>{

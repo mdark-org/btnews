@@ -1,23 +1,26 @@
 import {fs} from '@vuepress/utils';
-import * as path from "path";
-import {getIndependentIdFromFilename} from "./utils";
+import path from "path";
+import frontmatter from 'gray-matter'
 
+const getIndependentIdFromFilename = (filename):string => {
+    let fn = path.basename(filename)
+    return fn.replace(path.extname(fn),"")
+}
 type  opts = {
     exclude:RegExp[]
     match:RegExp[]
 }
-const scanDir = async (dir: string, options: opts): Promise<string[]> => {
+const scanDir =  (dir: string, options: opts): string[] => {
     let result :any= []
-    // 读取目录中的所有文件和子目录
-    let files = await fs.readdir(dir);
+    let files = fs.readdirSync(dir);
     for (let file of files) {
         let path = dir + '/' + file;
         if (options.exclude.filter(exclude => path.match(exclude)).length > 0){
             continue
         }
-        let stats = await fs.stat(path)
+        let stats = fs.statSync(path)
         if (stats.isDirectory()) {
-            result.push(...await scanDir(path, options))
+            result.push(... scanDir(path, options))
         }else if (options.match.filter(match => path.match(match)).length > 0) {
             result.push(path);
         }
@@ -26,26 +29,14 @@ const scanDir = async (dir: string, options: opts): Promise<string[]> => {
 }
 
 let docPath = path.join(__dirname, '../btnews')
-// @ts-ignore
-const files = await scanDir(docPath, {match: [/\.md$/], exclude: [/\.vuepress/, "btnews.md", "readme.md"]})
+const files = scanDir(docPath, {match: [/\.md$/], exclude: [/\.vuepress/, "btnews.md", "readme.md"]})
+
 // 文件名 -> 文件元数据映射
 export const contentMap:Map<string,any> = files.reduce((acc:Map<string,any>, cur) => {
-    let frontmatter = {}
     let mdfile=fs.readFileSync(cur, 'utf8')
-    let match = mdfile.match(/^---\n([\s\S]+?)\n---/)
-    if (match){
-        let fm = match[1]
-        let lines = fm.split('\n')
-        lines.forEach(line => {
-            if (line.trim() == ""){
-                return
-            }
-            let [key, value] = line.split(':')
-            frontmatter[key.trim()] = value.trim()
-        })
-    }
+    const { data } = frontmatter(mdfile)
     let name = path.basename(cur)
     let key = getIndependentIdFromFilename(name)
-    acc.set(key, {path: cur,frontmatter: frontmatter})
+    acc.set(key, {path: cur,frontmatter: data})
     return acc
 }, new Map())
