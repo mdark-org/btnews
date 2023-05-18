@@ -47,12 +47,11 @@ let dateFormated = dateFormat.toLocaleDateString('zh-CN', { weekday: 'long', yea
             <Tag v-for="tag in tags" :key="tag" :tag="tag" class="tag-item"/>
         </div>
         </div>
-        <div class="card-item-description text-overflow">
-            {{ description }}
+        <div class="card-item-description text-overflow" v-html="description">
         </div>
     </div>
 </template>
-<style scoped>
+<style scoped lang="scss">
 .card-item{
     border: 1px solid var(--border-color);
     border-radius: 5px;
@@ -96,6 +95,12 @@ let dateFormated = dateFormat.toLocaleDateString('zh-CN', { weekday: 'long', yea
     cursor:default;
     -webkit-line-clamp: 8;
 }
+.card-item-description > figure{
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+
 .card-item-tags{
     margin: 0.1rem 1rem;
     display: flex;
@@ -107,4 +112,31 @@ let dateFormated = dateFormat.toLocaleDateString('zh-CN', { weekday: 'long', yea
     white-space: nowrap;
     overflow: hidden;
  }
+ .card-item-description >  figure {
+    display: flex !important;
+    flex-direction: column !important;
+
+    width: auto;
+    margin: 1rem auto;
+
+    text-align: center;
+
+    transition: transform var(--transform-transition);
+
+    img {
+      overflow: hidden;
+      margin: 0 auto;
+      border-radius: 8px;
+    }
+
+    figcaption {
+      display: inline-block;
+      margin: 6px auto;
+      font-size: 0.8rem;
+
+      &:only-child {
+        display: none;
+      }
+    }
+  }
 </style>

@@ -1,3 +1,6 @@
+
+<!-- 从 List 变成 TagSearcher -->
+<!-- Tag -->
 <script setup>
 import Tag from "./Tag.vue";
 import { useTagMap } from "@theme-hope/modules/blog/composables/index";
@@ -13,10 +16,11 @@ let tagsArr = Object.keys(tagMap).map((key) => {
     }
     return res;
 })
-
 tagsArr.sort((a, b) => {
     return b.count - a.count;
 })
+// 获取当前 tag,如果tag为指定 tag, ArticleList,只显示单个 tag
+
 </script>
 <template>
 
@@ -30,18 +34,13 @@ tagsArr.sort((a, b) => {
 <style scoped>
 .tag-list-wrapper{
     overflow: hidden;
-    /* max-height: 20rem; */
-    margin: 10px;
 }
 
 .tag-list-content{
-    max-height: 20rem;
   margin: 5px auto;
   display: flex;
-  overflow: scroll;
-  padding-bottom: 25px;
-    padding-top: 20px;
     overflow-x: auto;
+    overflow-y: auto;
   flex-wrap: wrap;
 }
 .tag-item{

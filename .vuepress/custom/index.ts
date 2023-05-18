@@ -38,12 +38,20 @@ export const customPlugin = {
         alias: {
             "@theme-hope/modules/blog/components/TagList": path.resolve(
               __dirname,
-              "./client/components/TagList.vue"
+              "./client/components/TagListWrapper.vue"
             ),
             "@theme-hope/modules/info/components/TagInfo": path.resolve(
               __dirname,
               "./client/components/PageTag.vue"
             ),
+            "@theme-hope/modules/blog/components/ArticleList": path.resolve(
+                __dirname,
+                "./client/components/ArticleList.vue"
+              ),
+              "@theme-hope/modules/blog/components/InfoPanel": path.resolve(
+                  __dirname,
+                  "./client/components/InfoPanel.vue"
+                )
           },
 
   }

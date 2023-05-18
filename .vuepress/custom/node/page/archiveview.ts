@@ -11,7 +11,6 @@ export const prepareArchivePages = async (categoryArchiveList, app): Promise<voi
                     return
                 }
                 let id = fileId[0].replace("_", ".")
-                // console.log(app)
                 let page = app.pages?.find(p => p.path === `/${category.category}/idx/${id}/`)
                 if (page === undefined) {
                     return
