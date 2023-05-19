@@ -7,7 +7,7 @@ tag: ["加拿大"]
 
 <VideoService
 provider="Bilibili"
-id="BV1st411L7ne"
+videoId="BV1st411L7ne"
 />
 
 大家好 欢迎观看马前卒工作室的睡前消息，下面请佳静同学帮我介绍一下新闻：

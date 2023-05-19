@@ -7,7 +7,7 @@ tag: ["俄罗斯","特种兵"]
 
 <VideoService
 provider="Bilibili"
-id="BV1mt411G73q"
+videoId="BV1mt411G73q"
 />
 
 大家好，马前卒工程队的睡前消息又和大家见面了，还是先让静静来介绍新闻：

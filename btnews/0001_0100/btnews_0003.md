@@ -7,7 +7,7 @@ tag: [台湾,韩国瑜]
 
 <VideoService
 provider="Bilibili"
-id="BV17t411n7FK"
+videoId="BV17t411n7FK"
 />
 
 大家好，周末到了，欢迎收看马前卒施工队的睡前消息，现在请蛋卷坐好，让静静介绍新闻：
