@@ -4,9 +4,6 @@ import BiliBili from "./BiliBili.vue";
 import TabGroup from "./TabGroup.vue";
 import TabPanel from "./TabPanel.vue";
 import { type PropType } from 'vue';
-import {
-    usePageFrontmatter,
-  } from "@vuepress/client";
 type Provider ="Bilibili" | "Youtube"
 type VideoProvider = Array<Provider> | Provider
 
@@ -35,7 +32,6 @@ if (typeof videoId === "string") {
 }
 
 const videoIdMap = new Map<Provider, string>()
-console.log(videoProviders)
 videoProviders.forEach((provider, index) => {
     videoIdMap.set(provider, videoIds[index])
 })
@@ -50,8 +46,6 @@ const getComponent = (provider: Provider) => {
             return BiliBili
     }
 }
-const frontmatter = usePageFrontmatter<any>();
-console.log(frontmatter)
 </script>
 
 <template>

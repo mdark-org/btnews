@@ -1,5 +1,5 @@
 <script setup >
-import TagList from './TagList.vue';
+import TagList from '../TagList.vue';
 import {computed} from 'vue';
 import { usePageFrontmatter } from "@vuepress/client"
 const pageFrontmatter = usePageFrontmatter();

@@ -7,8 +7,6 @@ import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
 import {archiveNavbar} from "./categoryArchiveList";
 import { sidebarCfg } from "./sidebar";
-import { commentPlugin } from './waline';
-import { videoPlugin } from './video';
 import { customPlugin } from './custom';
 export default defineUserConfig({
     lang: 'zh-CN',
@@ -136,10 +134,6 @@ export default defineUserConfig({
         searchProPlugin({
             indexContent: true,
         }),
-        commentPlugin({
-            serverURL: "https://waline-btnews.vercel.app/",
-        },),
-        videoPlugin({}),
         customPlugin,
     ],
 })

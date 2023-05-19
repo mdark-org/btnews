@@ -112,31 +112,4 @@ let dateFormated = dateFormat.toLocaleDateString('zh-CN', { weekday: 'long', yea
     white-space: nowrap;
     overflow: hidden;
  }
- .card-item-description >  figure {
-    display: flex !important;
-    flex-direction: column !important;
-
-    width: auto;
-    margin: 1rem auto;
-
-    text-align: center;
-
-    transition: transform var(--transform-transition);
-
-    img {
-      overflow: hidden;
-      margin: 0 auto;
-      border-radius: 8px;
-    }
-
-    figcaption {
-      display: inline-block;
-      margin: 6px auto;
-      font-size: 0.8rem;
-
-      &:only-child {
-        display: none;
-      }
-    }
-  }
 </style>

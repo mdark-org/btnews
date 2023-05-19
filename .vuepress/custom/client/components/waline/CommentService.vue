@@ -15,8 +15,6 @@ import {
     watch,
   } from "vue";
   import { LoadingIcon, useLocaleConfig } from "vuepress-shared/client";
-
-  import { useWalineOptions } from "./comment";
   import "@waline/client/dist/waline.css";
   import "./styles/waline.scss";
   declare const WALINE_META: boolean;
@@ -28,37 +26,26 @@ import {
     import(
       /* webpackChunkName: "waline" */ "@waline/client/dist/waline-meta.css"
     );
-      let walineOptions = useWalineOptions();
-      if (!walineOptions?.serverURL) {
-        walineOptions = {
+      let walineOptions = {
           serverURL: "https://waline-btnews.vercel.app",
         }
-      };
       const page = usePageData();
       const frontmatter = usePageFrontmatter<any>();
+      // console.log(frontmatter.value)
       const lang = usePageLang();
       const walineLocale = useLocaleConfig(walineLocales);
       let abort: () => void;
-      let enableWaline = Boolean(walineOptions.serverURL);
-
+      const enableWaline = computed(() => {
+        return frontmatter.value.idx !== undefined
+      })
       const enablePageViews = computed(() => {
-        if (!enableWaline) return false;
-        const pluginConfig = walineOptions.pageview !== false;
-        const pageConfig = frontmatter.value.pageview;
-  
-        return (
-          Boolean(pageConfig) ||
-          (pluginConfig !== false && pageConfig !== false)
-        );
+        return enableWaline
       });
 
       const walineKey = computed(() => {
         if (page.value.frontmatter.idx) {
           return withBase(`/btnews/idx/${page.value.frontmatter.idx}/`);
         }
-        enableWaline = false;
-        // console.log(false)
-        return withBase(page.value.path)
       });
   
       const walineProps = computed(() => ({
@@ -74,7 +61,6 @@ import {
           walineKey,
           () => {
             abort?.();
-  
             if (enablePageViews.value)
               void nextTick().then(() => {
                 setTimeout(() => {
@@ -82,7 +68,7 @@ import {
                     serverURL: walineOptions.serverURL,
                     path: walineKey.value,
                   });
-                }, walineOptions.delay || 800);
+                }, 800);
               });
           },
           { immediate: true }
@@ -97,7 +83,6 @@ import {
 <template>
     <div v-if="enableWaline" class="waline-wrapper" id="comment">
         <ClientOnly>
-            <!-- <div>hello</div> -->
             <WalineComponent :serverURL="walineProps.serverURL" :path="walineProps.path" dark="html.dark" lang="zh-CN" />
         </ClientOnly>
     </div>

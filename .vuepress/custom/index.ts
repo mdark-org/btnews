@@ -38,27 +38,27 @@ export const customPlugin = {
         alias: {
             "@theme-hope/modules/blog/components/TagList": path.resolve(
               __dirname,
-              "./client/components/TagListWrapper.vue"
+              "./client/components/blog-replace/TagListWrapper.vue"
             ),
             "@theme-hope/modules/info/components/TagInfo": path.resolve(
               __dirname,
-              "./client/components/PageTag.vue"
+              "./client/components/blog-replace/PageTag.vue"
             ),
             "@theme-hope/modules/blog/components/ArticleList": path.resolve(
                 __dirname,
-                "./client/components/ArticleList.vue"
+                "./client/components/blog-replace/ArticleList.vue"
               ),
               "@theme-hope/modules/blog/components/InfoPanel": path.resolve(
                   __dirname,
-                  "./client/components/InfoPanel.vue"
+                  "./client/components/blog-replace/InfoPanel.vue"
                 ),
                 "@theme-hope/modules/blog/components/InfoList": path.resolve(
                     __dirname,
-                    "./client/components/InfoList.vue"
+                    "./client/components/blog-replace/InfoList.vue"
                   ),
                   "@theme-hope/modules/blog/components/BloggerInfo": path.resolve(
                       __dirname,
-                      "./client/components/BloggerInfo.vue"
+                      "./client/components/blog-replace/BloggerInfo.vue"
                     )
           },
 

@@ -1,7 +1,5 @@
-<script setup lang="ts">
-import Tag from './Tag.vue';
-// import { type PageTag } from "@theme-hope/modules/info/utils/index";
-// import { type PropType } from "vue";
+<script setup>
+import Tag from '../Tag.vue';
 const {tag} = defineProps({
     tag: {
       type: Array,
