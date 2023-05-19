@@ -86,7 +86,11 @@ export default defineUserConfig({
             sidebarDisplay:"none"
         },
         plugins: {
-            blog: true,        
+            blog: {
+                excerptFilter: (page): boolean => {
+                    return page.frontmatter.description == undefined
+                }
+            },        
             comment: {
                 provider: "Waline",
                 serverURL: "https://waline-btnews.vercel.app/",

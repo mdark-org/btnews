@@ -1,12 +1,14 @@
 <script setup>
 import HomeCardItem from './HomeCardItem.vue';
-
 const {key, items} = defineProps({
     key: String,
     items: Array
 })
-console.log(key);
-console.log(items);
+
+
+
+// console.log(key);
+// console.log(items);
 </script>
 <template>
     <HomeCardItem

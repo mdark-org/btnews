@@ -51,7 +51,15 @@ export const customPlugin = {
               "@theme-hope/modules/blog/components/InfoPanel": path.resolve(
                   __dirname,
                   "./client/components/InfoPanel.vue"
-                )
+                ),
+                "@theme-hope/modules/blog/components/InfoList": path.resolve(
+                    __dirname,
+                    "./client/components/InfoList.vue"
+                  ),
+                  "@theme-hope/modules/blog/components/BloggerInfo": path.resolve(
+                      __dirname,
+                      "./client/components/BloggerInfo.vue"
+                    )
           },
 
   }

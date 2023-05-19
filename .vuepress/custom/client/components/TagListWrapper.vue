@@ -9,13 +9,13 @@ const ok = computed(() => {
 })
 const curentTag = computed(() => {
     let rawUrl = route.path.replace('/tag/','').replace('/tag','');
-    if (rawUrl.endsWith('/')) {
-        rawUrl = rawUrl.slice(0, -1);
-    }
+    // if (rawUrl.endsWith('/')) {
+    //     rawUrl = rawUrl.slice(0, -1);
+    // }
     // URL 反转义
     return decodeURI(rawUrl);
 })
-console.log(route.path);
+// console.log(route.path);
 </script>
 
     <template>

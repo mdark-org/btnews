@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const {tag} = defineProps({
+const {tag,count,active} = defineProps({
     tag: {
         type: String,
         required: true,
@@ -8,16 +8,26 @@ const {tag} = defineProps({
         type: Number,
         required: false,
         default: 0
+    },
+    active : {
+        type: Boolean,
+        required: false,
+        default: false
     }
 })
 import { useRouter } from "vue-router"
+
 const router = useRouter()
+
+
 const clickTag = (tag: string) => {
-    router.push("/tag/"+tag)
+    if (!active) {
+        router.push("/tag/"+tag)
+    }
 }
 </script>
 <template>
-<span class="tag" @click="clickTag(tag)">{{ count > 0 ? `${tag} ${count}` : tag }}</span>
+    <span :class="`tag ${active ? 'active':''}`" @click="clickTag(tag)">{{ count > 0 ? `${tag} ${count}` : tag }}</span>
 </template>
 <style scoped>
 .tag{
@@ -29,6 +39,10 @@ const clickTag = (tag: string) => {
     font-weight: bold;
     display: inline-block;
     cursor: pointer;
+}
+.active {
+    background-color: var(--bg-color-light);
+    color: var(--theme-color);
 }
 .tag:hover{
     background-color: var(--bg-color-light);
