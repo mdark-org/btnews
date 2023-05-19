@@ -1,6 +1,3 @@
-
-<!-- 从 List 变成 TagSearcher -->
-<!-- Tag -->
 <script setup>
 import Tag from "./Tag.vue";
 import { useTagMap } from "@theme-hope/modules/blog/composables/index";
