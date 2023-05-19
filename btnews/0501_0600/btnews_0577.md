@@ -5,13 +5,10 @@ description: 今年1月，洛阳市委政研室发布文章，反思当地产业
 tag: ["洛阳","常州","企业"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1nM411L7Ff" height="500px"/>
-
-@tab YouTube
-<YouTube id="IOyIMQSd4Z8" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['IOyIMQSd4Z8','BV1nM411L7Ff']"
+/>
 
 大家好，2023年4月16日星期日，欢迎收看第577期睡前消息，请静静介绍话题。
 

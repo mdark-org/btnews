@@ -5,13 +5,10 @@ description: 过去几个月，网传美国动物园虐待大熊猫丫丫，短�
 tag: ["熊猫","丫丫"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1xk4y1J7Kc" height="500px"/>
-
-@tab YouTube
-<YouTube id="RCSLybwt_2U" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['RCSLybwt_2U','BV1xk4y1J7Kc']"
+/>
 
 大家好，今天是2023年4月23日，欢迎收看580期睡前消息。马督工出差了，由我来代班，下面请静静介绍话题。
 

@@ -4,14 +4,12 @@ date: 2023-03-31
 description: 分析正在兴起的“安吉游戏”教育模式。
 tag: ["中国","学习","教育","安吉游戏"]
 ---
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1wm4y1z7U2" height="500px"/>
 
-@tab YouTube
-<YouTube id="ErWnxbPYOVs" height="500px"/>
-:::
 
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['ErWnxbPYOVs','BV1wm4y1z7U2']"
+/>
 
 
 今年年初直播的时候，有观众提问，想让你结合“安吉游戏”话题谈谈社会化抚养。当时你说不了解这个概念，后续一定会分析。

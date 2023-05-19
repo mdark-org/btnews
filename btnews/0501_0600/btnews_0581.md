@@ -5,14 +5,10 @@ description: 近期资讯和往期内容的互动。4月12日，贵州省宣布�
 tag: ["贵州","地方债","俄罗斯"]
 ---
 
-
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1ea4y1V77d" height="500px"/>
-
-@tab YouTube
-<YouTube id="CedG2zw8AAU" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['CedG2zw8AAU','BV1ea4y1V77d']"
+/>
 
 大家好，2023年4月25日星期二，欢迎收看第581期睡前消息。我上周离开工作室好几天，回来发现积累了很多和往期节目相关的消息，可以和各位分享。
 

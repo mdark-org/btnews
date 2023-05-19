@@ -1,17 +1,14 @@
 ---
 title: 【睡前消息575】马斯克脑机接口，印尼的农业内卷
 date: 2023-04-11
-description: 1 介绍脑机接口技术发展现状 2 分析印尼的农业基础。
+description: 1.介绍脑机接口技术发展现状<br>2.分析印尼的农业基础。
 tag: ["印度尼西亚","脑机接口","农业"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1UL4112781" height="500px"/>
-
-@tab YouTube
-<YouTube id="ZiVAZ5Mb_2U" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['ZiVAZ5Mb_2U','BV1UL4112781']"
+/>
 
 大家好，2022年4月11日星期二，欢迎收看575期睡前消息，请静静介绍话题。
 

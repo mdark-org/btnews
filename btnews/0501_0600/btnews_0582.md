@@ -5,13 +5,10 @@ description: 分析路威酩轩老板贝尔纳·阿诺特成为世界首富的�
 tag: ["商业","世界首富"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1Co4y1L7tS" height="500px"/>
-
-@tab YouTube
-<YouTube id="jjEqCdY4k2U" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['jjEqCdY4k2U','BV1Co4y1L7tS']"
+/>
 
 大家好，2023年4月28日星期五，欢迎收看第582期睡前消息，请静静介绍话题。
 

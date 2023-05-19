@@ -5,14 +5,10 @@ description: 分析ChatGPT对社会的影响，以及在中国的发展前景。
 tag: ["AI","chatgpt","人工智能"]
 ---
 
-
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1Tm4y1m7ty" height="500px"/>
-
-@tab YouTube
-<YouTube id="hvLXeLwdp5g" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['hvLXeLwdp5g','BV1Tm4y1m7ty']"
+/>
 
 大家好，2023年4月9日星期日，欢迎收看574期睡前消息，请静静介绍话题。
 

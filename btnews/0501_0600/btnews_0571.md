@@ -1,17 +1,14 @@
 ---
 title: 【睡前消息571】肯尼亚求雨，求到埃塞复兴大坝
 date: 2023-04-02
-description: 1. 分析肯尼亚旱灾，介绍东非电力国际协作。2. 山东《老干部之家》杂志转手。
+description: 1. 分析肯尼亚旱灾，介绍东非电力国际协作。<br> 2. 山东《老干部之家》杂志转手。
 tag: ["肯尼亚","埃塞俄比亚","大坝","老干部之家"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1TX4y1d7rW" height="500px"/>
-
-@tab YouTube
-<YouTube id="Eg2yfBkEutc" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['Eg2yfBkEutc','BV1TX4y1d7rW']"
+/>
 
 大家好，2023年4月2日星期日，欢迎收看第571期睡前消息，请静静介绍话题。
 

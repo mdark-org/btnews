@@ -5,13 +5,10 @@ description: 分析碳排放统一市场的发展趋势。
 tag: ["蚂蚁集团","碳汇"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1po4y1p7rX" height="500px"/>
-
-@tab YouTube
-<YouTube id="3yvLO66h4uI" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['3yvLO66h4uI','BV1po4y1p7rX']"
+/>
 
 大家好，2023年4月7日星期五，欢迎收看573期睡前消息，请静静介绍话题。
 

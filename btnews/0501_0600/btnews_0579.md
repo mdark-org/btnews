@@ -5,13 +5,10 @@ description: 分析以色列司法改革引发的社会对抗。1996年以来，
 tag: ["以色列","国际"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV17L411Y78o" height="500px"/>
-
-@tab YouTube
-<YouTube id="a4a83TdHFgU" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['a4a83TdHFgU','BV17L411Y78o']"
+/>
 
 大家好，2023年4月21日星期五，欢迎收看第579期睡前消息，请静静介绍话题。
 

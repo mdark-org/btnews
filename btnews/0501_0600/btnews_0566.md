@@ -4,14 +4,11 @@ date: 2023-03-22
 description: 国家宗教局推出了线上宗教人员查询系统，大多数人理解为这是鉴定“假和尚”的工具，属于“电子度牒”。但是从1000年前开始，度牒的金融属性就已经超过了宗教属性。根据宪法规定的唯物主义原则，新中国的宗教管理政策可以再进步一些。
 tag: ["宗教","伊朗","管理"]
 ---
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1Yx4y1w7rH" height="500px"/>
 
-@tab YouTube
-<YouTube id="hxFgxPm3Yc0" height="500px"/>
-:::
-
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['hxFgxPm3Yc0','BV1Yx4y1w7rH']"
+/>
 
 
 大家好，2023年3月21日星期二，欢迎收看566期睡前消息，请静静介绍话题。

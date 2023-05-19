@@ -5,13 +5,10 @@ description: 2022年初的时候，中国大陆很少有人感染新冠肺炎，
 tag: ["新冠","保险","香港","疫情"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1QP411U75p" height="500px"/>
-
-@tab YouTube
-<YouTube id="p0FOL65y0fE" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['p0FOL65y0fE','BV1QP411U75p']"
+/>
 
 大家好，2023年4月14日星期五，欢迎收看第576期睡前消息，请静静介绍话题。
 

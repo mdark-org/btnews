@@ -5,13 +5,11 @@ description: 介绍佛州延续几十年的迪士尼乐园自治区。选举是�
 tag: ["迪士尼","LGBT"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV13L411X7H6" height="500px"/>
 
-@tab YouTube
-<YouTube id="-CXbqdInQY0" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['-CXbqdInQY0','BV13L411X7H6']"
+/>
 
 2月9日和10日，美国佛罗里达州参议院和众议院通过法案，宣布取消位于佛州奥兰多的迪士尼乐园自治权，27号，州长德桑蒂斯正式签署法案。
 

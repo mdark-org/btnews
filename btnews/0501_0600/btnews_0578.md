@@ -5,14 +5,10 @@ description: 尼日利亚2亿多人口，每年新生婴儿800多万。3月尼�
 tag: ["尼日利亚","竞选","选举"]
 ---
 
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1Vs4y1N7ZQ" height="500px"/>
-
-@tab YouTube
-<YouTube id="pE9HZec0WQg" height="500px"/>
-:::
-
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['pE9HZec0WQg','BV1Vs4y1N7ZQ']"
+/>
 
 大家好，2023年4月18日星期二，欢迎收看第578期睡前消息，请静静介绍话题。
 

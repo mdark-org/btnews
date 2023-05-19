@@ -4,13 +4,12 @@ date: 2023-03-26
 description: 1.分析韩国连续12个月贸易逆差的原因。2.从产业升级角度，分析“棒棒军保时捷同框”和“孔乙己文学”两个文化事件。
 tag: ["韩国","贸易逆差","孔乙己文学","贫富差距"]
 ---
-::: tabs
-@tab:active Bilibili
-<BiliBili bvid="BV1iM4y1m7pt" height="500px"/>
 
-@tab YouTube
-<YouTube id="ntcc0_qwKYo" height="500px"/>
-:::
+<VideoService 
+:provider="['Youtube','Bilibili']"
+:videoId = "['ntcc0_qwKYo','BV1iM4y1m7pt']"
+/>
+
 
 大家好，2023年3月26日星期日，欢迎收看第568期睡前消息， 请静静介绍话题。
 
