@@ -39,9 +39,9 @@ const get = async (res: SourceInfo) => {
     let title = getTitle(res.title)
     let id = title.slice(5,8).padStart(4, "0")
     let filename = `btnews_${id}.md`
-    let imgPathPrefix = path.resolve(`${__dirname}/../docs/.vuepress/public/`)
+    let imgPathPrefix = path.resolve(`${__dirname}/`)
     let imagePath = `/images/btnews/${getRangeById(id)}/${id}/`
-    let filePath = path.resolve(`${__dirname}/../docs//btnews/${getRangeById(id)}/${filename}`)
+    let filePath = path.resolve(`${__dirname}/btnews/${getRangeById(id)}/${filename}`)
 
 
     let md = await parserToMd(title,timestmapToStr(res.date),a,imgPathPrefix,imagePath)
