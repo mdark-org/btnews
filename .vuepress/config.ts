@@ -37,7 +37,6 @@ export default defineUserConfig({
     theme: hopeTheme({
         logo: "/images/favicon.png",
         hostname: "https://btnews.ktlab.io",
-        fullscreen: true,
         navbar: [
             {
                 text: "索引",
