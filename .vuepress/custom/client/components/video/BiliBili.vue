@@ -9,7 +9,7 @@
             default: "0"
         },
     })
-    const src = `http://player.bilibili.com/player.html?bvid=${id}&autoplay=0&t=${start}`
+    const src = `https://player.bilibili.com/player.html?bvid=${id}&autoplay=0&t=${start}`
 </script>
 <template>
         <iframe

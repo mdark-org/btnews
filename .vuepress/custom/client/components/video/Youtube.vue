@@ -10,7 +10,7 @@
         },
     })
     const src = `https://www.youtube-nocookie.com/embed/${id}?start=${start}`
-    console.log(src)
+    // console.log(src)
 </script>
 <template>
         <iframe
