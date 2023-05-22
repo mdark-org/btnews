@@ -6,8 +6,8 @@ tag: ["肯尼亚","埃塞俄比亚","大坝","老干部之家"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['Eg2yfBkEutc','BV1TX4y1d7rW']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7217081927172850188','Eg2yfBkEutc','BV1TX4y1d7rW']"
 />
 
 大家好，2023年4月2日星期日，欢迎收看第571期睡前消息，请静静介绍话题。

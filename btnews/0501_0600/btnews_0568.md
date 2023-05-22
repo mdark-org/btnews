@@ -6,8 +6,8 @@ tag: ["韩国","贸易逆差","孔乙己文学","贫富差距"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['ntcc0_qwKYo','BV1iM4y1m7pt']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7214831684250927619','ntcc0_qwKYo','BV1iM4y1m7pt']"
 />
 
 

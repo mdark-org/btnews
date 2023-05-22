@@ -6,8 +6,8 @@ tag: ["AI","chatgpt","人工智能"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['hvLXeLwdp5g','BV1Tm4y1m7ty']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7219894137355502117','hvLXeLwdp5g','BV1Tm4y1m7ty']"
 />
 
 大家好，2023年4月9日星期日，欢迎收看574期睡前消息，请静静介绍话题。

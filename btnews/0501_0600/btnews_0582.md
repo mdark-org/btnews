@@ -6,8 +6,8 @@ tag: ["商业","世界首富"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['jjEqCdY4k2U','BV1Co4y1L7tS']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7227029388657852967','jjEqCdY4k2U','BV1Co4y1L7tS']"
 />
 
 大家好，2023年4月28日星期五，欢迎收看第582期睡前消息，请静静介绍话题。

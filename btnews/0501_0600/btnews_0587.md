@@ -6,8 +6,8 @@ tag: ["贸易壁垒","台湾"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['iJeMaq_HpDU','BV1ba4y1g7wv']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7231178347081007653','iJeMaq_HpDU','BV1ba4y1g7wv']"
 />
 
 大家好，2023年5月9日星期二，欢迎收看587期睡前消息，请静静介绍话题。

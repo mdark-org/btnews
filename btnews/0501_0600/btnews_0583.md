@@ -6,8 +6,8 @@ tag: ["火箭","融资"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['e77-6hTjQhk','BV1oX4y1m71b']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7227741252962222649','e77-6hTjQhk','BV1oX4y1m71b']"
 />
 
 大家好，2023年4月30日星期日，欢迎收看583睡前消息，请静静介绍话题。

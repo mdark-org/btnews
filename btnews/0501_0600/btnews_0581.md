@@ -6,8 +6,8 @@ tag: ["贵州","地方债","俄罗斯"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['CedG2zw8AAU','BV1ea4y1V77d']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7225982450449515065','CedG2zw8AAU','BV1ea4y1V77d']"
 />
 
 大家好，2023年4月25日星期二，欢迎收看第581期睡前消息。我上周离开工作室好几天，回来发现积累了很多和往期节目相关的消息，可以和各位分享。

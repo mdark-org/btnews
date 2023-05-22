@@ -8,8 +8,8 @@ tag: ["南阳","中药", "襄阳"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['ZbAv8El8mv4','BV1js4y137Gf']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7228219775380357665','ZbAv8El8mv4','BV1js4y137Gf']"
 />
 
 

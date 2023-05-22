@@ -7,8 +7,8 @@ tag: ["中国","学习","教育","安吉游戏"]
 
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['ErWnxbPYOVs','BV1wm4y1z7U2']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7216686249216901684','ErWnxbPYOVs','BV1wm4y1z7U2']"
 />
 
 

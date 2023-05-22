@@ -6,8 +6,8 @@ tag: ['社区','社区自治']
 ---
 
 <VideoService 
-:provider="['Bilibili','Youtube']"
-:videoId = "['BV11h4y1x7YL','4YwQlaZA5O4']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7235980328929034767','4YwQlaZA5O4','BV11h4y1x7YL']"
 />
 
 大家好，欢迎各位老观众回到睡前消息，今天是2023年5月21日星期日，第592期节目。请静静介绍话题。

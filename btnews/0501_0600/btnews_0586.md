@@ -5,8 +5,8 @@ description: 纪念博士将军涂通今。截止2023年，健在红军不到20�
 tag: ["历史","科研"]
 ---
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['JbAJStrMujM','BV11c411N7is']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7230404569401033249','JbAJStrMujM','BV11c411N7is']"
 />
 
 大家好，2023年5月7日星期日，欢迎收看586期睡前消息。

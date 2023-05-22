@@ -7,8 +7,8 @@ tag: ["迪士尼","LGBT"]
 
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['-CXbqdInQY0','BV13L411X7H6']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7215544816153657871','-CXbqdInQY0','BV13L411X7H6']"
 />
 
 2月9日和10日，美国佛罗里达州参议院和众议院通过法案，宣布取消位于佛州奥兰多的迪士尼乐园自治权，27号，州长德桑蒂斯正式签署法案。

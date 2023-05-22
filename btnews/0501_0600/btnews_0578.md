@@ -6,8 +6,8 @@ tag: ["尼日利亚","竞选","选举"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['pE9HZec0WQg','BV1Vs4y1N7ZQ']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7223254064996614668','pE9HZec0WQg','BV1Vs4y1N7ZQ']"
 />
 
 大家好，2023年4月18日星期二，欢迎收看第578期睡前消息，请静静介绍话题。

@@ -6,8 +6,8 @@ tag: ["洛阳","常州","企业"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['IOyIMQSd4Z8','BV1nM411L7Ff']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7222583059697107459','IOyIMQSd4Z8','BV1nM411L7Ff']"
 />
 
 大家好，2023年4月16日星期日，欢迎收看第577期睡前消息，请静静介绍话题。

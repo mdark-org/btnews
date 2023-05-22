@@ -6,8 +6,8 @@ tag: ["蚂蚁集团","碳汇"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['3yvLO66h4uI','BV1po4y1p7rX']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7219282003386958369','3yvLO66h4uI','BV1po4y1p7rX']"
 />
 
 大家好，2023年4月7日星期五，欢迎收看573期睡前消息，请静静介绍话题。

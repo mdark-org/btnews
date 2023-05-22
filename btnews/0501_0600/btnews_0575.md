@@ -6,8 +6,8 @@ tag: ["印度尼西亚","脑机接口","农业"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['ZiVAZ5Mb_2U','BV1UL4112781']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7220771349994996283','ZiVAZ5Mb_2U','BV1UL4112781']"
 />
 
 大家好，2022年4月11日星期二，欢迎收看575期睡前消息，请静静介绍话题。

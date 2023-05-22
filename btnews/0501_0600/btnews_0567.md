@@ -6,8 +6,8 @@ tag: ["美国","世界历史","工业革命","国运"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['_v4MND5kRzg','BV1cM4y1z7Cs']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7214109290234282531','_v4MND5kRzg','BV1cM4y1z7Cs']"
 />
 
 

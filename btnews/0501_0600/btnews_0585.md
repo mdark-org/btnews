@@ -5,8 +5,8 @@ description: 1 分析中非中国金矿屠杀案。2 介绍瓦格纳集团在非
 tag: ["瓦格纳","俄罗斯", "战争", "中非"]
 ---
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['othxG-RO_j8','BV1js4y137Gf']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7229661795966059046','othxG-RO_j8','BV1js4y137Gf']"
 />
 
 大家好，2023年5月5日星期五，欢迎收看585期睡前消息，请静静介绍话题。

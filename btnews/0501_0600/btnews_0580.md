@@ -6,8 +6,8 @@ tag: ["熊猫","丫丫"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['RCSLybwt_2U','BV1xk4y1J7Kc']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7225201190521274938','RCSLybwt_2U','BV1xk4y1J7Kc']"
 />
 
 大家好，今天是2023年4月23日，欢迎收看580期睡前消息。马督工出差了，由我来代班，下面请静静介绍话题。

@@ -6,8 +6,8 @@ tag: ["以色列","国际"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['a4a83TdHFgU','BV17L411Y78o']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7224416793912148513','a4a83TdHFgU','BV17L411Y78o']"
 />
 
 大家好，2023年4月21日星期五，欢迎收看第579期睡前消息，请静静介绍话题。

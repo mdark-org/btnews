@@ -6,8 +6,8 @@ tag: ["宗教","伊朗","管理"]
 ---
 
 <VideoService 
-:provider="['Youtube','Bilibili']"
-:videoId = "['hxFgxPm3Yc0','BV1Yx4y1w7rH']"
+:provider="['XiGua','Youtube','Bilibili']"
+:videoId = "['7212902026995302968','hxFgxPm3Yc0','BV1Yx4y1w7rH']"
 />
 
 
