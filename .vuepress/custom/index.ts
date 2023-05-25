@@ -49,18 +49,18 @@ export const customPlugin = {
                 __dirname,
                 "./client/components/blog-replace/ArticleList.vue"
               ),
-              "@theme-hope/modules/blog/components/InfoPanel": path.resolve(
-                  __dirname,
-                  "./client/components/blog-replace/InfoPanel.vue"
-                ),
-                "@theme-hope/modules/blog/components/InfoList": path.resolve(
-                    __dirname,
-                    "./client/components/blog-replace/InfoList.vue"
-                  ),
-                  "@theme-hope/modules/blog/components/BloggerInfo": path.resolve(
-                      __dirname,
-                      "./client/components/blog-replace/BloggerInfo.vue"
-                    )
+            "@theme-hope/modules/blog/components/InfoPanel": path.resolve(
+                __dirname,
+                "./client/components/blog-replace/InfoPanel.vue"
+            ),
+            "@theme-hope/modules/blog/components/InfoList": path.resolve(
+                __dirname,
+                "./client/components/blog-replace/InfoList.vue"
+            ),
+            "@theme-hope/modules/blog/components/BloggerInfo": path.resolve(
+                __dirname,
+                "./client/components/blog-replace/BloggerInfo.vue"
+            )
           },
 
   }

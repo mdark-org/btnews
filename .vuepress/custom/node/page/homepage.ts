@@ -17,7 +17,7 @@ export const prepareHomePage = async (app): Promise<void> => {
         title: "首页",
         description: "睡前消息文稿合集",
         home:true,
-        heroImage: "/images/favicon.png",
+        heroImage: "/images/index.png",
         heroText: "睡前消息文稿合集",
         tagline: " ",
         recentPage: homePages,
