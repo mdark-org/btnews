@@ -5,7 +5,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
-import {archiveNavbar} from "./categoryArchiveList";
+import {archiveNavbar} from "./archives";
 import { sidebarCfg } from "./sidebar";
 import { customPlugin } from './custom';
 export default defineUserConfig({

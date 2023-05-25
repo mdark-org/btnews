@@ -5,7 +5,7 @@ import * as util from "./node/utils";
 import { prepareHomePage } from './node/page/homepage';
 import { getDirname, path } from "@vuepress/utils";
 
-import {categoryArchiveList} from "../categoryArchiveList";
+import {archives} from '../archives';
 
 const __dirname = getDirname(import.meta.url);
 export const customPlugin = { 
@@ -31,7 +31,7 @@ export const customPlugin = {
             // 生成年月视图的 page
             await prepareDatePages("btnews",app)
             // 生成合集 page
-            await prepareArchivePages(categoryArchiveList,app)
+            await prepareArchivePages(archives,app)
             await prepareHomePage(app)
         },
         clientConfigFile: path.join(__dirname, "./client/client.ts"),

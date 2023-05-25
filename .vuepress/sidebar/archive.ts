@@ -1,5 +1,5 @@
 import {contentMap} from "../scanfile";
-import {categoryArchiveList} from "../categoryArchiveList";
+import {archives} from "../archives";
 import path from "path"
 
 const getIdFromFilename = (filename):string|undefined => {
@@ -30,7 +30,7 @@ const generateArchiveSideBar = (archive,category) => {
 }
 
 export const archiveSideBar = () =>{
-    return categoryArchiveList.map(category => {
+    return archives.map(category => {
         return {
             text: category.category,
             children: category.archiveList
