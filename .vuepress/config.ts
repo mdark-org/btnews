@@ -91,6 +91,10 @@ export default defineUserConfig({
             comment: {
                 provider: "Waline",
                 serverURL: "https://waline-btnews.vercel.app/",
+                login:'disable',
+                emoji: ['//unpkg.com/@waline/emojis@1.1.0/weibo','//unpkg.com/@waline/emojis@1.1.0/weibo',
+                        '//unpkg.com/@waline/emojis@1.1.0/bilibili','//unpkg.com/@waline/emojis@1.1.0/tieba',
+                        '//unpkg.com/@waline/emojis@1.1.0/qq']
             },
             autoCatalog:{
                 shouldIndex(page) {

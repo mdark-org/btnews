@@ -23,6 +23,7 @@ export const customPlugin = {
                 id = id?.replace("_", ".")
                 pageOptions.frontmatter.permalink = `/btnews/idx/${id}/`
                 pageOptions.frontmatter.idx = id
+                pageOptions.frontmatter.commentID = `btnews/${id}`
                 pageOptions.frontmatter.type = "index"
             }
         },

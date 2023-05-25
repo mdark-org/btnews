@@ -18,6 +18,8 @@ export const prepareDatePages = async (category,app): Promise<void> => {
         let y = date.getFullYear();
         frontmatter.permalink = `/${category}/${y}/${(m<=9 ? '0' + m : m)}/${(d <= 9 ? '0' + d : d)}/`
         frontmatter.type = "date"
+        frontmatter.commentID = frontmatter?.commentID
+
         let p = await createPage(app, {
             path: frontmatter.permalink,
             frontmatter: frontmatter,

@@ -21,6 +21,7 @@ export const prepareArchivePages = async (categoryArchiveList, app): Promise<voi
                 frontmatter.permalink = `/${category.category}/archive/${archive.name}/${id}`
                 frontmatter.type = "archive"
                 frontmatter.archive = archive.name
+                frontmatter.commentID = frontmatter?.commentID
                 pageToBeGenerated.push({
                     path: frontmatter.permalink,
                     frontmatter: frontmatter,
