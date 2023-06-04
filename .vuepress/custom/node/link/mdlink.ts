@@ -25,10 +25,10 @@ export const replaceLink =  function (link, env, token, htmlToken) {
         return link
     }
     if (env.frontmatter.type === "index") {
-        return `/${category}/${id}/`
+        return `/${category}/idx/${id}/`
     }
     if (env.frontmatter.type === "archive") {
-        return `/${category}/${id}/`
+        return `/${category}/idx/${id}/`
     }
     let date = file.frontmatter.date as Date
     if (!date) {
