@@ -134,9 +134,9 @@ export default defineUserConfig({
             id: "G-Q682X1H6PN",
             debug: false
           }),
-        searchProPlugin({
-            indexContent: true,
-        }),
+        // searchProPlugin({
+        //     indexContent: true,
+        // }),
         customPlugin,
     ],
 })

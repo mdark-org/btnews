@@ -5488,7 +5488,7 @@ vuepress-plugin-sass-palette@2.0.0-beta.221:
     sass "^1.62.1"
     vuepress-shared "2.0.0-beta.221"
 
-vuepress-plugin-search-pro@^2.0.0-beta.212:
+vuepress-plugin-search-pro@^2.0.0-beta.221:
   version "2.0.0-beta.221"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-search-pro/-/vuepress-plugin-search-pro-2.0.0-beta.221.tgz#a031fb70178d19919891412a9e7e7cc6440ee5af"
   integrity sha512-/Tyg5hi+njp8/ikStoklwO7W9YLMfxHKwq4KG/dSHNu2pnphE2HMnErt6RNl5H9eC3m/NLFbzuv2N8VXfzyPBQ==
@@ -5524,7 +5524,7 @@ vuepress-plugin-sitemap2@2.0.0-beta.221:
     sitemap "^7.1.1"
     vuepress-shared "2.0.0-beta.221"
 
-vuepress-shared@2.0.0-beta.221, vuepress-shared@^2.0.0-beta.212:
+vuepress-shared@2.0.0-beta.221, vuepress-shared@^2.0.0-beta.221:
   version "2.0.0-beta.221"
   resolved "https://registry.yarnpkg.com/vuepress-shared/-/vuepress-shared-2.0.0-beta.221.tgz#ccab332dc596c7e82f55f950c66f2b7e75c08133"
   integrity sha512-Hcmp9BH8Fn/Ohpv+Q3iMe16Acq7RFq4hHPMjP0UT6WBmhL0A09chKlEhRUV6BQAZ4FIYixYqUeU74AnmQGy6og==
@@ -5543,7 +5543,7 @@ vuepress-shared@2.0.0-beta.221, vuepress-shared@^2.0.0-beta.212:
     vue "^3.3.4"
     vue-router "^4.2.2"
 
-vuepress-theme-hope@^2.0.0-beta.212:
+vuepress-theme-hope@^2.0.0-beta.221:
   version "2.0.0-beta.221"
   resolved "https://registry.yarnpkg.com/vuepress-theme-hope/-/vuepress-theme-hope-2.0.0-beta.221.tgz#afd47abf818e02eb58b109b628ee456e9d7c872b"
   integrity sha512-o67vfvvnXYC5xP3Xr4Y91Uf9JCR2fBAAmwOrkDcoKPnA5yieO2vLF+sSAJigQkNa23dg9iXEj14Kl1Bwl6qoFA==
