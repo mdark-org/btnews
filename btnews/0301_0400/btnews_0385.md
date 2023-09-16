@@ -22,7 +22,7 @@ date: 2022-01-28
 
 我打算先选张艺谋拍的《狙击手》，比较符合我80后中年的身份。
 
-![](/images/btnews/0301_0400/0385/c57ea009-4e9c-4037-a4fd-ea3d299fb7c1.jpg)
+![](/images/btnews/0301_0400/0385/c57ea009-4e9c-4037-a4fd-ea3d299fb7c1.webp)
 
 
 
@@ -44,7 +44,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/195288db-132a-4eb7-9e3c-da5fb1d3eb6b.jpg)
+![](/images/btnews/0301_0400/0385/195288db-132a-4eb7-9e3c-da5fb1d3eb6b.webp)
 
 
 
@@ -56,7 +56,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/6fa4612c-ed50-478e-ace6-4196417711f4.jpg)
+![](/images/btnews/0301_0400/0385/6fa4612c-ed50-478e-ace6-4196417711f4.webp)
 
 
 
@@ -80,7 +80,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/6c20b89b-4fd8-4ea2-8338-dc6b67f7b236.png)
+![](/images/btnews/0301_0400/0385/6c20b89b-4fd8-4ea2-8338-dc6b67f7b236.webp)
 
 ‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍
 
@@ -98,7 +98,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/d492883a-e164-4ee7-bfeb-e261877ccb07.png)
+![](/images/btnews/0301_0400/0385/d492883a-e164-4ee7-bfeb-e261877ccb07.webp)
 
 
 
@@ -114,7 +114,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/172f2c91-3721-43e8-b3b0-3f703cbda526.jpg)
+![](/images/btnews/0301_0400/0385/172f2c91-3721-43e8-b3b0-3f703cbda526.webp)
 
 
 
@@ -126,7 +126,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/4db1d224-4065-4847-8d65-220cea16dd70.jpg)
+![](/images/btnews/0301_0400/0385/4db1d224-4065-4847-8d65-220cea16dd70.webp)
 
 
 
@@ -150,7 +150,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/24145648-e412-4a89-8487-29a5624773b9.png)
+![](/images/btnews/0301_0400/0385/24145648-e412-4a89-8487-29a5624773b9.webp)
 
 
 
@@ -166,7 +166,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/d1905f7d-307c-4d32-a98e-95b37e2176b6.png)
+![](/images/btnews/0301_0400/0385/d1905f7d-307c-4d32-a98e-95b37e2176b6.webp)
 
 
 
@@ -178,7 +178,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/42c39769-bdd0-45d8-b050-6c15f45b7206.png)
+![](/images/btnews/0301_0400/0385/42c39769-bdd0-45d8-b050-6c15f45b7206.webp)
 
 
 
@@ -202,7 +202,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/56d45a24-cc7c-4964-a7d7-157469f4830f.png)
+![](/images/btnews/0301_0400/0385/56d45a24-cc7c-4964-a7d7-157469f4830f.webp)
 
 
 
@@ -226,7 +226,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/7303dcd0-abf8-46bf-b95f-c523a26e95f0.png)
+![](/images/btnews/0301_0400/0385/7303dcd0-abf8-46bf-b95f-c523a26e95f0.webp)
 
 
 
@@ -242,7 +242,7 @@ date: 2022-01-28
 
  
 
-![](/images/btnews/0301_0400/0385/ebfaedaa-5f31-477b-9f1b-f12005c53949.png)
+![](/images/btnews/0301_0400/0385/ebfaedaa-5f31-477b-9f1b-f12005c53949.webp)
 
 
 
@@ -256,7 +256,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/f5d214b6-e065-41c7-ad79-7a8accef5fda.png)
+![](/images/btnews/0301_0400/0385/f5d214b6-e065-41c7-ad79-7a8accef5fda.webp)
 
 
 
@@ -268,7 +268,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/665454ab-ad8c-453f-8c7a-cf9d17f1b8f1.png)
+![](/images/btnews/0301_0400/0385/665454ab-ad8c-453f-8c7a-cf9d17f1b8f1.webp)
 
 
 
@@ -284,7 +284,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/d95fad92-46b5-4fa1-b1ed-c43fb7a9cb32.png)
+![](/images/btnews/0301_0400/0385/d95fad92-46b5-4fa1-b1ed-c43fb7a9cb32.webp)
 
 
 
@@ -296,7 +296,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/cc40920e-c52c-4977-b023-f0425100327e.png)
+![](/images/btnews/0301_0400/0385/cc40920e-c52c-4977-b023-f0425100327e.webp)
 
 
 
@@ -306,7 +306,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/6f13108a-e533-4d7e-b24d-3a1c46e8265f.png)
+![](/images/btnews/0301_0400/0385/6f13108a-e533-4d7e-b24d-3a1c46e8265f.webp)
 
 
 
@@ -324,7 +324,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/006a3b37-10c1-4486-ace2-c7bcad7167c4.png)
+![](/images/btnews/0301_0400/0385/006a3b37-10c1-4486-ace2-c7bcad7167c4.webp)
 
 
 
@@ -340,7 +340,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/afdad287-5acb-4b6f-a2a1-054b5dd81d72.png)
+![](/images/btnews/0301_0400/0385/afdad287-5acb-4b6f-a2a1-054b5dd81d72.webp)
 
 
 
@@ -352,7 +352,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/765d2c66-7398-4080-bd8b-0f81c114b9fb.png)
+![](/images/btnews/0301_0400/0385/765d2c66-7398-4080-bd8b-0f81c114b9fb.webp)
 
 
 
@@ -374,7 +374,7 @@ date: 2022-01-28
 
 因为鹤岗市的财务信息透明度到此为止，我们找不到更清晰的明细资料，无法测算鹤岗市到底在暂付款里挂了多少债务。不过我们找到了鹤岗市预算资金的资产负债表。里面有两个科目：“借出款项”和“其他应收款”相当可疑，两项金额合计，2020年末是96.6亿。
 
-![](/images/btnews/0301_0400/0385/11f2c6c3-cdfd-4661-9a39-eda6cd9df68b.png)
+![](/images/btnews/0301_0400/0385/11f2c6c3-cdfd-4661-9a39-eda6cd9df68b.webp)
 
 
 
@@ -386,7 +386,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/170091e7-af73-421b-a36e-37e155c93fd0.png)
+![](/images/btnews/0301_0400/0385/170091e7-af73-421b-a36e-37e155c93fd0.webp)
 
 
 
@@ -402,7 +402,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/7ba72a3d-19e1-4b8f-b1d6-ee210057ba2a.png)
+![](/images/btnews/0301_0400/0385/7ba72a3d-19e1-4b8f-b1d6-ee210057ba2a.webp)
 
 
 
@@ -414,13 +414,13 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/7387a15c-37c5-460d-9711-0ec44ed89ba6.png)
+![](/images/btnews/0301_0400/0385/7387a15c-37c5-460d-9711-0ec44ed89ba6.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0385/7c03bc96-8f83-4577-a8ad-65f25da46b6b.png)
+![](/images/btnews/0301_0400/0385/7c03bc96-8f83-4577-a8ad-65f25da46b6b.webp)
 
 
 
@@ -438,7 +438,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/07cd8a53-07ef-4352-a906-cc19f683659b.png)
+![](/images/btnews/0301_0400/0385/07cd8a53-07ef-4352-a906-cc19f683659b.webp)
 
 
 
@@ -458,7 +458,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/70117662-d43e-42ac-bc01-7e42bc0da6b9.png)
+![](/images/btnews/0301_0400/0385/70117662-d43e-42ac-bc01-7e42bc0da6b9.webp)
 
 
 
@@ -480,7 +480,7 @@ date: 2022-01-28
 
 这意味着市级财政还有动员能力，类似打仗的时候本级单位还有预备队。如果真出现局部危机，县政府资金链断掉，可以由市财政拿一些钱定向支援县政府，先不管外面的债，起码保证基本民生服务人员有工资，能维持社会秩序。所以国家暂时没有把黔南州这种地方列入财政重整计划。
 
-![](/images/btnews/0301_0400/0385/ac7a528c-11ad-43d4-a8e1-4d8568bb430a.png)
+![](/images/btnews/0301_0400/0385/ac7a528c-11ad-43d4-a8e1-4d8568bb430a.webp)
 
 
 
@@ -520,7 +520,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/ae4ce1d4-cb0b-4e08-bb5f-5a44daf28faa.png)
+![](/images/btnews/0301_0400/0385/ae4ce1d4-cb0b-4e08-bb5f-5a44daf28faa.webp)
 
 
 
@@ -538,7 +538,7 @@ date: 2022-01-28
 
 在研究花钱之前，我们先看一下同期鹤岗市财政在本地收钱的情况。
 
-![](/images/btnews/0301_0400/0385/eea9a2ff-38d7-4794-af24-87407605e599.png)
+![](/images/btnews/0301_0400/0385/eea9a2ff-38d7-4794-af24-87407605e599.webp)
 
 
 
@@ -566,17 +566,17 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/5f892a20-5acb-4867-bc62-10228efc52bc.png)
+![](/images/btnews/0301_0400/0385/5f892a20-5acb-4867-bc62-10228efc52bc.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0385/30f3be33-5121-4776-afda-7acbd4e9eef4.png)
+![](/images/btnews/0301_0400/0385/30f3be33-5121-4776-afda-7acbd4e9eef4.webp)
 
 
 
-![](/images/btnews/0301_0400/0385/41d7e5e5-d245-4fa5-a886-f9bf314520e2.png)
+![](/images/btnews/0301_0400/0385/41d7e5e5-d245-4fa5-a886-f9bf314520e2.webp)
 
 
 
@@ -614,7 +614,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/3b4bee54-f198-4b4d-a2d8-cabbe2531650.png)
+![](/images/btnews/0301_0400/0385/3b4bee54-f198-4b4d-a2d8-cabbe2531650.webp)
 
 
 
@@ -632,7 +632,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/f0bba48d-6bd9-4e47-a747-db1a94dc167f.png)
+![](/images/btnews/0301_0400/0385/f0bba48d-6bd9-4e47-a747-db1a94dc167f.webp)
 
 
 
@@ -654,7 +654,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/db2696b5-54f5-4346-a53d-0faa7aad7259.png)
+![](/images/btnews/0301_0400/0385/db2696b5-54f5-4346-a53d-0faa7aad7259.webp)
 
 
 
@@ -668,7 +668,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/97c6deda-2c07-4fdb-88af-aae40a1e0fef.png)
+![](/images/btnews/0301_0400/0385/97c6deda-2c07-4fdb-88af-aae40a1e0fef.webp)
 
 
 
@@ -686,7 +686,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/4c003d99-58b0-4015-b4dc-b43126585acc.png)
+![](/images/btnews/0301_0400/0385/4c003d99-58b0-4015-b4dc-b43126585acc.webp)
 
 
 
@@ -708,7 +708,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/c3aa4167-eac4-4b09-9dc1-d0c6f6b0a2b4.png)
+![](/images/btnews/0301_0400/0385/c3aa4167-eac4-4b09-9dc1-d0c6f6b0a2b4.webp)
 
 
 
@@ -730,7 +730,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/590f96d5-beef-4918-b8fc-af253bfb6a63.jpg)
+![](/images/btnews/0301_0400/0385/590f96d5-beef-4918-b8fc-af253bfb6a63.webp)
 
 
 
@@ -752,7 +752,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/e97c05d1-6ae7-4669-b0ff-5e5968af1c8f.png)
+![](/images/btnews/0301_0400/0385/e97c05d1-6ae7-4669-b0ff-5e5968af1c8f.webp)
 
 
 
@@ -762,13 +762,13 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/4dc398d1-3f9d-4785-8ee8-ca62697f17e6.png)
+![](/images/btnews/0301_0400/0385/4dc398d1-3f9d-4785-8ee8-ca62697f17e6.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0385/550d0241-c217-47f3-84c3-de3ac7bf93f1.jpg)
+![](/images/btnews/0301_0400/0385/550d0241-c217-47f3-84c3-de3ac7bf93f1.webp)
 
 
 
@@ -786,7 +786,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/204c30a7-fe5b-478c-8ba5-eb00ae36d784.png)
+![](/images/btnews/0301_0400/0385/204c30a7-fe5b-478c-8ba5-eb00ae36d784.webp)
 
 
 
@@ -794,7 +794,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/b31531f5-c3cf-491e-a7cf-81a3f1e28e7f.png)
+![](/images/btnews/0301_0400/0385/b31531f5-c3cf-491e-a7cf-81a3f1e28e7f.webp)
 
 
 
@@ -814,7 +814,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/3eab6cd5-0733-46ae-944f-82e99e6c416b.png)
+![](/images/btnews/0301_0400/0385/3eab6cd5-0733-46ae-944f-82e99e6c416b.webp)
 
 
 > [我市水上健身中心项目投入运营](https://m.thepaper.cn/baijiahao_5395965)
@@ -822,7 +822,7 @@ date: 2022-01-28
 
 
 
-![](/images/btnews/0301_0400/0385/51dbb5c9-43bd-4e42-919a-12abe4bd5c6a.png)
+![](/images/btnews/0301_0400/0385/51dbb5c9-43bd-4e42-919a-12abe4bd5c6a.webp)
 
 
 
@@ -832,7 +832,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
  
 
-![](/images/btnews/0301_0400/0385/f21d1bd1-c489-4d14-9793-3022501bfca3.png)
+![](/images/btnews/0301_0400/0385/f21d1bd1-c489-4d14-9793-3022501bfca3.webp)
 
 
 
@@ -848,7 +848,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/04e69181-8854-40e3-a8cb-cfd4f0ae0f8c.png)
+![](/images/btnews/0301_0400/0385/04e69181-8854-40e3-a8cb-cfd4f0ae0f8c.webp)
 
 
 
@@ -878,7 +878,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/0c29f8f9-2b5c-4856-b0f9-7d1a6549d15a.png)
+![](/images/btnews/0301_0400/0385/0c29f8f9-2b5c-4856-b0f9-7d1a6549d15a.webp)
 
 
 
@@ -926,7 +926,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/356ee50d-426b-4139-92ea-ba2e370aec1d.png)
+![](/images/btnews/0301_0400/0385/356ee50d-426b-4139-92ea-ba2e370aec1d.webp)
 
 
 
@@ -944,7 +944,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/91bb7afe-7f20-453c-a1dd-e5bb6023e9d6.png)
+![](/images/btnews/0301_0400/0385/91bb7afe-7f20-453c-a1dd-e5bb6023e9d6.webp)
 
 
 
@@ -962,7 +962,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/4ee32511-ba60-4d55-9a6f-b91f9adf33e8.png)
+![](/images/btnews/0301_0400/0385/4ee32511-ba60-4d55-9a6f-b91f9adf33e8.webp)
 
 
 
@@ -1000,7 +1000,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/d543a53e-6d68-4d58-bb79-afe0cf5c107a.png)
+![](/images/btnews/0301_0400/0385/d543a53e-6d68-4d58-bb79-afe0cf5c107a.webp)
 
 
 
@@ -1018,7 +1018,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/0c21de1a-4193-4095-a826-b2800d696e0a.jpg)
+![](/images/btnews/0301_0400/0385/0c21de1a-4193-4095-a826-b2800d696e0a.webp)
 
 
 
@@ -1048,7 +1048,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/73ef71b9-593b-4f3a-a4c6-7d4549f3cbd3.png)
+![](/images/btnews/0301_0400/0385/73ef71b9-593b-4f3a-a4c6-7d4549f3cbd3.webp)
 
 
 
@@ -1062,7 +1062,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/222358ac-75da-426f-b79c-3725c77f7069.png)
+![](/images/btnews/0301_0400/0385/222358ac-75da-426f-b79c-3725c77f7069.webp)
 
 
 
@@ -1072,7 +1072,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/d63a2b30-91ad-4b4d-9734-364f96bea89d.png)
+![](/images/btnews/0301_0400/0385/d63a2b30-91ad-4b4d-9734-364f96bea89d.webp)
 
 
 
@@ -1098,7 +1098,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/168b89be-2cd9-4289-bf7f-b7bd111f0990.png)
+![](/images/btnews/0301_0400/0385/168b89be-2cd9-4289-bf7f-b7bd111f0990.webp)
 
 
 
@@ -1110,7 +1110,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/16705792-b560-4791-bad7-6e49d241155b.png)
+![](/images/btnews/0301_0400/0385/16705792-b560-4791-bad7-6e49d241155b.webp)
 
 
 
@@ -1126,7 +1126,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/712c6377-ecf9-4d81-8b04-a4d1e0bc9348.png)
+![](/images/btnews/0301_0400/0385/712c6377-ecf9-4d81-8b04-a4d1e0bc9348.webp)
 
 
 
@@ -1144,7 +1144,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/6ed1f3a8-0b34-4599-9174-11f104b14a51.png)
+![](/images/btnews/0301_0400/0385/6ed1f3a8-0b34-4599-9174-11f104b14a51.webp)
 
 
 
@@ -1214,7 +1214,7 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/f40ad3ef-2f24-4932-8f8e-3fd916b2ee59.jpg)
+![](/images/btnews/0301_0400/0385/f40ad3ef-2f24-4932-8f8e-3fd916b2ee59.webp)
 
 
 
@@ -1222,5 +1222,5 @@ http://stock.jrj.com.cn/hotstock/2017/07/17080022755878.shtml
 
 
 
-![](/images/btnews/0301_0400/0385/87477b48-5589-475d-b577-020c68cff566.jpg)
+![](/images/btnews/0301_0400/0385/87477b48-5589-475d-b577-020c68cff566.webp)
 

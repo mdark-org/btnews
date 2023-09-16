@@ -6,7 +6,7 @@ date: 2022-05-01
 点击下图观看视频
 
 
-![](/images/btnews/0401_0500/0426/bf16e151-a1a7-439c-8976-a222d2668ce0.jpg)
+![](/images/btnews/0401_0500/0426/bf16e151-a1a7-439c-8976-a222d2668ce0.webp)
 
 大家好，2022年5月1日星期日，劳动节快乐，欢迎收看第426期睡前消息，请静静介绍话题。
 
@@ -16,11 +16,11 @@ date: 2022-05-01
 
 督工，美国国债利率超过中国国债，为什么算“倒挂”？
 
-![](/images/btnews/0401_0500/0426/92c39807-fbbb-4d85-ba3a-e9ecbde232ad.png)
+![](/images/btnews/0401_0500/0426/92c39807-fbbb-4d85-ba3a-e9ecbde232ad.webp)
 
 https://www.zaobao.com/realtime/china/story20220411-1261599
 
-![](/images/btnews/0401_0500/0426/56901330-205e-491b-84fa-3ed5b58fba71.png)
+![](/images/btnews/0401_0500/0426/56901330-205e-491b-84fa-3ed5b58fba71.webp)
 
 https://www.financialnews.com.cn/gc/gz/202204/t20220414_244090.html
 
@@ -43,12 +43,12 @@ https://www.financialnews.com.cn/gc/gz/202204/t20220414_244090.html
 倒挂利率代表了市场上大多数投资者对经济前景的看法，所以利率倒挂之后，一般都有经济大衰退。今年3月末4月初，美国就暂时出现了10年期国债利率低于2年期国债的情况。
  
 
-![](/images/btnews/0401_0500/0426/52e29d2b-fb67-4063-a511-7fa7b7f6bde4.png)
+![](/images/btnews/0401_0500/0426/52e29d2b-fb67-4063-a511-7fa7b7f6bde4.webp)
 
 https://www.cnbc.com/2022/03/31/2-year-treasury-yield-tops-10-year-rate-a-yield-curve-inversion-that-could-signal-a-recession.html
  
 
-![](/images/btnews/0401_0500/0426/2be6a282-a885-46ed-962e-1d26e3f66134.png)
+![](/images/btnews/0401_0500/0426/2be6a282-a885-46ed-962e-1d26e3f66134.webp)
 
 美国2年期和10年期国债收益率曲线
 https://www.cnbc.com/2019/08/14/the-inverted-yield-curve-explained-and-what-it-means-for-your-money.html
@@ -65,7 +65,7 @@ https://www.cnbc.com/2019/08/14/the-inverted-yield-curve-explained-and-what-it-m
 
 同时，过去40年，包括房价在内的综合物价，中国通货膨胀率高于美国，这也导致资金认为未来的钱不如现在的钱有价值，必须索要更高的利息，才肯买国债。所以中国国债利率偏高。
 
-![](/images/btnews/0401_0500/0426/0e183e80-3a3d-4d98-9311-e1209c0f8788.png)
+![](/images/btnews/0401_0500/0426/0e183e80-3a3d-4d98-9311-e1209c0f8788.webp)
 
 
 
@@ -83,35 +83,35 @@ https://www.cnbc.com/2019/08/14/the-inverted-yield-curve-explained-and-what-it-m
 
 所谓利率，就是用“未来的钱”换“现在的钱”需要付出多少代价。市场上“现在的钱”多了，代价就会减少，利率就会降低。中国近期放出了更多“现在的钱”，所以出售中国国债越来越容易，可以用更低的利息卖出去。导致美国国债利率压倒了中国国债。
 
-![](/images/btnews/0401_0500/0426/17322e1e-3fa3-495e-a1fc-944363e8db4d.png)
+![](/images/btnews/0401_0500/0426/17322e1e-3fa3-495e-a1fc-944363e8db4d.webp)
 
 
 
 https://wallstreetcn.com/articles/3654452
  
 
-![](/images/btnews/0401_0500/0426/5d0592a9-1c65-4dac-aeb1-bc39f40153b0.png)
+![](/images/btnews/0401_0500/0426/5d0592a9-1c65-4dac-aeb1-bc39f40153b0.webp)
 
 http://www.xhby.net/fc/xwzx/202201/t20220117_7388379.shtml
  
 
-![](/images/btnews/0401_0500/0426/d0056f44-f59b-49a3-a8aa-7e3a3407851b.png)
+![](/images/btnews/0401_0500/0426/d0056f44-f59b-49a3-a8aa-7e3a3407851b.webp)
 
 http://www.xinhuanet.com/mrdx/2022-04/16/c_1310560967.htm
 
 
 从最近的趋势看，美联储内部目前主张加息的派别非常强硬，基本已经确定短期内继续加息。而中国面临近年来最艰难的宏观经济环境，除了继续撒钱之外，几乎没有其他选择，很可能选择全面降息，或者频繁定向降息。所以市场预期，中国“现在的钱”还会增加，而美国“现在的钱”会暂时减少，中国的国债可能还会连续出现利率低于美国的现象。
  
-![](/images/btnews/0401_0500/0426/bc09684f-76e8-4bb0-a453-5c04ca3ff3fa.png)
+![](/images/btnews/0401_0500/0426/bc09684f-76e8-4bb0-a453-5c04ca3ff3fa.webp)
 
 十年期美债收益率走势图：Investing.com
 https://www.van365.ca/post/%E4%B8%AD%E7%BE%8E%E5%88%A9%E5%B7%AE%E5%80%92%E6%8C%82%EF%BC%8C%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1%E7%9A%84%E6%82%B2%E5%89%A7%E5%8F%88%E5%B0%86%E5%9C%A8%E5%93%AA%E9%87%8C%E4%B8%8A%E6%BC%94%EF%BC%9F
  
 
-![](/images/btnews/0401_0500/0426/f0cb9a03-2e50-4e2a-a9e9-483830304525.png)
+![](/images/btnews/0401_0500/0426/f0cb9a03-2e50-4e2a-a9e9-483830304525.webp)
 
 
-![](/images/btnews/0401_0500/0426/bc170977-9480-4c76-9de9-fbdb74451c20.png)
+![](/images/btnews/0401_0500/0426/bc170977-9480-4c76-9de9-fbdb74451c20.webp)
 
 中国十年期国债收益率走势：WSJ.com
 https://www.wsj.com/market-data/quotes/bond/BX/AMBMKRM-10Y
@@ -119,20 +119,20 @@ https://www.wsj.com/market-data/quotes/bond/BX/AMBMKRM-10Y
 
 不过，利率也不是唯一的决定因素。2015年10月以来，人民币存贷款基准利率一直稳定，三年期存款基准利率是2.75%。而2015年12月到2018年12月间，美联储有过一次加息周期，把基准利率从0.25%加到2.5%，这是近十几年，中美央行基准利率差距最小的时候。但就算在这3年，中美国债利率差异也只是缩小，并没有出现美国国债利率更高的情况，所以央行的利率不能直接引发利率倒挂。
 
-![](/images/btnews/0401_0500/0426/74852336-9fbc-450b-8f21-1d94de8a0329.png)
+![](/images/btnews/0401_0500/0426/74852336-9fbc-450b-8f21-1d94de8a0329.webp)
 
 http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125888/2968982/index.html
 
 
 
-![](/images/btnews/0401_0500/0426/50675fbd-daf8-4126-bc40-4b032037dfa1.png)
+![](/images/btnews/0401_0500/0426/50675fbd-daf8-4126-bc40-4b032037dfa1.webp)
 
 http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125888/2968985/index.html
 
 
 我们前面提到，过去几十年，之所以市场习惯了中国利率高于美国，核心原因是在几十年间，中国的平均经济增长率高于美国，平均物价涨幅也高于美国。
 
-![](/images/btnews/0401_0500/0426/272adf4c-2512-45d3-ba99-1bf44813d91d.png)
+![](/images/btnews/0401_0500/0426/272adf4c-2512-45d3-ba99-1bf44813d91d.webp)
 
 
 
@@ -141,14 +141,14 @@ http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125888/2968985/
 
 2021年3月份，美国消费者物价指数，也就是常说的“CPI”达到2.6%，超过了美联储长期设置的2%警戒线。接下来一年每个月的物价涨幅都加速，每次加速都超出了市场预期。最新的2022年3月份数据，CPI是8.5%，创下了40年来的最高值。
 
-![](/images/btnews/0401_0500/0426/c0ba1cce-a6bc-454d-900b-ec2bbf8daeee.png)
+![](/images/btnews/0401_0500/0426/c0ba1cce-a6bc-454d-900b-ec2bbf8daeee.webp)
 
 https://finance.sina.com.cn/roll/2022-04-25/doc-imcwipii6335487.shtml
 
 
 相比之下，中国最近的房价基本停滞了，还有所下落。其他的工业品和农产品虽然因为疫情生产不足，但上涨压力不算大，3月份全国的CPI涨幅只有1.5%。
 
-![](/images/btnews/0401_0500/0426/1f260a06-b78d-45f3-b793-20222ffb82ec.png)
+![](/images/btnews/0401_0500/0426/1f260a06-b78d-45f3-b793-20222ffb82ec.webp)
 
 http://www.gov.cn/xinwen/2022-04/11/content_5684462.htm
 
@@ -162,7 +162,7 @@ http://www.gov.cn/xinwen/2022-04/11/content_5684462.htm
 当然，金融市场只看账面利润，而且资本喜欢向更自由的地方流动，即便中国利率水平和美国相当，资本还是更愿意去美国。现在出现了账面利润倒挂现象，肯定会产生一定程度的资本外流。最近几年，虽然很多外资来中国还是投资工厂，买固定资产，但资本性的投资比例在大幅度上升。这部分钱因为中美利率倒挂而离开中国去美国，是大概率事件。
 
 
-![](/images/btnews/0401_0500/0426/644d8bb4-19c8-4e3e-9ff2-605b19cc0a67.png)
+![](/images/btnews/0401_0500/0426/644d8bb4-19c8-4e3e-9ff2-605b19cc0a67.webp)
 
 
 https://www.reuters.com/article/china-fdi-inflow-0125-idCNKBS29U03Z
@@ -170,7 +170,7 @@ https://www.reuters.com/article/china-fdi-inflow-0125-idCNKBS29U03Z
 
 
 
-![](/images/btnews/0401_0500/0426/65f9edfa-4fed-45b3-bdd6-a2b641f1c95a.png)
+![](/images/btnews/0401_0500/0426/65f9edfa-4fed-45b3-bdd6-a2b641f1c95a.webp)
 
 http://www.gov.cn/xinwen/2021-11/03/content_5648687.htm
 
@@ -178,7 +178,7 @@ http://www.gov.cn/xinwen/2021-11/03/content_5648687.htm
 
 研究机构估算过，中国资本市场去年平均每月净流入90亿美元。而今年2月份有320亿美元的净流出，对中国经济肯定是有一定冲击的。
 
-![](/images/btnews/0401_0500/0426/71abf1a1-0728-44f3-92cc-8d0529093c63.png)
+![](/images/btnews/0401_0500/0426/71abf1a1-0728-44f3-92cc-8d0529093c63.webp)
 
 https://www.reuters.com/article/natixis-china-portfolio-outflow-research-idCNKCS2LY0VO
 
@@ -199,7 +199,7 @@ https://www.reuters.com/article/natixis-china-portfolio-outflow-research-idCNKCS
 目前来看，变数最大的因素就是美国的通胀压力。对于成熟的发达经济体来说，持续5%以上的通胀率就很难接受，而眼下已经直奔10%的心理关口过去了。美国国债是全球资产定价底锚，也是最大的资金蓄水池，短期内投资者很难找到完全替代品。但过于夸张的实际负收益率，仍然会严重打击长期投资者的热情，降低他们的避险需求。在购买力方面长期负利率，美国国债早晚会遇到旧债流通放缓，新债不好发行的压力。
 
 
-![](/images/btnews/0401_0500/0426/bb5ec5a0-d167-4dc0-b81b-2ff53dcd8253.png)
+![](/images/btnews/0401_0500/0426/bb5ec5a0-d167-4dc0-b81b-2ff53dcd8253.webp)
 
 美国国债收益率2022-04-28
 https://www.bloomberg.com/markets/rates-bonds/government-bonds/us
@@ -208,7 +208,7 @@ https://www.bloomberg.com/markets/rates-bonds/government-bonds/us
 眼下，美国经济已经出现了非常不好的迹象。当地时间4月28号，美国商务部公布了一季度GDP的首次预估数据，环比折合年化下降了1.4%，而市场原来预测中位数是增长1%，美国即将或者说已经进入滞涨状态。
  
 
-![](/images/btnews/0401_0500/0426/d8875ec9-b776-4919-a722-9487fd5e9766.png)
+![](/images/btnews/0401_0500/0426/d8875ec9-b776-4919-a722-9487fd5e9766.webp)
 
  
 https://www.bea.gov/sites/default/files/2022-04/gdp1q22_adv.pdf
@@ -219,7 +219,7 @@ https://www.bea.gov/sites/default/files/2022-04/gdp1q22_adv.pdf
 
 但高利率的代价，就是企业经营困难。1980到1982年的12个季度，有6个季度，美国经济是负增长。高峰失业率超过了10%，并且持续了近一年。
 
-![](/images/btnews/0401_0500/0426/c2cf23e1-7742-495f-922f-6b462d1d1b1c.png)
+![](/images/btnews/0401_0500/0426/c2cf23e1-7742-495f-922f-6b462d1d1b1c.webp)
 
 https://www.thebalance.com/the-history-of-recessions-in-the-united-states-3306011
 
@@ -235,12 +235,12 @@ https://www.thebalance.com/the-history-of-recessions-in-the-united-states-330601
 
 但疫情持续两年之后，全球产业链发生了严重堵塞。美国也不太愿意看到中国通过扩张生产能力的方式缓解世界危机，而是企图靠自身生产能力应付通胀，这几乎必然失败。
 
-![](/images/btnews/0401_0500/0426/fb743642-b664-4124-9f30-9714517b328b.png)
+![](/images/btnews/0401_0500/0426/fb743642-b664-4124-9f30-9714517b328b.webp)
 
 https://www.bea.gov/sites/default/files/2022-04/gdp1q22_adv.pdf
  
 
-![](/images/btnews/0401_0500/0426/26e155ef-6287-4504-9130-951671d39b85.png)
+![](/images/btnews/0401_0500/0426/26e155ef-6287-4504-9130-951671d39b85.webp)
 
 
 
@@ -249,7 +249,7 @@ https://www.bea.gov/sites/default/files/2022-04/gdp1q22_adv.pdf
 
 中美两国都很难自己走出困境，原因是国际经济危机必须用国际合作来对付。处于对抗状态的中美，很难通过各自独立的行动解决问题。从资产泡沫规模看，人类从来没有走出过2008年世界金融危机，只是当时大家还记得1929年大萧条引发了世界大战，所以G20史无前例地做出了国际联合行动，协调印钱力度，避免全世界一下子进入大萧条状态。但代价就是全世界央行放水，把原来的资产泡沫吹得更大，为后面的危机留下了隐患。
 
-![](/images/btnews/0401_0500/0426/726c687b-cbad-4af5-a817-9f0d968542ce.png)
+![](/images/btnews/0401_0500/0426/726c687b-cbad-4af5-a817-9f0d968542ce.webp)
 
 https://twitter.com/g20org/status/1093823170417577984/photo/1
 
@@ -263,30 +263,30 @@ https://twitter.com/g20org/status/1093823170417577984/photo/1
 
 至于说发展中国家，最薄弱的比如斯里兰卡、黎巴嫩已经倒下了，未来几个月还有一些国家要财政破产。2022年的世界肯定还有大热闹。
 
-![](/images/btnews/0401_0500/0426/53e63943-dadb-42ff-86b7-f6bad1afaa05.png)
+![](/images/btnews/0401_0500/0426/53e63943-dadb-42ff-86b7-f6bad1afaa05.webp)
 
 “明斯基时刻”理论模型
 https://medium.com/technowoman/minsky-moments-in-corporate-it-99fbe4505713
  
 
-![](/images/btnews/0401_0500/0426/86835018-cff3-4ad3-b41a-149f7457352c.png)
+![](/images/btnews/0401_0500/0426/86835018-cff3-4ad3-b41a-149f7457352c.webp)
 
 英国国债收益率2022-04-28
 
 
 
-![](/images/btnews/0401_0500/0426/5eff271c-da2b-4d9d-821a-1a68a3cd76ea.png)
+![](/images/btnews/0401_0500/0426/5eff271c-da2b-4d9d-821a-1a68a3cd76ea.webp)
 
 德国国债收益率2022-04-28
 
 
 
-![](/images/btnews/0401_0500/0426/9bce66c3-e725-4efd-ab54-d94f6f15a501.png)
+![](/images/btnews/0401_0500/0426/9bce66c3-e725-4efd-ab54-d94f6f15a501.webp)
 
 日本国债收益率2022-04-28
  
 
-![](/images/btnews/0401_0500/0426/3435b070-6174-4dc7-b390-00897b61cc6c.png)
+![](/images/btnews/0401_0500/0426/3435b070-6174-4dc7-b390-00897b61cc6c.webp)
 
 亚太地区政府债券收益率2022-04-28
 
@@ -305,7 +305,7 @@ https://medium.com/technowoman/minsky-moments-in-corporate-it-99fbe4505713
 
 所以，理论上最理想的解决方案，现实中没法落实。中美两国各自制定自己的金融政策，缓解国内问题，联合国只能坐在一边呼吁和平，这非常像1930年代的世界局势。在一个有核武器的世界上，我们还是希望世界资本主义不要最终选择用世界大战来注销资产泡沫。
 
-![](/images/btnews/0401_0500/0426/4d5cdc06-24de-4bc0-b18a-262bc242d681.png)
+![](/images/btnews/0401_0500/0426/4d5cdc06-24de-4bc0-b18a-262bc242d681.webp)
 
 
 
@@ -314,7 +314,7 @@ https://medium.com/technowoman/minsky-moments-in-corporate-it-99fbe4505713
 
 从媒体角度看，关于新《职业教育法》的猜测，是4月下旬最大的一次新闻反转， 4月20日，全国人大常委会通过修订法案，刚出来那几天，全国网络一致赞美，重点集中在两个方面。
 
-![](/images/btnews/0401_0500/0426/6cba43d3-c45e-4b59-9232-ac35a515fb91.png)
+![](/images/btnews/0401_0500/0426/6cba43d3-c45e-4b59-9232-ac35a515fb91.webp)
 
 https://baijiahao.baidu.com/s?id=1730769198349533528
 
@@ -346,7 +346,7 @@ https://www.bilibili.com/video/BV15q4y1K7rL 
 
 所以，很多观众看到新的法律，纷纷来@我。但是到了25号，舆论出现急转弯，人民网发出社论《职业教育法大修，这些变化不可不知》，静静帮我读一下：
 
-![](/images/btnews/0401_0500/0426/5912743e-b53a-4d29-adf6-4c1be1ccd506.png)
+![](/images/btnews/0401_0500/0426/5912743e-b53a-4d29-adf6-4c1be1ccd506.webp)
 
 https://baijiahao.baidu.com/s?id=1731056487687628844
 
@@ -356,7 +356,7 @@ https://baijiahao.baidu.com/s?id=1731056487687628844
 
 27号，教育部唯恐群众误解，派出成人教育司司长陈子季公开表态，静静再帮我读一下：****
 
-![](/images/btnews/0401_0500/0426/e0550878-02f4-422d-813d-9716c8fe0c89.png)
+![](/images/btnews/0401_0500/0426/e0550878-02f4-422d-813d-9716c8fe0c89.webp)
 
 https://news.ifeng.com/c/8FYbauell0a
 
@@ -372,7 +372,7 @@ https://news.ifeng.com/c/8FYbauell0a
 
 北京市3月22日公布了今年的中考招生方案，预计普通高中招生7.4万人，保持7：3的高中录取比例。****
 
-![](/images/btnews/0401_0500/0426/f32c2a07-9e13-487b-8571-098782a74c24.png)
+![](/images/btnews/0401_0500/0426/f32c2a07-9e13-487b-8571-098782a74c24.webp)
 
 
 
@@ -384,7 +384,7 @@ https://news.ifeng.com/c/8FYbauell0a
 
 就在国家修改法律的同时，号称中国四大职业学院之一的北京电子科技职业学院公布了一条炫耀性新闻——我校今年自主招生报考人数远超招生计划。
 
-![](/images/btnews/0401_0500/0426/e5308ed4-624a-4848-b4be-cb477284ad91.png)
+![](/images/btnews/0401_0500/0426/e5308ed4-624a-4848-b4be-cb477284ad91.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17830162
 
@@ -394,7 +394,7 @@ https://www.thepaper.cn/newsDetail_forward_17830162
 
 倒过来说，如果一个地区没有足够多的大企业，那就很难办好职业学校，国家投钱进去也是浪费，反而削弱了整体的职业教育水平。第14期节目，我分析宝鸡职业教育问题的时候说，现在职业教育包括一部分和企业结合紧密，能越做越大的优秀学校，也有一批按照行政单位分布，吃国家补贴的职业教育学校。普通人都看不起这些吃补贴学校，认为孩子送进去就学坏。而国家偏偏要制定1:1的强制分流比例，结果更加深了家长和孩子的恐惧感。谁都知道，强迫人去的地方，一定不是个好地方。
 
-![](/images/btnews/0401_0500/0426/ffc17916-4cf5-412c-a1fd-3bd828d74de9.png)
+![](/images/btnews/0401_0500/0426/ffc17916-4cf5-412c-a1fd-3bd828d74de9.webp)
 
 
 
@@ -409,7 +409,7 @@ https://www.thepaper.cn/newsDetail_forward_17830162
 
 效果不会很明显。形成现状的主要原因，不是说口头上不尊重职业学校，也不是不给职业学校的学生理论上出头机会，而是我们整个社会的教育投入严重不足，把职业学校变成了差生收容所，所以才会产生现在全社会歧视职业学校的现象。只有那些完全不在乎学习技术，只想让子女从事简单劳动的家庭，才能接受职业教育的现状。比如说414期，我除了提到北京中考7:3分流问题，还提到了广西那个生15个孩子的家庭，凡是适龄子女，都在读职业学校。当时我说，只有阶层低到降无可降的家庭，才会接受这个现实。
 
-![](/images/btnews/0401_0500/0426/a5d222fd-ee5a-4463-912a-6d97595a2a1c.png)
+![](/images/btnews/0401_0500/0426/a5d222fd-ee5a-4463-912a-6d97595a2a1c.webp)
 
 
 
@@ -433,5 +433,5 @@ https://www.thepaper.cn/newsDetail_forward_17830162
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0426/73b3cee0-240a-4ddc-9ac2-e3afb08c70ca.jpg)
+![](/images/btnews/0401_0500/0426/73b3cee0-240a-4ddc-9ac2-e3afb08c70ca.webp)
 

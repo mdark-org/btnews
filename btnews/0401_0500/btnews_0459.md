@@ -4,7 +4,7 @@ date: 2022-07-17
 ---
 
 
-![](/images/btnews/0401_0500/0459/05c18b95-ea3f-4895-9c31-6392728c0d7f.png)
+![](/images/btnews/0401_0500/0459/05c18b95-ea3f-4895-9c31-6392728c0d7f.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-07-17
 
 
 
-![](/images/btnews/0401_0500/0459/1afb3bed-93be-4d04-a8c2-ff6200ba24f1.png)
+![](/images/btnews/0401_0500/0459/1afb3bed-93be-4d04-a8c2-ff6200ba24f1.webp)
 
 
 
@@ -23,7 +23,7 @@ date: 2022-07-17
 
 
 
-![](/images/btnews/0401_0500/0459/936e2ecb-dc3f-4172-98f9-08b5f6dbc18c.jpg)
+![](/images/btnews/0401_0500/0459/936e2ecb-dc3f-4172-98f9-08b5f6dbc18c.webp)
 
 
 
@@ -38,7 +38,7 @@ date: 2022-07-17
 
 所以孟庆功的牺牲不仅是防疫志愿者的悲剧，更是中国航空工业的重大损失。
   
-![](/images/btnews/0401_0500/0459/4cdd93c0-3207-45ed-8f55-8dea79819a5c.png)
+![](/images/btnews/0401_0500/0459/4cdd93c0-3207-45ed-8f55-8dea79819a5c.webp)
 
 
 
@@ -50,9 +50,9 @@ date: 2022-07-17
 
 要节约燃油成本，除了提高发动机的效率，主要靠减轻飞机本身的重量，而减轻重量的主要手段，就是用复合材料代替金属制造飞机各种结构组件。每一架飞机如果减重一克，带来的经济价值远大于捡到一克黄金。
  
-![](/images/btnews/0401_0500/0459/e66ab84a-5ecb-47bc-8d22-9fdb887a0d96.png)
+![](/images/btnews/0401_0500/0459/e66ab84a-5ecb-47bc-8d22-9fdb887a0d96.webp)
 
-![](/images/btnews/0401_0500/0459/bf1174b1-d3a2-404d-b2c1-aa50a0f22926.png)
+![](/images/btnews/0401_0500/0459/bf1174b1-d3a2-404d-b2c1-aa50a0f22926.webp)
 
 
 
@@ -60,13 +60,13 @@ date: 2022-07-17
 
 
 
-![](/images/btnews/0401_0500/0459/19d011dd-d739-46c7-be21-645ab2a6adcc.jpg)
+![](/images/btnews/0401_0500/0459/19d011dd-d739-46c7-be21-645ab2a6adcc.webp)
 
 
 
 CR929采取如此激进的技术方案，就是为了能够对标波音787和空客A350，因为一款大飞机成熟型号的生命周期可能很长，立项的时候必须要有一定的前瞻性，要考虑到20年之后的市场。如果飞机一问世就已经在油耗指标上落后，或者整体系统优化不够，没有后续改进的空间，那么就算飞机本身卖得更便宜，也很难在航空公司那里打开市场。苏联造的民航客机没人用，长期油耗改进潜力小是重要原因。
  
-![](/images/btnews/0401_0500/0459/9a7734eb-5999-4d87-b136-83a7b60314f5.png)
+![](/images/btnews/0401_0500/0459/9a7734eb-5999-4d87-b136-83a7b60314f5.webp)
 
 
 
@@ -77,9 +77,9 @@ CR929采取如此激进的技术方案，就是为了能够对标波音787和空
 
 
 
-![](/images/btnews/0401_0500/0459/832a1435-03b0-4966-8513-22ab9d6c9c7b.png)
+![](/images/btnews/0401_0500/0459/832a1435-03b0-4966-8513-22ab9d6c9c7b.webp)
 
-![](/images/btnews/0401_0500/0459/a3fef22a-0682-4854-afad-200384a2d6d4.png)
+![](/images/btnews/0401_0500/0459/a3fef22a-0682-4854-afad-200384a2d6d4.webp)
 
 
 
@@ -100,9 +100,9 @@ CR929采取如此激进的技术方案，就是为了能够对标波音787和空
 
 但这样一来，飞机在大推力飞行时的力矩平衡又发生了变化，于是波音又修改飞控程序，结果改出了bug，最终导致了印尼航空和埃塞俄比亚航空的两场空难惨剧，波音737 MAX一度被全球禁飞。只是因为全球大飞机市场的垄断程度实在太高，没有竞争对手趁机抢市场，波音的百年基业才没有毁于一旦。
  
-![](/images/btnews/0401_0500/0459/adb3700a-161f-48a6-80bc-d10d27c9d29c.png)
+![](/images/btnews/0401_0500/0459/adb3700a-161f-48a6-80bc-d10d27c9d29c.webp)
 
-![](/images/btnews/0401_0500/0459/91c43ea1-3ab7-4ae7-a545-2b686ba5c2a0.png)
+![](/images/btnews/0401_0500/0459/91c43ea1-3ab7-4ae7-a545-2b686ba5c2a0.webp)
 
 
 
@@ -119,9 +119,9 @@ CR929采取如此激进的技术方案，就是为了能够对标波音787和空
 
 
 
-![](/images/btnews/0401_0500/0459/96979c83-481c-4272-8d7c-f881000de051.png)
+![](/images/btnews/0401_0500/0459/96979c83-481c-4272-8d7c-f881000de051.webp)
 
-![](/images/btnews/0401_0500/0459/90b38eeb-7269-4f2f-990e-59e271c7bbde.png)
+![](/images/btnews/0401_0500/0459/90b38eeb-7269-4f2f-990e-59e271c7bbde.webp)
 
 
 
@@ -138,7 +138,7 @@ CR929采取如此激进的技术方案，就是为了能够对标波音787和空
 
 
 
-![](/images/btnews/0401_0500/0459/0a4964fe-8f7e-4c8b-887f-eab3fd3d6268.png)
+![](/images/btnews/0401_0500/0459/0a4964fe-8f7e-4c8b-887f-eab3fd3d6268.webp)
 
 
 
@@ -152,7 +152,7 @@ CR929采取如此激进的技术方案，就是为了能够对标波音787和空
 
 
 
-![](/images/btnews/0401_0500/0459/28feaac6-03dd-4d01-80be-c84216d01cff.jpg)
+![](/images/btnews/0401_0500/0459/28feaac6-03dd-4d01-80be-c84216d01cff.webp)
 
 
 
@@ -163,10 +163,10 @@ CR929采取如此激进的技术方案，就是为了能够对标波音787和空
 
 
 
-![](/images/btnews/0401_0500/0459/11a9e575-4168-4469-8225-fa61adb88988.jpg)
+![](/images/btnews/0401_0500/0459/11a9e575-4168-4469-8225-fa61adb88988.webp)
 
  
-![](/images/btnews/0401_0500/0459/559ed743-95f7-49ee-b43d-b2f0d74caa0a.png)
+![](/images/btnews/0401_0500/0459/559ed743-95f7-49ee-b43d-b2f0d74caa0a.webp)
 
 OOA工艺关键环节，双层真空袋成型工艺（DVB）示意图
 
@@ -181,7 +181,7 @@ OOA工艺关键环节，双层真空袋成型工艺（DVB）示意图
 
 
 
-![](/images/btnews/0401_0500/0459/4abf99d9-bff5-4211-8ba5-188e48fce40b.png)
+![](/images/btnews/0401_0500/0459/4abf99d9-bff5-4211-8ba5-188e48fce40b.webp)
 
 https://xueqiu.com/4725038616/160410588
 
@@ -201,7 +201,7 @@ https://mil.news.sina.com.cn/2021-10-13/doc-iktzscyx9360237.shtml
 
 
 
-![](/images/btnews/0401_0500/0459/e13f2460-a491-48ad-9cd1-242820e3f70a.png)
+![](/images/btnews/0401_0500/0459/e13f2460-a491-48ad-9cd1-242820e3f70a.webp)
 
 https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty-of-ukraine-invasion/148135.article
  
@@ -209,7 +209,7 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 
 
-![](/images/btnews/0401_0500/0459/d570d125-c567-4d51-a3fb-dc7a4cc882ae.png)
+![](/images/btnews/0401_0500/0459/d570d125-c567-4d51-a3fb-dc7a4cc882ae.webp)
 
 
 
@@ -223,7 +223,7 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 
 
-![](/images/btnews/0401_0500/0459/988b4dcc-c57f-48ae-86c7-fe6bbf5405b6.jpg)
+![](/images/btnews/0401_0500/0459/988b4dcc-c57f-48ae-86c7-fe6bbf5405b6.webp)
 
 
 
@@ -243,7 +243,7 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 
 
-![](/images/btnews/0401_0500/0459/b8e8f747-7d5e-443f-bf7c-87620ebd8308.jpg)
+![](/images/btnews/0401_0500/0459/b8e8f747-7d5e-443f-bf7c-87620ebd8308.webp)
 
 
 
@@ -251,9 +251,9 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 
 
-![](/images/btnews/0401_0500/0459/96fe6044-46ad-4129-8239-c96e2bfa635a.png)
+![](/images/btnews/0401_0500/0459/96fe6044-46ad-4129-8239-c96e2bfa635a.webp)
 
-![](/images/btnews/0401_0500/0459/830c9b47-dd80-44b2-8eff-27e3956a70d3.png)
+![](/images/btnews/0401_0500/0459/830c9b47-dd80-44b2-8eff-27e3956a70d3.webp)
 
 
 
@@ -264,7 +264,7 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 
 
-![](/images/btnews/0401_0500/0459/c89aa75a-5817-42da-8c2a-6d99a20fe688.jpg)
+![](/images/btnews/0401_0500/0459/c89aa75a-5817-42da-8c2a-6d99a20fe688.webp)
 
 
 
@@ -275,10 +275,10 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 
 请点击下面图片进入留言板
-![](/images/btnews/0401_0500/0459/1f6445ea-8e63-4b5c-bf98-9a9835f7090e.png)
+![](/images/btnews/0401_0500/0459/1f6445ea-8e63-4b5c-bf98-9a9835f7090e.webp)
 
 
-![](/images/btnews/0401_0500/0459/dc648dbb-cb1c-4164-9ddf-af30f0494d97.png)
+![](/images/btnews/0401_0500/0459/dc648dbb-cb1c-4164-9ddf-af30f0494d97.webp)
 
 
 
@@ -287,5 +287,5 @@ https://www.flightglobal.com/aerospace/sino-russian-cr929-to-be-another-casualty
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0459/7a4ba4de-2e0e-4587-a82d-cd3e5af3e612.jpg)
+![](/images/btnews/0401_0500/0459/7a4ba4de-2e0e-4587-a82d-cd3e5af3e612.webp)
 

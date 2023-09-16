@@ -30,34 +30,34 @@ date: 2020-06-14
 
 再往前看，1967年，底特律警察突袭一家无证经营的酒吧，抓走几十名黑人。引发暴力冲突，几千人冲破了一万多军警的包围，烧毁房屋、商店和警察局，最后还是联邦军队进城镇压。这次底特律骚乱5天死了四十多人，受伤四百多，被捕七千多人。
 
-![](images/btnews/0101_0200/0128/media/image1.jpeg)
+![](/images/btnews/0101_0200/0128/image1.webp)
 
 1967年底特律骚乱
 
 1968年马丁·路德·金遇刺，美国110多个城市暴乱持续了3个月，芝加哥、巴尔的摩、辛辛那提、华盛顿，这都靠联邦军队武力镇压才维持秩序。但由于政府下令不开枪，所以一共只死了31人。
 
-![](images/btnews/0101_0200/0128/media/image2.jpeg)
+![](/images/btnews/0101_0200/0128/image2.webp)
 
 1968年马丁·路德·金遇刺后骚乱，华盛顿特区街头
 
 因为种族问题，产生的暴力冲突，最激烈的一次是镇压黑豹党。黑豹党有自己的武装力量，当然这在美国是小事，关键是他们有政治思想，有行动纲领，是美国主流最恐惧的组织。黑豹党青年领袖弗莱德口才非常好，而且还主张要给所有底层谋求利益，不分肤色种族，很多底层白人也加入了黑豹党。芝加哥警察为了干掉他，用线人给弗拉德下了安眠药，直接两枪爆头。为了掩饰谋杀，还把尸体拖到门口，伪装成和警察交火。
 
-![](images/btnews/0101_0200/0128/media/image3.jpeg)
+![](/images/btnews/0101_0200/0128/image3.webp)
 
 1967年5月2日，黑豹党武装人员站在加州议会大厦的走廊上，抗议限制携带武器的议案。（照片：Walt
 Zeboski，美联社）
 
 [For some blacks, mass shootings are a call to arms, not gun control](https://www.usatoday.com/story/opinion/2019/08/26/mass-shootings-some-blacks-reject-gun-control-in-face-of-racism-column/2115325001/)
 
-![](images/btnews/0101_0200/0128/media/image4.jpeg)
+![](/images/btnews/0101_0200/0128/image4.webp)
 
 演讲的弗莱德
 
-![](images/btnews/0101_0200/0128/media/image5.jpeg)
+![](/images/btnews/0101_0200/0128/image5.webp)
 
 被拖到门口的弗莱德尸体
 
-![](images/btnews/0101_0200/0128/media/image6.jpeg)
+![](/images/btnews/0101_0200/0128/image6.webp)
 
 芝加哥警察抬着弗莱德尸体
 
@@ -71,21 +71,21 @@ Zeboski，美联社）
 
 但是，如果美国警察真的按照保守派媒体的逻辑工作，开枪率应该和暴力犯罪率直接相关。但统计数据表明，美国警察杀人率和暴力犯罪率没关系，主要影响因素是有没有接受约束暴力的训练，其次和当地社会的抗议强度有关。民间抗议暴力执法的力量越大，警察开枪率就越低。
 
-![](images/btnews/0101_0200/0128/media/image7.png)
+![](/images/btnews/0101_0200/0128/image7.webp)
 
 <https://mappingpoliceviolence.org/>
 
-![](images/btnews/0101_0200/0128/media/image8.png)
+![](/images/btnews/0101_0200/0128/image8.webp)
 
 这些年，美国大城市警察暴力执法导致死亡的规模在下降，但在得不到监管的农村，暴力执法在上升，抵消了大城市的进步
 
-![](images/btnews/0101_0200/0128/media/image9.png)
+![](/images/btnews/0101_0200/0128/image9.webp)
 
 [Police Are Killing Fewer People In Big Cities, But More In Suburban And Rural America  \| FiveThirtyEight](https://fivethirtyeight.com/features/police-are-killing-fewer-people-in-big-cities-but-more-in-suburban-and-rural-america/)
 
 另外，有学者分析警察射击数据库，发现黑人在空手状态下，被警察打死的风险是白人的3.49倍。不同地区的种族歧视程度不同，有的县，这个比例是20倍。
 
-![](images/btnews/0101_0200/0128/media/image10.png)
+![](/images/btnews/0101_0200/0128/image10.webp)
 
 [A Multi-Level Bayesian Analysis of Racial Bias in Police Shootings at the County-Level in the United States, 2011–2014 \| PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141854)
 
@@ -99,11 +99,11 @@ Zeboski，美联社）
 
 [](https://www.apa.org/monitor/2016/12/cover-policing)
 
-![](images/btnews/0101_0200/0128/media/image11.png)
+![](/images/btnews/0101_0200/0128/image11.webp)
 
 [Understanding police and expert performance: when training attenuates (vs. exacerbates) stereotypic bias in the decision to shoot - PubMed](https://pubmed.ncbi.nlm.nih.gov/23401478/)
 
-![](images/btnews/0101_0200/0128/media/image12.png)
+![](/images/btnews/0101_0200/0128/image12.webp)
 
 [The police officer's dilemma: using ethnicity to disambiguate potentially threatening individuals - PubMed](https://pubmed.ncbi.nlm.nih.gov/12500813/)
 
@@ -117,17 +117,17 @@ Zeboski，美联社）
 
 更严重的是被捕之后的程序，司法部门对黑人的判刑往往更重。美国是世界最大的毒品消费市场，但美国在打击毒品犯罪时有明显的种族偏好。2003年美国因为可卡因犯罪的人，有66%是白人和西班牙裔，但最后被监禁的犯人，80%以上是黑人，白人只占7.8%。黑人犯重罪，也更容易被白人陪审团判死刑。
 
-![](images/btnews/0101_0200/0128/media/image13.png)
+![](/images/btnews/0101_0200/0128/image13.webp)
 
 [Cracks in the System: Twenty Years of the Unjust Federal Crack Cocaine Law \| American Civil Liberties Union](https://www.aclu.org/other/cracks-system-twenty-years-unjust-federal-crack-cocaine-law?redirect=criminal-law-reform/cracks-system-twenty-years-unjust-federal-crack-cocaine-law)
 
 2014年8月，密苏里州弗格森市一名白人警察，打死了一个空手的18岁黑人。奥巴马公开批评警方。
 
-![](images/btnews/0101_0200/0128/media/image14.jpeg)
+![](/images/btnews/0101_0200/0128/image14.webp)
 
 美国司法部后续调查这件事，发现弗格森市警察和法院官员在上班时间互相发过很多种族主义电子邮件。其中有的把奥巴马描述为黑猩猩；有的标题是奥巴马老婆的高中同学聚会，内容是半裸的黑人舞蹈照片。奥巴马骂他们，算是骂对了。
 
-![](images/btnews/0101_0200/0128/media/image15.png)
+![](/images/btnews/0101_0200/0128/image15.webp)
 
 [Here are 7 racist jokes Ferguson police and court officials made over email - Vox](https://www.vox.com/2015/3/4/8149699/ferguson-police-racist-jokes)
 
@@ -140,11 +140,11 @@ Zeboski，美联社）
 美国警察组织宣布自己是社会的支柱，由于大多数警察部门的制服是蓝色，所以警察挂的国旗是
 “细蓝线”构成的。
 
-![](images/btnews/0101_0200/0128/media/image16.png)
+![](/images/btnews/0101_0200/0128/image16.webp)
 
 这几年白人极端组织越来越喜欢蓝线国旗，虽然警方往往第一时间澄清和自己无关，但及基本能看到保守派和警察的关系。
 
-![](images/btnews/0101_0200/0128/media/image17.png)
+![](/images/btnews/0101_0200/0128/image17.webp)
 
 美国警察体系内部，有几套依托熟人社会的工会体系，维护警察利益。规模较大的比如警察兄弟令（FOP），2100多个分会，34.6万会员；全国警察组织协会（NAPO），2000多个分会，会员包括24.1万个在职警察，1万多退休警察，以及10万多平民；国际警察联合会（IUPA）有10万多会员。这些警察工会不仅给会员家庭提供各类社会服务，而且还都有国会游说能力。
 
@@ -156,7 +156,7 @@ Zeboski，美联社）
 
 到国会游说需要钱，但警察系统不缺钱。按照美国司法统计局（BJS）的统计，2015年美国的司法总支出2261.8亿美元，差不多是这一年中国军费的两倍。
 
-![](images/btnews/0101_0200/0128/media/image18.png)
+![](/images/btnews/0101_0200/0128/image18.webp)
 
 [Home \| Bureau of Justice Statistics](https://www.bjs.gov/index.cfm?ty=tp&tid=5)
 
@@ -170,11 +170,11 @@ Zeboski，美联社）
             å¯¹äºè­¦å¯æ´åæ§æ³ï¼ç¾å½çæ°´å°åºæå¤æ·±-ä¸­è¯æ°èç½ ä¸­è¯æ°èç¤¾
         ](http://www.chinanews.org/pinglun/shishi/10257.html)
 
-![](images/btnews/0101_0200/0128/media/image19.png)
+![](/images/btnews/0101_0200/0128/image19.webp)
 
 前几天，纽约布法罗的警察把一名75岁的老人推倒，头部重伤。两名警察被停职，整个小队57人就宣布集体辞职，要挟政府。随后警察兄弟令组织公开声援，向这57人发招聘消息。
 
-![](images/btnews/0101_0200/0128/media/image20.jpeg)
+![](/images/btnews/0101_0200/0128/image20.webp)
 
 [Florida police union offers to hire cops who were fired or resigned over police misconduct \| CNN](https://edition.cnn.com/2020/06/08/us/brevard-county-florida-police-union-misconduct-trnd/index.html)
 
@@ -184,13 +184,13 @@ Zeboski，美联社）
 
 前些年纽约警察因为和市政府闹矛盾，以感染“蓝色流感”的名义集体休病假，向政府示威。结果讽刺的是，警察集体休病假，纽约治安反而变好了。
 
-![](images/btnews/0101_0200/0128/media/image21.png)
+![](/images/btnews/0101_0200/0128/image21.webp)
 
-![](images/btnews/0101_0200/0128/media/image21.png)
+![](/images/btnews/0101_0200/0128/image21.webp)
 
 从这些例子看，警察是美国最顽固的利益集团之一，和码头工人，医生差不多。
 
-![](images/btnews/0101_0200/0128/media/image22.png)
+![](/images/btnews/0101_0200/0128/image22.webp)
 
 [Racism, gun ownership and gun control: biased attitudes in US whites may influence policy decisions - PubMed](https://pubmed.ncbi.nlm.nih.gov/24204867/)
 
@@ -198,21 +198,21 @@ Zeboski，美联社）
 
 如果说持枪率高导致危险，美国警察应该反对普遍持枪。但大多数美国警察是特朗普的铁杆粉丝，从来不觉得枪支泛滥是问题。之前美国对警察做过全面调查，问如果禁止民间持有10发以上子弹的弹夹，会不会减少暴力犯罪。95%的警察都认为弹夹和犯罪无关系。90%的警察反而认为，如果有持枪公民在枪击案现场，会减少伤亡。所以说美国警察是一个养寇自重的团伙，已经有一点军阀的意思了。
 
-![](images/btnews/0101_0200/0128/media/image23.png)
+![](/images/btnews/0101_0200/0128/image23.webp)
 
 [The hidden Trump voter — the police - The Boston Globe](https://www.bostonglobe.com/opinion/2016/11/09/the-hidden-trump-voter-police/71MUxHoqBzNCKZZcpH42nO/story.html)
 
-![](images/btnews/0101_0200/0128/media/image24.gif)
+![](/images/btnews/0101_0200/0128/image24.webp)
 
-![](images/btnews/0101_0200/0128/media/image25.gif)
+![](/images/btnews/0101_0200/0128/image25.webp)
 
 [What do police officers think about gun control: National survey by PoliceOne tells all (Joe's Outdoor Office) - al.com](https://www.al.com/sports/2013/04/whatt_do_police_officers_think.html)
 
 美国民间持枪真正的受害者，是平民。美国虽然枪击案很多，但跨种族的枪击很少，基本上是黑人杀黑人，白人杀白人。死于枪支的白人，大多数是自杀，但死于子弹的黑人，基本上是他杀。所以黑人最支持禁枪。
 
-![](images/btnews/0101_0200/0128/media/image26.png)
+![](/images/btnews/0101_0200/0128/image26.webp)
 
-![](images/btnews/0101_0200/0128/media/image27.png)
+![](/images/btnews/0101_0200/0128/image27.webp)
 
 从这个对比看，与其说美国法律允许持枪是鼓励公民反抗政府，不如说是为了给警察提供滥用暴力的理由，顺便也掩盖了警察执法的种族歧视问题。
 
@@ -222,17 +222,17 @@ Zeboski，美联社）
 
 美国有篇专门研究监狱情况的文章，叫《肤色的正义：州级监狱中的种族与民族差异》，统计显示，美国按族群计算监禁率的话，黑人是十万分之1408，西班牙裔是十万分之378，白人只有十万分之275，的确监狱里面关的黑人最多。但是，就算考虑到法官更喜欢判黑人蹲监狱，这个数字也不能说明肤色和犯罪的关联，因为我们没有考虑阶级因素。
 
-![](images/btnews/0101_0200/0128/media/image28.png)
+![](/images/btnews/0101_0200/0128/image28.webp)
 
 这篇文章根据黑人与白人被捕人数比例，绘制了地图，这次引发骚乱的明尼苏达州就是比例最悬殊的地区。
 
-![](images/btnews/0101_0200/0128/media/image29.png)
+![](/images/btnews/0101_0200/0128/image29.webp)
 
-![](images/btnews/0101_0200/0128/media/image30.png)
+![](/images/btnews/0101_0200/0128/image30.webp)
 
 明尼苏达的黑人很少，但赤贫的黑人非常多。明州白人只有7%是贫困户，黑人是35%。接近80%的白人有自己的房子，黑人只有不到30%能住自己的房子。明尼苏达州的种族贫富差距全美第二。而穷人在美国的犯罪率就是比富人要高。
 
-![](images/btnews/0101_0200/0128/media/image31.png)
+![](/images/btnews/0101_0200/0128/image31.webp)
 
 有人会说，黑人穷是因为他们不努力。但美国的教育非常烧钱，普通家庭的白人大学生都要背负沉重的助学贷款才能完成学业，相对贫穷的黑人就更难了。现在中国中年人最大的压力就是买学区房，这说明中国人很清楚资本主义条件下，金钱对教育的影响，以及教育对未来的影响。清华2019年统计新生，农村及贫困地区的学生只占19.3%,这肯定不是穷学生自己有问题。所以，考虑到美国的贫富差距，最好不要急着嘲笑穷黑人不努力改变人生。
 
@@ -252,15 +252,15 @@ Zeboski，美联社）
 
 工人住宅区变成贫民区，过剩劳动力大量加入黑社会，这是黑人犯罪率高的根源，也是警察执法粗暴的理由。每次黑人被警察打死，无论死因，这样的黑人街区都会爆发骚乱，但事实证明，大多数情况下，黑人的抗议的确有道理。
 
-![](images/btnews/0101_0200/0128/media/image32.jpeg)
+![](/images/btnews/0101_0200/0128/image32.webp)
 
 21世纪的美国也企图恢复实体经济，但是金融红利拉高了美国的名义工资，同时工业产业链越来越复杂，很难因为一两个优惠政策就搬到高工资地区。所以，美国工业整体上还在继续向外转移，奥巴马时代为了解决就业问题，只能大力发展服务业，把失业率压回了5%。
 
-![](images/btnews/0101_0200/0128/media/image33.jpeg)
+![](/images/btnews/0101_0200/0128/image33.webp)
 
 但服务业岗位是依附性的工作，金融红利稍微有一点波动，就会消灭大量服务业。这次疫情带来的隔离，直接把失业率打回原形。美国贫民，无论白人黑人都有怨气，不知道找谁负责。所以黑人被警察压死，引爆了全国性的抗议。
 
-![](images/btnews/0101_0200/0128/media/image34.png)
+![](/images/btnews/0101_0200/0128/image34.webp)
 
 从性质来说，这次全国性抗议，和2011年的占领华尔街运动差不多，和智利、香港的街头运动也差不多，根源都是经济结构问题，而且还有个共同点，就是抗议的人群不知道自己的目标，反对一切。从发展趋势看，美国金融和军事的底子还很强，还有印钱刺激经济的余地，等到经济恢复一点，估计抗议就自己解散了。
 
@@ -276,15 +276,15 @@ Zeboski，美联社）
 
 里根竞选的时候，特朗普还是个青年，是里根的狂热粉丝。特朗普竞选的时候，完全照抄了里根的策略，用敌视非法移民做潜台词，告诉选民他是种族主义者。著名的竞选广告“美国再次伟大”，也是抄里根的竞选口号。
 
-![](images/btnews/0101_0200/0128/media/image35.jpeg)
+![](/images/btnews/0101_0200/0128/image35.webp)
 
 美国现在有35%的选票来自潜在的种族主义者，而且大都是高中以下文凭的白人。对于他们来说，自己虽然在金字塔底层，但只要特朗普能给他们划一道线，把有色人种划到他们下面去，他们就可以安慰自己是人上人。所以他们不在乎特朗普给大企业减税，因为自己过得惨没关系，只要让别人更惨就行。美国社会顶层的保守主义，就是用这样的虚假身份政治哄骗底层。也顺便降低了反种族主义抗议的档次。
 
-![](images/btnews/0101_0200/0128/media/image36.jpeg)
+![](/images/btnews/0101_0200/0128/image36.webp)
 
 特朗普修改的演讲稿
 
-![](images/btnews/0101_0200/0128/media/image37.jpeg)
+![](/images/btnews/0101_0200/0128/image37.webp)
 
 美国街头被涂污的《花木兰》海报
 
@@ -292,7 +292,7 @@ Zeboski，美联社）
 
 [CNNÊý¾Ýµ÷²é£ºÃÀ¹ú¾¯²ìÇ¹É±ºÍ¼à½ûÈËÊýÔ¶¸ßÓÚÆäËû·¢´ï¹ú¼Ò-ÖÐÐÂ¾­Î³](http://www.jwview.com/jingwei/html/06-08/325238.shtml)
 
-![](images/btnews/0101_0200/0128/media/image38.png)
+![](/images/btnews/0101_0200/0128/image38.webp)
 
 [The US shoots, kills and imprisons more people than other developed countries. Here's what the data says \| CNN](https://edition.cnn.com/2020/06/08/us/us-police-floyd-protests-country-comparisons-intl/index.html)
 

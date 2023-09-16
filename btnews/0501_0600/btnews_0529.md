@@ -5,7 +5,7 @@ date: 2022-12-25
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0529/0da503bf-8e16-4071-8e13-5867df921ba9.png)
+![](/images/btnews/0501_0600/0529/0da503bf-8e16-4071-8e13-5867df921ba9.webp)
 
 
 
@@ -17,13 +17,13 @@ date: 2022-12-25
 
 100亿美元不是小数字，美国政客真的打算给台湾100亿美元物质援助吗？
 
-![](/images/btnews/0501_0600/0529/e9cce558-35b7-4ea5-900c-5c19ef6155c6.png)
+![](/images/btnews/0501_0600/0529/e9cce558-35b7-4ea5-900c-5c19ef6155c6.webp)
 
 
 https://www.zaobao.com/realtime/world/story20221209-1341771
  
 
-![](/images/btnews/0501_0600/0529/e9b56c7c-40a3-4482-a824-7e4949916ed8.png)
+![](/images/btnews/0501_0600/0529/e9b56c7c-40a3-4482-a824-7e4949916ed8.webp)
 
 https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20221209-%E7%BE%8E%E4%BC%97%E9%99%A2%E9%80%9A%E8%BF%87-%E5%9B%BD%E9%98%B2%E6%8E%88%E6%9D%83%E6%B3%95%E6%A1%88-%E5%AF%B9%E5%8F%B0%E5%86%9B%E6%8F%B4%E4%BA%94%E5%B9%B4%E8%BE%BE100%E4%BA%BF%E7%BE%8E%E5%85%83
 
@@ -42,14 +42,14 @@ https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20221209-%E7%BE%8E%E4%BC%97%E9%99%A2%E9
 
 这次所有涉台条款的主要内容都来自于之前的一部法律草案——《台湾政策法》。今年9月15号，《台湾政策法》在美参议院外交委员会以高票获得通过。
 
-![](/images/btnews/0501_0600/0529/bb03ce8e-ba90-4d6d-b0ce-013afcd21e28.png)
+![](/images/btnews/0501_0600/0529/bb03ce8e-ba90-4d6d-b0ce-013afcd21e28.webp)
 
 《台湾政策法》提案人：参议院外委会现任主席梅嫩德斯（左，民主党）、参议员格雷厄姆（右，共和党）
 
 
 但即使“遏制中国大陆”是美国统治集团的政治共识，《台湾政策法》仍然有很大争议。美行政机构一直表示，其中一些“象征性内容”过于激进，可能导致中美关系公开破裂。所以，虽然议会的外交委员会通过了《台湾政策法》，但整个法案一直没有被拿到全议会表决。
 
-![](/images/btnews/0501_0600/0529/f9386289-505c-4b82-b955-d7e194d24dbc.png)
+![](/images/btnews/0501_0600/0529/f9386289-505c-4b82-b955-d7e194d24dbc.webp)
 
 https://fddi.fudan.edu.cn/fe/c8/c21253a458440/page.htm
 
@@ -60,13 +60,13 @@ https://fddi.fudan.edu.cn/fe/c8/c21253a458440/page.htm
 在《国防授权法》内，和台湾相关的条款基本上就是《台湾政策法》，只是删去了一些 “象征性”条款，同时在末尾增加了几条限制，表示不会推动和台湾建立外交关系，不会承认台湾独立，也绝对不授权美军自动干涉台海。这大概是美国政府担心局势失控，加上的安全阀。。
  
 
-![](/images/btnews/0501_0600/0529/7883f1c8-de9b-4e99-b0a4-eb6a0600986a.png)
+![](/images/btnews/0501_0600/0529/7883f1c8-de9b-4e99-b0a4-eb6a0600986a.webp)
 
 
-![](/images/btnews/0501_0600/0529/b68c9abd-f70c-4976-80a5-aa5d6438ef74.png)
+![](/images/btnews/0501_0600/0529/b68c9abd-f70c-4976-80a5-aa5d6438ef74.webp)
 
 
-![](/images/btnews/0501_0600/0529/6b4ec96d-bff4-4a95-a371-69d687b38971.png)
+![](/images/btnews/0501_0600/0529/6b4ec96d-bff4-4a95-a371-69d687b38971.webp)
 
  
 至于说其他实质内容，可以算作《台湾政策法》原始条款的翻版，甚至是加强版。原来的条款规定，对台军援的规模上限是四年45亿美元，最后《国防授权法案》批准了5年100亿。
@@ -75,18 +75,18 @@ https://fddi.fudan.edu.cn/fe/c8/c21253a458440/page.htm
 从明年起，美国国务院可以每年向台湾提供最多20亿美元的军事赠款，如果当年没用掉，余额可以转到下一年度。目前批准连续拨款5年，但100亿美元军援额度如果5年没用完，可以在十年内用。
  
 
-![](/images/btnews/0501_0600/0529/9be34ab2-9eab-42f7-9fac-85e7971a33c2.png)
+![](/images/btnews/0501_0600/0529/9be34ab2-9eab-42f7-9fac-85e7971a33c2.webp)
 
 
 
 如果国务院不浪费额度的话，这意味着台湾将成为目前美国的第三大军援对象，仅次于乌克兰和以色列。乌克兰正在打仗拿到的援助，基本上都会在战场上消耗掉，以色列也常年处于消耗物资的准战争状态，只有台湾周边没有常态化对抗，大多数援助都会变成净增的军事实力。
 
-![](/images/btnews/0501_0600/0529/70b85065-1611-4ae7-9c03-f3fed4e8964f.png)
+![](/images/btnews/0501_0600/0529/70b85065-1611-4ae7-9c03-f3fed4e8964f.webp)
 
 https://www.state.gov/wp-content/uploads/2022/05/FY-2023-Congressional-Budget-Justifcation-Appendix-2-final-508comp.pdf
  
 
-![](/images/btnews/0501_0600/0529/c9e3f1da-3b05-4995-93f6-6d495210f4ea.png)
+![](/images/btnews/0501_0600/0529/c9e3f1da-3b05-4995-93f6-6d495210f4ea.webp)
 
 
 
@@ -116,7 +116,7 @@ https://www.state.gov/wp-content/uploads/2022/05/FY-2023-Congressional-Budget-Ju
 
 台湾作为发达经济体，虽然不是特别穷兵黩武，但军事花钱也不少。根据台湾当局预算，2022年“防务支出”3600亿新台币，差不多120亿美元。
 
-![](/images/btnews/0501_0600/0529/b4042126-8a10-4655-bffa-e54148fb76f1.png)
+![](/images/btnews/0501_0600/0529/b4042126-8a10-4655-bffa-e54148fb76f1.webp)
 
 
 https://www.dgbas.gov.tw/public/data/dgbas01/111/111Ctab/111C%E6%AD%B2%E5%85%A5%E6%AD%B2%E5%87%BA%E7%B0%A1%E6%98%8E%E6%AF%94%E8%BC%83%E5%88%86%E6%9E%90%E8%A1%A8.PDF
@@ -133,13 +133,13 @@ https://www.dgbas.gov.tw/public/data/dgbas01/111/111Ctab/111C%E6%AD%B2%E5%85%A5%
 
 睡前消息182期分析过台湾扩充军队的计划，当时我们说，这是台北伪政权近四十年来第一次大规模扩军，原因是21.5万的编制从来填不满，实际上只有17万左右。最近几年，台军宣称主力部队实编率普遍达到九成，但媒体普遍不信。至于训练水平，台军除了少数精锐部队，大部分单位都受批评，作秀弄假风气严重，过去几年也缺乏跟进现代战争模式的改革。
 
-![](/images/btnews/0501_0600/0529/2229e283-91f0-4496-b7b5-2c8ec49ceb90.png)
+![](/images/btnews/0501_0600/0529/2229e283-91f0-4496-b7b5-2c8ec49ceb90.webp)
 
 
-![](/images/btnews/0501_0600/0529/4ceb9432-52e9-43a5-a681-b1016ee9ce68.png)
+![](/images/btnews/0501_0600/0529/4ceb9432-52e9-43a5-a681-b1016ee9ce68.webp)
 
 
-![](/images/btnews/0501_0600/0529/168bb9d6-62c7-452a-8130-5eb9ce102e49.png)
+![](/images/btnews/0501_0600/0529/168bb9d6-62c7-452a-8130-5eb9ce102e49.webp)
 
  
 所以，美国简单粗暴地给出了解决方案——加钱。除了许诺援助100亿，还要求台湾自己也加钱，雇更优秀的人手，短期内军费要达到GDP的3%。台积电的经济增长，不能只用来改善民生。
@@ -147,7 +147,7 @@ https://www.dgbas.gov.tw/public/data/dgbas01/111/111Ctab/111C%E6%AD%B2%E5%85%A5%
 
 3%的军费，对美国来说是一个心理界限。韩国人均GDP和台湾相当，2020年军费占GDP比例2.85%，对主要假想敌朝鲜已经具有完全压倒性的优势。
 
-![](/images/btnews/0501_0600/0529/2c3732fa-49da-4c0d-93f4-f1f2fc4c2d84.png)
+![](/images/btnews/0501_0600/0529/2c3732fa-49da-4c0d-93f4-f1f2fc4c2d84.webp)
 
 
 https://www.statista.com/statistics/939358/ratio-of-military-expenditure-to-gross-domestic-product-gdp-south-korea/
@@ -155,26 +155,26 @@ https://www.statista.com/statistics/939358/ratio-of-military-expenditure-to-gros
 
 常年准备对抗印度的巴基斯坦，军费比例是4%，而印度和土耳其这两个地区强国，都有接近3%的财富用于军队。
 
-![](/images/btnews/0501_0600/0529/1199c41c-95dd-4897-ba35-d617a631f197.png)
+![](/images/btnews/0501_0600/0529/1199c41c-95dd-4897-ba35-d617a631f197.webp)
 
 https://www.statista.com/statistics/810540/ratio-of-military-expenditure-to-gross-domestic-product-gdp-pakistan/
  
 
-![](/images/btnews/0501_0600/0529/015059b1-da8f-426a-81b2-54753af2b421.png)
+![](/images/btnews/0501_0600/0529/015059b1-da8f-426a-81b2-54753af2b421.webp)
 
 https://www.statista.com/statistics/810418/ratio-of-military-expenditure-to-gross-domestic-product-gdp-india/
  
 
-![](/images/btnews/0501_0600/0529/c73dcabc-a84b-4677-9371-56297537a482.png)
+![](/images/btnews/0501_0600/0529/c73dcabc-a84b-4677-9371-56297537a482.webp)
 
 
 最好的例子是乌克兰。2014年以前，乌克兰军费支出比例只有1.5%左右，丢了克里米亚之后快速提高，到2020年超过了4%。事实证明，提高投入，的确明显改善了战斗力。今年2月到3月，乌克兰基本上以自己的力量对抗俄罗斯绝大多数陆军，基本上维持了战线，也守住了基辅和哈尔科夫。
  
 
-![](/images/btnews/0501_0600/0529/c6d1a397-581d-4672-8b8c-1d601b1efff3.png)
+![](/images/btnews/0501_0600/0529/c6d1a397-581d-4672-8b8c-1d601b1efff3.webp)
 
 
-![](/images/btnews/0501_0600/0529/a684979d-b232-45bc-a3e9-9df564e728fd.png)
+![](/images/btnews/0501_0600/0529/a684979d-b232-45bc-a3e9-9df564e728fd.webp)
 
 和其他有战争风险的地区相比，台湾在军事防御方面有得天独厚的地理优势，200多公里宽的海峡，既是需要越过的障碍，也是给防御一方预警的平坦地貌。所以美国认为，让台湾把军费比例提到3%，再加上100亿美元军火，足够应付解放军的压力。
 
@@ -199,7 +199,7 @@ https://www.statista.com/statistics/810418/ratio-of-military-expenditure-to-gros
 
 在五六十年代，台北伪政府养了这么多军队还能坚持下来，完全是依靠美国援助。据美台学者统计，1951年到1974年，美国向台湾提供的军事援助，总计达到30亿美元以上。其中1965年以前有24.5亿，基本都是无偿赠款。而1965年前后，台军每年自己的投入只有2亿美元左右。
 
-![](/images/btnews/0501_0600/0529/b5d45155-d864-413e-90b6-867dd7de3ae9.png)
+![](/images/btnews/0501_0600/0529/b5d45155-d864-413e-90b6-867dd7de3ae9.webp)
 
 http://rdbk1.ynlib.cn:6251/Qw/Paper/744111
 
@@ -209,7 +209,7 @@ http://rdbk1.ynlib.cn:6251/Qw/Paper/744111
 
 站在美国角度看，21世纪初台军的底子比较厚，就算武器暂时不更新也没问题。但是最近十年，大陆先进军事力量大幅度提高，而台湾实际上废除了征兵制，绝对实力停滞甚至下降。。
 
-![](/images/btnews/0501_0600/0529/4bbe3e9e-2448-49a4-bdaf-9f148be2ee1f.png)
+![](/images/btnews/0501_0600/0529/4bbe3e9e-2448-49a4-bdaf-9f148be2ee1f.webp)
 
 https://udn.com/news/story/10930/6825119
 
@@ -231,7 +231,7 @@ https://udn.com/news/story/10930/6825119
 
 从目前的公开信息看，在通过军援法案前，美台肯定已经有了私下沟通，很可能达成了一些秘密交易，随着援助进度逐渐推出。下半年一些台湾媒体陆续报道，台湾当局已经制订了计划，要把台军总兵力扩大到26万，比现在增加5万。
 
-![](/images/btnews/0501_0600/0529/517f4730-8def-4a6e-a607-16db6f97b5e0.png)
+![](/images/btnews/0501_0600/0529/517f4730-8def-4a6e-a607-16db6f97b5e0.webp)
 
 https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E9%AB%98%E5%B1%A4%E6%93%AC%E6%93%B4%E8%BB%8D%E8%87%B326%E8%90%AC%E4%BA%BA-%E5%9B%A0%E6%87%89%E6%96%B0%E8%A8%93%E6%97%85-%E5%BD%B9%E6%9C%9F%E5%BB%B6%E9%95%B7%E5%8A%A0%E6%96%B0%E8%88%88%E5%85%B5%E5%8A%9B3%E5%A4%A7%E9%9C%80%E6%B1%82-003243843.html
 
@@ -241,7 +241,7 @@ https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E9%AB%98%E5%B1%A4%E6%93%AC%E6%93%B
 
 就在几天前，台湾当局放出了明年的防务预算计划，超过5800亿新台币，比今年猛增14%，又超过了美国2022年军费增加速度。如果解放军不对这些挑战做出有效回应，增加物质力量，接下来的战略行动自由一定会受到限制。
 
-![](/images/btnews/0501_0600/0529/0f9612bb-4bd5-4584-85b6-3fe04af123d5.png)
+![](/images/btnews/0501_0600/0529/0f9612bb-4bd5-4584-85b6-3fe04af123d5.webp)
 
 
 https://baijiahao.baidu.com/s?id=1751780434768430513
@@ -252,7 +252,7 @@ https://baijiahao.baidu.com/s?id=1751780434768430513
 
 央视新闻12月20日报道，国家药监局宣布，目前主要的退烧药物，比如布洛芬、对乙酰氨基酚制造企业在逐步释放产能，不知道各位观众是不是能买到退烧药。另外，这条官方消息也说明，对于当前的退烧药需求高峰，企业和管理部门并没有事先储备药品做应对，而是在需求高峰出现之后才开始挖掘工业潜力。
 
-![](/images/btnews/0501_0600/0529/44741f95-60c1-479c-81c1-27100330b2f1.png)
+![](/images/btnews/0501_0600/0529/44741f95-60c1-479c-81c1-27100330b2f1.webp)
 
 
 这里我转发来自安徽观众的一份提醒。他提到，我们的天然气和煤气管道都通过“臭味剂”做最后的泄露警告。而臭味剂能生效，前提是普通人的嗅觉正常。最近新冠肺炎全国普遍感染已经是必然结果，一家甚至一个单元的人可能会一起感染，一起进入感染的嗅觉丧失期，煤气泄漏可能成为额外风险。考虑到全国的总人口基数，这份担心很有实际意义。嗅觉失灵的观众还是要多检查一下自己的煤气阀。
@@ -260,7 +260,7 @@ https://baijiahao.baidu.com/s?id=1751780434768430513
 
 同一天，阿富汗塔利班政府宣布，立刻禁止女性接受高等教育。从历史经验看，这对阿富汗的人口增长率可能是一个好消息，但相对自己的经济尤其是农业来说，阿富汗的人口早就是过载状态了。牺牲女性教育权利换来的人口增长率，将来可能意味着更大的灾难。
 
-![](/images/btnews/0501_0600/0529/9ba9e701-1a97-4fd3-8b14-152aaea5a175.png)
+![](/images/btnews/0501_0600/0529/9ba9e701-1a97-4fd3-8b14-152aaea5a175.webp)
 
 
 
@@ -269,10 +269,10 @@ https://baijiahao.baidu.com/s?id=1751780434768430513
 
 狼团队在距离前线几十公里的一处酒店住宿，当天为罗戈津的生日举行了一个小型宴会。乌克兰的榴弹炮准确命中了举行宴会的咖啡厅，罗戈津身上嵌入多块弹片，其中一块打中了脊椎。
 
-![](/images/btnews/0501_0600/0529/b8649012-614e-4586-98a1-7570f65e5678.png)
+![](/images/btnews/0501_0600/0529/b8649012-614e-4586-98a1-7570f65e5678.webp)
 
 
-![](/images/btnews/0501_0600/0529/b313bb99-86dc-417a-b548-34233e35c1a0.png)
+![](/images/btnews/0501_0600/0529/b313bb99-86dc-417a-b548-34233e35c1a0.webp)
 
 
 
@@ -285,6 +285,6 @@ https://baijiahao.baidu.com/s?id=1751780434768430513
 
 
 
-![](/images/btnews/0501_0600/0529/1eeaa3da-0dee-4f47-9304-9734e8e073ed.jpg)
+![](/images/btnews/0501_0600/0529/1eeaa3da-0dee-4f47-9304-9734e8e073ed.webp)
 
 

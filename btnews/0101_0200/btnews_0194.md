@@ -7,77 +7,77 @@ date: 2020-11-15
 
 **11月4日，埃塞俄比亚政府宣布，国防军在北方与控制当地的提格雷人民解放阵线爆发了激烈军事冲突。**
 
-![](images/btnews/0101_0200/0194/media/image1.png)
+![](/images/btnews/0101_0200/0194/image1.webp)
 
-![](images/btnews/0101_0200/0194/media/image2.png)
+![](/images/btnews/0101_0200/0194/image2.webp)
 
 **目前双方态度都很强硬，战争不断升级。前几期节目，督工你一直说埃塞俄比亚可能会爆发内战，浪费青尼罗河复兴大坝工程带来的发展机会。**
 
-![](images/btnews/0101_0200/0194/media/image3.png)
+![](/images/btnews/0101_0200/0194/image3.webp)
 
-![](images/btnews/0101_0200/0194/media/image4.png)
+![](/images/btnews/0101_0200/0194/image4.webp)
 
-![](images/btnews/0101_0200/0194/media/image5.png)
+![](/images/btnews/0101_0200/0194/image5.webp)
 
-![](images/btnews/0101_0200/0194/media/image6.png)
+![](/images/btnews/0101_0200/0194/image6.webp)
 
-![](images/btnews/0101_0200/0194/media/image7.png)
+![](/images/btnews/0101_0200/0194/image7.webp)
 
 **现在埃塞俄比亚的情况怎么样？**
 
 埃塞俄比亚目前情况非常危险。
 
-![](images/btnews/0101_0200/0194/media/image8.png)
+![](/images/btnews/0101_0200/0194/image8.webp)
 
-![](images/btnews/0101_0200/0194/media/image9.png)
+![](/images/btnews/0101_0200/0194/image9.webp)
 
 [Ethiopia attack: Dozens 'rounded up and killed' in Oromia state - BBC News](https://www.bbc.com/news/world-africa-54787034)
 
-![](images/btnews/0101_0200/0194/media/image10.png)
+![](/images/btnews/0101_0200/0194/image10.webp)
 
 https://www.bbc.com/news/world-africa-49070762
 
 过去大半年，埃塞俄比亚的种族冲突规模越来越大。已经有数百万人被赶出家园，成为国内难民。现在，各地都在抓紧扩大自己的武装，为全面内战作准备。从历史经验看，这种所有人对所有人的内战，很可能迅速完全失去理性，结果极其惨烈。考虑到埃塞俄比亚有1.15亿人口，很难说这场战争要死多少人。
 
-![](images/btnews/0101_0200/0194/media/image11.png)
+![](/images/btnews/0101_0200/0194/image11.webp)
 
-![](images/btnews/0101_0200/0194/media/image12.png)
+![](/images/btnews/0101_0200/0194/image12.webp)
 
 https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-20190530-story.html
 
 现在埃塞俄比亚南方北方都在打，但是主要问题出在北方提格雷州。这里的提格雷人民解放阵线是国内军事最强的力量，有能力靠自己打烂埃塞的中央权威。
 
-![](images/btnews/0101_0200/0194/media/image13.png)
+![](/images/btnews/0101_0200/0194/image13.webp)
 
-![](images/btnews/0101_0200/0194/media/image14.png)
+![](/images/btnews/0101_0200/0194/image14.webp)
 
 提格雷州在埃塞俄比亚内的地理位置（看辩识度，二选一）
 
-![](images/btnews/0101_0200/0194/media/image15.png)
+![](/images/btnews/0101_0200/0194/image15.webp)
 
 提格雷州首府默克莱
 
 外界估计，提格雷人民解放最多可以动员大约25万地方部队和民兵，并且拥有大量重装备。埃塞的国防军现役兵力15万左右，近一半部署在提格雷地区，但是其中很多人都与提格雷人民解放阵线关系密切。多家媒体证实，解放阵线现在已经控制了埃塞国防军北方司令部，取得了战术优势。这场战争恐怕难以收场了。
 
-![](images/btnews/0101_0200/0194/media/image16.png)
+![](/images/btnews/0101_0200/0194/image16.webp)
 
 埃塞国防军北方司令部基地大门，已经显示被提人阵武装控制
 
-![](images/btnews/0101_0200/0194/media/image17.png)
+![](/images/btnews/0101_0200/0194/image17.webp)
 
 提人阵武装人员
 
 埃塞俄比亚上次内战1991年才结束，恢复和平发展不到三十年。再打大战，这些年的建设大多会前功尽弃。大家应该记得，几个月前，东非出现了严重旱灾和蝗灾，已经面临着粮食危机，如果再加上战争影响，复兴大坝就算不被炸掉，也救不了埃塞俄比亚人民。
 
-![](images/btnews/0101_0200/0194/media/image18.png)
+![](/images/btnews/0101_0200/0194/image18.webp)
 
-![](images/btnews/0101_0200/0194/media/image19.png)
+![](/images/btnews/0101_0200/0194/image19.webp)
 
 **过去十几年，埃塞俄比亚经济增长很快，被认为是非洲发展样板之一，中国也投了很多资金和技术，怎么会突然要全面内战了？**
 
-![](images/btnews/0101_0200/0194/media/image20.png)
+![](/images/btnews/0101_0200/0194/image20.webp)
 
-![](images/btnews/0101_0200/0194/media/image21.jpeg)
+![](/images/btnews/0101_0200/0194/image21.webp)
 
 埃塞俄比亚首都亚的斯亚贝巴市景
 
@@ -89,24 +89,24 @@ https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-
 
 刚才说过，埃塞俄比亚上轮内战在1991年基本结束，最终胜利者是提格雷人民解放阵线和厄立特里亚人民解放阵线。其中厄立特里亚人的目标只是独立，1993年就自己建国了，把整个埃塞俄比亚留给了提格雷人。
 
-![](images/btnews/0101_0200/0194/media/image22.png)
+![](/images/btnews/0101_0200/0194/image22.webp)
 
 提格雷人民解放阵线党徽
 
 但提格雷人只占埃塞俄比亚总人口的6%，历史上长期处于边缘地位，除了军事力量发达之外，缺乏经济和社会管理人才。可以大致理解为中国北方的蒙古人。这样一个集团拿到全国政权之后，为了维持表面上的平衡，也为了吸收其他民族精英，建立了一套非常复杂的体制。
 
-![](images/btnews/0101_0200/0194/media/image23.png)
+![](/images/btnews/0101_0200/0194/image23.webp)
 
 以自己为核心，提格雷解放阵线首先组建了埃塞俄比亚人民革命民主阵线（EPRDF），作为理论上的执政联盟。
 
-![](images/btnews/0101_0200/0194/media/image24.png)
+![](/images/btnews/0101_0200/0194/image24.webp)
 
 埃塞俄比亚人民革命民主阵线党徽
 
 这个大联盟下面包括提格雷解放阵线，除此之外还有三个成员，分别对应第一大民族奥罗莫人，第二大民族阿姆哈拉人，再加上南部混居少数民族集团。理论上说，在执政联盟内部，四个组织完全平等，按协商一致原则行动。但任何政治组织内部都有矛盾，所谓“协商一致”肯定就是空谈扯皮，什么事情都做不了。这样的政府要想运转，必然要有一个传统权威出来实际负责政府运行，最起码比无政府状态要好。所以，埃塞俄比亚人民革命民主阵线的行政权力长期拿在提格雷解放阵线手里。
 
-![](images/btnews/0101_0200/0194/media/image25.jpeg)
-![](images/btnews/0101_0200/0194/media/image26.png)
+![](/images/btnews/0101_0200/0194/image25.webp)
+![](/images/btnews/0101_0200/0194/image26.webp)
 
 奥罗莫人民民主组织 阿姆哈拉民族民主运动
 
@@ -116,13 +116,13 @@ https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-
 
 看起来这是一部分散权力的宪法，实际上和前面的协商体制一样，给全体埃塞俄比亚人提出了一个两难选择，或者让这套体制按宪法逻辑运行，整个国家必然四分五裂，进入无政府状态。或者干脆让提格雷人继续当家，起码整个国家还有个秩序。刚刚结束内战的埃塞俄比亚人选择了暂时妥协，所以提格雷解放阵线藏在埃塞俄比亚人民革命民主阵线和联邦政府背后，占据了大多数关键职位，一直实际掌握着政权。
 
-![](images/btnews/0101_0200/0194/media/image27.png)
+![](/images/btnews/0101_0200/0194/image27.webp)
 
 埃塞俄比亚宪法允许民族自治区域脱离联邦的条款
 
 所以，过去二十多年，尤其是提格雷人的首任总理梅莱斯时期，在一部松散的分裂宪法下，提格雷阵线主导的政府反而创造了埃塞俄比亚历史上中央集权程度最高的政治体制。
 
-![](images/btnews/0101_0200/0194/media/image28.png)
+![](/images/btnews/0101_0200/0194/image28.webp)
 
 埃塞俄比亚政区
 
@@ -132,7 +132,7 @@ https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-
 
 2018年2月，来自南方小民族联盟的海尔马里亚姆也辞职了，接下来的总理阿比.艾哈迈德来自第一大民族奥罗莫人，一直当到今天。
 
-![](images/btnews/0101_0200/0194/media/image29.png)
+![](/images/btnews/0101_0200/0194/image29.webp)
 
 埃塞俄比亚联邦至今三任总理梅莱斯、海尔马里亚姆、阿比（任职顺序从左至右）
 
@@ -142,7 +142,7 @@ https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-
 
 2019年，因为与厄里特里亚达成和平协议，阿比总理获得当年度诺贝尔和平奖。
 
-![](images/btnews/0101_0200/0194/media/image30.png)
+![](/images/btnews/0101_0200/0194/image30.webp)
 
 埃塞俄比亚对外援依赖很大，得诺贝尔奖意味着每年多了至少几亿美元的国际援助，可以帮助政府平衡每年几十亿美元的贸易逆差，所以阿比总理的地位继续上升，有点像1990年拿到诺贝尔和平奖的戈尔巴乔夫。
 
@@ -150,15 +150,15 @@ https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-
 
 12月，阿比直接把埃塞俄比亚人民革命民主阵线解散了。原来四个加盟集团，除了提格雷人之外，共同组建了新党,繁荣党。这标志着阿比代表的新势力，已经完成了对联邦政府的控制。提格雷人重新变成北方地方势力。
 
-![](images/btnews/0101_0200/0194/media/image31.png)
+![](/images/btnews/0101_0200/0194/image31.webp)
 
 埃革阵（左侧党徽）被繁荣党（右侧党徽）取代
 
 从提格雷执政集团的角度看，自己稀里糊涂就丢掉了中央政权，对繁荣党新政权恨之入骨，也不甘心，必然会想到利用自己手上的优势军事力量反扑。提格雷人所在的北方地区，经济和文化都落后，不太可能长期支持国家级的武装力量，要夺取政权，必须在自己的武装力量衰退之前出手，所以提格雷人反对中央政府的一切改革，随便找个茬就要发动战争，夺回中央政权。这就是埃塞爆发内战的背景。
 
-![](images/btnews/0101_0200/0194/media/image32.png)
+![](/images/btnews/0101_0200/0194/image32.webp)
 
-![](images/btnews/0101_0200/0194/media/image33.png)
+![](/images/btnews/0101_0200/0194/image33.webp)
 
 **埃塞俄比亚是联合国认定的最不发达国家之一。如果爆发全面内战，好不容易才积累的一点发展成果，很可能都要损失掉，为什么埃塞俄比亚总不能摆脱几十年一次的内乱循环。**
 
@@ -166,13 +166,13 @@ https://www.latimes.com/world/la-fg-ethiopia-ethnic-violence-millions-displaced-
 
 但是，发展现代工商业，建立现代国家体制，必然会让所有国民都意识到自己的平等地位，要利用自己的身份争取平等权利。如果执政集团本身淡化民族观念，强调国民身份，同时发展经济，地域和民族分裂趋势就有可能弱化。法国大革命之后的法国执政集团就是这样操作，从巴黎出发教会法国人说法语，压制了地方分裂势力，制造了现代法国。
 
-![](images/btnews/0101_0200/0194/media/image34.png)
+![](/images/btnews/0101_0200/0194/image34.webp)
 
 2016年奥罗莫族埃塞长跑选手在里约奥运会上做出抗议手势
 
 如果执政集团反过来操作，刻意保护民族利益和小集团利益，处处让国民意识到执政集团的封闭性，意识到所谓“协商一致”原则的虚伪性，那么每个民族和地域集团都会产生独立意识，学着统治集团的样子争取利益。清朝末年搞立宪，搞洋务运动，结果推出一个满族贵族的皇族内阁，直接催生了中国人的现代民族主义以及共和思想。
 
-![](images/btnews/0101_0200/0194/media/image35.png)
+![](/images/btnews/0101_0200/0194/image35.webp)
 
 https://www.cnbc.com/2018/06/02/ethiopia-ministers-ok-draft-law-to-lift-state-of-emergency.html
 
@@ -184,35 +184,35 @@ https://www.cnbc.com/2018/06/02/ethiopia-ministers-ok-draft-law-to-lift-state-of
 
 埃塞俄比亚是撒哈拉沙漠以南历史最悠久的国家。中学世界历史课本应该介绍过阿克苏姆王国，这是埃塞俄比亚国家的前身。
 
-![](images/btnews/0101_0200/0194/media/image36.png)
+![](/images/btnews/0101_0200/0194/image36.webp)
 
 之后十八个世纪，埃塞俄比亚地区的文明一直没有间断。
 
-![](images/btnews/0101_0200/0194/media/image37.jpeg)
+![](/images/btnews/0101_0200/0194/image37.webp)
 
 拉利贝拉岩石教堂——1978年列入世界文化遗产
 
-![](images/btnews/0101_0200/0194/media/image38.png)
+![](/images/btnews/0101_0200/0194/image38.webp)
 
 法西尔盖比城堡及古建筑——1979年列入世界文化遗产
 
 到近代，几乎与甲午战争同时，埃塞俄比亚在1896年阿杜瓦战役正面击败意大利远征军主力，这市埃塞俄比亚最辉煌的历史，也是是所有被西方侵略的古文明的榜样。这场战争对埃塞俄比亚的作用，也类似于抗日战争在中国现代史上的地位。
 
-![](images/btnews/0101_0200/0194/media/image39.png)
+![](/images/btnews/0101_0200/0194/image39.webp)
 
 奠定现代埃塞俄比亚基础的孟尼利克二世（1889-1913年在位）
 
-![](images/btnews/0101_0200/0194/media/image40.png)
+![](/images/btnews/0101_0200/0194/image40.webp)
 
 埃塞俄比亚传统画作的阿杜瓦战役
 
-![](images/btnews/0101_0200/0194/media/image41.png)
+![](/images/btnews/0101_0200/0194/image41.webp)
 
 阿杜瓦战役名信片
 
 二战前后，埃塞俄比亚王国终于被意大利打倒，但是因为站在反法西斯联盟一边，短暂亡国后还能复国，还吞并了意大利殖民地厄里特里亚，实际控制领土扩张到历史最大，120多万平方公里，就算丢掉厄立特里亚也有110万平方公里。
 
-![](images/btnews/0101_0200/0194/media/image42.png)
+![](/images/btnews/0101_0200/0194/image42.webp)
 
 1991年前埃塞俄比亚地图
 
@@ -220,31 +220,31 @@ https://www.cnbc.com/2018/06/02/ethiopia-ministers-ok-draft-law-to-lift-state-of
 
 埃塞俄比亚现有人口1.15亿，分成大约90个民族，其中奥莫罗、阿姆哈拉、索马里、提格雷是排名前四的民族。但这四个民族加起来，也不到全部人口的2/3。
 
-![](images/btnews/0101_0200/0194/media/image43.png)
+![](/images/btnews/0101_0200/0194/image43.webp)
 
 这些民族集团各有各的亮点和传统。人口第二多的阿姆哈拉人是大多数古代王朝的后继者，一直主导着埃塞俄比亚山区的经济和文化。对埃塞俄比亚的国家认同最强烈，有一点古典帝国主义情绪。
 
 现在的埃塞俄比亚首都亚的斯亚贝巴，并不是古城，而是阿姆哈拉王朝为了向南方扩张，在十九世纪末期才修建的据点。
 
-![](images/btnews/0101_0200/0194/media/image44.png)
+![](/images/btnews/0101_0200/0194/image44.webp)
 
 城里的居民以阿姆哈拉人为主，但周围却完全是奥罗莫人传统区域。奥罗莫人认为自己长期受到阿姆哈拉王朝的政治和经济压迫，积怨很深。第一大民族和第二大民族的联盟是很脆弱的。
 
-![](images/btnews/0101_0200/0194/media/image45.png)
+![](/images/btnews/0101_0200/0194/image45.webp)
 
 1888年被贩卖的奥罗莫奴隶
 
 埃塞俄比亚的其他民族，也基本上是阿姆哈拉王朝扩张的结果，而且进入帝国的时间并不长。1896年打退意大利侵略以后，埃塞皇帝孟尼利克二世从西方购买枪炮，向周边大举扩张，把国土扩大了近一倍。美国50个州，44个州加入联邦的历史超过130年，比埃塞俄比亚大多数领土并入阿姆哈拉王朝的时间还早。所以，埃塞俄比亚东部和南部大部分居民的语言、宗教和生活习惯都和阿姆哈拉人有明显差异，对近代帝国扩张也不会有什么正面评价，相互之间还有很大的矛盾。
 
-![](images/btnews/0101_0200/0194/media/image46.jpeg)
+![](/images/btnews/0101_0200/0194/image46.webp)
 
 科普特正教是埃塞俄比亚最大的宗教，也是古代埃塞俄比亚的国教
 
-![](images/btnews/0101_0200/0194/media/image47.jpeg)
+![](/images/btnews/0101_0200/0194/image47.webp)
 
 现在埃塞俄比亚有约三分之一人口信伊斯兰教
 
-![](images/btnews/0101_0200/0194/media/image48.png)
+![](/images/btnews/0101_0200/0194/image48.webp)
 
 总理阿比与不同宗教人士会面
 
@@ -256,27 +256,27 @@ https://www.cnbc.com/2018/06/02/ethiopia-ministers-ok-draft-law-to-lift-state-of
 
 埃塞俄比亚号称“非洲屋脊”，大部分国土都在东非高原上。
 
-![](images/btnews/0101_0200/0194/media/image49.jpeg)
+![](/images/btnews/0101_0200/0194/image49.webp)
 
 埃塞俄比亚地形图，颜色越深，海拔越高（上图可二选一）
 
 非洲总体上是个平坦的大陆，但是，平坦的地方不是太干旱就是太湿润。干旱的地方是撒哈拉沙漠和热带草原，发展不了稳定的的农业；湿润的地方雨林太多，需要有足够的铁器和近代医学技术才能开发，不干不湿的平地又往往距离欧亚大陆太远，没有足够的时间积累文明。只有山地能在干旱地区中间聚集水汽，降低温度，在铁器时代早期就发展文明。所以除了地中海沿岸之外，古代的山地民族阿姆哈拉建立了非洲最早，最发达的文明国家。
 
-![](images/btnews/0101_0200/0194/media/image50.jpeg)
+![](/images/btnews/0101_0200/0194/image50.webp)
 
 但是，山地毕竟不像平原那样适合搞农业，古代埃塞俄比亚山地文明的经济基础比较脆弱。而且因为东非大裂谷运动，和水流切割的影响，埃塞俄比亚这一带的高原地形以相互独立的台地为主，有些类似部分黄土高原和云贵高原地区。
 
-![](images/btnews/0101_0200/0194/media/image51.png)
+![](/images/btnews/0101_0200/0194/image51.webp)
 
 云贵高原溶岩台地
 
-![](images/btnews/0101_0200/0194/media/image52.png)
+![](/images/btnews/0101_0200/0194/image52.webp)
 
 黄土高原台地地貌
 
 台地顶部平坦，可以搞农牧业，边缘是悬崖，适合建立防线，所以台地的经济自给自给能力很强，是天然的封建城堡。
 
-![](images/btnews/0101_0200/0194/media/image53.png)
+![](/images/btnews/0101_0200/0194/image53.webp)
 
 这意味着古代埃塞俄比亚王朝必须容忍一定程度的割据，绝大多时间，都是皇帝占据几个主要据点，向一大批半独立政权收贡品。直到19世纪末从西方买了枪炮，皇帝才能打破独立小封建主的天然城堡，建立比较强的中央权威，还能利用这个新形成的权威动员力量，对抗意大利这种比较弱的西方帝国主义。这和西方的火炮打破封建城堡，中国明清两代用火炮消灭土司遵循同样的规律。
 
@@ -284,21 +284,21 @@ https://www.cnbc.com/2018/06/02/ethiopia-ministers-ok-draft-law-to-lift-state-of
 
 更麻烦的是，阿姆哈拉王朝在帝国主义战争中总能站到赢的一边，帝国一直维持到1974年，才被军队政变推翻。封建帝国不敢也不可能建立公民认同，所以埃塞俄比亚是1974年才开始尝试建立现代公民意识。这时候中国民族问题最复杂的西南山区已经有成昆铁路了。
 
-![](images/btnews/0101_0200/0194/media/image54.png)
+![](/images/btnews/0101_0200/0194/image54.webp)
 
 埃塞俄比亚末代皇帝海尔.塞拉西一世
 
 1974年取代皇帝的门格斯图政权自称要搞社会主义，但运行模式也就是非洲军阀的平均水平，某些方面比之前的帝国还烂。八十年埃塞俄比亚代连续发生大饥荒，震惊了世界，有一首全球流行音乐《四海一家》，就是为埃塞俄比亚灾民募捐创作的。
 
-![](images/btnews/0101_0200/0194/media/image55.png)
+![](/images/btnews/0101_0200/0194/image55.webp)
 
 埃塞俄比亚1974-1991军政府时期领导人门格斯图
 
-![](images/btnews/0101_0200/0194/media/image56.jpeg)
+![](/images/btnews/0101_0200/0194/image56.webp)
 
 1983-1985连续旱灾造成埃塞俄比亚大饥荒
 
-![](images/btnews/0101_0200/0194/media/image57.png)
+![](/images/btnews/0101_0200/0194/image57.webp)
 
 再往后，就是前面说的提格雷军事集团造反事件，开始看着像革命，到后来蜕变成了满蒙八旗入关，最后演变成2020年的内战。这说明埃塞俄比亚还没有进入现代社会，但又承受了现代社会和全球化的冲击，必然每隔几十年要动荡一次。
 

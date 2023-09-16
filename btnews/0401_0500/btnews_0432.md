@@ -5,7 +5,7 @@ date: 2022-05-15
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0432/33fe6c90-2208-4009-8bb1-307bd5e8be3b.jpg)
+![](/images/btnews/0401_0500/0432/33fe6c90-2208-4009-8bb1-307bd5e8be3b.webp)
 
 
 
@@ -16,7 +16,7 @@ date: 2022-05-15
 
 
 
-![](/images/btnews/0401_0500/0432/13acf44e-599a-45e1-8790-3f95a0c5ee5d.png)
+![](/images/btnews/0401_0500/0432/13acf44e-599a-45e1-8790-3f95a0c5ee5d.webp)
 
 
 
@@ -29,9 +29,9 @@ date: 2022-05-15
 1986年，菲律宾人忍无可忍，推翻了老马科斯政权，迫使马科斯一家到美国流亡。为什么小马科斯现在还能高票当选总统？
  
 
-![](/images/btnews/0401_0500/0432/91e6204e-413f-4871-8614-469fbdf3c1f0.png)
+![](/images/btnews/0401_0500/0432/91e6204e-413f-4871-8614-469fbdf3c1f0.webp)
 
-![](/images/btnews/0401_0500/0432/479aec3b-2158-4093-bff5-0cb832e910f8.png)
+![](/images/btnews/0401_0500/0432/479aec3b-2158-4093-bff5-0cb832e910f8.webp)
 
 https://www.thepaper.cn/newsDetail_forward_18033685
 https://ph.rappler.com/
@@ -41,9 +41,9 @@ https://ph.rappler.com/
 
 
 
-![](/images/btnews/0401_0500/0432/2e122d92-6b69-4b96-9c93-9ba069b93222.png)
+![](/images/btnews/0401_0500/0432/2e122d92-6b69-4b96-9c93-9ba069b93222.webp)
 
-![](/images/btnews/0401_0500/0432/d85256a1-b859-4fd9-9637-8c6e60b88258.png)
+![](/images/btnews/0401_0500/0432/d85256a1-b859-4fd9-9637-8c6e60b88258.webp)
 
 
 
@@ -51,14 +51,14 @@ https://ph.rappler.com/
 
  
 
-![](/images/btnews/0401_0500/0432/0b598983-948f-4dcb-997e-942749533160.png)
+![](/images/btnews/0401_0500/0432/0b598983-948f-4dcb-997e-942749533160.webp)
 老马科斯和伊梅尔达出席活动
 https://www.rappler.com/newsbreak/in-depth/212529-imelda-marcos-shoes-mixed-legacy/
 
 
 
 
-![](/images/btnews/0401_0500/0432/50ed1487-e679-4def-b95a-f79da987e5c6.png)
+![](/images/btnews/0401_0500/0432/50ed1487-e679-4def-b95a-f79da987e5c6.webp)
 伊梅尔达参观收藏自己鞋子的博物馆
 
 
@@ -71,7 +71,7 @@ https://www.rappler.com/newsbreak/in-depth/212529-imelda-marcos-shoes-mixed-lega
 现在伊梅尔达太后已经90多岁，从最近的露面看，身体还不错。不出意外的话，下个月她就会以胜利者的身份重返总统府马拉卡南宫。坐飞机逃走，坐总统专车回来，人生的大起大落实在有点刺激。
   
 
-![](/images/btnews/0401_0500/0432/fb0b506b-3c93-404f-a173-c2e210fcc1ee.png)
+![](/images/btnews/0401_0500/0432/fb0b506b-3c93-404f-a173-c2e210fcc1ee.webp)
 1986年2月25日，老马科斯、伊梅尔达以及小马科斯（右一）在马拉卡南宫的阳台上。
 https://edition.cnn.com/2022/05/06/asia/philippines-election-presidency-marcos-profile-dst-intl-hnk/index.html
 
@@ -85,7 +85,7 @@ https://edition.cnn.com/2022/05/06/asia/philippines-election-presidency-marcos-p
 经济基础决定上层建筑，菲律宾建立不了现代经济，还是靠服务业和卖资源混饭吃，所以只能从资产阶级民主制向后倒退，用封建制结合寡头共和来建立相对稳定的社会秩序。小马科斯这次当选总统，经济上靠他老爸偷来的资产，政治上也享受了老马科斯制造的社会遗产。只不过这份社会遗产只对他来说是财富，对全体菲律宾人民来说都是负资产。
   
 
-![](/images/btnews/0401_0500/0432/af9757c6-e40f-4789-abb3-09ee45270e45.png)
+![](/images/btnews/0401_0500/0432/af9757c6-e40f-4789-abb3-09ee45270e45.webp)
 
 https://english.kyodonews.net/news/2022/05/4e5f8345ad00-protesters-take-to-streets-as-marcos-jr-wins-philippine-presidency.html
 
@@ -95,11 +95,11 @@ https://english.kyodonews.net/news/2022/05/4e5f8345ad00-protesters-take-to-stree
 
 1989年老马科斯死在国外，1991年，马科斯家族获准回国，第二年小马科斯就在家乡，菲律宾西北角的北伊罗戈省当选众议员，这是马科斯家族命运见底反弹的转折点。1998年，小马科斯当选为北伊罗戈省省长，以后二十多年这个省长职位一直由马科斯家族控制，2010年伊梅尔达也接替儿子当过几年省长。
  
-![](/images/btnews/0401_0500/0432/a3d2dbc1-8654-433d-b060-bae35df6ed31.png)
+![](/images/btnews/0401_0500/0432/a3d2dbc1-8654-433d-b060-bae35df6ed31.webp)
 马科斯家庭合影，红圈内为少年时的小马科斯
  
 
-![](/images/btnews/0401_0500/0432/9a979967-aed6-4fb9-9945-789e68bcc8be.png)
+![](/images/btnews/0401_0500/0432/9a979967-aed6-4fb9-9945-789e68bcc8be.webp)
 红色区域为北伊罗戈省
 
 
@@ -107,7 +107,7 @@ https://english.kyodonews.net/news/2022/05/4e5f8345ad00-protesters-take-to-stree
 
 
 
-![](/images/btnews/0401_0500/0432/9fccde5c-a2ea-4f0c-a1f9-b4c825c6be8a.png)
+![](/images/btnews/0401_0500/0432/9fccde5c-a2ea-4f0c-a1f9-b4c825c6be8a.webp)
 
 https://www.hawaiinewsnow.com/story/12474095/marcos-family-wins-three-victories-in-philippine-elections/
 
@@ -122,7 +122,7 @@ https://www.hawaiinewsnow.com/story/12474095/marcos-family-wins-three-victories-
 
 
 
-![](/images/btnews/0401_0500/0432/832b0f0b-3073-4d26-80b6-e956a364946c.png)
+![](/images/btnews/0401_0500/0432/832b0f0b-3073-4d26-80b6-e956a364946c.webp)
 
 https://en.wikipedia.org/wiki/2010_Philippine_Senate_election
 
@@ -130,7 +130,7 @@ https://en.wikipedia.org/wiki/2010_Philippine_Senate_election
 2016年，小马科斯冲击副总统职位。菲律宾政治制度模仿了美国建国最初的设计，总统和副总统分别独立选举。小马科斯以不到一个百分点的劣势输给了现任副总统，也是他今年选总统的最主要竞选对手罗布雷多。2016年小马科斯拿到的选票比2010年多了近一百万张，但得票率34.77%，几乎与六年前一模一样。还是三分之一左右的菲律宾人能接受马科斯家族。
  
 
-![](/images/btnews/0401_0500/0432/c645e552-763c-4467-a635-4944541ed96e.png)
+![](/images/btnews/0401_0500/0432/c645e552-763c-4467-a635-4944541ed96e.webp)
 
 https://en.wikipedia.org/wiki/2016_Philippine_general_election
 
@@ -140,7 +140,7 @@ https://en.wikipedia.org/wiki/2016_Philippine_general_election
 
 
 
-![](/images/btnews/0401_0500/0432/6ec6d9a7-8b21-4c55-9964-0f84e8b53a5f.png)
+![](/images/btnews/0401_0500/0432/6ec6d9a7-8b21-4c55-9964-0f84e8b53a5f.webp)
 
 https://en.wikipedia.org/wiki/Philippine_Senate_elections#2019
 
@@ -150,7 +150,7 @@ https://en.wikipedia.org/wiki/Philippine_Senate_elections#2019
 
 
 
-![](/images/btnews/0401_0500/0432/4cbc5698-da9d-4c0d-b920-2754477d1216.png)
+![](/images/btnews/0401_0500/0432/4cbc5698-da9d-4c0d-b920-2754477d1216.webp)
 
 
 
@@ -160,23 +160,23 @@ https://en.wikipedia.org/wiki/Philippine_Senate_elections#2019
 2016年的时候，马科斯家族已经与杜特尔特合作了，我们看2016年按省市细分的菲律宾总统选举示意图，亮黄色是杜特尔特得票领先的省市。可以看到他主要依靠大马尼拉区和家乡南方地区支持，除此之外只在一个省获胜，这个省就在菲律宾西北角，是马科斯家族的根据地北伊罗戈省。
  
 
-![](/images/btnews/0401_0500/0432/baf45877-7100-4889-88d7-b1a7c579099d.png)
+![](/images/btnews/0401_0500/0432/baf45877-7100-4889-88d7-b1a7c579099d.webp)
 2016年菲律宾总统选举结果示意图，亮黄色是杜特尔特领先的地区
 
 
 再看2016年副总统选举结果，粉红色是小马科斯得票领先的省市，几乎全都集中在菲律宾北部。这说明马科斯和杜特尔特家族合作，可以搞定整个菲律宾。
  
 
-![](/images/btnews/0401_0500/0432/a19ba3b5-e4a2-487f-bf96-d24827398d20.png)
+![](/images/btnews/0401_0500/0432/a19ba3b5-e4a2-487f-bf96-d24827398d20.webp)
 2016年菲律宾副总统选举按省市细分，粉红色是小马科斯领先的地区
 
 
 在2022年这种潜力变成了现实。杜特尔特本人在任期末折腾过很多动作，想继续以某种方式直接控制权力，但最终他意识到，菲律宾封建化的社会格局，不会允许一个强势总统当这么久。为了避免像老马科斯那样被赶下台，杜特尔特还是宣布退休，把政治遗产留给女儿萨拉.杜特尔特。
  
 
-![](/images/btnews/0401_0500/0432/54095731-cc24-4421-a8e4-cf8bb9fee49d.png)
+![](/images/btnews/0401_0500/0432/54095731-cc24-4421-a8e4-cf8bb9fee49d.webp)
 
-![](/images/btnews/0401_0500/0432/d19efa99-ab2f-4b32-95d9-d9e3a44d3312.png)
+![](/images/btnews/0401_0500/0432/d19efa99-ab2f-4b32-95d9-d9e3a44d3312.webp)
 
 https://www.asahi.com/ajw/articles/14453089
 
@@ -184,14 +184,14 @@ https://www.asahi.com/ajw/articles/14453089
 
 在去年末今年初的民意调查中，萨拉.杜特尔特的支持率还比小马科斯更高一些，但出于外界并不清楚的安排，萨拉.杜特尔特放弃了直接竞选总统，改成竞选副总统的职位，为此还与父亲一度公开闹矛盾。对于这种家庭矛盾，外界也不知道是真是假，很多人一直怀疑，所谓矛盾，完全是设计出来的说辞，目的是让整个家族能不断有全国选民能接受的政治人物，长期保持菲律宾全国政治大族的地位。
  
-![](/images/btnews/0401_0500/0432/cc0f290b-7bf6-41b8-8be2-5bcaf8ce6eea.png)
+![](/images/btnews/0401_0500/0432/cc0f290b-7bf6-41b8-8be2-5bcaf8ce6eea.webp)
 
 杜特尔特父女
 
 
 既然萨拉.杜特尔特放弃了本届总统的目标，她和小马科斯的联盟就非常顺理成章了，两个家族都可以各取所需。
  
-![](/images/btnews/0401_0500/0432/c5ef2d9c-f5a7-45f4-8d4a-08d14912d20c.png)
+![](/images/btnews/0401_0500/0432/c5ef2d9c-f5a7-45f4-8d4a-08d14912d20c.webp)
 
 
 
@@ -201,11 +201,11 @@ https://www.asahi.com/ajw/articles/14453089
 作为标志性政策的“反毒战争”，更是国内外反对派重点攻击的对象。说他鼓励甚至指使警察和私人民兵越过法律程序，普遍执行私刑处决，而且公报私仇，杀掉了很多无辜公民。外界估计，在杜特尔特执政期间，至少有数千人死于各种可疑的“反毒品行动”。
  
 
-![](/images/btnews/0401_0500/0432/c3f02ee2-cccd-4a9a-9422-ec8574ae88d5.png)
+![](/images/btnews/0401_0500/0432/c3f02ee2-cccd-4a9a-9422-ec8574ae88d5.webp)
 
-![](/images/btnews/0401_0500/0432/7bd7c7e5-1ab8-442f-9b81-e861985623e4.png)
+![](/images/btnews/0401_0500/0432/7bd7c7e5-1ab8-442f-9b81-e861985623e4.webp)
 
-![](/images/btnews/0401_0500/0432/cae33a41-8a4c-4545-bfff-0a48f821eda1.png)
+![](/images/btnews/0401_0500/0432/cae33a41-8a4c-4545-bfff-0a48f821eda1.webp)
 
 
 
@@ -216,19 +216,19 @@ https://www.asahi.com/ajw/articles/14453089
 
 
 
-![](/images/btnews/0401_0500/0432/e1a09977-c329-402e-8267-384e44d1df9f.png)
+![](/images/btnews/0401_0500/0432/e1a09977-c329-402e-8267-384e44d1df9f.webp)
 “毒品战争”的死者家属准备在杜特尔特下台后起诉他
 https://mainichi.jp/english/articles/20220329/p2g/00m/0in/044000c
 
 
 
-![](/images/btnews/0401_0500/0432/2e4b14f4-0f14-475e-91fc-ba33d8bf704b.png)
+![](/images/btnews/0401_0500/0432/2e4b14f4-0f14-475e-91fc-ba33d8bf704b.webp)
 国际刑事法庭宣布对杜特尔特展开调查
 https://www.aljazeera.com/news/2021/9/15/philippines-icc-agrees-to-probe-dutertes-war-on-drugs
 
 
 
-![](/images/btnews/0401_0500/0432/a94167ae-9209-4d22-abff-a9045ae3f826.png)
+![](/images/btnews/0401_0500/0432/a94167ae-9209-4d22-abff-a9045ae3f826.webp)
 应菲律宾政府要求，国际刑事法庭暂停调查
 https://www.aljazeera.com/news/2021/11/19/icc-halts-probe-into-duterte-war-on-drugs-after-govt-request
 
@@ -238,12 +238,12 @@ https://www.aljazeera.com/news/2021/11/19/icc-halts-probe-into-duterte-war-on-dr
 
 结盟的效果非常理想，在分开的正副总统选举中，两人的得票率几乎相当，选民群体高度重合。马科斯家族在北方，杜特尔特家族在南方的优势都充分发挥，主要竞争对手罗布雷多只在自己家乡的中部地区才有一些优势。
  
-![](/images/btnews/0401_0500/0432/f597bc53-65ac-458f-a51d-bc942cba278b.png)
+![](/images/btnews/0401_0500/0432/f597bc53-65ac-458f-a51d-bc942cba278b.webp)
 
 
-![](/images/btnews/0401_0500/0432/2b4eded5-924b-48bb-972c-04c79aeed41e.png)
+![](/images/btnews/0401_0500/0432/2b4eded5-924b-48bb-972c-04c79aeed41e.webp)
 
-![](/images/btnews/0401_0500/0432/142764c1-8971-47cf-8834-d7e9897a26cb.png)
+![](/images/btnews/0401_0500/0432/142764c1-8971-47cf-8834-d7e9897a26cb.webp)
 
 
 
@@ -262,7 +262,7 @@ https://www.aljazeera.com/news/2021/11/19/icc-halts-probe-into-duterte-war-on-dr
 这两个人和他们的家族接下来还继续在政治上活跃。埃斯特拉达又当了两任大马尼拉市长，两个儿子都当过参议员，并且在几天前再次当选。
  
 
-![](/images/btnews/0401_0500/0432/c9537b35-1ebd-4e72-ae69-d5d4e290b803.png)
+![](/images/btnews/0401_0500/0432/c9537b35-1ebd-4e72-ae69-d5d4e290b803.webp)
 菲律宾前总统埃斯特拉达因贪污罪被捕
 https://impact.gijn.org/case-studies/investigating-estrada-millions-mansions-and-mistresses-philippines/
 
@@ -270,7 +270,7 @@ https://impact.gijn.org/case-studies/investigating-estrada-millions-mansions-and
 阿罗约出狱后回到了众议院，一度又当了议长，现在她的两个儿子也都是议员。在今年的选举中，阿罗约家族支持马科斯和杜特尔特，外界普遍认为马科斯、杜特尔特、阿罗约三大家族是当前菲律宾政治的绝对核心。
  
 
-![](/images/btnews/0401_0500/0432/88054263-6b67-4ee2-84a6-532f1a3eff31.png)
+![](/images/btnews/0401_0500/0432/88054263-6b67-4ee2-84a6-532f1a3eff31.webp)
 菲律宾前总统阿罗约因贪污罪被捕
 https://www.dw.com/en/ex-philippine-president-arroyo-arrested-in-hospital/a-16282139
 
@@ -280,13 +280,13 @@ https://www.dw.com/en/ex-philippine-president-arroyo-arrested-in-hospital/a-1628
 
 上世纪六十到八十年代，菲律宾经济发展水平还处在亚洲中游，相对周边多数邻国有一定优势。老马科斯下台，一定程度上就是因为菲律宾社会在亚洲相对发达，所以城市工商业阶层讨厌腐败政府，讨厌不惜代价维护稳定的独裁者。但在几十年后的今天，这反而给老马科斯时代蒙上了一层虚假的富裕光环。小马科斯借此宣扬怀旧情绪，引导人们相信自己上台后能够搞好经济。
  
-![](/images/btnews/0401_0500/0432/2f3643d3-28d2-4cfa-bdbc-edab694fe22a.png)
+![](/images/btnews/0401_0500/0432/2f3643d3-28d2-4cfa-bdbc-edab694fe22a.webp)
 
 
 
 从数据来看，老马科斯执政时，正是菲律宾经济被东亚整体甩开的转折期。面对欧美日市场的外向型经济发展到一定程度，再想升级，必然要促成国内产业相互配合，组装复杂产品。这就需要国内有便捷的陆地交通，不断升级基础设施才能保证工业增长。菲律宾作为多山的群岛国家，国内产业配合要靠航空和海运，成本是本来就有劣势。而老马科斯总统在80年代就偷走了上百亿美元财富，国家没钱搞基础设施，所以和其他竞争对手的差距越来越大。在竞争激烈的东亚地区，工业发展一步赶不上，就容易步步赶不上。2000年，中国人均GDP超越菲律宾，现在是菲律宾的4倍。最新的统计表明，连越南的人均GDP都彻底压倒菲律宾了。
  
-![](/images/btnews/0401_0500/0432/a7f59fb6-e604-4377-9342-af89fc4fb983.png)
+![](/images/btnews/0401_0500/0432/a7f59fb6-e604-4377-9342-af89fc4fb983.webp)
 
 
 
@@ -309,7 +309,7 @@ https://www.straitstimes.com/asia/se-asia/all-in-the-family-philippine-political
 16世纪西班牙占领了大部分菲律宾群岛，但西班牙国内生产率太差，殖民者的力量相当有限，除了少数主要据点外，不想也不能直接统治民众。所以西班牙人和当地贵族达成了妥协，利用他们进行间接统治。菲律宾本地社会形成了以“潘古洛”（Pangulo）或“拿督”（Dato）为首领的基层自治政权。
  
 
-![](/images/btnews/0401_0500/0432/8035e92a-1822-44cf-877a-e6366e67a7ec.png)
+![](/images/btnews/0401_0500/0432/8035e92a-1822-44cf-877a-e6366e67a7ec.webp)
 提出Pangulo政权/模式的雷米吉奥·阿帕洛（Remigio Agpalo）教授
 https://bongmendoza.wordpress.com/category/pangulo-regime/
 
@@ -324,7 +324,7 @@ https://bongmendoza.wordpress.com/category/pangulo-regime/
  
 随着政治精英权力越来越大，可以操纵的利益越来越多。而菲律宾整体上经济停滞，普通人已经不再指望和整个社会一起成长。所以中下层民众对垄断本地政治权利，控制经济命脉的大族并没有很强的怨恨心理，反而认为只要这些大族足够强大，就可以为本地争取更多资源。越是在经济上比较边缘的地方，中下层民众对政治家族的忠诚就越强。大家族时不时给自己的支持者撒点福利，缓和一下他们的穷困生活，就能得到选票支持。
  
-![](/images/btnews/0401_0500/0432/f7588067-36ab-4036-bf8f-9210e6ea239b.png)
+![](/images/btnews/0401_0500/0432/f7588067-36ab-4036-bf8f-9210e6ea239b.webp)
 
 
 
@@ -334,7 +334,7 @@ https://bongmendoza.wordpress.com/category/pangulo-regime/
 现在菲律宾人口的城市化率接近一半。但现代产业非常薄弱，中下层居民既不指望读书，也不指望学技术，反而对少数掌握商业和知识的中产产生了敌意。既然大多数人享受不到法律服务，那下层宁可支持杜特尔特这种不讲法制，放手使用暴力的强人。既然底层缺乏通过教育改变命运的机会，那他们宁愿知识阶层和自己一起接受事实上的专制独裁。可以说，2022年的菲律宾，在社会结构上更像19世纪的东欧地区，封建贵族可以通过动员农民，反对软弱城市中产阶层的一点进步性。
  
 
-![](/images/btnews/0401_0500/0432/0ce910a4-f896-4c51-84bd-8cb7aa450756.png)
+![](/images/btnews/0401_0500/0432/0ce910a4-f896-4c51-84bd-8cb7aa450756.webp)
 
 
 
@@ -344,13 +344,13 @@ https://bongmendoza.wordpress.com/category/pangulo-regime/
 城市中产主导的媒体当然不喜欢这样的人，尤其担心马科斯和杜特尔特家族结盟，继续推行法制之外的粗糙强硬政策，所以菲律宾主流媒体一直贬低小马科斯，尤其喜欢翻他父亲的老账。
  
 
-![](/images/btnews/0401_0500/0432/3aec5541-e79e-488a-9a10-d6449dfd4580.png)
+![](/images/btnews/0401_0500/0432/3aec5541-e79e-488a-9a10-d6449dfd4580.webp)
 媒体抨击马科斯家族卷土重来是道德沦丧
 https://www.lowyinstitute.org/the-interpreter/how-marcos-family-could-rule-again-philippines
 
 
 
-![](/images/btnews/0401_0500/0432/d6d12837-ede6-4733-84c4-898490a0eb06.png)
+![](/images/btnews/0401_0500/0432/d6d12837-ede6-4733-84c4-898490a0eb06.webp)
 BBC报道指责小马科斯等人雇佣水军制造假新闻
 https://www.bbc.com/news/blogs-trending-61339293
 
@@ -363,7 +363,7 @@ https://www.bbc.com/news/blogs-trending-61339293
 
 所以，就算反对派不断宣传老马科斯的黑历史，宣传小马科斯现在还占有菲律宾的国有资产，支持一派也完全听不见，听见了也当做对手的谣言污蔑。从这个角度说，小马科斯非常像特朗普，准确抓住了21世纪互联网的弱点，用来维护传统政治精英的地位。
   
-![](/images/btnews/0401_0500/0432/ce1a8bac-b87f-4c36-b385-65dcf8aed576.png)
+![](/images/btnews/0401_0500/0432/ce1a8bac-b87f-4c36-b385-65dcf8aed576.webp)
 
 https://www.ft.com/content/e074799e-688f-4b37-9a26-3a021850ac3a
 
@@ -432,5 +432,5 @@ https://www.ft.com/content/e074799e-688f-4b37-9a26-3a021850ac3a
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0432/376f5422-a1f8-4a4e-be34-2c795b33ca09.jpg)
+![](/images/btnews/0401_0500/0432/376f5422-a1f8-4a4e-be34-2c795b33ca09.webp)
 

@@ -37,7 +37,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/5ec0ceb4-c1cd-49d9-8505-56f52766f2b4.png)
+![](/images/btnews/0401_0500/0401/5ec0ceb4-c1cd-49d9-8505-56f52766f2b4.webp)
 
 
 
@@ -53,7 +53,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/41e4a076-cafd-48be-b322-a9a241f67ba5.jpg)
+![](/images/btnews/0401_0500/0401/41e4a076-cafd-48be-b322-a9a241f67ba5.webp)
 
 
 
@@ -97,13 +97,13 @@ date: 2022-03-04
 标题说“干线公路”，正文强调八年做到了高速公路断头路全部消除。这里我不得不再晒一组2017年的照片，潮白河上的渡口，一条钢索，一条木船，汽车行人在河北和北京之间穿行，否则就要绕30多公里。从最近的卫星地图看，这个地方还是没有修桥，我猜原因不是河北不愿意出钱。
 
 
-![](/images/btnews/0401_0500/0401/0e8dead1-05cb-4c5b-b8fc-01e37e51f7e8.png)
+![](/images/btnews/0401_0500/0401/0e8dead1-05cb-4c5b-b8fc-01e37e51f7e8.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0401/7f44aed4-cc96-482c-8778-7022196191da.png)
+![](/images/btnews/0401_0500/0401/7f44aed4-cc96-482c-8778-7022196191da.webp)
 
 
 
@@ -129,7 +129,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/02d210fb-8f1e-4f83-a81a-bfc44d81d94e.png)
+![](/images/btnews/0401_0500/0401/02d210fb-8f1e-4f83-a81a-bfc44d81d94e.webp)
 
 
 
@@ -158,7 +158,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/1f528ed9-1798-48aa-831a-43dc825f3136.jpg)
+![](/images/btnews/0401_0500/0401/1f528ed9-1798-48aa-831a-43dc825f3136.webp)
 
 
 
@@ -188,7 +188,7 @@ date: 2022-03-04
 
  
 
-![](/images/btnews/0401_0500/0401/be036734-25f3-48eb-a235-8ac24ffe2488.png)
+![](/images/btnews/0401_0500/0401/be036734-25f3-48eb-a235-8ac24ffe2488.webp)
 
 
 
@@ -210,7 +210,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/56359147-cdfc-44a6-a68d-0b946ff6bd63.png)
+![](/images/btnews/0401_0500/0401/56359147-cdfc-44a6-a68d-0b946ff6bd63.webp)
 
 
 
@@ -230,7 +230,7 @@ date: 2022-03-04
 
  
 
-![](/images/btnews/0401_0500/0401/b237c3b0-197a-49df-89d2-8316bb6b21ef.png)
+![](/images/btnews/0401_0500/0401/b237c3b0-197a-49df-89d2-8316bb6b21ef.webp)
 
 
 
@@ -248,7 +248,7 @@ date: 2022-03-04
 
  
 
-![](/images/btnews/0401_0500/0401/27416849-a7cd-43b0-9c16-8802c6de998f.png)
+![](/images/btnews/0401_0500/0401/27416849-a7cd-43b0-9c16-8802c6de998f.webp)
 
 
 
@@ -276,7 +276,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/0c92c984-19fc-470e-a196-bd4cdcd6ac20.jpg)
+![](/images/btnews/0401_0500/0401/0c92c984-19fc-470e-a196-bd4cdcd6ac20.webp)
 
 
 
@@ -346,7 +346,7 @@ date: 2022-03-04
 
  
 
-![](/images/btnews/0401_0500/0401/c15dcb9d-9bb7-4cb5-9dfb-3a84f0809942.png)
+![](/images/btnews/0401_0500/0401/c15dcb9d-9bb7-4cb5-9dfb-3a84f0809942.webp)
 
 
 
@@ -358,7 +358,7 @@ date: 2022-03-04
 
  
 
-![](/images/btnews/0401_0500/0401/4d879066-3fa9-4302-ab0d-b88bb6c01899.png)
+![](/images/btnews/0401_0500/0401/4d879066-3fa9-4302-ab0d-b88bb6c01899.webp)
 
 
 
@@ -380,7 +380,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/dc632020-084f-4df5-8977-2fff46573522.png)
+![](/images/btnews/0401_0500/0401/dc632020-084f-4df5-8977-2fff46573522.webp)
 
 
 
@@ -400,7 +400,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/d3b75bd4-f697-427c-8f3c-64b92ea340a8.png)
+![](/images/btnews/0401_0500/0401/d3b75bd4-f697-427c-8f3c-64b92ea340a8.webp)
 
 
 
@@ -422,7 +422,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/8782fb07-ae95-4926-9e6e-feda0bfee1cb.png)
+![](/images/btnews/0401_0500/0401/8782fb07-ae95-4926-9e6e-feda0bfee1cb.webp)
 
 
 
@@ -452,7 +452,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/663b469d-5cd7-469b-8455-09be5c237381.png)
+![](/images/btnews/0401_0500/0401/663b469d-5cd7-469b-8455-09be5c237381.webp)
 
 
 
@@ -496,7 +496,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/34467300-3012-4ab1-a72f-d0980d6cba77.jpg)
+![](/images/btnews/0401_0500/0401/34467300-3012-4ab1-a72f-d0980d6cba77.webp)
 
 
 
@@ -520,7 +520,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/7aad5710-aee4-4465-92fa-23afbe5c4b0b.jpg)
+![](/images/btnews/0401_0500/0401/7aad5710-aee4-4465-92fa-23afbe5c4b0b.webp)
 
 
 
@@ -564,13 +564,13 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/994cf0f2-28bd-44b5-be12-0bc77dcd6b7a.png)
+![](/images/btnews/0401_0500/0401/994cf0f2-28bd-44b5-be12-0bc77dcd6b7a.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0401/56442eab-f368-4321-be9f-1290f56421da.png)
+![](/images/btnews/0401_0500/0401/56442eab-f368-4321-be9f-1290f56421da.webp)
 
 
 
@@ -614,7 +614,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/3b986691-2218-4d61-ab6f-54dc7c891d8d.png)
+![](/images/btnews/0401_0500/0401/3b986691-2218-4d61-ab6f-54dc7c891d8d.webp)
 
 
 
@@ -622,7 +622,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/1fca5523-5ae7-4914-b0f3-a171f14228cf.jpg)
+![](/images/btnews/0401_0500/0401/1fca5523-5ae7-4914-b0f3-a171f14228cf.webp)
 
 
 
@@ -660,7 +660,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/47536f44-fde7-44c5-b5c9-3c2a8499d63f.jpg)
+![](/images/btnews/0401_0500/0401/47536f44-fde7-44c5-b5c9-3c2a8499d63f.webp)
 
 
 
@@ -676,7 +676,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/aaca96b1-4a0c-4433-818b-33576d7f09cb.jpg)
+![](/images/btnews/0401_0500/0401/aaca96b1-4a0c-4433-818b-33576d7f09cb.webp)
 
 
 
@@ -728,7 +728,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/7ec6ac2d-ce17-4422-8e74-468051edaaee.png)
+![](/images/btnews/0401_0500/0401/7ec6ac2d-ce17-4422-8e74-468051edaaee.webp)
 
 
 
@@ -748,7 +748,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/d3a24779-adf2-426e-8c3f-7189aa2c939a.png)
+![](/images/btnews/0401_0500/0401/d3a24779-adf2-426e-8c3f-7189aa2c939a.webp)
 
 
 
@@ -778,13 +778,13 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/10dadd73-9868-4032-9c5c-808579679069.jpg)
+![](/images/btnews/0401_0500/0401/10dadd73-9868-4032-9c5c-808579679069.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0401/bda2962f-84c3-43a8-ad15-100e518fb111.png)
+![](/images/btnews/0401_0500/0401/bda2962f-84c3-43a8-ad15-100e518fb111.webp)
 
 
 
@@ -812,7 +812,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/ace263a4-ee6d-457c-ba02-e7d2bd26fa93.jpg)
+![](/images/btnews/0401_0500/0401/ace263a4-ee6d-457c-ba02-e7d2bd26fa93.webp)
 
 
 
@@ -820,7 +820,7 @@ date: 2022-03-04
 
 
 
-![](/images/btnews/0401_0500/0401/a50ec98c-741f-4884-ab29-bd1e1976ac20.jpg)
+![](/images/btnews/0401_0500/0401/a50ec98c-741f-4884-ab29-bd1e1976ac20.webp)
 
 
 

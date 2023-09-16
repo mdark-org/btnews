@@ -5,7 +5,7 @@ date: 2022-12-30
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0531/7bc3ece8-9596-477e-afc8-e721e9c1e401.jpg)
+![](/images/btnews/0501_0600/0531/7bc3ece8-9596-477e-afc8-e721e9c1e401.webp)
 
 
 
@@ -17,7 +17,7 @@ date: 2022-12-30
 
 “没人看的新闻，千条百条也是白条，没人听的宣传，千讲万讲也是白讲。让新闻有人看、宣传有人听，关键要在提升专业能力、专业素养、专业精神上下功夫。”
 
-![](/images/btnews/0501_0600/0531/84e59156-94e5-4eda-8e1a-2a281d596091.png)
+![](/images/btnews/0501_0600/0531/84e59156-94e5-4eda-8e1a-2a281d596091.webp)
 
 https://www.thepaper.cn/newsDetail_forward_16250984
 
@@ -53,7 +53,7 @@ https://www.cn-healthcare.com/article/20220104/content-564656.html
 
 之前西安市政府曾经公布过一份“军令状”，宣布1月4日要实现社会面清零。到了1月5号发布会总结，宣布1月4日实现的是“社会面基本清零”，从此再也没人提军令状的事情了。****
 
-![](/images/btnews/0501_0600/0531/291dddb7-d2fe-42dc-a8e5-71f63acb90db.png)
+![](/images/btnews/0501_0600/0531/291dddb7-d2fe-42dc-a8e5-71f63acb90db.webp)
 
 https://www.guancha.cn/politics/2022_01_05_621114.shtml
 
@@ -93,7 +93,7 @@ https://m.thepaper.cn/baijiahao_16390870
 
 1月24日，西安市忽然发布通知，宣布24日当天就解封，绿码就可以离开西安。
 
-![](/images/btnews/0501_0600/0531/af50163d-0708-43fd-bd92-0f54f70eaa96.png)
+![](/images/btnews/0501_0600/0531/af50163d-0708-43fd-bd92-0f54f70eaa96.webp)
 
 https://www.jiemian.com/article/7042618.html
 
@@ -110,7 +110,7 @@ https://www.jiemian.com/article/7042618.html
 
 7月瞒报116人；8月中央领导同志考察河南期间，郑州市掌握新增死亡12人，没有如实报告；8月20日调查组进驻后，又了解到死亡41人，其中23人属于瞒报。****
 
-![](/images/btnews/0501_0600/0531/0dde7d7d-b174-45c0-8313-c3fd7a5323cc.png)
+![](/images/btnews/0501_0600/0531/0dde7d7d-b174-45c0-8313-c3fd7a5323cc.webp)
 
 https://news.sina.cn/gn/2022-01-21/detail-ikyakumy1811979.d.html
 
@@ -144,7 +144,7 @@ http://www.eeo.com.cn/2021/1231/517284.shtml
 
 另一个消息是江苏徐州丰县政府很平淡地回应了8个孩子的母亲事件，说根据调查，不存在拐卖行为，只是一个普通的精神病人而已。
 
-![](/images/btnews/0501_0600/0531/884a6326-a341-4918-a7ae-3c116808bc5d.png)
+![](/images/btnews/0501_0600/0531/884a6326-a341-4918-a7ae-3c116808bc5d.webp)
 
 https://baijiahao.baidu.com/s?id=1723196338059108908
 
@@ -186,7 +186,7 @@ https://world.chinadaily.com.cn/a/202201/24/WS61ee17f6a3107be497a038c5.html
 ### 科技和数据
 1月份还有一些值得关注的科技进展。詹姆斯-韦布空间望远镜主镜完全展开，在接下来几个月带来了更清晰的宇宙图像。
 
-![](/images/btnews/0501_0600/0531/b16e9944-42ac-4194-82f1-46588bb4c438.png)
+![](/images/btnews/0501_0600/0531/b16e9944-42ac-4194-82f1-46588bb4c438.webp)
 
 http://news.sina.com.cn/o/2022-01-09/doc-ikyakumx9269594.shtml
 
@@ -235,14 +235,14 @@ https://www.guancha.cn/politics/2022_02_23_627352.shtml
 点击下图观看视频
 
 
-![](/images/btnews/0501_0600/0531/ea61abd8-36bd-4c95-aa16-deab005add63.jpg)
+![](/images/btnews/0501_0600/0531/ea61abd8-36bd-4c95-aa16-deab005add63.webp)
 
 
 
 ### 其他
 1月份的报告，严肃指出了郑州在2021年特大暴雨中暴露的错误，尤其是瞒报了100多人死亡，郑州市长侯红被撤职。2月份的时候，我们就知道侯红的新职务了，河南卫健委副主任。
 
-![](/images/btnews/0501_0600/0531/43728b25-ea89-4060-86f9-a47b6cafe7de.png)
+![](/images/btnews/0501_0600/0531/43728b25-ea89-4060-86f9-a47b6cafe7de.webp)
 
 https://news.sina.com.cn/c/2022-02-15/doc-ikyamrna0950040.shtml
 
@@ -284,7 +284,7 @@ https://baijiahao.baidu.com/s?id=1724524615708369689
 
 有意思的是，俄罗斯的官方网站从这时候开始，也定期删除自己之前的新闻。比如说2月15日，俄罗斯卫星网的中文新闻宣布，俄罗斯和白俄罗斯的军队演习之后已经返回驻地，这条新闻现在就只有中文转载的，找不到原新闻。
 
-![](/images/btnews/0501_0600/0531/aa77c762-a571-4712-8a64-d7e63d30946f.png)
+![](/images/btnews/0501_0600/0531/aa77c762-a571-4712-8a64-d7e63d30946f.webp)
 
 
 2月14日，美国关闭美驻乌克兰大使馆。
@@ -301,7 +301,7 @@ https://www.guancha.cn/internation/2022_02_20_626962.shtml
 
 同一天，俄总统新闻秘书宣布，俄罗斯没有“入侵”别国的计划，俄罗斯在历史上从未攻击过任何国家。
 
-![](/images/btnews/0501_0600/0531/99f1fbd8-c84c-4377-8054-16af21e9028a.png)
+![](/images/btnews/0501_0600/0531/99f1fbd8-c84c-4377-8054-16af21e9028a.webp)
 
 https://baijiahao.baidu.com/s?id=1725283394015225824
 
@@ -318,7 +318,7 @@ https://www.thepaper.cn/newsDetail_forward_16868909
 
 2月24日晚上，中国驻乌克兰大使馆提醒侨民，可以在明显的地方贴出中国国旗，保证安全。
 
-![](/images/btnews/0501_0600/0531/dba0e99c-f53e-47a4-82c8-e4cf62bbe616.png)
+![](/images/btnews/0501_0600/0531/dba0e99c-f53e-47a4-82c8-e4cf62bbe616.webp)
 
 https://baijiahao.baidu.com/s?id=1725658783186990429
 
@@ -354,7 +354,7 @@ https://news.ifeng.com/c/8E3Dt8JNGOf
 同一天，睡前消息400期上线，标题是《刘学州事件，不能就这么过去》
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0531/781009f9-47b3-46cc-8264-4ac9a51440cc.jpg)
+![](/images/btnews/0501_0600/0531/781009f9-47b3-46cc-8264-4ac9a51440cc.webp)
 
 
 
@@ -368,7 +368,7 @@ https://www.guancha.cn/internation/2022_03_02_628421.shtml
 
 哈尔科夫和其他几个边境城市的撤侨问题成为难点。环球时报3月1日报道，哈尔科夫已经戒严，禁止外出，中国留学生被困在当地，没有物资，也不知道撤离方式。
 
-![](/images/btnews/0501_0600/0531/ea2c2f86-9b25-4e0d-968f-0f3aa96ad465.png)
+![](/images/btnews/0501_0600/0531/ea2c2f86-9b25-4e0d-968f-0f3aa96ad465.webp)
 
 https://baijiahao.baidu.com/s?id=1726088745097788348
 
@@ -376,7 +376,7 @@ https://baijiahao.baidu.com/s?id=1726088745097788348
 
 3月4日，现场视频证明。乌克兰和俄国空降兵争夺基辅郊区机场，世界上最大的运输机安225已经被炸毁。
 
-![](/images/btnews/0501_0600/0531/7a3ca9bc-5f1f-4ec5-b903-970889a5d273.png)
+![](/images/btnews/0501_0600/0531/7a3ca9bc-5f1f-4ec5-b903-970889a5d273.webp)
 
 https://www.thepaper.cn/newsDetail_forward_16957194
 
@@ -404,9 +404,9 @@ https://baijiahao.baidu.com/s?id=1727922402607986366
 
 3月24日，乌克兰用苏联弹道导弹，准确击沉俄罗斯正在卸货的登陆舰，阻止了俄罗斯通过海路向马里乌波尔外围输送弹药。****
 
-![](/images/btnews/0501_0600/0531/020a7a25-9eff-4b5f-8737-081123281fce.png)
+![](/images/btnews/0501_0600/0531/020a7a25-9eff-4b5f-8737-081123281fce.webp)
 
-![](/images/btnews/0501_0600/0531/1c10f3db-9217-4c19-8e72-dae9b2378142.jpg)
+![](/images/btnews/0501_0600/0531/1c10f3db-9217-4c19-8e72-dae9b2378142.webp)
 
 https://view.inews.qq.com/a/20220324A082LG00
 
@@ -460,7 +460,7 @@ https://news.sina.com.cn/c/2022-03-12/doc-imcwiwss5615052.shtml
 
 3月14日，吉林省禁止任何人跨省跨市流动，整个省，从城市到农村进入封控状态。
 
-![](/images/btnews/0501_0600/0531/eeb9b71f-a1c6-4e16-8b55-e7cb5f1193ee.png)
+![](/images/btnews/0501_0600/0531/eeb9b71f-a1c6-4e16-8b55-e7cb5f1193ee.webp)
 
 https://news.ifeng.com/c/8ENQLgofLBA
 
@@ -490,7 +490,7 @@ https://economy.caixin.com/2022-03-21/101858869.html
 
 3月26日，上海举行疫情新闻发布会，防控领导小组专家吴凡对记者说，上海眼下还不能封城，因为上海对全国经济影响太大，整个国家的经济都会受影响。
 
-![](/images/btnews/0501_0600/0531/35e5f3ce-4c4b-4253-b5ba-6975605a77b6.png)
+![](/images/btnews/0501_0600/0531/35e5f3ce-4c4b-4253-b5ba-6975605a77b6.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17315665
 
@@ -501,7 +501,7 @@ https://mp.weixin.qq.com/s/Ufza89hhBGZsiGPTHoC5aQ
 
 与其同时，新加坡选择了另一个防疫策略。3月24日，李显龙发表全国讲话，解释了封锁的成本。他说每一次封锁，就会再一次冲击商业，员工会失业，儿童会失去正常的童年和校园生活，分居两地的家人难以见面，这些都加剧了心理和精神压力。考虑到病毒当前的危害和传播力，新加坡已经不可能再企图消灭病毒，只能依托现有的疫苗注射率，追求和奥密克戎病毒共存。
 
-![](/images/btnews/0501_0600/0531/e56aac70-06a7-4e42-8c2f-65df92e7083e.png)
+![](/images/btnews/0501_0600/0531/e56aac70-06a7-4e42-8c2f-65df92e7083e.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17278037
 
@@ -516,6 +516,6 @@ https://www.thepaper.cn/newsDetail_forward_17278037
 
 
 
-![](/images/btnews/0501_0600/0531/408f621c-88ca-4c01-aa84-bca0d5320a61.jpg)
+![](/images/btnews/0501_0600/0531/408f621c-88ca-4c01-aa84-bca0d5320a61.webp)
 
 

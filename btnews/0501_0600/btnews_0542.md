@@ -5,7 +5,7 @@ date: 2023-01-24
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0542/a33c187d-5a5d-47be-b4a3-7548685f4a44.jpg)
+![](/images/btnews/0501_0600/0542/a33c187d-5a5d-47be-b4a3-7548685f4a44.webp)
 
 
 
@@ -14,23 +14,23 @@ date: 2023-01-24
 
 去年年末，新加坡政府宣布从今年元旦开始，把消费税从7%提高到8%，到2024年再提高一个百分点。
 
-![](/images/btnews/0501_0600/0542/9fbb2ad0-6eab-4f93-aa3b-eefaff67d2aa.png)
+![](/images/btnews/0501_0600/0542/9fbb2ad0-6eab-4f93-aa3b-eefaff67d2aa.webp)
 
 
-![](/images/btnews/0501_0600/0542/1441becd-ce4e-4219-b8e8-22f79922ff65.png)
+![](/images/btnews/0501_0600/0542/1441becd-ce4e-4219-b8e8-22f79922ff65.webp)
 
 https://news.fx678.com/202212291139492078.shtml
 
 
 根据市场普遍预测，新加坡2022财年几乎实现了收支平衡，2023年大概率可以获得一定盈余。这个成绩在全世界都非常突出。
 
-![](/images/btnews/0501_0600/0542/6c4045ae-81b2-43f1-a830-deae28c9bfcd.png)
+![](/images/btnews/0501_0600/0542/6c4045ae-81b2-43f1-a830-deae28c9bfcd.webp)
 
 https://www.zaobao.com/finance/singapore/story20221130-1338637
 
 
 
-![](/images/btnews/0501_0600/0542/d0c6ccfb-a5c9-4a8a-bd3f-4b6c38cd8f68.png)
+![](/images/btnews/0501_0600/0542/d0c6ccfb-a5c9-4a8a-bd3f-4b6c38cd8f68.webp)
 
 https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=94c7adc4-49b1-4d2a-b9ec-0b5659b780f3
 
@@ -48,7 +48,7 @@ https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=94c7adc4-49b1-4d2a-b9ec-0b56
 
 实际上，新加坡政府早在2018年的预算案里，就明确说要提高消费税。
 
-![](/images/btnews/0501_0600/0542/e19a3a84-9e16-4707-a3f2-4a90d6389c4d.png)
+![](/images/btnews/0501_0600/0542/e19a3a84-9e16-4707-a3f2-4a90d6389c4d.webp)
 
 https://www.thenewslens.com/article/90039
 
@@ -61,14 +61,14 @@ https://www.thenewslens.com/article/90039
 除了上调税率，新加坡还取消了海外邮寄商品低于400新元免税消费的优惠。
 据估算，2024年后，提高消费税每年可以为新加坡政府增加36亿新元的收入，将成为财政第三大收入来源。
 
-![](/images/btnews/0501_0600/0542/ba0649b7-3b3c-4c6e-a7b3-9e180d0b5758.png)
+![](/images/btnews/0501_0600/0542/ba0649b7-3b3c-4c6e-a7b3-9e180d0b5758.webp)
 
 新加坡副总理兼财长黄循财
 https://hk.finance.yahoo.com/news/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8F%90%E9%AB%98%E5%AF%8C%E4%BA%BA%E7%A8%85%E5%92%8C%E5%95%86%E5%93%81%E6%9C%8D%E5%8B%99%E7%A8%85-%E4%BB%A5%E6%9C%9F%E5%9C%A8%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E5%BE%8C%E9%87%8D%E6%95%B4%E5%9C%8B%E5%AE%B6%E8%B2%A1%E6%94%BF-102926436.html
 
 
 
-![](/images/btnews/0501_0600/0542/ef6b2c70-289b-43e5-93ed-c853c345bc44.png)
+![](/images/btnews/0501_0600/0542/ef6b2c70-289b-43e5-93ed-c853c345bc44.webp)
 
 https://www.8world.com/singapore/parl-gst-amendment-bill-1634691
 
@@ -84,17 +84,17 @@ https://www.8world.com/singapore/parl-gst-amendment-bill-1634691
 
 因此，在现代社会里，提高普遍消费税对平民的刺激非常大，很容易引发强烈反感。新加坡政府敢加这个税，政治上决心很大。
 
-![](/images/btnews/0501_0600/0542/29c2783d-b518-4511-8526-3975543750d1.png)
+![](/images/btnews/0501_0600/0542/29c2783d-b518-4511-8526-3975543750d1.webp)
 
 https://baijiahao.baidu.com/s?id=1645931600138241662
 
 
 新加坡政府加税的理由是需要更多钱，应对不断增加的医疗保健支出，以及恢复财政储备。新加坡的医疗卫生预算，2010年大约是37亿美元，2019年增加到113亿，成为财政最大的支出项目。官方预计到2030年，不包括应对新冠或其它特殊情况，相关支出也将继续增加到270亿美元。
 
-![](/images/btnews/0501_0600/0542/b0f1cb06-3dc7-4a3e-9a68-73ac11f52efa.png)
+![](/images/btnews/0501_0600/0542/b0f1cb06-3dc7-4a3e-9a68-73ac11f52efa.webp)
 
 
-![](/images/btnews/0501_0600/0542/878546e1-308f-444c-a28f-6f1aa9e454b1.png)
+![](/images/btnews/0501_0600/0542/878546e1-308f-444c-a28f-6f1aa9e454b1.webp)
 
 https://www.straitstimes.com/singapore/budget-2022-healthcare-spending-to-form-bulk-of-govt-expenditure-by-2030
 
@@ -104,7 +104,7 @@ https://www.straitstimes.com/singapore/budget-2022-healthcare-spending-to-form-b
 
 虽然2021年赤字就收缩到30亿新元，只占GDP的0.5%。但执政的行动党仍然认为，过去两年消耗了太多储备，有必要采取行动，加速恢复财政盈余。
 
-![](/images/btnews/0501_0600/0542/123d9194-44d5-4655-9bf9-6dbd4a55807b.png)
+![](/images/btnews/0501_0600/0542/123d9194-44d5-4655-9bf9-6dbd4a55807b.webp)
 
 http://m.news.cctv.com/2021/02/16/ARTImoN2fLSmpqjmDvm98GXd210216.shtml
 
@@ -117,13 +117,13 @@ http://m.news.cctv.com/2021/02/16/ARTImoN2fLSmpqjmDvm98GXd210216.shtml
 
 因此，新加坡官方利用一切机会强调，作为小国，只有极其稳健的财政，并积蓄大量储备金，才能让内外人士对在新加坡长期投资有足够信心。
 
-![](/images/btnews/0501_0600/0542/63fd5f48-e363-4949-9ce4-5735921c0400.png)
+![](/images/btnews/0501_0600/0542/63fd5f48-e363-4949-9ce4-5735921c0400.webp)
 
 https://www.zaobao.com/forum/talk/story20221115-1333209
 
 
 
-![](/images/btnews/0501_0600/0542/b2013bec-3fc5-4fa1-b50a-89b31946d340.png)
+![](/images/btnews/0501_0600/0542/b2013bec-3fc5-4fa1-b50a-89b31946d340.webp)
 
 https://www.zaobao.com/news/singapore/story20221108-1330783
 
@@ -136,16 +136,16 @@ https://www.zaobao.com/news/singapore/story20221108-1330783
 
 在亚太地区，这主要表现为中美关系恶化，以及双方产业和贸易关系一定程度的脱钩。
 
-![](/images/btnews/0501_0600/0542/44821dc4-e2e1-4882-8365-a40e274e8b25.png)
+![](/images/btnews/0501_0600/0542/44821dc4-e2e1-4882-8365-a40e274e8b25.webp)
 
 https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20220808-%E6%9D%8E%E6%98%BE%E9%BE%99-%E4%B8%80%E5%9C%BA%E9%A3%8E%E6%9A%B4%E6%AD%A3%E5%9C%A8%E8%81%9A%E9%9B%86%EF%BC%8C%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E5%9C%A8%E7%9F%AD%E6%9C%9F%E5%86%85%E6%94%B9%E5%96%84
 
 
 
-![](/images/btnews/0501_0600/0542/c0188351-8844-4931-bb79-2bcd4d77af22.png)
+![](/images/btnews/0501_0600/0542/c0188351-8844-4931-bb79-2bcd4d77af22.webp)
 
 
-![](/images/btnews/0501_0600/0542/903d6218-a0b8-4d72-9e80-94dcb9ffe1de.png)
+![](/images/btnews/0501_0600/0542/903d6218-a0b8-4d72-9e80-94dcb9ffe1de.webp)
 
 https://www.163.com/dy/article/HEV6G0G605504DPG.html
 
@@ -155,7 +155,7 @@ https://www.163.com/dy/article/HEV6G0G605504DPG.html
 
 近些年，新加坡一方面与美英保持直接安全协议，一方面再三强调不愿站队，极力构建国际避风港的形象，并且取得了不错的成果，进一步加强和提升了亚太贸易和金融中心的地位。
 
-![](/images/btnews/0501_0600/0542/c072dee9-c511-460e-bb23-e0fe3599278b.png)
+![](/images/btnews/0501_0600/0542/c072dee9-c511-460e-bb23-e0fe3599278b.webp)
 
 https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/823447/%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83%E6%8C%87%E6%95%B8-%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%B6%85%E8%B6%8A%E9%A6%99%E6%B8%AF%E8%BA%8B%E4%B8%89%E7%94%B2-%E9%99%B3%E8%8C%82%E6%B3%A2-%E6%AF%8B%E9%A0%88%E5%A6%84%E8%87%AA%E8%8F%B2%E8%96%84
 
@@ -168,32 +168,32 @@ https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/823447/%E5%85%A8%E7%90
 
 原来在吸引中国内地企业和高净值人士方面，香港具有传统优势，但新加坡近期在这方面，甚至也与香港不相上下了。
 
-![](/images/btnews/0501_0600/0542/edfc757c-697e-4d69-8257-78c5ec0bcb48.png)
+![](/images/btnews/0501_0600/0542/edfc757c-697e-4d69-8257-78c5ec0bcb48.webp)
 
 https://www.cnfin.com/hg-lb/detail/20220507/3601392_1.html
 
 
 
-![](/images/btnews/0501_0600/0542/1319d7e5-dff4-4432-a9c1-057d9cb3456a.png)
+![](/images/btnews/0501_0600/0542/1319d7e5-dff4-4432-a9c1-057d9cb3456a.webp)
 
 https://finance.sina.com.cn/wm/2022-07-02/doc-imizmscu9812882.shtml
 
 
 
-![](/images/btnews/0501_0600/0542/a31288e9-0bc0-48fa-8bcd-66f1d59333ce.png)
+![](/images/btnews/0501_0600/0542/a31288e9-0bc0-48fa-8bcd-66f1d59333ce.webp)
 
 https://www.hk01.com/%E7%A0%94%E6%95%B8%E6%89%80/841227/%E5%A4%96%E8%B3%87%E9%A7%90%E6%B8%AF%E5%85%AC%E5%8F%B8%E8%B7%8C%E8%87%B34%E5%B9%B4%E6%96%B0%E4%BD%8E-%E5%9C%B0%E5%8D%80%E7%B8%BD%E9%83%A8%E6%B8%9B130%E9%96%93-%E5%90%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%AF%94%E5%B7%AE%E5%B9%BE%E5%A4%9A
 
 
 
-![](/images/btnews/0501_0600/0542/48fcb01c-8e15-4c58-bf6c-3fe7a9890f14.png)
+![](/images/btnews/0501_0600/0542/48fcb01c-8e15-4c58-bf6c-3fe7a9890f14.webp)
 
 https://www.p5w.net/roll/finance/202208/t20220823_5577869.htm
 
 
 所以新加坡领导层觉得现在有底气加税，不担心因为加税导致资本外流。
 
-![](/images/btnews/0501_0600/0542/a8cefb20-8074-4d8d-9703-8cc0e0103220.png)
+![](/images/btnews/0501_0600/0542/a8cefb20-8074-4d8d-9703-8cc0e0103220.webp)
 
 https://www.channelnewsasia.com/singapore/gst-hike-more-measures-if-situation-worsens-lawrence-wong-2788261
 
@@ -203,17 +203,17 @@ https://www.channelnewsasia.com/singapore/gst-hike-more-measures-if-situation-wo
 
 目前，新加坡的反对党就积极拿提高消费税作为议题，批评行动党政府痴迷“过度储蓄”，没有把解决当下人民的迫切需求放在首位。
 
-![](/images/btnews/0501_0600/0542/3235ed02-87e4-45d5-924c-20aca9d5579d.png)
+![](/images/btnews/0501_0600/0542/3235ed02-87e4-45d5-924c-20aca9d5579d.webp)
 
 
-![](/images/btnews/0501_0600/0542/fa8ccffc-c494-4d53-a531-50961529715a.png)
+![](/images/btnews/0501_0600/0542/fa8ccffc-c494-4d53-a531-50961529715a.webp)
 
 新加坡非选区议员梁文辉以寓言批评增税
 https://www.zaobao.com/news/singapore/story20221108-1330769
 
 
 
-![](/images/btnews/0501_0600/0542/5e6d5ccb-c8b9-4f92-ba94-eb9e859dc49b.png)
+![](/images/btnews/0501_0600/0542/5e6d5ccb-c8b9-4f92-ba94-eb9e859dc49b.webp)
 
 https://www.zaobao.com/news/singapore/story20220302-1247830
 
@@ -226,7 +226,7 @@ https://www.zaobao.com/news/singapore/story20220302-1247830
 
 与大多数国家情况不同，新加坡以往选举中，每当遇到内忧外患、社会稳定面临风险时，行动党成绩大多出色。反而经济高歌猛进、环境安定详和时，往往是反对党争取进展的时机。
 
-![](/images/btnews/0501_0600/0542/cf63fb86-1e92-43a3-a189-62ecd6279ead.png)
+![](/images/btnews/0501_0600/0542/cf63fb86-1e92-43a3-a189-62ecd6279ead.webp)
 
 https://xianxiao.ssap.com.cn/bookpic/1788831.html
 
@@ -242,20 +242,20 @@ https://xianxiao.ssap.com.cn/bookpic/1788831.html
 
 新加坡社会多数人经过几十年的反复教育，加上亲身经历过的经济奇迹，已经形成了一种共识，或者说是路径依赖，那就是财政只有更稳健、没有最稳健。多数新加坡人至少愿意仔细听取政府的解释，而不是直接跟着情绪走，一味抵制。
 
-![](/images/btnews/0501_0600/0542/0f8454b6-b549-47b5-a4aa-53403f4a0bad.png)
+![](/images/btnews/0501_0600/0542/0f8454b6-b549-47b5-a4aa-53403f4a0bad.webp)
 
 https://www.zaobao.com/finance/singapore/story20220329-1257088
 
 
 
-![](/images/btnews/0501_0600/0542/f7b0964e-1849-4266-9dee-0a648eda05c1.png)
+![](/images/btnews/0501_0600/0542/f7b0964e-1849-4266-9dee-0a648eda05c1.webp)
 
 https://www.zaobao.com/forum/editorial/story20221109-1331204
 
 
 行动党当然知道，不管怎么解释，部分民众还是会非常反感加税。但这些人大概率不是行动党的基础盘，甚至不是它要争取的中间派主力。某种意义上，行动党像一个擅长计算的围棋国手，并不妄想拿到所有盘面，而是只要保证支持者能占据稳定多数。
 
-![](/images/btnews/0501_0600/0542/2adbd142-b6f7-42d3-b074-dfff479ea7aa.png)
+![](/images/btnews/0501_0600/0542/2adbd142-b6f7-42d3-b074-dfff479ea7aa.webp)
 
 作者为新加坡财政部兼交通部高级政务部长
 https://www.zaobao.com/forum/talk/story20221121-1335376
@@ -269,18 +269,18 @@ https://www.zaobao.com/forum/talk/story20221121-1335376
 
 前两者数据比较公开，截止2022年3月末，新加坡金管局管理的资产为5140亿新元，约合3900亿美元。
 
-![](/images/btnews/0501_0600/0542/912b1ba1-213f-4ed8-8039-9e07836f75cd.png)
+![](/images/btnews/0501_0600/0542/912b1ba1-213f-4ed8-8039-9e07836f75cd.webp)
 
 https://www.mas.gov.sg/statistics/reserve-statistics/official-foreign-reserves
 
 
 不过，外汇储备不完全是政府资产，大部分本质上是其他投资者暂时换给央行的。
 
-![](/images/btnews/0501_0600/0542/4d473e02-c90d-4bf7-b0d9-b03eb39ebcbf.png)
+![](/images/btnews/0501_0600/0542/4d473e02-c90d-4bf7-b0d9-b03eb39ebcbf.webp)
 
 https://www.mas.gov.sg/statistics/reserve-statistics/monetary-authority-assets-and-liabilities
 
-![](/images/btnews/0501_0600/0542/0707b6b1-248c-40d9-b867-53b8ec0cc81f.png)
+![](/images/btnews/0501_0600/0542/0707b6b1-248c-40d9-b867-53b8ec0cc81f.webp)
 
 https://www.icbcstandardbank.com/icbc/%E7%BD%91%E4%B8%8A%E6%B1%87%E5%B8%82/%E6%B1%87%E5%B8%82%E8%A6%81%E9%97%BB/%E6%B1%87%E5%B8%82%E6%96%B0%E9%97%BB/%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%87%91%E7%AE%A1%E5%B1%80%E5%88%92%E6%8B%A8450%E4%BA%BF%E6%96%B0%E5%85%83%E5%AE%98%E6%96%B9%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E7%94%A8%E4%BA%8E%E6%94%BF%E5%BA%9C%E6%8A%95%E8%B5%84.htm
 
@@ -290,17 +290,17 @@ https://www.icbcstandardbank.com/icbc/%E7%BD%91%E4%B8%8A%E6%B1%87%E5%B8%82/%E6%B
 
 截止2022年3月末，淡马锡公司报告自己净值达到4030亿新元。
 
-![](/images/btnews/0501_0600/0542/b5d7b6e9-e827-4e3a-9d82-d5a098986cf7.png)
+![](/images/btnews/0501_0600/0542/b5d7b6e9-e827-4e3a-9d82-d5a098986cf7.webp)
 
 https://www.temasek.com.sg/en/our-financials/portfolio-performance
 
 
 相反，新加坡投资公司非常低调，官方对资产规模和投资去向严格保密，对外只公布“资产回报率”。
 
-![](/images/btnews/0501_0600/0542/de130d8f-2731-4a5b-8679-78c25f96d413.png)
+![](/images/btnews/0501_0600/0542/de130d8f-2731-4a5b-8679-78c25f96d413.webp)
 
 
-![](/images/btnews/0501_0600/0542/14a91a0f-5a04-4a62-8326-84402e31f7ad.png)
+![](/images/btnews/0501_0600/0542/14a91a0f-5a04-4a62-8326-84402e31f7ad.webp)
 
 
 
@@ -315,7 +315,7 @@ https://report.gic.com.sg/investment-report.html
 
 西方财政状况最好的是挪威，人均GDP世界第三。目前挪威主权财富基金市值1.32万亿美元，人均24.4万，看起来比新加坡高。但挪威很早就发家了，上世纪七十年代又发现了巨量的油气资源，现在是第三大石油出口国，国民人口只有新加坡的大约1.5倍。
 
-![](/images/btnews/0501_0600/0542/7c9a5651-9393-4791-b3b4-21f071ceb2d9.png)
+![](/images/btnews/0501_0600/0542/7c9a5651-9393-4791-b3b4-21f071ceb2d9.webp)
 
 https://www.nbim.no/
 
@@ -346,7 +346,7 @@ https://www.nbim.no/
 
 中国大陆现在是淡马锡最大的海外投资地区，截止上年度财报，占了淡马锡总资产的22%，仅次于新加坡本土。
 
-![](/images/btnews/0501_0600/0542/5497ea92-f4e1-40b3-bba8-0e220f507f53.png)
+![](/images/btnews/0501_0600/0542/5497ea92-f4e1-40b3-bba8-0e220f507f53.webp)
 
 https://www.temasekreview.com.sg/overview/portfolio-highlights.html
 
@@ -356,7 +356,7 @@ https://www.temasekreview.com.sg/overview/portfolio-highlights.html
 
 近年在社会压力下，新加坡政府也提高了储备金直接回馈财政的比例。从2016年起，三大投资机构最多会将前一年一半的利润，缴纳给财政部。去年，上缴的投资收益近200亿新元，成为新加坡财政最大的单一收入来源。
 
-![](/images/btnews/0501_0600/0542/1486988e-1f14-4b89-b916-c87520650288.png)
+![](/images/btnews/0501_0600/0542/1486988e-1f14-4b89-b916-c87520650288.webp)
 
 https://www.yicai.com/news/101123462.html
 
@@ -397,7 +397,7 @@ https://www.yicai.com/news/101123462.html
 
 国内和新加坡消费税实际类似的税种，是增值税。近几年，为了刺激经济发展，国家不但没有增加增值税税率，还有一定程度的下调和减免。
 
-![](/images/btnews/0501_0600/0542/732af57b-225d-4de2-ac5c-575c2b4a2318.png)
+![](/images/btnews/0501_0600/0542/732af57b-225d-4de2-ac5c-575c2b4a2318.webp)
 
 http://www.gov.cn/zhengce/2023-01/11/content_5736338.htm
 
@@ -410,7 +410,7 @@ http://www.gov.cn/zhengce/2023-01/11/content_5736338.htm
 
 非自住房产，从10%-20%，上调到12%-36%。
 
-![](/images/btnews/0501_0600/0542/6681dcea-1f9b-40dc-9139-1da8d2bf7424.png)
+![](/images/btnews/0501_0600/0542/6681dcea-1f9b-40dc-9139-1da8d2bf7424.webp)
 
 https://ohmyhome.com/cn-sg/blog/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%88%BF%E4%BA%A7%E7%A8%8E%E5%A6%82%E4%BD%95%E8%AE%A1%E7%AE%97/
 
@@ -433,6 +433,6 @@ https://ohmyhome.com/cn-sg/blog/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%88%BF%E4%BA%A7%E7
 
 
 
-![](/images/btnews/0501_0600/0542/7235505e-813e-45cf-87ee-bd36d211676b.jpg)
+![](/images/btnews/0501_0600/0542/7235505e-813e-45cf-87ee-bd36d211676b.webp)
 
 

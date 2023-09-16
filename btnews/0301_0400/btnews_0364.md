@@ -23,7 +23,7 @@ date: 2021-12-10
 
 **前些天，山西朔州发行的煤票成为新闻热点。因为民用取暖煤供应紧张，当地只有凭票才能在供应点以政府补贴价购买清洁煤。中青网发现很多当地居民现在既买不到足够的煤，也没有其他取暖手段。山西是全国最重要的煤炭产区之一，为什么取暖困难？**
 
-![](images/btnews/0301_0400/0364/media/image1.jpeg)
+![](/images/btnews/0301_0400/0364/image1.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1717279724431787001&wfr=spider&for=pc)
 
@@ -35,13 +35,13 @@ date: 2021-12-10
 
 朔州本地产煤，但是煤炭热值不足，烟尘很大，居民不喜欢，环保方面也不达标，承担供煤任务的企业还要再到内蒙去换高热值的煤炭。500万额外费用不一定够。所以到11月中旬，应县只筹集了不到一万吨煤炭，当地部分居民今年冬季取暖还需要继续使用木柴秸秆。
 
-![](images/btnews/0301_0400/0364/media/image2.jpeg)
+![](/images/btnews/0301_0400/0364/image2.webp)
 
 276期节目我们分析过山西穷县的问题，吕梁地区的沁县2019年本级财政收入1亿出头，3000万罚款占了差不多三分之一。每年十七八亿的支出，绝大多数要靠上级转移支付。应县的情况也差不多，2020年一般公共预算支出24.5亿，对收入1.82亿，差额都要靠上级转移支付。
 
 上级政府虽然承担了大多数财政支出，但转移支付一般都是提前安排好，有指定用途，不能随意挪用。煤价暴涨是今年三季度最明显，年初制订财政预算时，不会为煤价补贴留出太多余地。所以一旦出现意外，很难有足够的机动资金。
 
-![](images/btnews/0301_0400/0364/media/image3.png)
+![](/images/btnews/0301_0400/0364/image3.webp)
 
 现在缺钱甚至缺煤的地方，不仅仅是应县，还包括它上级朔州市，以及朔州的上级山西省，也面临同样的问题，只是程度不同。上周12月4号山西省政府开取暖新闻发布会，再次强调：
 
@@ -57,31 +57,31 @@ date: 2021-12-10
 
 首先，必须承认，因为煤价格上涨，一部分山西煤炭企业多赚了钱。办公室会计黑岛同学随机找了一家山西煤炭上市企业看报表，晋能控股山西煤业股份有限公司。上半年销售额增加了38%，而利润猛增200%，达到13.6亿。
 
-![](images/btnews/0301_0400/0364/media/image4.png)
+![](/images/btnews/0301_0400/0364/image4.webp)
 
 [](https://q.stock.sohu.com/newpdf/202145769079.pdf)
 
 但并不是所有山西煤企的经营状态都有类似幅度的改善。山西煤业的母公司，晋能控股煤业集团，算是山西煤炭行业的核心企业，也发布了上半年报告。煤炭业务销售额净增长了300亿，增长幅度超过80%，数据非常好看。但最关键的净利润数据，虽然增长率惊人，绝对数字只是从一亿变成了16亿，非常对不起300亿的销售额增量。
 
-![](images/btnews/0301_0400/0364/media/image5.png)
+![](/images/btnews/0301_0400/0364/image5.webp)
 
-![](images/btnews/0301_0400/0364/media/image6.png)
+![](/images/btnews/0301_0400/0364/image6.webp)
 
 [](https://pdf.dfcfw.com/pdf/H2_AN202108311513484508_1.pdf)
 
 再往上看，晋能控股煤业的母公司晋能控股集团，上半年的账面利润还是负的，亏损了近20亿。虽然从三季度开始煤价更加疯狂的暴涨，它全年度扭亏为盈的可能性很大，但上半年的数据仍然说明，山西煤炭以及其它传统产业背着非常沉重的包袱。短期的煤价上涨只能让他们扭转亏损，最多是进入微利状态。不太可能拉动山西经济快速增长。要是遇到煤炭滞销，山西煤炭反而可能是省域经济的负担。
 
-![](images/btnews/0301_0400/0364/media/image7.png)
+![](/images/btnews/0301_0400/0364/image7.webp)
 
 [](https://pdf.dfcfw.com/pdf/H2_AN202108311513484508_1.pdf)
 
 这些历史包袱反映在财务上，就是山西的传统工业企业普遍负债率过高。去年第195期睡前消息分析河南地方国企带头债务违约问题的时候，提到山西省国资运管公司出面，向市场公开保证，会举全省之力，确保省属企业不出现任何债券违约。
 
-![](images/btnews/0301_0400/0364/media/image8.png)
+![](/images/btnews/0301_0400/0364/image8.webp)
 
 山西省用官方名义发出这么严肃的声明，原因就是债务压力太大，市场早就怀疑它的偿还能力了，如果不是拿出省级政府的声誉来担保，很容易就被邻居河南制造的恐慌气氛拖垮。比如说刚才提到的晋能控股煤业集团，总资产4000亿，但只算有息负债就超过2000亿，其它方面还有上千亿债务。流动资金相当紧张，高度依赖于市场融资来维持运行。所以平时利息压力大，就算煤价涨了也不怎么缓解压力。
 
-![](images/btnews/0301_0400/0364/media/image9.png)
+![](/images/btnews/0301_0400/0364/image9.webp)
 
 晋能控股煤业集团部分债券
 
@@ -93,13 +93,13 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 从长期来看，中国煤炭产业即将到达需求峰值，之后就要开始减量运营，只有那些高利润率的煤炭企业能生存。而山西煤企的利润率显然不足以应付市场长期萎缩的局面，更不要说化解历史债务，所以煤价上涨反而会导致山西基层缺煤。
 
-![](images/btnews/0301_0400/0364/media/image10.png)
+![](/images/btnews/0301_0400/0364/image10.webp)
 
 2021年国内焦煤价格走势
 
 过去几十年，乃至过去100年，中国工业的主要动力来源都是煤炭。而山西又是最主要的煤炭生产省份，为什么在中国变成世界第一工业大国的同时，山西经济没有跟上全国的发展呢？
 
-![](images/btnews/0301_0400/0364/media/image11.png)
+![](/images/btnews/0301_0400/0364/image11.webp)
 
 人教版地理课本内容
 
@@ -109,21 +109,21 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 如果只看产量，从50年代到2010年，山西一直是中国第一大煤炭生产省，最近10年虽然逐渐被内蒙古超过去，但也频繁反超。到了去年，全国38亿吨的原煤产量，山西和内蒙各占10亿吨，陕西占了六七亿吨，其他省份都是零头。的确山西是中国最主要的能源基地之一。顺便再提醒大家一下，现在的产煤前10大省份，没有一个在东北。
 
-![](images/btnews/0301_0400/0364/media/image12.png)
+![](/images/btnews/0301_0400/0364/image12.webp)
 
 [2020年1-12月全国分省区原煤产量排名公布](https://www.sohu.com/a/445778775_751989)
 
 但是，最近几年，内蒙和陕西的经济发展都比山西好。鄂尔多斯、榆林这些主要煤炭产区的经济数据很漂亮，甚至在部分领域接近了山西最发达的城市，省会太原。
 
-![](images/btnews/0301_0400/0364/media/image13.png)
+![](/images/btnews/0301_0400/0364/image13.webp)
 
 [鄂尔多斯市薪资水平报告 (2023)](http://salarycalculator.sinaapp.com/report/%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF)
 
-![](images/btnews/0301_0400/0364/media/image14.png)
+![](/images/btnews/0301_0400/0364/image14.webp)
 
 [榆林市薪资水平报告 (2023)](https://salarycalculator.sinaapp.com/report/%E6%A6%86%E6%9E%97)
 
-![](images/btnews/0301_0400/0364/media/image15.png)
+![](/images/btnews/0301_0400/0364/image15.webp)
 
 [太原市薪资水平报告 (2023)](http://salarycalculator.sinaapp.com/report/%E5%A4%AA%E5%8E%9F)
 
@@ -135,21 +135,21 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 至于说内蒙古的人均产煤数据，拿出个零头就能压死山西。2017年内蒙只有13.9万采矿业劳动力，其中煤矿工人差不多十万。而当年内蒙生产了5亿吨标准煤，人均5000吨。就算把13.9万人都算到煤矿，人均也超过3500吨。
 
-![](images/btnews/0301_0400/0364/media/image16.png)
+![](/images/btnews/0301_0400/0364/image16.webp)
 
-![](images/btnews/0301_0400/0364/media/image17.png)
+![](/images/btnews/0301_0400/0364/image17.webp)
 
 [É½Î÷Í³¼ÆÄê¼ø¡ª2018](http://tjj.shanxi.gov.cn/tjsj/tjnj/nj2018/indexch.htm)
 
-![](images/btnews/0301_0400/0364/media/image18.png)
+![](/images/btnews/0301_0400/0364/image18.webp)
 
-![](images/btnews/0301_0400/0364/media/image19.png)
+![](/images/btnews/0301_0400/0364/image19.webp)
 
 [陕西统计年鉴—2018](http://tjj.shaanxi.gov.cn/upload/201802/zk/indexch.htm)
 
-![](images/btnews/0301_0400/0364/media/image20.png)
+![](/images/btnews/0301_0400/0364/image20.webp)
 
-![](images/btnews/0301_0400/0364/media/image21.png)
+![](/images/btnews/0301_0400/0364/image21.webp)
 
 [ÄÚÃÉ¹ÅÍ³¼ÆÄê¼ø¡ª2018](http://tj.nmg.gov.cn/files_pub/content/PAGEPACK/66d2e078c7714ed0a5a378ec901b5c56/indexch.htm)
 
@@ -159,19 +159,19 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 主要是自然条件和开发先后顺序的差别。山西虽然煤炭储量丰富，但矿脉分散在全省几乎每个市县，开采形式以地下矿井为主，所以生产、运输都消耗大量人力。山西的煤矿开发比较早，经过上百年的高强度开采，比较容易开采的浅层煤矿大部分已经都开完了，只能继续挖洞，开采更深的矿脉，进一步增加了人力和材料成本。
 
-![](images/btnews/0301_0400/0364/media/image22.png)
+![](/images/btnews/0301_0400/0364/image22.webp)
 
-![](images/btnews/0301_0400/0364/media/image23.png)
+![](/images/btnews/0301_0400/0364/image23.webp)
 
 内蒙、陕西的煤矿，大多数产能来自90年代和21世纪新开发的一批特大整装煤田。其中最大的神府-东胜煤区是露天煤矿，掀掉地表一层土，下面就是几十米深的成片煤田，单位开采费用可以压到很低。限制这些露天煤矿赚钱的主要瓶颈不是生产，而是怎么把煤运出去。
 
-![](images/btnews/0301_0400/0364/media/image24.png)
+![](/images/btnews/0301_0400/0364/image24.webp)
 
 （陕西、内蒙古）神府-东胜煤田
 
 [](http://inews.gtimg.com/newsapp_match/0/5935172958/0.jpg)
 
-![](images/btnews/0301_0400/0364/media/image25.png)
+![](/images/btnews/0301_0400/0364/image25.webp)
 
 神府煤田
 
@@ -179,37 +179,37 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 20世纪90年代以前，国内基础建设还很落后，蒙西、陕北地区根本没有铁路网，公路条件也很差，靠当时的老解放、东风卡车运煤到东部主要消费区，光是运输费可能就要亏本。而山西自己有纵横的铁路，距离东部平原也比较近，汽车翻过太行山，跑一二百公里就能进入华北平原人口密集区，东部煤矿距离海岸线只有300公里。所以当时山西是中国最主要的煤炭产区，赚了一些钱。
 
-![](images/btnews/0301_0400/0364/media/image26.png)
+![](/images/btnews/0301_0400/0364/image26.webp)
 
-![](images/btnews/0301_0400/0364/media/image27.png)
+![](/images/btnews/0301_0400/0364/image27.webp)
 
 90年代以后,国家开始大规模投资运煤专线，收益大，但是投资也不小。所以首先要给内蒙和陕北的整装大煤田提供重载铁路。经过几十年建设，现在西北主要煤区都有了通畅的外运铁路线，能发挥自己的成本优势，掌握了煤炭定价权。而山西省的矿产相对分散，修重载铁路不一定合算，还是依靠公路搞物流，被国家发改委称为“以油运煤”，放大了成本劣势。
 
 我举一个国际上的例子，如果只看储量，委内瑞拉和沙特的石油不相上下。但从开采成本看，沙特挖一桶油只要一二十美元，委内瑞拉可能需要五六十美元，所以两国的经济天差地别。油价下跌的时候，沙特可能只是少赚点钱，但委内瑞拉就会吃不上饭。这个规律在煤炭市场也适用。山西煤矿的生产和运输成本都比邻省明显高，所以只能在高煤价时代赚点小钱，遇到煤价低谷，还要为了保就业忍受亏损，问题积累到今天，就是山西煤炭行业的现状了。
 
-![](images/btnews/0301_0400/0364/media/image28.png)
+![](/images/btnews/0301_0400/0364/image28.webp)
 
 [å±±è¥¿éå²ä¸æå°é¾æ¶æï¼GDPå¢é3.1%å34å¹´æ¥æä½\_æ°é»é¢é\_ä¸­åç½](https://news.china.com/domestic/945/20160127/21320072_all.html)
 
-![](images/btnews/0301_0400/0364/media/image29.jpeg)
+![](/images/btnews/0301_0400/0364/image29.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1715960032353395018&wfr=spider&for=pc)
 
 2019年山西省终于提出重点煤矿全部接入铁路专用线，出省煤炭都用铁路的目标，此时距离中国开始向后煤炭经济转型，只有一年多时间了。所以，山西未来也不能指望煤炭作为绝对的经济发展支柱。
 
-![](images/btnews/0301_0400/0364/media/image30.jpeg)
+![](/images/btnews/0301_0400/0364/image30.webp)
 
 全国主要煤炭运输铁路线
 
-![](images/btnews/0301_0400/0364/media/image31.png)
+![](/images/btnews/0301_0400/0364/image31.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1687515811114724503&wfr=spider&for=pc)
 
-![](images/btnews/0301_0400/0364/media/image32.png)
+![](/images/btnews/0301_0400/0364/image32.webp)
 
 [山西省将推进煤炭运输“公转铁”-国际煤炭网](https://coal.in-en.com/html/coal-2574691.shtml)
 
-![](images/btnews/0301_0400/0364/media/image33.png)
+![](/images/btnews/0301_0400/0364/image33.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1634193284917869168&wfr=spider&for=pc)
 
@@ -226,7 +226,7 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 但是，这个阶段煤炭的利润留在山西的比例并不高，因为山西在地理上被山脉切割的太厉害。
 
-![](images/btnews/0301_0400/0364/media/image34.png)
+![](/images/btnews/0301_0400/0364/image34.webp)
 
 在地形图上看，山西被山脉切分成五六个地理单元。最主要的汾河流域，以灵石县为界，分成晋中和晋南两块平原。至于说东南的长治盆地，中北部的忻定盆地，北部的大同盆地，吕梁山隔出去的黄河谷地，太行山隔开的阳泉地区，几乎每个地理单元都是一个相对独立的文化区。
 
@@ -236,13 +236,13 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 所以，在山西煤炭优势最大的年代，煤老板的消费和投资，有相当比例投向了省外的大城市。这让外省人看到了山西煤矿的财力，但同时也意味着煤炭利润没有转化为山西本省的投资，山西普通人间接分享到的煤炭财富打了很大的折扣。
 
-![](images/btnews/0301_0400/0364/media/image35.png)
+![](/images/btnews/0301_0400/0364/image35.webp)
 
-![](images/btnews/0301_0400/0364/media/image36.png)
+![](/images/btnews/0301_0400/0364/image36.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1715960032353395018&wfr=spider&for=pc)
 
-![](images/btnews/0301_0400/0364/media/image37.png)
+![](/images/btnews/0301_0400/0364/image37.webp)
 
 <http://www.southmoney.com/shuju/hysj/202110/16694670.html>
 
@@ -288,9 +288,9 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 今年四月，北医三院张煜医生在知乎发表文章《肿瘤治疗黑幕》，引爆全网舆论。他的其他观点暂且不提，这里只介绍一个细节，上海交大新华附属医院的副主任医师陆巍被张煜点名，说给一名胃癌患者推荐NK-T疗法，俗称第二代细胞疗法，比魏则西遇到的DC-CIK疗法更落后。今年9月8日，张煜医生继续发文，揭露骗子公司甚至没有给患者注射NK细胞药物，而是用含有维生素C的生理盐水冒充NK细胞，欺骗患者。
 
-![](images/btnews/0301_0400/0364/media/image38.png)
+![](/images/btnews/0301_0400/0364/image38.webp)
 
-![](images/btnews/0301_0400/0364/media/image39.png)
+![](/images/btnews/0301_0400/0364/image39.webp)
 
 [å¼ çå»çæ·±å¤ååï¼å·¨å¤§çä¸é»åä¸­å½å»ççè»è¾±ï¼-å¥åº·ç](https://www.cn-healthcare.com/article/20210909/content-559884.html)
 
@@ -310,11 +310,11 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 这次国家药监局批准的CAR-T细胞疗法，全称是嵌合抗原受体T细胞疗法。从患者血液中提取出T细胞，经过基因编辑改造，表面上生成名为嵌合抗原受体的结构，简称CARs，再回输到患者体内，识别癌细胞，攻击癌细胞。
 
-![](images/btnews/0301_0400/0364/media/image40.png)
+![](/images/btnews/0301_0400/0364/image40.webp)
 
-![](images/btnews/0301_0400/0364/media/image41.png)
+![](/images/btnews/0301_0400/0364/image41.webp)
 
-![](images/btnews/0301_0400/0364/media/image42.png)
+![](/images/btnews/0301_0400/0364/image42.webp)
 
 CAR-T细胞疗法已经得到了美国FDA，欧盟药品管理局和日本厚生劳动省的批准，用于治疗一种非霍奇金淋巴瘤和儿童复发急性淋巴细胞性白血病，已经形成了奕凯达（Yescarta）和替沙来塞（Kymriah）两种药物。
 
@@ -328,7 +328,7 @@ FDA公布的临床实验结果显示，这两种药物有效，就是太贵。�
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1581743110186824650&wfr=spider&for=pc)
 
-![](images/btnews/0301_0400/0364/media/image43.png)
+![](/images/btnews/0301_0400/0364/image43.webp)
 
 [<u>http://www.360doc.com/content/21/0701/10/73542435_984622395.shtml</u>](http://www.360doc.com/content/21/0701/10/73542435_984622395.shtml)
 
@@ -345,7 +345,7 @@ FDA公布的临床实验结果显示，这两种药物有效，就是太贵。�
 
 但是CAR-T细胞疗法也存在安全隐患。今年10月7日一名患者接受同种异基因（Allogene）公司的治疗后，所有血细胞都减少，FDA暂停了这家公司开发的全部CAR-T疗法的临床试验。
 
-![](images/btnews/0301_0400/0364/media/image44.png)
+![](/images/btnews/0301_0400/0364/image44.webp)
 
 [FDAÔÝÍ£»ùÓÚ»ùÒò±à¼­µÄCAR-TÁÙ´²ÊÔÑé - ÉúÎïÍ¨](http://www.ebiotrade.com/newsf/2021-10/20211011085424850.htm)
 
@@ -369,11 +369,11 @@ FDA公布的临床实验结果显示，这两种药物有效，就是太贵。�
 
 “目前影像学疗效评估结果为’完全缓解’，患者身体暂时没有肿瘤表现，但还需要进一步看长期的随访情况”。
 
-![](images/btnews/0301_0400/0364/media/image45.png)
+![](/images/btnews/0301_0400/0364/image45.webp)
 
-![](images/btnews/0301_0400/0364/media/image46.png)
+![](/images/btnews/0301_0400/0364/image46.webp)
 
-![](images/btnews/0301_0400/0364/media/image47.png)
+![](/images/btnews/0301_0400/0364/image47.webp)
 
 [120万元一针癌细胞清零？CAR-T细胞治疗药物详解_浦江头条_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_14622036)
 

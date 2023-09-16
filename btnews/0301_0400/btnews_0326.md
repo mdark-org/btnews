@@ -13,21 +13,21 @@ date: 2021-09-12
 
 铝制品支撑了现代社会的运转，建筑材料、汽车、电力设备、食品包装、机械加工，到处都用铝。中国是全球生产中心，大部分基础工业品都在中国生产。正在成长的新能源汽车产业、航空航天产业也是铝制品消费大户，中国对铝矿的需求会不断增加。
 
-![](images/btnews/0301_0400/0326/media/image1.png)
+![](/images/btnews/0301_0400/0326/image1.webp)
 
-![](images/btnews/0301_0400/0326/media/image2.png)
+![](/images/btnews/0301_0400/0326/image2.webp)
 
 生产铝材的原料是氧化铝。现在全世界一年生产1.34亿吨氧化铝，中国自己占了7200多万吨，占比54%，实际产能已经接近9000万吨。全球前十大氧化铝生产企业，有五家是中国的。
 
 [404,æ¨è®¿é®çé¡µé¢å·²ç»ä¸å­å¨!](https://www.sohu.com/a/448444725_160256)
 
-![](images/btnews/0301_0400/0326/media/image3.jpeg)
+![](/images/btnews/0301_0400/0326/image3.webp)
 
-![](images/btnews/0301_0400/0326/media/image4.png)
+![](/images/btnews/0301_0400/0326/image4.webp)
 
-![](images/btnews/0301_0400/0326/media/image5.png)
+![](/images/btnews/0301_0400/0326/image5.webp)
 
-![](images/btnews/0301_0400/0326/media/image6.png)
+![](/images/btnews/0301_0400/0326/image6.webp)
 
 为了这1.34亿吨氧化铝，现在全世界一年生产铝土矿3.44亿吨。其中，第一大铝矿生产国是澳大利亚，年产量超过1亿吨，占30.5%。第二是中国自己，年产量6800多万吨，占世界20%。但相比于中国占世界54%的氧化铝产量，自己家的铝土矿明显不够用，一年还要进口1.1亿吨以上。哪怕澳大利亚每年生产的所有铝土矿都运到中国，还是不能满足需求。所以中国要从世界第三大铝土矿生产国几内亚大量进口，平衡市场风险。
 
@@ -45,13 +45,13 @@ date: 2021-09-12
 
 2016年，国土部联合多部委发布过一个文件，《全国矿产资源规划》，确定了24种战略性矿产，其中就包括铝。而且文件反复强调铝土矿的重要性，把铝资源和铁、铜、石油、天然气放到同一个地位。
 
-![](images/btnews/0301_0400/0326/media/image7.png)
+![](/images/btnews/0301_0400/0326/image7.webp)
 
-![](images/btnews/0301_0400/0326/media/image8.png)
+![](/images/btnews/0301_0400/0326/image8.webp)
 
-![](images/btnews/0301_0400/0326/media/image9.png)
+![](/images/btnews/0301_0400/0326/image9.webp)
 
-![](images/btnews/0301_0400/0326/media/image10.png)
+![](/images/btnews/0301_0400/0326/image10.webp)
 
 [å¨å½ç¿äº§èµæºè§åï¼2016ï¼2020å¹´ï¼](http://g.mnr.gov.cn/201701/t20170123_1430456.html)
 
@@ -59,9 +59,9 @@ date: 2021-09-12
 
 将来电动汽车产业发展起来，石油进口量还可以控制一下，但现在中国以世界3%的铝土矿储量支撑54%的氧化铝产量，就算有大量进口，本国资源也会快速枯竭。按目前的消耗速度，全球铝土矿资源储量可以开发102年，但中国国内铝土矿只够8年了。
 
-![](images/btnews/0301_0400/0326/media/image11.png)
+![](/images/btnews/0301_0400/0326/image11.webp)
 
-![](images/btnews/0301_0400/0326/media/image12.png)
+![](/images/btnews/0301_0400/0326/image12.webp)
 
 [](http://finance.eastmoney.com/a/202012041725707183.html)
 
@@ -71,11 +71,11 @@ date: 2021-09-12
 
 [拜耳法 - 百度文库](https://wenku.baidu.com/view/7f59d126a21614791711289e.html)
 
-![](images/btnews/0301_0400/0326/media/image13.png)
+![](/images/btnews/0301_0400/0326/image13.webp)
 
 在铝资源紧缺的大背景下，国内高品位铝土矿挖出来就能赚快钱，很多矿山为了赶快出资源，就不顾长期的资源保护，只追求短期产量，浪费了很多资源，这也加剧了铝土矿资源危机。随着中国制造业占世界比例的提升，铝土矿缺口会越来越大。几内亚或者澳大利亚的铝土矿生产遇到任何问题，中国市场都必然出现恐慌性波动。
 
-![](images/btnews/0301_0400/0326/media/image14.png)
+![](/images/btnews/0301_0400/0326/image14.webp)
 
 我记得中学地理书上有一个扇形图，介绍地壳中各种元素的含量，按质量百分比计算，最高的是氧，其次是硅，排第三的就是铝。铝占地壳大约8%的质量，几乎是铁的两倍，是地球表面居民最丰富的金属资源。中国国土面积这么大，为什么会缺少铝这种最丰富的金属资源。
 
@@ -87,83 +87,83 @@ date: 2021-09-12
 
 从类型上看，铝矿分为红土型、沉积型和堆积型。容易开采、加工的三水铝石，主要分布在红土型铝矿。现在世界85%的铝土矿都是红土型，主要集中在热带地区，澳大利亚、几内亚的铝矿都是红土型，这说明热带的高温、大风和旱涝交替是形成铝土矿的重要条件。
 
-![](images/btnews/0301_0400/0326/media/image15.png)
+![](/images/btnews/0301_0400/0326/image15.webp)
 
-![](images/btnews/0301_0400/0326/media/image16.png)
+![](/images/btnews/0301_0400/0326/image16.webp)
 
 [西非红土型铝土矿——我国铝矿资源保障新基地 - 道客巴巴](https://www.doc88.com/p-1022906424062.html)
 
 中国是一个温带国家，缺少热带成矿环境，铝土矿不够用是一个大概率事件。
 
-![](images/btnews/0301_0400/0326/media/image17.png)
+![](/images/btnews/0301_0400/0326/image17.webp)
 
-![](images/btnews/0301_0400/0326/media/image18.png)
+![](/images/btnews/0301_0400/0326/image18.webp)
 
 <u>——《中国铝矿成矿规律概要》；2014</u>
 
-![](images/btnews/0301_0400/0326/media/image19.png)
+![](/images/btnews/0301_0400/0326/image19.webp)
 
 幸亏几亿年前，华北、华南板块都在赤道附近，和今天几内亚的气候条件相似，在热带、亚热带气候下，在低洼地区形成了铝矿。但是，这些铝矿形成时间太久了，往往上面隔着石炭纪煤层，开采难度很大，污染也严重，不像热带附近的红土型铝土矿往往就在地表几米，容易采集。从地质学的角度说，中国未来必须从热带寻求铝土矿供应。
 
-![](images/btnews/0301_0400/0326/media/image20.png)
+![](/images/btnews/0301_0400/0326/image20.webp)
 
-![](images/btnews/0301_0400/0326/media/image21.png)![](images/btnews/0301_0400/0326/media/image22.jpeg)
+![](/images/btnews/0301_0400/0326/image21.webp)![](/images/btnews/0301_0400/0326/image22.webp)
 
-![](images/btnews/0301_0400/0326/media/image23.jpeg)
+![](/images/btnews/0301_0400/0326/image23.webp)
 
-![](images/btnews/0301_0400/0326/media/image24.png)
+![](/images/btnews/0301_0400/0326/image24.webp)
 
 热带面积很大，有铝土矿的国家很多，为什么中国重点关注几内亚的资源？
 
 热带文明发展水平比较差，在大航海时代就被欧洲各国占据，变成了殖民地。所以，基础条件比较好的铝土矿资源，比如说澳大利亚矿区，早就是大型跨国集团的自留地。中国企业很难挤进去。
 
-![](images/btnews/0301_0400/0326/media/image25.png)
+![](/images/btnews/0301_0400/0326/image25.webp)
 
 至于西方文化圈之外的热带国家，也想依托本国的资源搞工业，不一定愿意把资源直接卖给中国。比如说印尼，原本已经是世界第二大铝土矿生产国，比中国产量还高。现在为了发展经济、提供高附加值就业岗位，出台了一系列禁令，要求到印尼开矿的企业，必须就地配套建设冶金工业。
 
 相比之下，几内亚的基础设施差，社会不稳定，客观上也阻止了之前西方矿业公司圈地，所以还能给中国企业留一点机会，去建立铝土矿供应基地。
 
-![](images/btnews/0301_0400/0326/media/image26.png)
+![](/images/btnews/0301_0400/0326/image26.webp)
 
-![](images/btnews/0301_0400/0326/media/image27.png)
+![](/images/btnews/0301_0400/0326/image27.webp)
 
 现在到几内亚开矿，港口码头需要自己配套，铁路公路需要自己配套，发电厂也要自己建，这一套下来，开发周期起码十年起。中国企业需要在几内亚多一点耐心。
 
-![](images/btnews/0301_0400/0326/media/image28.png)
+![](/images/btnews/0301_0400/0326/image28.webp)
 
-![](images/btnews/0301_0400/0326/media/image29.png)
+![](/images/btnews/0301_0400/0326/image29.webp)
 
 **这次政变，让我们关注到在几内亚投资的中国企业，其中包括自称建设了海外最大铝土矿基地的山东魏桥集团。山东地方民企这些年的发展不太顺利，产业升级比较慢，从发展阶段看也往往到了接班的波动期，为什么魏桥集团能摆脱负面新闻，把生意做这么大？**
 
 话题转入财务方面，我作为办公室的会计，来解释一下。魏桥集团是经营纺织业起家的制造业公司，2003年魏桥纺织就在香港上市了，创始人张士平还有一个“亚洲棉王”的称号。现在魏桥仍然是全国棉纺织领域营收规模最大的企业。不过，魏桥集团取得影响全国的核心影响力，还是因为他围绕铝业建立的产业链。
 
-![](images/btnews/0301_0400/0326/media/image30.png)
+![](/images/btnews/0301_0400/0326/image30.webp)
 
 [魏桥创业蝉联首位！2020年全国棉纺织行业营业收入百强榜单发布_企业](https://www.sohu.com/a/481200878_121117463)
 
 魏桥集团旗下的铝业投资，大部分集中在中国宏桥公司。这家企业现在是中国铝行业的第二大企业，仅次于中国铝业，在全球来看都属于超级企业。铝业最重要的产品是电解铝，宏桥是全球最大电解铝生产商。依靠铝业的营收利润，魏桥集团2010年第一次进入了《财富》世界五百强名单。
 
-![](images/btnews/0301_0400/0326/media/image31.png)
+![](/images/btnews/0301_0400/0326/image31.webp)
 
 [全球十大电解铝生产商产量_中国宏桥](https://www.sohu.com/a/445222954_263821)
 
 和其他山东地方企业一样，魏桥集团的发展也有不少波折。2017年时，宏桥公司曾经被做空机构连续攻击，被认为财务造假，并有债务风险，停牌长达7个月。但是，复牌后宏桥的股价大幅上涨，说明大多数投资人相信宏桥公司的财务基本面，也接受了管理层对财务问题的解释。
 
-![](images/btnews/0301_0400/0326/media/image32.png)
+![](/images/btnews/0301_0400/0326/image32.webp)
 
 [沽空报告满天飞 中国宏桥(01378)怒怼Emerson](https://www.sohu.com/a/131913342_637143)
 
-![](images/btnews/0301_0400/0326/media/image33.png)
+![](/images/btnews/0301_0400/0326/image33.webp)
 
 [http://www.xinhuanet.com//fortune/2017-10/31/c_1121880199.htm](http://www.xinhuanet.com/fortune/2017-10/31/c_1121880199.htm)
 
 2019年魏桥集团的创始人去世，企业进入交接整理期。但今年初，魏桥集团宣布2020年销售收入接近三千亿，利税226亿，比前年提升46%，在《财富》五百强的排名回升到第282名，已经基本恢复了实力和士气，这的确是个值得分析的现象。
 
-![](images/btnews/0301_0400/0326/media/image34.png)
+![](/images/btnews/0301_0400/0326/image34.webp)
 
 [å±±ä¸é¦å¯èº«åäºï¼é­æ¡¥éå¢æ¶å¥èç¼©å¥³å¿å¼ çº¢éé­è°´è´£\|å¼ å£«å¹³_æ°æµªè´¢ç»\_æ°æµªç½](https://finance.sina.com.cn/chanjing/gsnews/2019-06-03/doc-ihvhiqay3363389.shtml)
 
-![](images/btnews/0301_0400/0326/media/image35.png)
+![](/images/btnews/0301_0400/0326/image35.webp)
 
 [
 	
@@ -171,17 +171,17 @@ date: 2021-09-12
 
 ](https://www.cnmn.com.cn/ShowNews1.aspx?id=424920)
 
-![](images/btnews/0301_0400/0326/media/image36.png)
+![](/images/btnews/0301_0400/0326/image36.webp)
 
 [ 2021å¹´ãè´¢å¯ãä¸ç500å¼ºæè¡æ¦ - è´¢å¯ä¸­æç½](http://www.fortunechina.com/fortune500/c/2021-08/02/content_394571.htm)
 
 魏桥集团在短短十几年里发展成了全球铝业巨头，主要方案是逆势扩张。每次遇到行业周期低谷，别的企业收缩，魏桥集团反而拼命扩张产能。这时候，原料、设备和专业人员的价格都低，容易快速扩张。当然，反周期扩张，必然会带来严重的财务问题，这是魏桥集团多次负面消息的主要原因。
 
-![](images/btnews/0301_0400/0326/media/image37.gif)![](images/btnews/0301_0400/0326/media/image38.png)
+![](/images/btnews/0301_0400/0326/image37.webp)![](/images/btnews/0301_0400/0326/image38.webp)
 
 [看魏桥600kA电解槽，为何满满科技感？](https://www.sohu.com/a/145218793_716522)
 
-![](images/btnews/0301_0400/0326/media/image39.jpeg)
+![](/images/btnews/0301_0400/0326/image39.webp)
 
 <https://www.binzhouw.com/index/company/detailc/uid/188299/pid/225249.html>
 
@@ -191,7 +191,7 @@ date: 2021-09-12
 
 魏桥集团1999年首次投资建设了自备电厂，之后就在自发自用的道路上一路狂奔，2017年时装机容量至少超过600万千瓦，有分析甚至认为，总规模可能接近1000万千瓦。不但可以完全满足自用，还向本地其它企业和居民直接销售。据2016年前公开数据，魏桥集团的综合电力成本，比国家电网的售价要低三分之一左右。
 
-![](images/btnews/0301_0400/0326/media/image40.png)
+![](/images/btnews/0301_0400/0326/image40.webp)
 
 [°ëµº¶¼ÊÐ±¨£ºµç¼Û±ãÒË1/3µÄÎºÇÅÄ£Ê½¶à¶àÒæÉÆ_¾­²ú¹Û²ì_ÐÂÀË²Æ¾­\_ÐÂÀËÍø](http://finance.sina.com.cn/review/jcgc/20120516/111212076806.shtml)
 
@@ -205,7 +205,7 @@ date: 2021-09-12
 
 成网之后，设备利用效率和安全可靠性大大提高，魏桥集团不再需要国家电网提供安全保障。而国家电网除了要支付发电成本之外，还需要交政府性基金，负责供应廉价的居民用电和农村用电。此外，自备电厂在环保上投入普遍较低，所以魏桥电网的供电价格明显低于国家大电网。
 
-![](images/btnews/0301_0400/0326/media/image41.png)
+![](/images/btnews/0301_0400/0326/image41.webp)
 
 [
 è§£è¯»é­æ¡¥ç°è±¡---å½å®¶è½æºå±
@@ -213,31 +213,31 @@ date: 2021-09-12
 
 企业自备电厂不用承担社会义务，污染排放还高于国家发电企业，存在的合法性，合理性一直有激烈争论。特别是魏桥集团发电后，不但给自己的企业用，并且还大规模对外销售，直接侵犯了主流电网和发电企业的利益，所以一直是电力矛盾的集中点。如果没有地方政府支持，魏桥的自用电网恐怕运行不到今天。
 
-![](images/btnews/0301_0400/0326/media/image42.png)
+![](/images/btnews/0301_0400/0326/image42.webp)
 
 魏桥集团发家在滨州邹平市，总部和重要工厂至今仍然集中在滨州市范围内。邹平只是一个普通的县级市，滨州的经济在山东也处于中下游水平，2020年GDP刚过2500亿，还不到同年度魏桥集团的营收规模。区内唯一有全国影响力的企业只有魏桥集团。
 
-![](images/btnews/0301_0400/0326/media/image43.png)
+![](/images/btnews/0301_0400/0326/image43.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1689840453789685876&wfr=spider&for=pc)
 
 虽然魏桥集团下属很多企业并不在滨州市，但它仍然贡献了邹平市超过一半的税收，以及整个地级滨州市税收的五分之一还多，是当地经济绝对核心支柱。所以，地方政府全力保护魏桥集团，顶住了国家电网的压力。
 
-![](images/btnews/0301_0400/0326/media/image44.png)
+![](/images/btnews/0301_0400/0326/image44.webp)
 
 <https://shupeidian.bjx.com.cn/html/20170110/802474.shtml>
 
 不过，这种模式可能已经接近尾声。近年国家的环保政策执行越来越严格，不管是什么历史理由，只要排污指标严重落后，就坚决执行产能淘汰。并且自备电厂也要开始缴纳社会性补贴，魏桥集团发电和生产电解铝的成本恐怕要逐渐上升了。
 
-![](images/btnews/0301_0400/0326/media/image45.png)
+![](/images/btnews/0301_0400/0326/image45.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1596174933069823795&wfr=spider&for=pc)
 
-![](images/btnews/0301_0400/0326/media/image46.png)
+![](/images/btnews/0301_0400/0326/image46.webp)
 
 <http://www.xinhuanet.com/power/2018-04/17/c_129852216.htm>
 
-![](images/btnews/0301_0400/0326/media/image47.png)
+![](/images/btnews/0301_0400/0326/image47.webp)
 
 [](https://www.sd.sgcc.com.cn/ppm/article/content.jhtml?id=2157)
 
@@ -251,45 +251,45 @@ date: 2021-09-12
 
 为了扩大生产规模，魏桥集团也借了很多贷款，2020年末仅仅宏桥公司账目上就有760亿负债。但它的投资方向都比较清晰，比如说在国内电价比较低的云南建设新的铝业基地，在海外控制关键的上游铝土矿资源，这是中国最靠谱的核心竞争力来源。
 
-![](images/btnews/0301_0400/0326/media/image48.png)
+![](/images/btnews/0301_0400/0326/image48.webp)
 
-![](images/btnews/0301_0400/0326/media/image49.jpeg)
+![](/images/btnews/0301_0400/0326/image49.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1678098729026955587&wfr=spider&for=pc)
 
 节目前面提到过，它在几内亚拥有储量巨大的铝土矿开采权，并且和合作伙伴一起，自建了从矿区到港口完整的基础设施。虽然在矿业上实际完全是个新手，但宏桥公司在几内亚干得象模象样，计划设想很周到，经营运作也相当流畅。
 
-![](images/btnews/0301_0400/0326/media/image50.jpeg)
+![](/images/btnews/0301_0400/0326/image50.webp)
 
-![](images/btnews/0301_0400/0326/media/image51.jpeg)![](images/btnews/0301_0400/0326/media/image52.jpeg)
+![](/images/btnews/0301_0400/0326/image51.webp)![](/images/btnews/0301_0400/0326/image52.webp)
 
-![](images/btnews/0301_0400/0326/media/image53.jpeg)https://www.sohu.com/a/235181778_716522
+![](/images/btnews/0301_0400/0326/image53.webp)https://www.sohu.com/a/235181778_716522
 
-![](images/btnews/0301_0400/0326/media/image54.png)
+![](/images/btnews/0301_0400/0326/image54.webp)
 
 [ 魏桥创业几内亚项目二号港口3号泊位用时4个月建成投用--Mining IndustryNewsMiningCircle](http://www.miningcircle.com/i.do?o=515356)
 
 以魏桥集团为首的“赢联盟”在几内亚铝土矿开采上站住脚后，其它中国企业，比如中国铝业才纷纷跟进，把几内亚打造成中国铝土矿资源的主要支柱。
 
-![](images/btnews/0301_0400/0326/media/image55.png)
+![](/images/btnews/0301_0400/0326/image55.webp)
 
 [ä¸­å½éä¸å åäºåä¸å¨çº§éåç¿é¡¹ç®å¨çº¿è´¯éæè¿](http://gn.mofcom.gov.cn/article/zxhz/202004/20200402953483.shtml)
 
 2015年时，几内亚对华铝土矿出口还只有100万吨左右，到2020年已经增长到5200多万吨，占了中国进口铝土矿近一半。其中大部分仍然来自魏桥集团参与的“赢联盟”矿区。
 
-![](images/btnews/0301_0400/0326/media/image56.png)
+![](/images/btnews/0301_0400/0326/image56.webp)
 
 <https://pdf.dfcfw.com/pdf/H3_AP202109071514815205_1.pdf?1631043904000.pdf>
 
 前面提到印度尼西亚调整了自己的铝土矿政策，魏桥集团在印尼铝土资源上也有重要投资，同样也是国内企业布局印尼的领头企业。
 
-![](images/btnews/0301_0400/0326/media/image57.png)
+![](/images/btnews/0301_0400/0326/image57.webp)
 
 [中国宏桥集团计划印尼氧化铝工厂二期工程能在2021年底前投产-铝业资讯](https://al.iyunhui.com/news-488093/)
 
 最近，赢联盟中标几内亚西芒杜铁矿，很多机构和人士都希望，它投产后能帮助中国，分散进口铁矿石单来源单一度过高的风险。不过到现在为止，这个项目还在非常早期的阶段，还没有真正开始大规模投资。对魏桥集团账面财务数据影响还不大。
 
-![](images/btnews/0301_0400/0326/media/image58.png)
+![](/images/btnews/0301_0400/0326/image58.webp)
 
 [èµ¢èçä¸­æ è¥¿èæéç¿1å·å2å·ç¿å](http://www.mofcom.gov.cn/article/i/jyjl/k/201911/20191102913097.shtml)
 
@@ -301,12 +301,12 @@ date: 2021-09-12
 
 虽然没有明显的产业升级，但魏桥集团把自己的主业打造得很好，创造出了一番天地，可以说是中国制造业企业的榜样。我们希望它在国家调整电力政策之后，还能保持现在的发展趋势。
 
-![](images/btnews/0301_0400/0326/media/image59.png)
+![](/images/btnews/0301_0400/0326/image59.webp)
 
-![](images/btnews/0301_0400/0326/media/image60.png)
+![](/images/btnews/0301_0400/0326/image60.webp)
 
 [](https://www.fitchratings.com/research/zh-cn/corporate-finance/fitch-upgrades-china-hongqiao-to-bb-outlook-positive-31-05-2021)
 
-![](images/btnews/0301_0400/0326/media/image61.png)
+![](/images/btnews/0301_0400/0326/image61.webp)
 
 好，感谢各位收看，326期睡前消息到此结束，我们周二再见！

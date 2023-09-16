@@ -7,11 +7,11 @@ date: 2021-12-21
 
 12月4日，法国总统马克龙快速访问阿联酋，与阿联酋的阿布扎比王储穆罕默德签订了21世纪法国最大的对外军售协议，出售80架阵风战斗机和12架狞猫直升机。在大国以外，80架三代半战斗机已经是一支强大的空中力量，之前印度买了36架阵风战斗机，就觉得和中国对抗有了底气。阿联酋一个沙漠小国，为什么要买这么多先进装备？
 
-![](images/btnews/0301_0400/0369/media/image1.png)
+![](/images/btnews/0301_0400/0369/image1.webp)
 
 <http://www.cankaoxiaoxi.com/mil/20211204/2461864.shtml>
 
-![](images/btnews/0301_0400/0369/media/image2.jpeg)
+![](/images/btnews/0301_0400/0369/image2.webp)
 
 长期以来，中东都是国际热点地带，而阿联酋所在的海湾地区在过去四十年里打了四场大战，最近的也门战争已经持续了八年，仍然看不到尽头。在21世纪以前，阿联酋外交和安全政策是尽可能远离地区矛盾，让世界大国和地区强国都觉得自己无害，必要的时候像科威特一样，争取强国保护。
 
@@ -21,13 +21,13 @@ date: 2021-12-21
 
 在过去十几年里，阿联酋作为重要角色，在境外直接干涉了多国内政，2009年和沙特一起出兵巴林，帮助少数派巴林王室稳住了政权；2011年阿联酋主动参与叙利亚战争，2014年后更是连续参加打击IS部队。现在还在持续的也门、利比亚内战，以及埃塞俄比亚内战，都能看到阿联酋在发挥作用。
 
-![](images/btnews/0301_0400/0369/media/image3.png)
+![](/images/btnews/0301_0400/0369/image3.webp)
 
 [阿联酋拒绝开放也门第三大机场 \| TRT  中文](https://www.trt.net.tr/chinese/guo-ji/2021/01/05/a-lian-qiu-ju-jue-kai-fang-ye-men-di-san-da-ji-chang-1557720)
 
 在大国力量刚刚退出中东的时候，一般认为阿联酋的外交选择主要是追随沙特，几次出兵都是辅助角色。但近几年阿联酋的政策独立性明显加强。在利比亚、埃塞俄比亚，阿联酋的无人机都起到扭转局势的作用。
 
-![](images/btnews/0301_0400/0369/media/image4.png)
+![](/images/btnews/0301_0400/0369/image4.webp)
 
 在厄里特里亚空军基地发现的疑似阿联酋无人机
 
@@ -35,7 +35,7 @@ date: 2021-12-21
 
 上周，以色列总理贝内特访问了阿联酋，这是以色列总理首次访问海湾阿拉伯国家。也是除了和以色列关系特殊的约旦之外，第一次有阿拉伯国家在本土接待以色列总理，在中东地区引起了相当震动。
 
-![](images/btnews/0301_0400/0369/media/image5.png)
+![](/images/btnews/0301_0400/0369/image5.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1719068407867665348&wfr=spider&for=pc)
 
@@ -43,13 +43,13 @@ date: 2021-12-21
 
 在安全和外交政策上追求独立，需要硬实力做的底气。这是阿联酋近年大规模采购军备的一个主要原因。并且中东国家近几十年反复看到了一个事实，掌握空中优势的一方，在正面战场上总是有绝对优势。所以中东各国建设军队，首选是购买先进的飞机。现在中东各个强国的一线空军都装备了不少21世纪先进飞机，参与各方如果不希望相对落后，就只能不断加码。阿联酋已经陷入了自己参与发起的军备竞赛。
 
-![](images/btnews/0301_0400/0369/media/image6.png)
+![](/images/btnews/0301_0400/0369/image6.webp)
 
 [伊朗总统会见阿联酋国家安全顾问 讨论发展两国关系等事宜](https://m.gmw.cn/baijia/2021-12/07/1302709064.html)
 
-![](images/btnews/0301_0400/0369/media/image7.png)
+![](/images/btnews/0301_0400/0369/image7.webp)
 
-![](images/btnews/0301_0400/0369/media/image8.jpeg)
+![](/images/btnews/0301_0400/0369/image8.webp)
 
 [阿联酋王储应邀访问土耳其，两国十年“冷战”结束_双方_关系_阿联酋通讯社](https://www.sohu.com/a/503730425_115479)
 
@@ -57,7 +57,7 @@ date: 2021-12-21
 
 阿联酋全称是阿拉伯联合酋长国，法律上是联邦制国家，分成七个联邦主体酋长国。但其中阿布扎比和迪拜始终发挥主导作用。从1971年建国以来，阿联酋总统始终是阿布扎比的埃米尔，迪拜的埃米尔担任副总统兼总理。
 
-![](images/btnews/0301_0400/0369/media/image9.png)
+![](/images/btnews/0301_0400/0369/image9.webp)
 
 阿联酋的联邦制是比较松散的，各酋长国都有极大的内政自主权。但阿布扎比拥有全国90%以上的油气资源，通过对其它成员进行财政援助，基本控制了阿联酋的外交和安全。
 
@@ -66,27 +66,27 @@ date: 2021-12-21
 
 外界一般认为，阿联酋王储和沙特王储萨勒曼关系非常近，他们两个都是本国目前的实际领导人，他们两个的私人关系在很大程度上，推动了沙特和阿联酋两国近年紧密结盟。沙特萨勒曼王储比阿联酋王储年轻25岁，算是晚辈，但沙特国力更强，在联盟里处于主导地位。最近两年，沙特和阿联酋整体上保持了合作，同时阿联酋也有一些独立行动，在不正面对抗的前提下，甚至也会和沙特竞争地区影响力。
 
-![](images/btnews/0301_0400/0369/media/image10.jpeg)
+![](/images/btnews/0301_0400/0369/image10.webp)
 
-![](images/btnews/0301_0400/0369/media/image11.png)
+![](/images/btnews/0301_0400/0369/image11.webp)
 
 [وكالة الأنباء السعودية](https://www.spa.gov.sa/2310720)
 
 从社会结构看，阿联酋2021年总人口近1000万，去年人均GDP3.2万美元，生活水平略微超过韩国、意大利，不算很惊人。
 
-![](images/btnews/0301_0400/0369/media/image12.png)
+![](/images/btnews/0301_0400/0369/image12.webp)
 
 [United Arab Emirates (UAE) Population Statistics 2023 \| GMI](https://www.globalmediainsight.com/blog/uae-population-statistics/)
 
 但阿联酋人口结构很特殊，1000万人口，大约110到115万人拥有国籍，其他900万人基本都是外籍劳工及家属。这是全世界最高的外籍人口比例。同样严重依赖外国劳工的沙特比例不到50%，只有卡塔尔和科威特对外国劳工的依赖程度和阿联酋接近。
 
-![](images/btnews/0301_0400/0369/media/image13.jpeg)
+![](/images/btnews/0301_0400/0369/image13.webp)
 
 [United Arab Emirates (UAE) Population Statistics 2023 \| GMI](https://www.globalmediainsight.com/blog/uae-population-statistics/)
 
 作为绝对君主制国家，阿联酋王室贵族占有大部分公共财富，但既然普通阿联酋人不算多，也能分享到一些好处。大多数阿联酋本国男人都在政府和公共机构就业，工作清闲但薪水福利却非常优厚。12月7号阿联酋政府宣布，从明年起，所有政府部门实行四天半工作制。
 
-![](images/btnews/0301_0400/0369/media/image14.png)
+![](/images/btnews/0301_0400/0369/image14.webp)
 
 [°¢ÁªÇõ½«ÓÚ2022ÄêÆðÍÆÐÐËÄÌì°ë¹¤×÷ÖÆ \_ÖÐ¹ú¾­¼ÃÍø¡ª¡ª¹ú¼Ò¾­¼ÃÃÅ»§](http://intl.ce.cn/sjjj/qy/202112/08/t20211208_37152301.shtml)
 
@@ -96,60 +96,60 @@ date: 2021-12-21
 
 多年来一直有大量报道反映，阿联酋的中下层外劳不但社会地位低，而且正当权利也受到普遍侵犯和剥夺，甚至遭到犯罪侵害。社会内部矛盾很大。
 
-![](images/btnews/0301_0400/0369/media/image15.png)
+![](/images/btnews/0301_0400/0369/image15.webp)
 
-![](images/btnews/0301_0400/0369/media/image16.png)
+![](/images/btnews/0301_0400/0369/image16.webp)
 
 [é¿èéæè±65äº¿ç¾åé¼å±å±æ°å»ç§ä¼å°±ä¸ æ¾å¼æ¿åºâéé¥­ç¢â\|é¿èé\_æ°æµªè´¢ç»\_æ°æµªç½](https://finance.sina.com.cn/stock/usstock/c/2021-09-13/doc-iktzscyx3889928.shtml?ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F61.0.3163.79+Safari%2F537.36+Maxthon%2F5.2.7.4000&qq-pf-to=pcqq.c2c)
 
 为了避免阿联酋国民变成完全不劳而获的废物，也为了加强镇压能力，从2014年起，阿联酋开始推行强制兵役制，18到30岁男性公民有义务服役，女性也可以选择服兵役。
 
-![](images/btnews/0301_0400/0369/media/image17.png)
+![](/images/btnews/0301_0400/0369/image17.webp)
 
 [UAE introduces compulsory military service \| News \| Al Jazeera](https://www.aljazeera.com/news/2014/6/8/uae-introduces-compulsory-military-service)
 
 把大批青年们吸收进军队后，一方面他们被军规约束，少了很多胡闹的机会，另一方面阿联酋军队给本国军人的报酬很高。2014年的时候，刚入伍的新兵，每月至少有800多美元补贴，
 2021年阿联酋士兵平均年工资5万美元。对于普通公民来说也有一定吸引力，起码减少了征兵的抵触心理。
 
-![](images/btnews/0301_0400/0369/media/image18.png)
+![](/images/btnews/0301_0400/0369/image18.webp)
 
 <https://www.arabianbusiness.com/gcc/uae-national-service-recruits-be-paid-at-least-816-month-576404>
 
-![](images/btnews/0301_0400/0369/media/image19.png)
+![](/images/btnews/0301_0400/0369/image19.webp)
 
 [uae army salary 2023 - Gulfweeks](https://www.gulfweeks.com/uae-army-salary/)
 
 2017年阿联酋本地媒体宣布，在引入义务兵役制三年后，阿联酋青年的犯罪率下降了75%。所以，同一年，阿联酋宣布把高中以上学历的青年服役期从12个月延长到16个月，低于高中学历的服两年完整兵役，全世界已经很少有这种全民普遍服役的国家了。
 
-![](images/btnews/0301_0400/0369/media/image20.png)
+![](/images/btnews/0301_0400/0369/image20.webp)
 
-![](images/btnews/0301_0400/0369/media/image21.png)
+![](/images/btnews/0301_0400/0369/image21.webp)
 
 [Emiratis to serve longer in military as National Service is extended](https://www.thenationalnews.com/uae/emiratis-to-serve-longer-in-military-as-national-service-is-extended-1.748008)
 
-![](images/btnews/0301_0400/0369/media/image22.png)
+![](/images/btnews/0301_0400/0369/image22.webp)
 
 [UAE extends compulsory military service to 16 months \| Reuters](https://www.reuters.com/article/us-emirates-military-idUSKBN1JY093)
 
 目前，阿联酋以100万出头的国民数量，支撑了6.5万人的军队。其中陆军人数最多，编成至少九个旅，装甲车辆总量超过8000，其中三代坦克400多辆，比英法德都多。如果美国军队占类似的人口比例，会有2200万军队。
 
-![](images/btnews/0301_0400/0369/media/image23.png)
+![](/images/btnews/0301_0400/0369/image23.webp)
 
 “世界火力”网站（https://www.globalfirepower.com/）根据各国和地区军队账面的兵力、装备情况，给140个对象打分，阿联酋排在第36位，和2亿人的尼日利亚处于同一水平，略高于荷兰。
 
-![](images/btnews/0301_0400/0369/media/image24.png)
+![](/images/btnews/0301_0400/0369/image24.webp)
 
-![](images/btnews/0301_0400/0369/media/image25.png)
+![](/images/btnews/0301_0400/0369/image25.webp)
 
 不过，在也门战争中，不管是阿联酋间接支持的武装力量，还是它直接派出的部队，表现都一般。所以，虽然拥有大批先进装备，但仍然很少有人把阿联酋看成是一个地区军事强国。
 
-![](images/btnews/0301_0400/0369/media/image26.jpeg)
+![](/images/btnews/0301_0400/0369/image26.webp)
 
-![](images/btnews/0301_0400/0369/media/image27.jpeg)
+![](/images/btnews/0301_0400/0369/image27.webp)
 
 即使只看账面的人员和装备，阿联酋军队目前在体系上也有很大缺陷，有一次性军事力量的嫌疑。比如说，阿联酋空军占用了最多的军费和精华人力，目前是4500人使用160多架现役固定翼飞机，还有数量相当的直升机。不考虑其它装备和任务，平均一架飞机只有不到14人进行操作和维护。
 
-![](images/btnews/0301_0400/0369/media/image28.png)
+![](/images/btnews/0301_0400/0369/image28.webp)
 
 [
 	Arab Aviation \> Air Power \> UAE Air Force
@@ -157,13 +157,13 @@ date: 2021-12-21
 
 相比之下，美国空军现役军人33万人，文职雇员15.2万，操作包括库存备用在内的5500架飞机和400枚洲际导弹。平均56名现役军人对应一个主战装备，几乎是阿联酋空军的四倍。
 
-![](images/btnews/0301_0400/0369/media/image29.png)
+![](/images/btnews/0301_0400/0369/image29.webp)
 
-![](images/btnews/0301_0400/0369/media/image30.png)
+![](/images/btnews/0301_0400/0369/image30.webp)
 
 <https://www.afpc.af.mil/About/Air-Force-Demographics/>
 
-![](images/btnews/0301_0400/0369/media/image31.png)
+![](/images/btnews/0301_0400/0369/image31.webp)
 
 [2021 USAF & USSF Almanac: Equipment \| Air & Space Forces Magazine](https://www.airforcemag.com/article/2021-usaf-ussf-almanac-equipment/)
 
@@ -171,7 +171,7 @@ date: 2021-12-21
 
 阿联酋王室解决不了缺人缺工厂缺技术的根本问题，但好在阿联酋不缺钱，所以他们的解决方案就是买更贵，更强的飞机，就算只能轮流出动一部分，也能产生足够的威慑。2020年11月，美国同意向阿联酋出售50架F35战斗机，这是美国首次批准向西方盟国以外出口隐身战斗机。国际分析普遍认为，拿到F35是阿联酋同意和以色列建交的一个重要前提条件。
 
-![](images/btnews/0301_0400/0369/media/image32.png)
+![](/images/btnews/0301_0400/0369/image32.webp)
 
 [
 美国务院同意向阿联酋出售50架F-35战机-新华网
@@ -179,7 +179,7 @@ date: 2021-12-21
 
 虽然前几天又有消息称，阿联酋暂停了购买F35的谈判，一些媒体还把原因与中国扯上了某种关系。但从主流媒体消息看，真正原因是美国只肯出售弱化版的F35，并且企图在出售后继续拥有干预飞机运作的权利。阿联酋对此不满，用暂停谈判施加压力，同时买几十架阵风来提供竞争。21世纪初采购F16时，阿联酋也是通过同样手段，成功迫使美国把出售型号从老式的猴版，换成了当时最先进型号。现在阿联酋买法国阵风，应该是想继续体验被几大强国一起伺候的快感。
 
-![](images/btnews/0301_0400/0369/media/image33.png)
+![](/images/btnews/0301_0400/0369/image33.webp)
 
 [阿联酋暂停与美国就购买F-35战斗机的谈判 - FT中文网](https://cn.ft.com/interactive/56438?exclusive)
 
@@ -194,9 +194,9 @@ date: 2021-12-21
 
 我先给观众简单介绍一下霸州。河北廊坊的土地被京津切成两块，北面是三河、大厂和香河三个县级单位。南面是廊坊市区加上其他5个县级单位，霸州市就在南面这一块的腰部。
 
-![](images/btnews/0301_0400/0369/media/image34.png)
+![](/images/btnews/0301_0400/0369/image34.webp)
 
-![](images/btnews/0301_0400/0369/media/image35.png)
+![](/images/btnews/0301_0400/0369/image35.webp)
 
 地理位置不能说好，也不能说坏。
 
@@ -208,7 +208,7 @@ date: 2021-12-21
 
 霸州市区有铁路干线，东面的胜芳有传统的工商业传统，从地图上看，霸州是一个明显双中心结构的工商业地区，胜芳市这边还要大一些，整体城市化率和工商业水平领先于华北平原大多数地区。2000年的时候就达到了每年60亿GDP。
 
-![](images/btnews/0301_0400/0369/media/image36.png)
+![](/images/btnews/0301_0400/0369/image36.webp)
 
 大家应该听说过廊坊市的香河家具产业，在金属家具领域，霸州市的优势一度要超过香河家具的地位，最高峰的手2千家企业，每年500亿产值。依托家具发展的钢铁工业，也有每年几百万吨的产量。
 
@@ -235,7 +235,7 @@ https://www.sohu.com/a/209359430_683108
 
 到了今年8月13日，霸州财政局给人大做报告，让我们看到了一部分真相。静静再帮我读一段。
 
-![](images/btnews/0301_0400/0369/media/image37.png)
+![](/images/btnews/0301_0400/0369/image37.webp)
 
 今年上半年，受房地产限购政策的影响，土地市场始终处于低迷状态，多数企业仍持观望态度，拿地积极性不高，且受疫情影响企业因资金困难导致的流拍现象增多，直接导致土地出让大幅下滑。上半年，我市政府性基金收入仅为1.4亿元，较上年同期减收13.1亿元
 
@@ -260,7 +260,7 @@ https://www.sohu.com/a/209359430_683108
 
 [【最新】霸州多块土地流拍，涉及大魏营、开发区等地_审批](https://www.sohu.com/a/497194995_121123734?qq-pf-to=pcqq.c2c)
 
-![](images/btnews/0301_0400/0369/media/image38.jpeg)
+![](/images/btnews/0301_0400/0369/image38.webp)
 
 然后我们就看到了霸州市政府向各乡镇分派罚款指标的新闻，市政府肯定知道这是饮鸩止渴的毒酒，但为了生存也没办法。从这些数据来看，霸州制订罚款指标，原因就是前几年经济脱实向虚，只是因为中间加了两三年的房地产虚火，财政危机才没有在2018年爆发，而是拖到了2021年夏天。霸州的经济几乎可以看做整个中国的缩影。
 

@@ -4,7 +4,7 @@ date: 2022-06-05
 ---
 
 
-![](/images/btnews/0401_0500/0441/3943d847-a227-4bb2-bf0f-e02509009ca0.jpg)
+![](/images/btnews/0401_0500/0441/3943d847-a227-4bb2-bf0f-e02509009ca0.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-06-05
 
 
 
-![](/images/btnews/0401_0500/0441/9419c4f0-425e-43e0-94ee-70a1cf231489.png)
+![](/images/btnews/0401_0500/0441/9419c4f0-425e-43e0-94ee-70a1cf231489.webp)
 
 https://space.bilibili.com/479016408
 
@@ -40,7 +40,7 @@ https://www.bilibili.com/video/BV1GY411u7Xj
 
 
 
-![](/images/btnews/0401_0500/0441/577b1079-ad57-4273-8cde-d750a24f45bf.jpg)
+![](/images/btnews/0401_0500/0441/577b1079-ad57-4273-8cde-d750a24f45bf.webp)
 
 
 但是，这位老师并没有发现自己的质疑包含了多方面的内容，以至于打击面太大，制造了很多额外的反对意见。我来帮他拆分一下观点，问题的逻辑会更清晰。
@@ -74,7 +74,7 @@ https://www.bilibili.com/video/BV1GY411u7Xj
 
 
 
-![](/images/btnews/0401_0500/0441/ec2ab058-f41c-4e70-a5a7-488d16040be3.png)
+![](/images/btnews/0401_0500/0441/ec2ab058-f41c-4e70-a5a7-488d16040be3.webp)
 
 
 
@@ -88,7 +88,7 @@ https://www.bilibili.com/video/BV1GY411u7Xj
 
 
 
-![](/images/btnews/0401_0500/0441/49d450c1-1c76-43f5-95e6-ce3729e3ab6f.png)
+![](/images/btnews/0401_0500/0441/49d450c1-1c76-43f5-95e6-ce3729e3ab6f.webp)
 
 
 
@@ -99,7 +99,7 @@ https://www.bilibili.com/video/BV1GY411u7Xj
 
 
 
-![](/images/btnews/0401_0500/0441/d7c73f94-fd24-41ad-8f78-ed6ff704b681.png)
+![](/images/btnews/0401_0500/0441/d7c73f94-fd24-41ad-8f78-ed6ff704b681.webp)
 
 
 
@@ -113,7 +113,7 @@ https://www.bilibili.com/video/BV1GY411u7Xj
 
 
 
-![](/images/btnews/0401_0500/0441/fe8ab45a-8f78-4f4c-bece-7b81b91cdf71.png)
+![](/images/btnews/0401_0500/0441/fe8ab45a-8f78-4f4c-bece-7b81b91cdf71.webp)
 
 
 大方县南面是织金县，面积更小，2868平方公里，人口曾经超过120万，现在常住人口还是有80多万。2021年织金县粮食产量不到30万吨，按户籍人口算，人均不到250公斤。按照常住人口算，只有375公斤，都显著低于全国平均的474公斤。西部农业县连粮食都无法自给，其他方面的发展就更困难了。
@@ -126,7 +126,7 @@ https://www.bilibili.com/video/BV1GY411u7Xj
 
 
 
-![](/images/btnews/0401_0500/0441/c9f03c86-c1fa-4f4e-8438-649b9f2e1d3d.png)
+![](/images/btnews/0401_0500/0441/c9f03c86-c1fa-4f4e-8438-649b9f2e1d3d.webp)
 
 http://www.gzzhijin.gov.cn/zwgk/xxgkml/zdlygkxx/ghjh/202203/t20220330_73184768.html
 
@@ -135,7 +135,7 @@ http://www.gzzhijin.gov.cn/zwgk/xxgkml/zdlygkxx/ghjh/202203/t20220330_73184768.h
 
 
 
-![](/images/btnews/0401_0500/0441/72730136-cdba-40d3-abd6-05084f2a14ac.jpg)
+![](/images/btnews/0401_0500/0441/72730136-cdba-40d3-abd6-05084f2a14ac.webp)
 
 
 
@@ -155,7 +155,7 @@ http://www.gzzhijin.gov.cn/zwgk/xxgkml/zdlygkxx/ghjh/202203/t20220330_73184768.h
 
 
 
-![](/images/btnews/0401_0500/0441/d4cf2471-29d5-4a12-b7dc-f264f068d20c.png)
+![](/images/btnews/0401_0500/0441/d4cf2471-29d5-4a12-b7dc-f264f068d20c.webp)
 
 
 
@@ -176,7 +176,7 @@ http://www.gzzhijin.gov.cn/zwgk/xxgkml/zdlygkxx/ghjh/202203/t20220330_73184768.h
 
 
 
-![](/images/btnews/0401_0500/0441/40fa8cae-3d3f-4e86-adb6-d31203354629.png)
+![](/images/btnews/0401_0500/0441/40fa8cae-3d3f-4e86-adb6-d31203354629.webp)
 
 
 
@@ -190,7 +190,7 @@ http://www.gzzhijin.gov.cn/zwgk/xxgkml/zdlygkxx/ghjh/202203/t20220330_73184768.h
 
 
 
-![](/images/btnews/0401_0500/0441/475427d6-92e1-4a1f-8c42-837684d07094.png)
+![](/images/btnews/0401_0500/0441/475427d6-92e1-4a1f-8c42-837684d07094.webp)
 http://www.nssd.cn/articles/Article_Read.aspx?id=665543687
 
 
@@ -201,7 +201,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=665543687
 
 
 
-![](/images/btnews/0401_0500/0441/a638f09d-49c2-4370-94ad-5e6642d66593.png)
+![](/images/btnews/0401_0500/0441/a638f09d-49c2-4370-94ad-5e6642d66593.webp)
 
 
 
@@ -209,7 +209,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=665543687
 
 
 
-![](/images/btnews/0401_0500/0441/5f883745-5a3e-4c51-836e-b6ff2f09ddad.png)
+![](/images/btnews/0401_0500/0441/5f883745-5a3e-4c51-836e-b6ff2f09ddad.webp)
 
 
 
@@ -220,7 +220,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=665543687
 
 
 
-![](/images/btnews/0401_0500/0441/a3876bce-064e-426a-a4c8-10acd9b59a89.png)
+![](/images/btnews/0401_0500/0441/a3876bce-064e-426a-a4c8-10acd9b59a89.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=665543687
 
@@ -232,7 +232,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=665543687
 
 
 
-![](/images/btnews/0401_0500/0441/2ccd1f5f-4d6b-4bd7-8beb-53b6022ad705.png)
+![](/images/btnews/0401_0500/0441/2ccd1f5f-4d6b-4bd7-8beb-53b6022ad705.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=KJZX2021007076
 
@@ -244,7 +244,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=KJZX2021007076
 
 
 
-![](/images/btnews/0401_0500/0441/86990fbe-f309-41af-9389-50e481283993.png)
+![](/images/btnews/0401_0500/0441/86990fbe-f309-41af-9389-50e481283993.webp)
 
 
 
@@ -261,7 +261,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=KJZX2021007076
 
 
 
-![](/images/btnews/0401_0500/0441/5a0e07e3-7a04-4f05-93b8-f8248bac6aad.png)
+![](/images/btnews/0401_0500/0441/5a0e07e3-7a04-4f05-93b8-f8248bac6aad.webp)
 
 
 前面举的例子主要分布在贵州省，整个云贵高原的情况都差不多。从160万人口的威宁县往云南省方向去，100多公里外有个县级东川区。东川区有铜矿，从元朝开始就开采，随着明清时期铜钱需求上升，开采规模越来越大，到1958年成为国家级铜矿，设置了地级市管理机构。
@@ -274,10 +274,10 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=KJZX2021007076
 
 
 
-![](/images/btnews/0401_0500/0441/1d3fc0a2-3cf0-4851-881d-56e2e13a1a7e.png)
+![](/images/btnews/0401_0500/0441/1d3fc0a2-3cf0-4851-881d-56e2e13a1a7e.webp)
 
 
-![](/images/btnews/0401_0500/0441/6df9ae47-002d-43d5-8844-919c58c0496f.png)
+![](/images/btnews/0401_0500/0441/6df9ae47-002d-43d5-8844-919c58c0496f.webp)
 
 
 
@@ -315,7 +315,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=KJZX2021007076
 
 
 
-![](/images/btnews/0401_0500/0441/31df6ae1-f874-4e4a-acf7-a697e5caddd5.png)
+![](/images/btnews/0401_0500/0441/31df6ae1-f874-4e4a-acf7-a697e5caddd5.webp)
 
 https://www.bilibili.com/video/BV1PW411e7Ct
 
@@ -332,5 +332,5 @@ https://www.bilibili.com/video/BV1PW411e7Ct
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0441/f24110d6-6aa1-4b06-8f06-ddefa65223d2.jpg)
+![](/images/btnews/0401_0500/0441/f24110d6-6aa1-4b06-8f06-ddefa65223d2.webp)
 

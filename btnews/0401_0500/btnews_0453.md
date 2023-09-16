@@ -4,7 +4,7 @@ date: 2022-07-03
 ---
 
 
-![](/images/btnews/0401_0500/0453/d7ed30c1-c06a-4033-a78d-e74560f3b3c2.png)
+![](/images/btnews/0401_0500/0453/d7ed30c1-c06a-4033-a78d-e74560f3b3c2.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-07-03
 
 
 
-![](/images/btnews/0401_0500/0453/78e6f861-48b0-4609-b1b4-dcebf53a8a64.jpg)
+![](/images/btnews/0401_0500/0453/78e6f861-48b0-4609-b1b4-dcebf53a8a64.webp)
 
 
 
@@ -37,7 +37,7 @@ https://m.fx361.com/news/2021/0817/8753971.html
 
 
 
-![](/images/btnews/0401_0500/0453/cac3d23e-3768-4264-91a6-a0580ef81677.jpg)
+![](/images/btnews/0401_0500/0453/cac3d23e-3768-4264-91a6-a0580ef81677.webp)
 
 
 
@@ -48,7 +48,7 @@ https://m.fx361.com/news/2021/0817/8753971.html
 
 
 
-![](/images/btnews/0401_0500/0453/70c87735-86a4-46c3-9be0-9f1971109e29.png)
+![](/images/btnews/0401_0500/0453/70c87735-86a4-46c3-9be0-9f1971109e29.webp)
 
 https://www.bilibili.com/read/cv11377586/
 
@@ -66,7 +66,7 @@ https://www.bilibili.com/read/cv11377586/
 
 
 
-![](/images/btnews/0401_0500/0453/6f11cda1-0c3c-42ea-990e-4cbc198a2052.png)
+![](/images/btnews/0401_0500/0453/6f11cda1-0c3c-42ea-990e-4cbc198a2052.webp)
 
 
 
@@ -81,7 +81,7 @@ https://www.bilibili.com/read/cv11377586/
 
 
 
-![](/images/btnews/0401_0500/0453/7569fe22-dceb-402c-8334-6dfe88ae7d49.jpg)
+![](/images/btnews/0401_0500/0453/7569fe22-dceb-402c-8334-6dfe88ae7d49.webp)
 
 
 
@@ -104,7 +104,7 @@ https://www.bilibili.com/read/cv11377586/
 
 
 
-![](/images/btnews/0401_0500/0453/ba4e4490-882a-4dd7-a3d4-484a7fb8a0c7.jpg)
+![](/images/btnews/0401_0500/0453/ba4e4490-882a-4dd7-a3d4-484a7fb8a0c7.webp)
 
 
 
@@ -134,13 +134,13 @@ https://www.bilibili.com/read/cv11377586/
 
 
 
-![](/images/btnews/0401_0500/0453/57564d82-3204-4afc-91be-39436a573991.png)
+![](/images/btnews/0401_0500/0453/57564d82-3204-4afc-91be-39436a573991.webp)
 
 http://www.scio.gov.cn/ztk/xwfb/jjfyr/35109/wqfbh35117/Document/1518998/1518998.htm
 
 
 
-![](/images/btnews/0401_0500/0453/d52b03c5-3ffa-4d93-a377-4fcd715497a5.png)
+![](/images/btnews/0401_0500/0453/d52b03c5-3ffa-4d93-a377-4fcd715497a5.webp)
 
 http://finance.sina.com.cn/stock/hyyj/2022-03-25/doc-imcwipii0551203.shtml
 
@@ -161,7 +161,7 @@ http://finance.sina.com.cn/stock/hyyj/2022-03-25/doc-imcwipii0551203.shtml
 
 
 
-![](/images/btnews/0401_0500/0453/39cb4d1a-c3b4-426e-af65-69efb374e49b.png)
+![](/images/btnews/0401_0500/0453/39cb4d1a-c3b4-426e-af65-69efb374e49b.webp)
 
 
 
@@ -172,23 +172,23 @@ http://finance.sina.com.cn/stock/hyyj/2022-03-25/doc-imcwipii0551203.shtml
 
 
 
-![](/images/btnews/0401_0500/0453/8e9c2130-41af-41a6-9bee-b5ac58061964.png)
+![](/images/btnews/0401_0500/0453/8e9c2130-41af-41a6-9bee-b5ac58061964.webp)
 
 《航天液体动力产品化工作管理与实践》
 
 
 
-![](/images/btnews/0401_0500/0453/02621f94-4be2-409d-aa48-04a6064a1571.png)
+![](/images/btnews/0401_0500/0453/02621f94-4be2-409d-aa48-04a6064a1571.webp)
 
-![](/images/btnews/0401_0500/0453/a36e3b9c-7e40-4810-9153-f5cedf08e3ac.png)
+![](/images/btnews/0401_0500/0453/a36e3b9c-7e40-4810-9153-f5cedf08e3ac.webp)
 
 https://baijiahao.baidu.com/s?id=1724486825894036222&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0453/1bb0b544-13ea-400f-a095-981bc1c6e72b.png)
+![](/images/btnews/0401_0500/0453/1bb0b544-13ea-400f-a095-981bc1c6e72b.webp)
 
-![](/images/btnews/0401_0500/0453/813af0d8-827c-47c6-a804-d679933b3fb8.png)
+![](/images/btnews/0401_0500/0453/813af0d8-827c-47c6-a804-d679933b3fb8.webp)
 
 https://m.gmw.cn/baijia/2021-12/11/35374020.html
 
@@ -218,9 +218,9 @@ NASA给整个美国航天行业制定了统一的开发流程规范、统一的�
 
 
 
-![](/images/btnews/0401_0500/0453/ccc7df0b-0eb7-4cbf-866f-a9dc4ae939bf.png)
+![](/images/btnews/0401_0500/0453/ccc7df0b-0eb7-4cbf-866f-a9dc4ae939bf.webp)
 
-![](/images/btnews/0401_0500/0453/d051cefb-38bf-4ce6-b195-1694af9af867.png)
+![](/images/btnews/0401_0500/0453/d051cefb-38bf-4ce6-b195-1694af9af867.webp)
 
 https://zhuanlan.zhihu.com/p/450473569
 
@@ -232,11 +232,11 @@ https://zhuanlan.zhihu.com/p/450473569
 
 
 
-![](/images/btnews/0401_0500/0453/6f4af27a-9fbe-48c8-a33d-422588f11bb5.png)
+![](/images/btnews/0401_0500/0453/6f4af27a-9fbe-48c8-a33d-422588f11bb5.webp)
 
-![](/images/btnews/0401_0500/0453/aefcc159-3d68-4216-bb6f-af284b8efff1.png)
+![](/images/btnews/0401_0500/0453/aefcc159-3d68-4216-bb6f-af284b8efff1.webp)
 
-![](/images/btnews/0401_0500/0453/131ed4e7-bcfc-4edb-94db-4146632e1459.png)
+![](/images/btnews/0401_0500/0453/131ed4e7-bcfc-4edb-94db-4146632e1459.webp)
 
 
 
@@ -244,7 +244,7 @@ https://zhuanlan.zhihu.com/p/450473569
 
 
 
-![](/images/btnews/0401_0500/0453/d7f86f4a-a05e-4a26-b451-14dc66ca35da.png)
+![](/images/btnews/0401_0500/0453/d7f86f4a-a05e-4a26-b451-14dc66ca35da.webp)
 
 https://www.nasa.gov/partnerships/contact.html
 
@@ -259,10 +259,10 @@ NASA总部有专门的监察长办公室负责向局长汇报技术转移工作�
 
 
 
-![](/images/btnews/0401_0500/0453/04feb9c4-cdce-4fdc-a713-5efe8dd2fd23.png)
+![](/images/btnews/0401_0500/0453/04feb9c4-cdce-4fdc-a713-5efe8dd2fd23.webp)
 
 
-![](/images/btnews/0401_0500/0453/7a9db901-6c83-44e4-8516-b60ed69d7c2b.png)
+![](/images/btnews/0401_0500/0453/7a9db901-6c83-44e4-8516-b60ed69d7c2b.webp)
 
 
 
@@ -284,7 +284,7 @@ NASA总部有专门的监察长办公室负责向局长汇报技术转移工作�
 
 
 
-![](/images/btnews/0401_0500/0453/09c93065-5840-4fe9-90cb-9018d444e71d.png)
+![](/images/btnews/0401_0500/0453/09c93065-5840-4fe9-90cb-9018d444e71d.webp)
 
 
 
@@ -293,31 +293,31 @@ NASA总部有专门的监察长办公室负责向局长汇报技术转移工作�
 
 
 
-![](/images/btnews/0401_0500/0453/cdb097cc-a7ef-4b3f-861d-b6e41296537e.png)
+![](/images/btnews/0401_0500/0453/cdb097cc-a7ef-4b3f-861d-b6e41296537e.webp)
 
 
-![](/images/btnews/0401_0500/0453/b4e3fb43-5508-4f3a-93af-dd44d59e0d3d.png)
+![](/images/btnews/0401_0500/0453/b4e3fb43-5508-4f3a-93af-dd44d59e0d3d.webp)
 
 
 
 除了技术细节，在管理方面NASA也推进了标准化，把整个项目拆分成17个通用流程，给每个流程环节都编制详细管理文件。NASA为了给内部员工跨部门科普复杂项目的管理过程，专门编写了系统工程手册，甚至详细到对不同类型的设计团队，给出不同的房间布置建议。
 
-![](/images/btnews/0401_0500/0453/ed260b6a-7900-4ce1-b405-3ccd3f6a46c3.png)
+![](/images/btnews/0401_0500/0453/ed260b6a-7900-4ce1-b405-3ccd3f6a46c3.webp)
 
-![](/images/btnews/0401_0500/0453/f9a3d1c9-f04d-4009-b4dc-10195a2334c8.png)
+![](/images/btnews/0401_0500/0453/f9a3d1c9-f04d-4009-b4dc-10195a2334c8.webp)
 
-![](/images/btnews/0401_0500/0453/18b35fe5-8d92-40d3-8d87-0dbdb19e4683.png)
+![](/images/btnews/0401_0500/0453/18b35fe5-8d92-40d3-8d87-0dbdb19e4683.webp)
 
 
 
 中国航天长期靠各企业内部规章来约束工作，没有国家制度。直到2015年，国家标准委与国防科工局才联合发布了第一版中国航天标准体系，但只是个框架。目前国内制定航天标准的主要是全国宇航技术及其应用标准化技术委员会，已经完成编制的规范只有144个，计划编制197个，标准化建设还在起步阶段。
 
-![](/images/btnews/0401_0500/0453/46881f4b-d101-480d-b3d8-e5023637883d.png)
+![](/images/btnews/0401_0500/0453/46881f4b-d101-480d-b3d8-e5023637883d.webp)
 
 
-![](/images/btnews/0401_0500/0453/93ad1042-c9ca-4348-b0c0-6d5963868caf.png)
+![](/images/btnews/0401_0500/0453/93ad1042-c9ca-4348-b0c0-6d5963868caf.webp)
 
-![](/images/btnews/0401_0500/0453/a12cd1e1-b329-4169-afb0-57c7273799c8.png)
+![](/images/btnews/0401_0500/0453/a12cd1e1-b329-4169-afb0-57c7273799c8.webp)
 
 
 
@@ -325,9 +325,9 @@ NASA总部有专门的监察长办公室负责向局长汇报技术转移工作�
 
 
 
-![](/images/btnews/0401_0500/0453/cf19ed73-2b7d-4f94-9de8-569c1ac2d84f.png)
+![](/images/btnews/0401_0500/0453/cf19ed73-2b7d-4f94-9de8-569c1ac2d84f.webp)
 
-![](/images/btnews/0401_0500/0453/dc1aa376-02f5-45ae-a117-604611888c0d.png)
+![](/images/btnews/0401_0500/0453/dc1aa376-02f5-45ae-a117-604611888c0d.webp)
 
 
 
@@ -353,10 +353,10 @@ SpaceX开启了新航天时代，中国等不起几十年时间了。
 
 
 
-![](/images/btnews/0401_0500/0453/60cfa04c-4285-4eb6-87a0-91f44de9ba88.jpg)
+![](/images/btnews/0401_0500/0453/60cfa04c-4285-4eb6-87a0-91f44de9ba88.webp)
 
 
-![](/images/btnews/0401_0500/0453/bc0f76b6-5e83-4f7a-9a6c-454985cbfb0b.png)
+![](/images/btnews/0401_0500/0453/bc0f76b6-5e83-4f7a-9a6c-454985cbfb0b.webp)
 
 
 
@@ -386,7 +386,7 @@ X几乎不注册火箭专利，防止中国人根据专利体系快速摸清楚�
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0453/1613b02e-21f5-4a96-b3b9-964efa5e5971.jpg)
+![](/images/btnews/0401_0500/0453/1613b02e-21f5-4a96-b3b9-964efa5e5971.webp)
 
 
 

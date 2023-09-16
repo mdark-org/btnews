@@ -41,35 +41,35 @@ tag: ["饱和潜水","潜水","台湾","巡航导弹","打捞局"]
 
 中、美、俄对潜水深度和相应减压时间的规定
 
-![](images/btnews/0301_0400/0334/media/image1.png)
+![](/images/btnews/0301_0400/0334/image1.webp)
 
 https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
-![](images/btnews/0301_0400/0334/media/image2.png)
+![](/images/btnews/0301_0400/0334/image2.webp)
 
-![](images/btnews/0301_0400/0334/media/image3.png)
+![](/images/btnews/0301_0400/0334/image3.webp)
 
-![](images/btnews/0301_0400/0334/media/image4.png)
+![](/images/btnews/0301_0400/0334/image4.webp)
 
 所以，现在主流的饱和深潜模式是为潜水员创造一个与工作深度压力一致的生活环境，潜水员在水下工作一段时间后，回到这个环境中休息，不用每次短暂工作都经历漫长的减压过程。直到水下工作全部完成，再一次性完成减压，回归日常生活。
 
 这个为饱和潜水员提供加压生活环境的设施可以直接建在水下。不过水下居住舱有一个最大的问题，就是和海水保持联通状态，内部湿度总是接近100%，居住体验很不好。而且水下居住舱本身无法完成减压，还需要配套设施才能支持饱和潜水。目前世界上还在使用的永久性水下居住舱，只剩下了美国佛罗里达国际大学的三座水下实验室。
 
-![](images/btnews/0301_0400/0334/media/image5.png)
+![](/images/btnews/0301_0400/0334/image5.webp)
 
 美国佛罗里达“水瓶座”水下实验室视频素材：
 
-![](images/btnews/0301_0400/0334/media/image6.jpeg)
+![](/images/btnews/0301_0400/0334/image6.webp)
 
 [A Tour of Aquarius Reef Base \| JONATHAN BIRD'S BLUE WORLD - YouTube](https://www.youtube.com/watch?v=v3qqO8yQswg)
 
 （潜水员从从下方进入实验室内部）
 
-![](images/btnews/0301_0400/0334/media/image7.png)
+![](/images/btnews/0301_0400/0334/image7.webp)
 
 [Inside Aquarius: An Underwater Science Lab Run By FIU Team - YouTube](https://www.youtube.com/watch?v=eylOz5LepJ0)
 
-![](images/btnews/0301_0400/0334/media/image8.png)
+![](/images/btnews/0301_0400/0334/image8.webp)
 
 主流的饱和潜水支持系统，是在船上或者钻井平台上制造一个高压空间，潜水员暂时完成工作，就进入一个密封高压的潜水钟回到水面，和高压空间对接，进去休息。这种系统称为SCC-DCC系统（SCC指下潜加压舱，DCC指甲板加压舱）。比如说我国这次进行500米饱和潜水实验的设备，就是芜湖造船厂制造的SCC-DCC系统。
 
@@ -81,23 +81,23 @@ https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
 “海龙号”上的饱和潜水支持系统（这里可以做成每提到一个部分，相应的文字就亮起闪烁）
 
-![](images/btnews/0301_0400/0334/media/image9.png)
+![](/images/btnews/0301_0400/0334/image9.webp)
 
 “海龙号”饱和潜水支持船视频素材
 
 [大开眼界！国内作业能力最强饱和潜水支持船来了！\_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UJ41187RE?from=search&seid=10799053326157757477)
 
-![](images/btnews/0301_0400/0334/media/image10.png)
+![](/images/btnews/0301_0400/0334/image10.webp)
 
-![](images/btnews/0301_0400/0334/media/image11.png)
+![](/images/btnews/0301_0400/0334/image11.webp)
 
 中国海军在南海进行饱和深潜
 
 [南海上演大深度饱和潜水！\_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bA411p76n?from=search&seid=10799053326157757477)
 
-![](images/btnews/0301_0400/0334/media/image12.png)
+![](/images/btnews/0301_0400/0334/image12.webp)
 
-![](images/btnews/0301_0400/0334/media/image13.png)
+![](/images/btnews/0301_0400/0334/image13.webp)
 
 这么说，只要设备可靠，潜水员到再深的海底也没问题，为什么说500米深度基本到人体极限了呢。
 
@@ -111,15 +111,15 @@ https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
 [189米饱和潜水_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cy4y147K7?from=search&seid=15483994424097713792&spm_id_from=333.337.0.0)
 
-![](images/btnews/0301_0400/0334/media/image14.png)
+![](/images/btnews/0301_0400/0334/image14.webp)
 
 [神秘！危险！高薪！近距离感受潜水员饱和潜水海底作业_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ct4y1X7gZ/?spm_id_from=333.788.recommend_more_video.-1)
 
-![](images/btnews/0301_0400/0334/media/image15.png)
+![](/images/btnews/0301_0400/0334/image15.webp)
 
-![](images/btnews/0301_0400/0334/media/image16.png)
+![](/images/btnews/0301_0400/0334/image16.webp)
 
-![](images/btnews/0301_0400/0334/media/image17.png)
+![](/images/btnews/0301_0400/0334/image17.webp)
 
 而且随着压力提升，饱和潜水支持系统的复杂度都快速上升。无论是在高压状态下监控生活环境的系统，还是供气系统，都要单独设计，复杂度甚至超过了空间站宇航员。饱和潜水作业期间，生活舱与外部的物品传递必须经过两道密封门。洗澡上厕所之后要冲水，也需要打报告，由潜水员和维护人员按照规范配合完成。
 
@@ -131,15 +131,15 @@ https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
 潜水员通过加压潜水钟往返深海和母船舱室
 
-![](images/btnews/0301_0400/0334/media/image18.png)
+![](/images/btnews/0301_0400/0334/image18.webp)
 
 潜水钟与母船的饱和舱室系统对接
 
-![](images/btnews/0301_0400/0334/media/image19.png)
+![](/images/btnews/0301_0400/0334/image19.webp)
 
 1983年11月5日，英国北海油田的操作人员失误，在生活舱和潜水钟之间的舱门尚未完全关闭时，就解除了潜水钟的锁定装置。虽然当时舱内只有9个大气压，但把潜水钟还是像炮弹一样飞出去，舱外两名操作员一死一重伤。舱内四名潜水员全部死掉。三个是失压死亡，还有一个被气流推到舱门夹死。
 
-![](images/btnews/0301_0400/0334/media/image20.jpeg)
+![](/images/btnews/0301_0400/0334/image20.webp)
 
 在这些技术和管理风险下工作，深海饱和潜水员是要求最高的职业之一。在人类历史上，进行过400米以下潜水的人远远少于离开过大气层的宇航员。
 
@@ -147,11 +147,11 @@ https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
 在目前的技术水平下，机器人对付水下复杂情况还是不如人。因为水下的视线非常差，很大程度上要依赖人类的触觉去检查现场问题。机械臂很难把水下的感受完全反馈到水面，所以不可控的救援和修理工作，还是要用潜水员。现在中国在长江珠江下面要搞很多水下工程，需要在几十米深的泥水里修理盾构机，这种工作机器人完全干不了，也是饱和潜水员下去干。
 
-![](images/btnews/0301_0400/0334/media/image21.png)
+![](/images/btnews/0301_0400/0334/image21.webp)
 
 饱和潜水技术和盾构机技术的结合产物——高压进舱盾构机
 
-![](images/btnews/0301_0400/0334/media/image22.png)
+![](/images/btnews/0301_0400/0334/image22.webp)
 
 当然现在水下机器人（ROV）也越来越多了，毕竟机器人的潜水深度更大，而且必要的时候可以冒着回不来的风险前进。目前在潜水作业中，机器人和饱和潜水员之间是既合作又有竞争的关系。这次中国搞500米饱和潜水，应该基本用尽了人类潜水员的潜力，未来更深的地方，必须上机器人。
 
@@ -163,7 +163,7 @@ https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
 [“我的战位在海底531.1米”](https://m.gmw.cn/baijia/2021-08/04/1302459833.html)
 
-![](images/btnews/0301_0400/0334/media/image23.jpeg)这些信息综合看下来，中国开发500米饱和潜水技术，多半是一个军民两用的工程储备，为今后几年可能的行动做安全保障。
+![](/images/btnews/0301_0400/0334/image23.webp)这些信息综合看下来，中国开发500米饱和潜水技术，多半是一个军民两用的工程储备，为今后几年可能的行动做安全保障。
 
 说起军事威胁，最近台湾省**蔡英文同意推出2000亿新台币特别预算，加速提前量产有
 “源头打击”能力的导弹，“用于打击大陆沿海目标”。2000亿新台币相当于四五百亿人民币，这对大陆有威胁吗？**
@@ -192,11 +192,11 @@ https://wenku.baidu.com/view/1902fbf9360cba1aa811daa5.html
 
 可以说，从80到90年代，美国提供给台湾省的导弹技术是最先进的，待遇甚至超过了以色列。在很长一段时间内，大陆方面的战术导弹落后于台湾省。
 
-![](images/btnews/0301_0400/0334/media/image24.jpeg)
+![](/images/btnews/0301_0400/0334/image24.webp)
 
 天弓系列导弹的长白雷达，宙斯盾上岸
 
-![](images/btnews/0301_0400/0334/media/image25.gif)![](images/btnews/0301_0400/0334/media/image26.png)
+![](/images/btnews/0301_0400/0334/image25.webp)![](/images/btnews/0301_0400/0334/image26.webp)
 
 宙斯盾巡洋舰1983年才开始服役
 

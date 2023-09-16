@@ -21,34 +21,34 @@ date: 2021-03-14
 大家好，2021年3月14日星期日，欢迎收看248期睡前消息，
 3月14日是爱因斯坦的生日，也是圆周率日，有些爱玩梗的技术青年，会在下午15点9分吃一个苹果派庆祝一下。
 
-![](images/btnews/0201_0300/0248/media/image1.png)
+![](/images/btnews/0201_0300/0248/image1.webp)
 
 不过，对我来说，3月14日还有额外的意义。现在95后，00后的年轻人，很少有拨打固定电话的经历，联系人都是拨手机，或者是微信上语音聊天。但是70后和80后的中国人，外出谋生以后最重要的两个数字，是家乡的邮政编码和电话区号。承德的长途电话区号是0314，所以3月14日是70后和80后的“承德节”，我家乡的节日。
 
-![](images/btnews/0201_0300/0248/media/image2.png)
+![](/images/btnews/0201_0300/0248/image2.webp)
 
-![](images/btnews/0201_0300/0248/media/image3.png)
+![](/images/btnews/0201_0300/0248/image3.webp)
 
 在一个只属于你家乡的节日，督工你有什么特别的话题要说吗？
 
 我出生在承德地区平泉县，2017年，平泉县变成了平泉市。但是，接下来几年，“平泉”在互联网上失去了自己的名字。因为“平泉”和“平权”谐音，用拼音输入法的时候容易打错，女权和反女权派别相互攻击的时候，经常用“平泉”来代称女权运动。后来有人发现这样打字还可以避开特别的话题关键词，发微博被删贴的概率低一点，“平泉”的名字就成了女权文化的一部分。
 
-![](images/btnews/0201_0300/0248/media/image4.png)
+![](/images/btnews/0201_0300/0248/image4.webp)
 
 现在到社交媒体上搜“平泉”，大多数搜索结果
 ，都是反女权ID的发言，把地方新闻都压过去了。这种情况再持续几年，我担心家乡平泉市不得不因此改名。所以今天趁着314承德节，我想谈谈中国的女权话题。
 
 网上关于女权的争论这么激烈，督工你的立场是什么？
 
-![](images/btnews/0201_0300/0248/media/image5.png)
+![](/images/btnews/0201_0300/0248/image5.webp)
 
 当前的中国的确还存在非常明显的性别差异问题，2020年女性就业只占总数的43.7。
 
-![](images/btnews/0201_0300/0248/media/image6.png)
+![](/images/btnews/0201_0300/0248/image6.webp)
 
 如果只看城镇就业率的话，女性就业只占总数的37.2%,而且已经就业的妇女，收入也只有男性的80%。
 
-![](images/btnews/0201_0300/0248/media/image7.png)
+![](/images/btnews/0201_0300/0248/image7.webp)
 
 和其他国家比，中国女性就业水平在东亚算表现不错，但是劳动参与率已经降到60%以下，全球排名50名左右。中国还还需要努力改善性别权利问题。
 
@@ -68,13 +68,13 @@ date: 2021-03-14
 
 [“女丈夫”，曾经挑战了父权制度的中国古代棉纺织业_思想市场_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_2272903)
 
-![](images/btnews/0201_0300/0248/media/image8.png)
+![](/images/btnews/0201_0300/0248/image8.webp)
 
 所以，如果要消除性别歧视，最重要的一点是尽量减少男女就业差别。但就业本身差别也有多种原因。
 
 第一个原因是体能差距。
 
-2018年的时候，有一个男女薪资差异调查，差异最大的行业是采矿冶金、工程施工、装修装饰。这几个行业目前还需要长时间操作沉重的工具，男性的肌肉更有优势。相对来说，在电子商务和数据服务领域，男女的工资差异就明显要小。20世纪初，现代女权主义之所以出现，就是因为工厂对肌肉的需求没有小农经济那么高，让女性也能发挥积极生产作用。所以提倡女性权利，首先要鼓励科技进步，在大多数行业采用自动化工具。![](images/btnews/0201_0300/0248/media/image9.png)
+2018年的时候，有一个男女薪资差异调查，差异最大的行业是采矿冶金、工程施工、装修装饰。这几个行业目前还需要长时间操作沉重的工具，男性的肌肉更有优势。相对来说，在电子商务和数据服务领域，男女的工资差异就明显要小。20世纪初，现代女权主义之所以出现，就是因为工厂对肌肉的需求没有小农经济那么高，让女性也能发挥积极生产作用。所以提倡女性权利，首先要鼓励科技进步，在大多数行业采用自动化工具。![](/images/btnews/0201_0300/0248/image9.webp)
 
 男女就业差别的第二个方面是生育差异。女性因为怀孕、哺乳，每次生育都会影响一两年的工作时间。这部分效率差异，如果让女性自己承担，等于降低工资回报，影响就业热情；但如果让企业承担，企业就会倾向于少雇佣女性，同样降低女性就业率。从逻辑上说，正确的办法是国家统一向企业收税，补贴女性的生育损失，提供充分的社会化抚养帮助，这样企业就算完全不雇佣女性，也要交这份税；就算雇佣了大量女性，也不会因此多增加负担，这样就不会影响女性就业率了。
 
@@ -86,7 +86,7 @@ date: 2021-03-14
 
 [](https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=348038)
 
-![](images/btnews/0201_0300/0248/media/image10.png)
+![](/images/btnews/0201_0300/0248/image10.webp)
 
 但如果女权主义者脱离物质基础，要求立刻强行消灭所有性别差异，那也是用荒谬的激进行为破坏女权运动。至少在女性普遍当矿工，从事冶金行业之前，在社会主义把收入差距缩小到合理范围之前，我们必须容忍一定程度的性别差异。
 
@@ -122,7 +122,7 @@ dir="rtl">“</span>全球请愿”，要制造文化争论。结果总共只有
 
 事情的起因是2月20日，韩国博主发布视频，介绍中国电视剧《三十而已》。视频的名字是《名牌店员不能根据穿着判断顾客的理由》，介绍了江疏影饰演的王曼妮作为奢侈品售货员的一些剧情，其中一段是隐形富豪背着买菜包来采购，王曼妮不以貌取人，卖出了价值百万的珠宝。
 
-![](images/btnews/0201_0300/0248/media/image11.png)
+![](/images/btnews/0201_0300/0248/image11.webp)
 
 [명품매장 직원이 손님 옷차림 보고 판단하면 안되는 이유 - YouTube](https://www.youtube.com/watch?v=iclABdhsCaM)
 
@@ -130,7 +130,7 @@ dir="rtl">“</span>全球请愿”，要制造文化争论。结果总共只有
 
 当时韩国视频下的的热评第一是：中国人不要再抢别人的东西了，多拍点这样有意思的东西。现在，这条评论排名往下掉到热评第九位，点赞数增加到1.2万个。
 
-![](images/btnews/0201_0300/0248/media/image12.png)![](images/btnews/0201_0300/0248/media/image13.png)
+![](/images/btnews/0201_0300/0248/image12.webp)![](/images/btnews/0201_0300/0248/image13.webp)
 
 除此之外，这位网友还翻译了很多评论，其中既有正面的，也有负面的。他对中国网民说，翻译的初衷是<span
 dir="rtl">“</span>曝光更多偷国人（文化）行为”，然后挑出 <span
@@ -138,21 +138,21 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 [<u>https://www.douban.com/group/topic/212146370/</u>](https://www.douban.com/group/topic/212146370/)
 
-![](images/btnews/0201_0300/0248/media/image14.png)
+![](/images/btnews/0201_0300/0248/image14.webp)
 
-![](images/btnews/0201_0300/0248/media/image15.png)
+![](/images/btnews/0201_0300/0248/image15.webp)
 
-![](images/btnews/0201_0300/0248/media/image16.png)
+![](/images/btnews/0201_0300/0248/image16.webp)
 
-![](images/btnews/0201_0300/0248/media/image17.png)
+![](/images/btnews/0201_0300/0248/image17.webp)
 
-![](images/btnews/0201_0300/0248/media/image18.png)
+![](/images/btnews/0201_0300/0248/image18.webp)
 
-![](images/btnews/0201_0300/0248/media/image19.png)
+![](/images/btnews/0201_0300/0248/image19.webp)
 
 因为标题惊悚，这个帖子陆续被搬运到豆瓣其他小组和其他网站，在传播过程中，韩国对中国的正面评论基本都被删除，留下的都是恶意评论。最广为流传的两张截图，就是韩国人说江疏影可能是韩国人。
 
-![](images/btnews/0201_0300/0248/media/image20.png)
+![](/images/btnews/0201_0300/0248/image20.webp)
 
 [<u>https://www.douban.com/group/topic/212310942/</u>](https://www.douban.com/group/topic/212310942/)
 
@@ -165,23 +165,23 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 [Sina Visitor System](https://weibo.com/5709559214/K34UKhKaV?refer_flag=1001030103_&type=comment#_rnd1615452246307)
 
-![](images/btnews/0201_0300/0248/media/image21.png)![](images/btnews/0201_0300/0248/media/image22.png)
+![](/images/btnews/0201_0300/0248/image21.webp)![](/images/btnews/0201_0300/0248/image22.webp)
 
-![](images/btnews/0201_0300/0248/media/image23.png)
+![](/images/btnews/0201_0300/0248/image23.webp)
 
-![](images/btnews/0201_0300/0248/media/image24.png)
+![](/images/btnews/0201_0300/0248/image24.webp)
 
 新浪两个热榜话题引发了媒体跟进报道，大多数标题都重复了微博官方的说法。就算不上微博的人，也因此收到了简而不明的信息“韩国人要抢江疏影”。
 
-![](images/btnews/0201_0300/0248/media/image25.png)
+![](/images/btnews/0201_0300/0248/image25.webp)
 
-[ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1692387662178429855&wfr=spider&for=pc)![](images/btnews/0201_0300/0248/media/image26.png)
+[ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1692387662178429855&wfr=spider&for=pc)![](/images/btnews/0201_0300/0248/image26.webp)
 
 [连“江疏影”都是韩国的了？！\_澎湃号·媒体_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11420745)
 
 发展到这一步，最早搬运韩国网民评论的ID也惊讶了。他后来在最初的翻译内容下面更新进展，表示“舆论偏离重点”，“微博评论基本都是围绕明星”，“有点惊讶又有点小失望”。很显然，微博官方账号的运营团队不会在乎他的意见。
 
-![](images/btnews/0201_0300/0248/media/image27.png)
+![](/images/btnews/0201_0300/0248/image27.webp)
 
 回顾江疏影名字事件的整条传播链，可以发现中国网民和原始的韩语网页之间有至少两层扭曲信息的障碍。
 
@@ -195,11 +195,11 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 要了解韩国人的真实观点，我们还是要回到原来的网页。截至3月12日，《三十而已》的剪辑视频已经播放了九百多万次，韩国观众非常喜欢中国电视剧情节。
 
-![](images/btnews/0201_0300/0248/media/image28.png)![](images/btnews/0201_0300/0248/media/image29.png)
+![](/images/btnews/0201_0300/0248/image28.webp)![](/images/btnews/0201_0300/0248/image29.webp)
 
-![](images/btnews/0201_0300/0248/media/image30.png)
+![](/images/btnews/0201_0300/0248/image30.webp)
 
-![](images/btnews/0201_0300/0248/media/image31.png)
+![](/images/btnews/0201_0300/0248/image31.webp)
 
 排名靠前的热评，大多数是讨论奢侈品店店员的态度。一部分韩国观众对《三十而已》的评价很高。也有评论指出，类似的情节在韩剧《VIP》里也看到过。但并没有“争夺原创权”的意思。
 
@@ -228,9 +228,9 @@ dir="rtl">“</span>泡菜”这种食物申请文化遗产地位，而是把制
 “韩国网络外交使节团”
 VANK。上个月韩国媒体报道，中文互联网上把韩国称为“小偷国”。视频下面的韩国评论也很激烈。
 
-![](images/btnews/0201_0300/0248/media/image32.png)
+![](/images/btnews/0201_0300/0248/image32.webp)
 
-![](images/btnews/0201_0300/0248/media/image33.png)
+![](/images/btnews/0201_0300/0248/image33.webp)
 
 [한국이 중국 문화 다 훔쳐 간다고 주장하는 중국인들 / 스브스뉴스 - YouTube](https://www.youtube.com/watch?v=e6hNRNL97mE)
 

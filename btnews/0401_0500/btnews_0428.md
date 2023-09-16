@@ -5,7 +5,7 @@ date: 2022-05-06
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0428/3278c8af-1d7d-40bc-9aea-655050f81eb0.jpg)
+![](/images/btnews/0401_0500/0428/3278c8af-1d7d-40bc-9aea-655050f81eb0.webp)
 
 
 
@@ -17,7 +17,7 @@ date: 2022-05-06
 督工，你在办公室隔离这么久了，直接体会了这一轮疫情对生活的影响。之前武汉疫情你分析过好几期，去年12月31号，373期节目，督工你结合一线人员的经验，分析了西安封城的经验教训，最后还建议，国家组建一支全国通用的抗疫队伍，有新的疫区就投入，避免其他城市踩进之前的坑，避免防疫人员反复浪费时间，发明同样的技巧。
  
 
-![](/images/btnews/0401_0500/0428/af9f3935-0311-4602-9890-6d22f8e8dc72.jpg)
+![](/images/btnews/0401_0500/0428/af9f3935-0311-4602-9890-6d22f8e8dc72.webp)
 
 
 
@@ -25,7 +25,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/80e27ef2-e08a-47c2-a0be-20d0db508d7f.png)
+![](/images/btnews/0401_0500/0428/80e27ef2-e08a-47c2-a0be-20d0db508d7f.webp)
 
 
 
@@ -45,7 +45,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/9c63afef-d347-482e-8e07-21eb3651fcba.jpg)
+![](/images/btnews/0401_0500/0428/9c63afef-d347-482e-8e07-21eb3651fcba.webp)
 
 
 
@@ -77,7 +77,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/b14ebdab-01ee-434f-b6f1-7ed4ad660055.jpg)
+![](/images/btnews/0401_0500/0428/b14ebdab-01ee-434f-b6f1-7ed4ad660055.webp)
 
 
 
@@ -88,7 +88,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/384fdc75-02ba-48ea-a4f2-955405e2f7d5.jpg)
+![](/images/btnews/0401_0500/0428/384fdc75-02ba-48ea-a4f2-955405e2f7d5.webp)
 
 
 
@@ -105,7 +105,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/fbcf52ce-59f2-44c2-a41f-56df2ed25cad.jpg)
+![](/images/btnews/0401_0500/0428/fbcf52ce-59f2-44c2-a41f-56df2ed25cad.webp)
 
 
 
@@ -116,7 +116,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/adb9f9b1-6301-43c1-9627-9e821cade4fa.jpg)
+![](/images/btnews/0401_0500/0428/adb9f9b1-6301-43c1-9627-9e821cade4fa.webp)
 
 
 
@@ -133,10 +133,10 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/c409b84b-8ba1-43fe-ad4b-3b056229f485.jpg)
+![](/images/btnews/0401_0500/0428/c409b84b-8ba1-43fe-ad4b-3b056229f485.webp)
 
 
-![](/images/btnews/0401_0500/0428/1fb6d7ff-cf8f-445f-aa54-e724962e1105.jpg)
+![](/images/btnews/0401_0500/0428/1fb6d7ff-cf8f-445f-aa54-e724962e1105.webp)
 
 
 
@@ -147,7 +147,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/c949256e-7e14-494e-b9fe-0d5f8bda9d65.jpg)
+![](/images/btnews/0401_0500/0428/c949256e-7e14-494e-b9fe-0d5f8bda9d65.webp)
 
 
 
@@ -158,7 +158,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/80f7900d-d199-4b7e-b5b8-a0e4af744a90.jpg)
+![](/images/btnews/0401_0500/0428/80f7900d-d199-4b7e-b5b8-a0e4af744a90.webp)
 
 
 
@@ -166,7 +166,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/521415e1-eaf0-4ba3-83df-7f1cb64a5fb3.jpg)
+![](/images/btnews/0401_0500/0428/521415e1-eaf0-4ba3-83df-7f1cb64a5fb3.webp)
 
 
 
@@ -174,7 +174,7 @@ date: 2022-05-06
 
 
 
-![](/images/btnews/0401_0500/0428/296ff398-8b8c-4cf2-a895-ece5b442551e.png)
+![](/images/btnews/0401_0500/0428/296ff398-8b8c-4cf2-a895-ece5b442551e.webp)
 
 https://www.sohu.com/a/330896649_570536
 
@@ -183,7 +183,7 @@ https://www.sohu.com/a/330896649_570536
 今年2月27日，似乎气凝胶产品开始走进我们的生活，中化学华陆新材料公司宣布，硅基纳米气凝胶复合材料项目成功投产，年产5万立方米，用来制造绝热毡产品。这是不是那种可以放在狗尾草上的材料。
  
 
-![](/images/btnews/0401_0500/0428/45624c73-3bf7-40a7-82f8-a1a2ac67e67d.png)
+![](/images/btnews/0401_0500/0428/45624c73-3bf7-40a7-82f8-a1a2ac67e67d.webp)
 
 
 
@@ -196,7 +196,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/99eb24dc-7343-4ded-b40e-d16c5be8640e.png)
+![](/images/btnews/0401_0500/0428/99eb24dc-7343-4ded-b40e-d16c5be8640e.webp)
 
 
 
@@ -210,7 +210,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/132e0efb-307b-4464-b7d5-6acb571590a0.jpg)
+![](/images/btnews/0401_0500/0428/132e0efb-307b-4464-b7d5-6acb571590a0.webp)
 
 
 
@@ -221,7 +221,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/fbc527a9-d81d-4671-a1e4-0b5f0ab0b5f6.png)
+![](/images/btnews/0401_0500/0428/fbc527a9-d81d-4671-a1e4-0b5f0ab0b5f6.webp)
 
 
 
@@ -232,10 +232,10 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/88403d0d-06b9-4d57-8d16-5a5e4e2e2e67.jpg)
+![](/images/btnews/0401_0500/0428/88403d0d-06b9-4d57-8d16-5a5e4e2e2e67.webp)
 
 
-![](/images/btnews/0401_0500/0428/b0e3ad1e-ab4b-42a6-9f09-29e064332c10.png)
+![](/images/btnews/0401_0500/0428/b0e3ad1e-ab4b-42a6-9f09-29e064332c10.webp)
 
 
 
@@ -243,7 +243,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/1ba8b004-6c99-4c1a-a7a3-6e66b63199b8.png)
+![](/images/btnews/0401_0500/0428/1ba8b004-6c99-4c1a-a7a3-6e66b63199b8.webp)
 
 
 
@@ -254,7 +254,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/a68b4c50-2c3d-421a-b64d-bc4e590da7f6.png)
+![](/images/btnews/0401_0500/0428/a68b4c50-2c3d-421a-b64d-bc4e590da7f6.webp)
 
 
 
@@ -267,7 +267,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/20f8b5f7-9e3a-4bce-8185-ffa81c2b3941.jpg)
+![](/images/btnews/0401_0500/0428/20f8b5f7-9e3a-4bce-8185-ffa81c2b3941.webp)
 
 
 
@@ -275,7 +275,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/ed9964c9-2626-4e82-ab60-505f32d53005.jpg)
+![](/images/btnews/0401_0500/0428/ed9964c9-2626-4e82-ab60-505f32d53005.webp)
 
 
 
@@ -286,7 +286,7 @@ https://www.sohu.com/a/330896649_570536
 
 
 
-![](/images/btnews/0401_0500/0428/d9d6d04a-e549-4452-9616-9f76d7a6cbb0.jpg)
+![](/images/btnews/0401_0500/0428/d9d6d04a-e549-4452-9616-9f76d7a6cbb0.webp)
 
 https://www.sohu.com/a/221497790_100046295
 
@@ -299,9 +299,9 @@ https://www.sohu.com/a/221497790_100046295
 
 
 
-![](/images/btnews/0401_0500/0428/26c72331-2251-49a1-90df-c6c93dfc8fa6.png)
+![](/images/btnews/0401_0500/0428/26c72331-2251-49a1-90df-c6c93dfc8fa6.webp)
 
-![](/images/btnews/0401_0500/0428/c37a929a-54bf-4736-bc45-999fb9eb497f.png)
+![](/images/btnews/0401_0500/0428/c37a929a-54bf-4736-bc45-999fb9eb497f.webp)
 
 
 
@@ -309,7 +309,7 @@ https://www.sohu.com/a/221497790_100046295
 
 
 
-![](/images/btnews/0401_0500/0428/fd5ddcf9-1488-4ac3-9d91-06e47727d210.png)
+![](/images/btnews/0401_0500/0428/fd5ddcf9-1488-4ac3-9d91-06e47727d210.webp)
 
 https://m.thepaper.cn/baijiahao_16764796
 
@@ -318,10 +318,10 @@ https://m.thepaper.cn/baijiahao_16764796
 
 
 
-![](/images/btnews/0401_0500/0428/242b5028-796d-4214-89b9-cac7a0806da3.png)
+![](/images/btnews/0401_0500/0428/242b5028-796d-4214-89b9-cac7a0806da3.webp)
 
 
-![](/images/btnews/0401_0500/0428/0a322009-6226-4767-9fce-18ca352d88c0.png)
+![](/images/btnews/0401_0500/0428/0a322009-6226-4767-9fce-18ca352d88c0.webp)
 
  
 前面考虑的气凝胶应用前景，都是基于现有生产技术和成本水平设想。从技术进步方向看，气凝胶的成本还可能进一步降低。
@@ -334,7 +334,7 @@ https://m.thepaper.cn/baijiahao_16764796
 
 
 
-![](/images/btnews/0401_0500/0428/86ad02cc-9988-4f97-a1c0-aae424fb2500.png)
+![](/images/btnews/0401_0500/0428/86ad02cc-9988-4f97-a1c0-aae424fb2500.webp)
 
 
 
@@ -342,7 +342,7 @@ https://m.thepaper.cn/baijiahao_16764796
 
 
 
-![](/images/btnews/0401_0500/0428/684c831c-1652-4bc4-8b74-d331c4e12347.png)
+![](/images/btnews/0401_0500/0428/684c831c-1652-4bc4-8b74-d331c4e12347.webp)
 
 
 
@@ -357,10 +357,10 @@ http://www.gov.cn/zhengce/2021-10/24/content_5644613.htm
 
 
 
-![](/images/btnews/0401_0500/0428/3de69ccd-bad7-4426-b935-e15037918c16.jpg)
+![](/images/btnews/0401_0500/0428/3de69ccd-bad7-4426-b935-e15037918c16.webp)
 
 
-![](/images/btnews/0401_0500/0428/e24441bf-5d7a-400a-adb5-ff5f5b7a089a.png)
+![](/images/btnews/0401_0500/0428/e24441bf-5d7a-400a-adb5-ff5f5b7a089a.webp)
 
 https://baijiahao.baidu.com/s?id=1731877757453225750
 
@@ -370,7 +370,7 @@ https://baijiahao.baidu.com/s?id=1731877757453225750
 
 
 
-![](/images/btnews/0401_0500/0428/114c4c8d-bebf-4b3b-acce-3d208a68fc18.jpg)
+![](/images/btnews/0401_0500/0428/114c4c8d-bebf-4b3b-acce-3d208a68fc18.webp)
 
 http://www.wklstudy.com/nd.jsp?id=10
 
@@ -383,7 +383,7 @@ http://www.wklstudy.com/nd.jsp?id=10
 
 
 
-![](/images/btnews/0401_0500/0428/df4d80a0-a767-4a9e-b470-22c6807aa72e.png)
+![](/images/btnews/0401_0500/0428/df4d80a0-a767-4a9e-b470-22c6807aa72e.webp)
 
 http://www.nbd.com.cn/articles/2022-05-05/2263719.html
 
@@ -393,7 +393,7 @@ http://www.nbd.com.cn/articles/2022-05-05/2263719.html
 
 
 
-![](/images/btnews/0401_0500/0428/2959b443-7f27-4509-aa10-a61577307b22.png)
+![](/images/btnews/0401_0500/0428/2959b443-7f27-4509-aa10-a61577307b22.webp)
 
 https://finance.sina.com.cn/tech/2022-05-04/doc-imcwipii7964417.shtml
 
@@ -409,7 +409,7 @@ https://www.bilibili.com/video/BV1Ri4y1Q76k
 
 
 
-![](/images/btnews/0401_0500/0428/aec8e550-ecdc-437f-9a86-b878ac360e50.jpg)
+![](/images/btnews/0401_0500/0428/aec8e550-ecdc-437f-9a86-b878ac360e50.webp)
 
 
 
@@ -426,7 +426,7 @@ https://www.bilibili.com/video/BV1Ri4y1Q76k
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0428/9bcd0bda-53d9-4a9e-84b7-b37b02fbd002.jpg)
+![](/images/btnews/0401_0500/0428/9bcd0bda-53d9-4a9e-84b7-b37b02fbd002.webp)
 
 
 

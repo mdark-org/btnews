@@ -6,7 +6,7 @@ date: 2023-01-27
 点击下图观看视频
 
 
-![](/images/btnews/0501_0600/0543/eab88c34-f469-45fe-b8ed-e00ea5198d9a.jpg)
+![](/images/btnews/0501_0600/0543/eab88c34-f469-45fe-b8ed-e00ea5198d9a.webp)
 
 
 
@@ -15,13 +15,13 @@ date: 2023-01-27
 
 1月4日，新当选的美国众议院议员罗伯特·加西亚（Robert Garcia）宣布，自己在宣誓就职时，要在美国宪法下面放上《超人》漫画的第一期原件。美国很多的公共服务者，都选择宗教经典，比如说圣经，作为自己的宣誓工具。
 
-![](/images/btnews/0501_0600/0543/045ae298-1ddb-4d9b-9f72-ae77c1ed7b16.png)
+![](/images/btnews/0501_0600/0543/045ae298-1ddb-4d9b-9f72-ae77c1ed7b16.webp)
 
 
 
 加西亚为什么要在宪法下面放一本《超人》漫画来宣誓？
 
-![](/images/btnews/0501_0600/0543/69b6ede4-0d5b-47f8-bb82-d9986dcb55cd.png)
+![](/images/btnews/0501_0600/0543/69b6ede4-0d5b-47f8-bb82-d9986dcb55cd.webp)
 
 https://www.guancha.cn/internation/2023_01_06_674617.shtml 
 
@@ -40,7 +40,7 @@ https://www.guancha.cn/internation/2023_01_06_674617.shtml 
 
 加西亚为宣誓仪式，准备了三件对他个人意义重大的物品。第一件是他父母的合照，2020年他的父母因为新冠去世，第二样是他入籍美国的公民证书，第三样，也是争议最大的一样，是他从国会图书馆借来的《超人》漫画第1期原件。
 
-![](/images/btnews/0501_0600/0543/e67ed6eb-5eb3-437f-aefc-f60d01d2f904.png)
+![](/images/btnews/0501_0600/0543/e67ed6eb-5eb3-437f-aefc-f60d01d2f904.webp)
 
 
 
@@ -52,7 +52,7 @@ https://www.guancha.cn/internation/2023_01_06_674617.shtml 
 
 加之太平洋对岸，抗日战争已经开打，欧洲的希特勒吞并了捷克斯洛伐克和自己的祖国奥地利，这一度导致美国纳粹党也开始高调活动，普通美国民众在迷茫中思考未来。
 
-![](/images/btnews/0501_0600/0543/49eb79ce-81e1-423a-bc49-e3f985e4c811.png)
+![](/images/btnews/0501_0600/0543/49eb79ce-81e1-423a-bc49-e3f985e4c811.webp)
 
 https://www.npr.org/sections/codeswitch/2019/02/20/695941323/when-nazis-took-manhattan
 
@@ -65,7 +65,7 @@ https://www.npr.org/sections/codeswitch/2019/02/20/695941323/when-nazis-took-man
 
 珍珠港事件之后，美国对日宣战，取消了漫画产业禁令，开始出版战争题材的作品。超人也更加积极地参与到战争中。在漫画里，超人为士兵们提供补给品、运送弹药、挫败间谍的阴谋、参加军训并宣誓保卫国家。同时，超人不断向公众传递必胜的信念，号召群众购买美国战争公债。
 
-![](/images/btnews/0501_0600/0543/ef52bf37-00d4-448c-8ee1-77de07ef2af6.png)
+![](/images/btnews/0501_0600/0543/ef52bf37-00d4-448c-8ee1-77de07ef2af6.webp)
 
 
 
@@ -74,22 +74,22 @@ https://www.npr.org/sections/codeswitch/2019/02/20/695941323/when-nazis-took-man
 
 随着战后美国价值观的变化，超人在四五十年代变得更加保守，但是超人同情弱者，总是做正确的事，这一风格没有改变。
 
-![](/images/btnews/0501_0600/0543/7b632985-5bb3-466b-8286-6f0d0120da96.png)
+![](/images/btnews/0501_0600/0543/7b632985-5bb3-466b-8286-6f0d0120da96.webp)
 
 https://www.voachinese.com/a/news-superheroes-and-politics-20180725/4499458.html 
 
 
 最知名的《超人》电影扮演者克里斯托弗·里夫，通过个人经历赋予了超人“自强不息、与命运抗争”的含义。1995年，里夫坠马导致脊椎受伤，全身瘫痪。之后他投身公益，经常举办巡回演讲，致力于推动干细胞研究。
 
-![](/images/btnews/0501_0600/0543/db68f7ae-b694-4fea-974d-36603cdf936f.png)
+![](/images/btnews/0501_0600/0543/db68f7ae-b694-4fea-974d-36603cdf936f.webp)
 
 
 美国很多体育和影视界明星都视超人为自己的偶像。“大鲨鱼”奥尼尔的家里充满了超人的符号。DC的超人系列电影票房成绩也十分不错，是可以和漫威抗衡的当代美国流行文化象征。
 
-![](/images/btnews/0501_0600/0543/937ea48b-563d-4201-8eff-bb4bdf5ad9ae.png)
+![](/images/btnews/0501_0600/0543/937ea48b-563d-4201-8eff-bb4bdf5ad9ae.webp)
 
 
-![](/images/btnews/0501_0600/0543/a76ce2fc-3e28-4044-b229-c691a96393ad.png)
+![](/images/btnews/0501_0600/0543/a76ce2fc-3e28-4044-b229-c691a96393ad.webp)
 
 https://www.thenationalnews.com/lifestyle/home/in-pics-inside-shaquille-o-neal-s-superman-inspired-mansion-1.735797
 
@@ -118,7 +118,7 @@ https://www.thenationalnews.com/lifestyle/home/in-pics-inside-shaquille-o-neal-s
 
 1986年，里根签署特赦令，美国首次将非法移民合法化。加西亚和母亲也因此成为美国公民，所以他们家都注册成为共和党人。
 
-![](/images/btnews/0501_0600/0543/1aef5e3c-6a05-46eb-b171-c3aff1442ea1.png)
+![](/images/btnews/0501_0600/0543/1aef5e3c-6a05-46eb-b171-c3aff1442ea1.webp)
 
 
 
@@ -141,7 +141,7 @@ https://www.thenationalnews.com/lifestyle/home/in-pics-inside-shaquille-o-neal-s
 
 2013年，加西亚卖掉长滩邮报，竞选长滩市长。睡前消息往期节目提到过，长滩市拥有美国第二大集装箱港口——长滩港，这里有数量庞大的码头工人和工会，是美国西海岸海陆联运的枢纽。太平洋航线上来自东亚制造业中心的商品都在这里上岸，然后被运到美国各地。
 
-![](/images/btnews/0501_0600/0543/a70d822d-76ef-42b6-a94a-7f909f402b90.png)
+![](/images/btnews/0501_0600/0543/a70d822d-76ef-42b6-a94a-7f909f402b90.webp)
 
 
 
@@ -154,7 +154,7 @@ https://www.thenationalnews.com/lifestyle/home/in-pics-inside-shaquille-o-neal-s
 
 2018年12月22日，加西亚和男友结婚，对象是加州州立大学长滩分校教授马修·门德斯。
 
-![](/images/btnews/0501_0600/0543/0247fe46-9e5e-4d71-a588-9232d6702161.png)
+![](/images/btnews/0501_0600/0543/0247fe46-9e5e-4d71-a588-9232d6702161.webp)
 
 
 
@@ -175,20 +175,20 @@ https://www.thenationalnews.com/lifestyle/home/in-pics-inside-shaquille-o-neal-s
 
 过去，也有人利用美国宪法保障的宗教自由，以整活的形式，推动进步主义思想。比如美国的撒旦教和飞天意大利面神教。
 
-![](/images/btnews/0501_0600/0543/ed93d961-d931-466e-b269-b0a320f3f1cd.png)
+![](/images/btnews/0501_0600/0543/ed93d961-d931-466e-b269-b0a320f3f1cd.webp)
 
 
 
 睡前消息编辑部公众号2018年的文章介绍过，美国阿肯色州议会在议会大厦前放了一块基督教十诫纪念碑，撒旦教成员为了表达抗议，也要在这里放一座撒旦恶魔的雕像。而阿肯色州立法机关在美国法律的框架内，批准了这一行动。
 
-![](/images/btnews/0501_0600/0543/30d7a321-46b0-4652-8b1a-025502018ac0.png)
+![](/images/btnews/0501_0600/0543/30d7a321-46b0-4652-8b1a-025502018ac0.webp)
 
 
 
 
 撒旦教并不是中文互联网阴谋论里宣称的神秘主义巫术团体，撒旦教会自我定位为“持不可知论的无神论者”，并一直强调他们不崇拜、也不相信作为恶魔或者超自然存在的“撒旦”。****
 
-![](/images/btnews/0501_0600/0543/cee3ed13-f83d-4d2b-871f-e3e45a3752e0.png)
+![](/images/btnews/0501_0600/0543/cee3ed13-f83d-4d2b-871f-e3e45a3752e0.webp)
 
 https://mp.weixin.qq.com/s?__biz=MzU4MTU1NzI4Mw==&mid=2247485781&idx=1&sn=0dd90526860a1e6de66c1c70bffdce84&chksm=fd448419ca330d0f9d42ab9e7bbd7a25aeac9ad05b997b94c4eb62d14076f0bd91dffa5c9c10&token=197723357&lang=zh_CN 
 
@@ -202,7 +202,7 @@ https://mp.weixin.qq.com/s?__biz=MzU4MTU1NzI4Mw==&mid=2247485781&idx=1&sn=0dd905
 
 本次美国众议院议长选举，麦卡锡花了15轮投票才登上议长宝座，共和党在众人面前公然分裂，党团内部的不和暴露无遗。也许未来几年，美国能在进步主义的道路上走得更远。
 
-![](/images/btnews/0501_0600/0543/632def1c-4ad3-46b5-8844-e4fc16a676e7.png)
+![](/images/btnews/0501_0600/0543/632def1c-4ad3-46b5-8844-e4fc16a676e7.webp)
 
 
 
@@ -213,7 +213,7 @@ https://mp.weixin.qq.com/s?__biz=MzU4MTU1NzI4Mw==&mid=2247485781&idx=1&sn=0dd905
 接下来关注一下人类的未来。去年12月15日，英国《卫报》报道了《人类生殖追踪》杂志上的一篇论文。《卫报》解读称，1973年至2018年间，男性精子的平均浓度从1.012亿每毫升降至4900万每毫升，降幅为51.6%，同期精子总数下降62.3%。报道在欧美引发了新一轮关于人类生殖安全的讨论和恐慌。
 你怎么看待这件事？
 
-![](/images/btnews/0501_0600/0543/01480d27-adf5-4f42-aaa4-b8b55d0b8880.png)
+![](/images/btnews/0501_0600/0543/01480d27-adf5-4f42-aaa4-b8b55d0b8880.webp)
 
 https://www.theguardian.com/society/2022/nov/15/humans-could-face-reproductive-crisis-as-sperm-count-declines-study-finds
 
@@ -229,7 +229,7 @@ https://www.theguardian.com/society/2022/nov/15/humans-could-face-reproductive-c
 
 实验设计中把男性分为已生育和未生育两组，其中未生育组男性的精子平均浓度下降51.6%，精子总数下降了62.3%，这就是卫报报道的那组数据，也是中文媒体所谓“全球男性平均精子数量腰斩”的数据来源。但是我们再看已生育组，降幅就少多了，精子浓度下降了5.8%，精子总数下降了3.2%。
 
-![](/images/btnews/0501_0600/0543/e91fbc6a-6fc7-4284-af67-bf2b2205cc94.png)
+![](/images/btnews/0501_0600/0543/e91fbc6a-6fc7-4284-af67-bf2b2205cc94.webp)
 
 https://academic.oup.com/humupd/advance-article/doi/10.1093/humupd/dmac035/6824414?login=false#381093139
 
@@ -242,7 +242,7 @@ https://academic.oup.com/humupd/advance-article/doi/10.1093/humupd/dmac035/68244
 
 2022年这篇论文，是莱文对自己2017年那篇论文的后续研究。最新研究拓宽了研究对象的地理范围，对1973年至2018年间发表的223篇论文进行了荟萃分析。总共分析了53个国家、57000名男性的精子样本。
 
-![](/images/btnews/0501_0600/0543/c9ed1fce-856f-4e55-b837-3547c28585d0.png)
+![](/images/btnews/0501_0600/0543/c9ed1fce-856f-4e55-b837-3547c28585d0.webp)
 
 https://academic.oup.com/humupd/article/23/6/646/4035689
 
@@ -253,10 +253,10 @@ https://academic.oup.com/humupd/article/23/6/646/4035689
 
 比如说和欧美下降的大趋势不同，过去三十年里，亚非拉国家里已生育男性的精子数量和精子浓度反而上升了。看起来非西方地区比西方地区男性的精子更健康。不过论文作者也没有解释原因。
 
-![](/images/btnews/0501_0600/0543/896e00c0-0f6d-4464-8443-53eb5a895c69.png)
+![](/images/btnews/0501_0600/0543/896e00c0-0f6d-4464-8443-53eb5a895c69.webp)
 
 
-![](/images/btnews/0501_0600/0543/3a0f7c84-0196-4605-ac2b-17ec71218e6c.png)
+![](/images/btnews/0501_0600/0543/3a0f7c84-0196-4605-ac2b-17ec71218e6c.webp)
 
 
 
@@ -268,7 +268,7 @@ https://academic.oup.com/humupd/article/23/6/646/4035689
 
 不少学者认为，男性精子质量和数量下降，和统计方法有关。20世纪80年代以来，计数方法不断改进和标准化，与其说精子数量有所下降，不如说可能只是早期的科学家们夸大了精子的数量。
 
-![](/images/btnews/0501_0600/0543/c262be71-233a-4cc8-a579-a531830cb9b2.png)
+![](/images/btnews/0501_0600/0543/c262be71-233a-4cc8-a579-a531830cb9b2.webp)
 
 https://edition.cnn.com/2022/11/18/health/sperm-counts-decline-debate/index.html
 
@@ -282,7 +282,7 @@ https://edition.cnn.com/2022/11/18/health/sperm-counts-decline-debate/index.html
 
 1992年的一篇论文，能说明早期精子样本的偏差对数据库的污染。文中80%的数据来自1970年以前的纽约，只有三项数据来自1970年以后的美国其他地区。如果看总体数据，男性精子的数量也下降了，但是去除纽约的数据后，男性精子的数量和浓度都没有明显变化。
 
-![](/images/btnews/0501_0600/0543/a4c15380-b75e-407d-94f1-b012acbc71f2.png)
+![](/images/btnews/0501_0600/0543/a4c15380-b75e-407d-94f1-b012acbc71f2.webp)
 
 https://bcmj.org/articles/global-decline-male-fertility-fact-or-fiction
 
@@ -293,7 +293,7 @@ https://bcmj.org/articles/global-decline-male-fertility-fact-or-fiction
 
 另外，生殖医学界一些学者认为，男性精子质量下降与上升可能并不影响生育，生育是0和1的问题，翻倍的精子数量并不会帮助人翻倍怀孕。根据《纽约时报》的报道，只要人们每毫升精液中的精子数量达到4000万个，就可以生育，额外的精子数量不会提升生育能力。
 
-![](/images/btnews/0501_0600/0543/c4db50ea-4b34-41c7-a465-4c73b572338f.png)
+![](/images/btnews/0501_0600/0543/c4db50ea-4b34-41c7-a465-4c73b572338f.webp)
 
 https://www.nytimes.com/2021/06/04/health/sperm-fertility-reproduction-crisis.html
 
@@ -331,14 +331,14 @@ https://www.nytimes.com/2021/06/04/health/sperm-fertility-reproduction-crisis.ht
 
 2017年莱文团队发表第一篇论文，提出欧美男性精子质量下降的结论之后，2018年就有论文，分析哪些保健品能提升精子质量，结论是维生素C、维生素E、辅酶Q10、左旋肉碱、硒和锌都能有效提高男性精子质量。
 
-![](/images/btnews/0501_0600/0543/3fb6c4f3-5529-4532-a959-5cdd54d7e095.png)
+![](/images/btnews/0501_0600/0543/3fb6c4f3-5529-4532-a959-5cdd54d7e095.webp)
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6247182/ 
 
 
 有趣的是，我们研究了这篇论文的作者：阿尔伯特·萨拉斯-韦托斯，发现他2016年博士毕业于西班牙巴塞罗那自治大学，主攻方向是男性不育症。
 
-![](/images/btnews/0501_0600/0543/69c6f465-df53-4ce6-be8b-b92ba03ad5e7.png)
+![](/images/btnews/0501_0600/0543/69c6f465-df53-4ce6-be8b-b92ba03ad5e7.webp)
 
 https://www.researchgate.net/profile/Albert-Salas-Huetos 
 https://www.hsph.harvard.edu/profile/albert-salas-huetos/ 
@@ -346,7 +346,7 @@ https://www.hsph.harvard.edu/profile/albert-salas-huetos/ 
 
 2017年，刚刚博士毕业的阿尔伯特就在《人类生殖追踪》上，发表了论文《男性生育参数和生育力中的饮食模式、食物和营养素：对观察性研究的系统回顾》，结论是鱼、贝类等海鲜、家禽、谷物、蔬菜和水果、低脂乳制品和脱脂牛奶等食物中富含omega-3 脂肪酸、维生素 E、维生素 C、β-胡萝卜素、硒、锌、隐黄质和番茄红素等抗氧化剂，以及维生素D和叶酸，与男性精子质量呈正相关。这篇论文注明，项目没有外部资金来源。
 
-![](/images/btnews/0501_0600/0543/088056dd-122b-49a4-95f8-5b151301d45e.png)
+![](/images/btnews/0501_0600/0543/088056dd-122b-49a4-95f8-5b151301d45e.webp)
 
 https://academic.oup.com/humupd/article/23/4/371/3065333#89341746 
 
@@ -354,7 +354,7 @@ https://academic.oup.com/humupd/article/23/4/371/3065333#89341746 
 
 2018年，阿尔伯特在《美国临床营养学杂志》发表论文，结论宣称“在西式饮食中加入坚果，可显著提高精子总数以及精子的活力和形态。”
 
-![](/images/btnews/0501_0600/0543/da0e8c61-15e8-40bf-995e-f8745c08f224.png)
+![](/images/btnews/0501_0600/0543/da0e8c61-15e8-40bf-995e-f8745c08f224.webp)
 
 https://academic.oup.com/ajcn/article/108/5/953/5201549 
 
@@ -377,7 +377,7 @@ https://www.maximizemarketresearch.com/market-report/fertility-supplements-marke
 
 其实国际保健品巨头可以参考前面介绍的国际坚果和干果理事会 (INC) 的操作，利用全球男性精子质量下降的论文作背景，出资让媒体讨论“人类正在面临生殖危机”，渲染恐慌气氛。然后再赞助一批科研团队，研究哪些保健品能够提升男性精子质量，拯救人类。说不定部分男性为了减缓生殖恐慌，就会为保健品买单。
 
-![](/images/btnews/0501_0600/0543/322126e7-cfb9-4c41-81e8-c32ae1a9ba7d.png)
+![](/images/btnews/0501_0600/0543/322126e7-cfb9-4c41-81e8-c32ae1a9ba7d.webp)
 
 http://www.ceics.eu/en/agenda/-/asset_publisher/1Bzp/content/agenda-jornada-paraclaims 
 
@@ -388,7 +388,7 @@ http://www.ceics.eu/en/agenda/-/asset_publisher/1Bzp/content/agenda-jornada-para
 
 没有太大用处，而且滥用维生素E补充剂，还会增加癌症风险。
 
-![](/images/btnews/0501_0600/0543/f3f8ca36-f265-408b-bab9-521f673a07e6.png)
+![](/images/btnews/0501_0600/0543/f3f8ca36-f265-408b-bab9-521f673a07e6.webp)
 
 http://www.jksb.com.cn/html/diseases/lung/prevention/2015/0112/3612.html 
 
@@ -401,7 +401,7 @@ http://www.jksb.com.cn/html/diseases/lung/prevention/2015/0112/3612.html 
 
 未申报成分包括西地那非、他达拉非、伐地那非、西布曲明、酚酞和/或氟西汀等等。简单来说，就是在所谓男性保健品补充剂里，掺了壮阳药和减肥药。
 
-![](/images/btnews/0501_0600/0543/1d5d0d1d-034e-49df-9fbb-6ff25600f67c.png)
+![](/images/btnews/0501_0600/0543/1d5d0d1d-034e-49df-9fbb-6ff25600f67c.webp)
 
 https://www.fda.gov/news-events/press-announcements/fda-warns-consumers-avoid-certain-male-enhancement-and-weight-loss-products-sold-through-amazon-ebay 
 
@@ -412,7 +412,7 @@ https://www.fda.gov/news-events/press-announcements/fda-warns-consumers-avoid-ce
 
 而根据发表在不列颠哥伦比亚医学杂志上的评论，精子数量大幅下降，一是因为生活环境中的类激素化学物质增加，二是肥胖、酒精和吸烟这些不良生活方式。之前的研究表明，在子宫内接触这些有害物质也可以改变胎儿的性发育。
 
-![](/images/btnews/0501_0600/0543/24723250-8fc6-439d-acbe-2c0c994a7d1d.png)
+![](/images/btnews/0501_0600/0543/24723250-8fc6-439d-acbe-2c0c994a7d1d.webp)
 
 https://edition.cnn.com/2017/07/25/health/sperm-counts-declining-study/index.html 
 https://bcmj.org/articles/global-decline-male-fertility-fact-or-fiction 
@@ -432,6 +432,6 @@ https://en.wikipedia.org/wiki/British_Columbia_Medical_Journal
 
 
 
-![](/images/btnews/0501_0600/0543/98077a17-5b35-4c85-926d-1353d8790b9f.jpg)
+![](/images/btnews/0501_0600/0543/98077a17-5b35-4c85-926d-1353d8790b9f.webp)
 
 

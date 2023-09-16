@@ -6,7 +6,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/0dfe1a9c-6f87-41b0-85c0-5f1a15e9a5ed.gif)
+![](/images/btnews/0301_0400/0398/0dfe1a9c-6f87-41b0-85c0-5f1a15e9a5ed.webp)
 
 
 
@@ -32,13 +32,13 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/b37af90a-bc55-45f7-b8c1-e4155c3cdc47.png)
+![](/images/btnews/0301_0400/0398/b37af90a-bc55-45f7-b8c1-e4155c3cdc47.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0398/dfed4967-16e2-40fe-9584-bb8f5a8a633f.png)
+![](/images/btnews/0301_0400/0398/dfed4967-16e2-40fe-9584-bb8f5a8a633f.webp)
 
 
 
@@ -50,7 +50,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/0e214c3d-2f4e-4caa-a625-97337089e200.png)
+![](/images/btnews/0301_0400/0398/0e214c3d-2f4e-4caa-a625-97337089e200.webp)
 
 
 
@@ -74,7 +74,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/e962ab81-e806-4023-9e52-5f42017e51c1.png)
+![](/images/btnews/0301_0400/0398/e962ab81-e806-4023-9e52-5f42017e51c1.webp)
 
 
 
@@ -88,7 +88,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/13501902-6c2a-4935-8591-d6d431726746.png)
+![](/images/btnews/0301_0400/0398/13501902-6c2a-4935-8591-d6d431726746.webp)
 
 
 
@@ -106,7 +106,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/414188c7-1809-4192-b1ef-7c03be29b362.png)
+![](/images/btnews/0301_0400/0398/414188c7-1809-4192-b1ef-7c03be29b362.webp)
 
 
 
@@ -118,7 +118,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/a85e3a4b-89b3-483f-b31e-ca58153cefed.png)
+![](/images/btnews/0301_0400/0398/a85e3a4b-89b3-483f-b31e-ca58153cefed.webp)
 
 
 
@@ -130,7 +130,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/0c8b84b9-c76b-4e67-99f8-fd70522c097c.png)
+![](/images/btnews/0301_0400/0398/0c8b84b9-c76b-4e67-99f8-fd70522c097c.webp)
 
 
 
@@ -142,7 +142,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/0605dac7-c00b-4b66-888b-84be9ab27dad.png)
+![](/images/btnews/0301_0400/0398/0605dac7-c00b-4b66-888b-84be9ab27dad.webp)
 
 
 
@@ -156,7 +156,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/2b685daa-1a40-416a-a550-6e2cc9ea3c53.png)
+![](/images/btnews/0301_0400/0398/2b685daa-1a40-416a-a550-6e2cc9ea3c53.webp)
 
 
 
@@ -180,7 +180,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/c805a725-04e5-420a-9e9d-98cb346c4353.png)
+![](/images/btnews/0301_0400/0398/c805a725-04e5-420a-9e9d-98cb346c4353.webp)
 
 
 
@@ -204,7 +204,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/41416611-fe8c-4154-b8ae-8d4c11468b74.png)
+![](/images/btnews/0301_0400/0398/41416611-fe8c-4154-b8ae-8d4c11468b74.webp)
 
 
 
@@ -236,7 +236,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/26eeff05-62cb-4018-ac97-67f738b6e461.png)
+![](/images/btnews/0301_0400/0398/26eeff05-62cb-4018-ac97-67f738b6e461.webp)
 
 
 
@@ -258,7 +258,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/a871f2ef-9d0b-43e7-8e6e-dddedb50acbe.png)
+![](/images/btnews/0301_0400/0398/a871f2ef-9d0b-43e7-8e6e-dddedb50acbe.webp)
 
 
 
@@ -272,7 +272,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/86031c83-45ec-4fd8-b9ad-5a191e22a8a4.png)
+![](/images/btnews/0301_0400/0398/86031c83-45ec-4fd8-b9ad-5a191e22a8a4.webp)
 
 
 
@@ -289,7 +289,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/17e4685c-538c-438d-ae48-3b34037c1c25.png)
+![](/images/btnews/0301_0400/0398/17e4685c-538c-438d-ae48-3b34037c1c25.webp)
 
 
 
@@ -303,7 +303,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/63b1b089-07df-4ccc-981f-75ad53e909b5.png)
+![](/images/btnews/0301_0400/0398/63b1b089-07df-4ccc-981f-75ad53e909b5.webp)
 
 
 
@@ -315,7 +315,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/226e1dd5-a695-444c-89f9-f58ccc729557.png)
+![](/images/btnews/0301_0400/0398/226e1dd5-a695-444c-89f9-f58ccc729557.webp)
 
 
 
@@ -337,7 +337,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/2ddce481-26e4-43bd-9b6a-996e537ca71d.png)
+![](/images/btnews/0301_0400/0398/2ddce481-26e4-43bd-9b6a-996e537ca71d.webp)
 
 
 
@@ -359,7 +359,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/359cc9be-955f-4a3c-9135-5b23805de206.png)
+![](/images/btnews/0301_0400/0398/359cc9be-955f-4a3c-9135-5b23805de206.webp)
 
 
 
@@ -375,7 +375,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/b3b0f9bd-4b97-40e1-851a-3499eba0e242.png)
+![](/images/btnews/0301_0400/0398/b3b0f9bd-4b97-40e1-851a-3499eba0e242.webp)
 
 
 
@@ -391,7 +391,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/267eaf35-0440-4f9b-a198-e3de7271f41b.png)
+![](/images/btnews/0301_0400/0398/267eaf35-0440-4f9b-a198-e3de7271f41b.webp)
 
 
 
@@ -413,7 +413,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/a3df8b68-4c88-4794-9044-7595711be721.png)
+![](/images/btnews/0301_0400/0398/a3df8b68-4c88-4794-9044-7595711be721.webp)
 
 
 
@@ -435,7 +435,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/5581c356-a484-468c-9c25-cabfe5574e1c.png)
+![](/images/btnews/0301_0400/0398/5581c356-a484-468c-9c25-cabfe5574e1c.webp)
 
 
 
@@ -453,7 +453,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/5ef2918b-c571-43ba-a3a9-ac2edceebf5d.png)
+![](/images/btnews/0301_0400/0398/5ef2918b-c571-43ba-a3a9-ac2edceebf5d.webp)
 
 
 
@@ -469,7 +469,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/70ac1c0c-6ce2-4b1f-bd1f-35cb279253d0.png)
+![](/images/btnews/0301_0400/0398/70ac1c0c-6ce2-4b1f-bd1f-35cb279253d0.webp)
 
 
 
@@ -491,7 +491,7 @@ date: 2022-02-25
 
 
 
-![](/images/btnews/0301_0400/0398/2e3d3a63-1b7f-4ee7-8356-a7dfaaa88e7a.png)
+![](/images/btnews/0301_0400/0398/2e3d3a63-1b7f-4ee7-8356-a7dfaaa88e7a.webp)
 
 
 
@@ -507,7 +507,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/327a1feb-1ceb-4408-b6f2-0ee4eb66b6fa.png)
+![](/images/btnews/0301_0400/0398/327a1feb-1ceb-4408-b6f2-0ee4eb66b6fa.webp)
 
 
 
@@ -523,7 +523,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/d111319e-deb4-4581-8d0b-79d55ef91183.png)
+![](/images/btnews/0301_0400/0398/d111319e-deb4-4581-8d0b-79d55ef91183.webp)
 
 
 
@@ -545,7 +545,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/a4c25d6c-7cfc-4eba-a42c-02a95befae5d.png)
+![](/images/btnews/0301_0400/0398/a4c25d6c-7cfc-4eba-a42c-02a95befae5d.webp)
 
 
 
@@ -567,7 +567,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/2e1196d0-cddf-4bf5-89bf-abd0c1b48d42.png)
+![](/images/btnews/0301_0400/0398/2e1196d0-cddf-4bf5-89bf-abd0c1b48d42.webp)
 
 
 
@@ -589,7 +589,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/62afa9a9-0127-4535-8589-bfcb946b643f.png)
+![](/images/btnews/0301_0400/0398/62afa9a9-0127-4535-8589-bfcb946b643f.webp)
 
 
 
@@ -601,7 +601,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/78434331-b1ff-44cd-b4cb-289cd60a1ba6.jpg)
+![](/images/btnews/0301_0400/0398/78434331-b1ff-44cd-b4cb-289cd60a1ba6.webp)
 
 
 
@@ -613,7 +613,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/088e4a63-4921-4588-82fc-d60df2a2304d.png)
+![](/images/btnews/0301_0400/0398/088e4a63-4921-4588-82fc-d60df2a2304d.webp)
 
 
 
@@ -649,7 +649,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/957545d0-ea78-41da-95d6-c81f4b752acf.png)
+![](/images/btnews/0301_0400/0398/957545d0-ea78-41da-95d6-c81f4b752acf.webp)
 
 
 
@@ -665,7 +665,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/d7a3e9f4-3191-4cbf-a537-bb0c75d15b0c.png)
+![](/images/btnews/0301_0400/0398/d7a3e9f4-3191-4cbf-a537-bb0c75d15b0c.webp)
 
 
 
@@ -699,7 +699,7 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/3fd184a6-84e6-496d-b8a2-259b1636d399.jpg)
+![](/images/btnews/0301_0400/0398/3fd184a6-84e6-496d-b8a2-259b1636d399.webp)
 
 
 
@@ -707,5 +707,5 @@ BOT8705488CUC.html
 
 
 
-![](/images/btnews/0301_0400/0398/4d74ac5b-2ac3-4a52-9f40-32e5ff4247f1.jpg)
+![](/images/btnews/0301_0400/0398/4d74ac5b-2ac3-4a52-9f40-32e5ff4247f1.webp)
 

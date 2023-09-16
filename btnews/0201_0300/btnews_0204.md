@@ -9,7 +9,7 @@ date: 2020-12-08
 
 [出口量大增！自行车怎么就火起来了？\_疫情](https://www.sohu.com/a/401381951_120702)
 
-![](images/btnews/0201_0300/0204/media/image1.png)
+![](/images/btnews/0201_0300/0204/image1.webp)
 
 但是，11月28日经济观察报报道，中国自行车的生产量很难满足欧美全部的需求，因为变速器部件供应不足，这是怎么回事？
 
@@ -17,11 +17,11 @@ date: 2020-12-08
 
 我们先看一下基本数据。在疫情之前，全世界年产自行车1.2亿辆，中国制造8000多万辆，出口5000万辆以上。在中国内部，长三角、天津、深圳三大自行车产业基地生产了90%的自行车，产业集中度非常高。
 
-![](images/btnews/0201_0300/0204/media/image2.jpeg)
+![](/images/btnews/0201_0300/0204/image2.webp)
 
 但是，这还不是完整的产业链。自行车产业链有四大环节，零部件制造、整车装配、品牌商和经销商。零部件厂商制造轮胎、车架、制动传动系统等主要组件，整车装配商进行设计装配，品牌商（OBM）贴上品牌商标，交给经销商渠道销售。中国虽然是世界最大的自行车生产国，但主要集中在整车装配环节，为品牌商提供代工服务，主要的利润被国际品牌商和少数核心零部件制造企业拿走了。
 
-![](images/btnews/0201_0300/0204/media/image3.jpeg)
+![](/images/btnews/0201_0300/0204/image3.webp)
 
 每年生产的1.2亿辆自行车，有六分之一可以变速。这2000万辆车，最核心的部件是速器是，价格可以占到整车价格的40%左右，是产业链利润率相当高的一部分。
 
@@ -29,9 +29,9 @@ date: 2020-12-08
 
 禧玛诺公路变速器系列和山地变速器系列
 
-![](images/btnews/0201_0300/0204/media/image4.png)
+![](/images/btnews/0201_0300/0204/image4.webp)
 
-![](images/btnews/0201_0300/0204/media/image5.png)
+![](/images/btnews/0201_0300/0204/image5.webp)
 
 [验证码_哔哩哔哩](https://www.bilibili.com/read/cv1410134/)
 
@@ -41,13 +41,13 @@ date: 2020-12-08
 
 [MEGAVALANCHE 2019 \| Fighting for 1st place! \| FULL RACE x Kilian BRON - YouTube](https://www.youtube.com/watch?v=wKBBeRcFnDY)
 
-![](images/btnews/0201_0300/0204/media/image6.png)
+![](/images/btnews/0201_0300/0204/image6.webp)
 
 （典型的山地自行车，轮胎抓地力强，用“站着”的姿势骑。）
 
 [Road To Rampage Ep 6 - Reaching The Final Destination \| Red Bull Rampage 2014 - YouTube](https://www.youtube.com/watch?v=8XlYXl111XI)
 
-![](images/btnews/0201_0300/0204/media/image7.png)
+![](/images/btnews/0201_0300/0204/image7.webp)
 
 今年10月份，中国自行车订单量比去年同期增长了220%，但是日本禧玛诺和美国速联发不出货。10月末，中国的变速器存货耗尽，所以自行车行业遇到了生产瓶颈。
 
@@ -67,49 +67,49 @@ date: 2020-12-08
 
 从企业战略来看，这家蓝图公司也是要寻求增量市场。蓝图的产品一般比同档次的禧玛诺变速器便宜30%，现在重点开拓东南亚和南美市场，这里有很多喜欢自行车运动充满兴趣和天赋的年轻人，但对运动型自行车的价格比较敏感，更愿意尝试新品牌。而且蓝图提供2年质保，比其他品牌长一倍，的确有点像前几年的华为，用服务来弥补自己的技术不足。希望这次疫情能给他们提供机会。
 
-![](images/btnews/0201_0300/0204/media/image8.jpeg)
+![](/images/btnews/0201_0300/0204/image8.webp)
 
 **前两周，媒体还挖掘了一个中国落后产能靠世界市场赚钱的例子，江苏一家生产液化气钢瓶的工厂，原来产品滞销快要停产了。2017年找到了向也门出口的渠道，销售爆发式增长，现在一年要向也门发送500个集装箱，销售额几亿元。并且还在继续增长。**
 
 [煤气罐是过时生意？江苏90后小伙抢占也门煤气罐九成市场_能见度_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_9797012)
 
-![](images/btnews/0201_0300/0204/media/image9.jpeg)
+![](/images/btnews/0201_0300/0204/image9.webp)
 
-![](images/btnews/0201_0300/0204/media/image10.png)
+![](/images/btnews/0201_0300/0204/image10.webp)
 
 出口到也门的液化气钢瓶（阿里巴巴电商平台截图)
 
-![](images/btnews/0201_0300/0204/media/image11.jpeg)
+![](/images/btnews/0201_0300/0204/image11.webp)
 
 **也门从2015年就开始打内战。目前当地经济已经接近崩溃，联合国机构多次警告也门可能出现大规模人道主义灾难。这种情况下，也门为什么还要用宝贵的外汇，进口那么多液化气钢瓶。**
 
-![](images/btnews/0201_0300/0204/media/image12.png)
+![](/images/btnews/0201_0300/0204/image12.webp)
 
 因为也门虽然内战，但是生态崩溃，已经几乎丧失了从自然界获取燃料的能力。
 
 也门整体上属于热带沙漠气候，夏季平均气温37度，冬季平均气温20度，取暖的需求不大。但是人毕竟是吃熟食的动物，做饭烧水的需求还是有的，所以大量使用木柴和牛粪烧火。
 
-![](images/btnews/0201_0300/0204/media/image13.jpeg)
+![](/images/btnews/0201_0300/0204/image13.webp)
 
-![](images/btnews/0201_0300/0204/media/image14.jpeg)
+![](/images/btnews/0201_0300/0204/image14.webp)
 
 联合国调查过，直到21世纪10年代，也门最富裕的10%家庭，大部分也会在家里使用一部分生物质燃料，也就是木柴和牛粪。越贫困的家庭，使用生物质燃料的比例就越多，并且往往是自己搜集，而不是在市场上购买。
 
-![](images/btnews/0201_0300/0204/media/image15.png)
+![](/images/btnews/0201_0300/0204/image15.webp)
 
 也门家庭获取生物质燃料途径（比例）
 
-![](images/btnews/0201_0300/0204/media/image16.png)
+![](/images/btnews/0201_0300/0204/image16.webp)
 
 也门街头堆放的待售木柴
 
-为了节约燃料，很多穷人家庭一天只烧一次饭。但是60%的也门家庭，每月要花费至少100小时收集木柴，还有30%家庭需要200小时以上。![](images/btnews/0201_0300/0204/media/image17.png)
+为了节约燃料，很多穷人家庭一天只烧一次饭。但是60%的也门家庭，每月要花费至少100小时收集木柴，还有30%家庭需要200小时以上。![](/images/btnews/0201_0300/0204/image17.webp)
 
 也门家庭平均每月收集木柴时间
 
-![](images/btnews/0201_0300/0204/media/image18.png)
+![](/images/btnews/0201_0300/0204/image18.webp)
 
-![](images/btnews/0201_0300/0204/media/image19.png)
+![](/images/btnews/0201_0300/0204/image19.webp)
 
 也门传统简易炉灶
 
@@ -117,37 +117,37 @@ date: 2020-12-08
 
 [åå¡é¨ç½ç«](http://ye.mofcom.gov.cn/aarticle/jmxw/200911/20091106635207.html)
 
-![](images/btnews/0201_0300/0204/media/image20.png)
+![](/images/btnews/0201_0300/0204/image20.webp)
 
-![](images/btnews/0201_0300/0204/media/image21.png)
+![](/images/btnews/0201_0300/0204/image21.webp)
 
 所以，为了最基本的生存，也门必须削减其他方面的进口，优先解决燃料问题，购买天然气和钢瓶。
 
 对于上一代中国人来说，这种生活并不遥远。1974年，中国已经有9亿人口，我父亲回忆，当时大多数居民区周围根本找不到灌木丛，早晨5点起来还能捡到晚上没人发现的牛粪，6点起床可能就捡不到了。所以80年代，中国刚刚能供应液化气钢瓶，所有家庭都会抢购，连没检测过的二手液化气瓶都很抢手。80后、90后都应该有老式炉灶和液化气厨具共存的记忆。到2008年，中国城镇家庭燃气使用率刚刚超过90%，大多数是用液化气瓶，之后才慢慢变成管道煤气。
 
-![](images/btnews/0201_0300/0204/media/image22.png)
+![](/images/btnews/0201_0300/0204/image22.webp)
 
-![](images/btnews/0201_0300/0204/media/image23.png)
+![](/images/btnews/0201_0300/0204/image23.webp)
 
 因为中东的天然气便宜，这次内战之前，也门政府也努力普及过一轮燃气，一度大多数市民家庭已经用上了液化气瓶。
 
-![](images/btnews/0201_0300/0204/media/image24.png)
+![](/images/btnews/0201_0300/0204/image24.webp)
 
 也门家庭不同燃料使用情况
 
-![](images/btnews/0201_0300/0204/media/image25.png)
+![](/images/btnews/0201_0300/0204/image25.webp)
 
 也门家庭（按城乡、收入分）使用LPG比例
 
 https://esmap.org/sites/default/files/esmap-files/FR315-05_YEMEN_Household_Energy_Supply_Use_vol1.pdf
 
-![](images/btnews/0201_0300/0204/media/image26.png)
+![](/images/btnews/0201_0300/0204/image26.webp)
 
 但是，也门经济就卡在这个液化气和木柴并存的水平上，甚至因为内战开始倒退。2013年，中国驻也门大使馆就提醒国内企业，也门已经有700万个液化气罐过期，可以去推销。现在果然被这位继承煤气罐工厂的兄弟抓住机会了。
 
-![](images/btnews/0201_0300/0204/media/image27.png)
+![](/images/btnews/0201_0300/0204/image27.webp)
 
-![](images/btnews/0201_0300/0204/media/image28.png)
+![](/images/btnews/0201_0300/0204/image28.webp)
 
 前几天有记者采访这位工厂主，他说下一个机会在非洲，这个眼光看的很准，凡是人口暴增，但是缺乏新城区建设，不能布置燃气管道的地方，都可以向1990年前后的中国学习，优先普及液化气瓶灶具。
 
@@ -157,7 +157,7 @@ https://esmap.org/sites/default/files/esmap-files/FR315-05_YEMEN_Household_Energ
 
 **中国本土已经在大规模淘汰煤气罐了，而且液化气瓶也不是什么高科技产品，为什么这些落后国家不能自己组织生产呢？**
 
-![](images/btnews/0201_0300/0204/media/image29.jpeg)
+![](/images/btnews/0201_0300/0204/image29.webp)
 
 液化气瓶虽然结构简单，但也是压力容器。需要基于本地工业水平，做严格的质量控制，才能避免燃气泄漏。
 
@@ -166,31 +166,31 @@ https://esmap.org/sites/default/files/esmap-files/FR315-05_YEMEN_Household_Energ
 
 前两年，叙利亚战争还热门时，国内媒体报道过民间武装把煤气罐改装成大号炮弹新闻。
 
-![](images/btnews/0201_0300/0204/media/image30.png)
+![](/images/btnews/0201_0300/0204/image30.webp)
 
-![](images/btnews/0201_0300/0204/media/image31.png)
+![](/images/btnews/0201_0300/0204/image31.webp)
 
 当地武装甚至还为这些煤气罐制造了大口径迫击炮。
 
-![](images/btnews/0201_0300/0204/media/image32.jpeg)
+![](/images/btnews/0201_0300/0204/image32.webp)
 
-![](images/btnews/0201_0300/0204/media/image33.png)
+![](/images/btnews/0201_0300/0204/image33.webp)
 
-![](images/btnews/0201_0300/0204/media/image34.png)
+![](/images/btnews/0201_0300/0204/image34.webp)
 
-![](images/btnews/0201_0300/0204/media/image35.jpeg)
+![](/images/btnews/0201_0300/0204/image35.webp)
 
 这说明，对于落后国家来说，煤气罐本身是军火级别的产品，不是随随便便能生产的。
 
 再说一个细节。凡是使用液化气瓶的城市，必然是需要大量人力搬运的老城区，中间少不了野蛮装卸和碰撞，液化气瓶和上面的把手之间，必须要有牢固连接。过去我们的工业水平不行，要用粗螺丝来固定把手，应力集中，制造了断裂和泄露隐患。1996年以后，中国淘汰了这批产品，统一换成焊接，还往往有简单的X光探伤设备检测，才能在城市化的同时快速普及燃气。落后国家要学中国，恐怕很难配齐可靠的焊接和探伤技工。
 
-![](images/btnews/0201_0300/0204/media/image36.png)
+![](/images/btnews/0201_0300/0204/image36.webp)
 
 [æ°æµªåå®¢](http://blog.sina.com.cn/s/blog_a93400300102x3sc.html)
 
 当然，如果是高价值组装商品，落后国家也可以进口关键部件，在国内组装，多少省点钱。但是液化气瓶的价格和利润率并不高，在全世界范围内做产业链配合，穷人就买不起了，必然是在本地区内和上下游产业配合，才能赚钱。而且焊接起来的东西，很难进口散件组装，所以，虽然最近这些在人口压力下被迫燃气化的城市基本都分布在第三世界，劳动力廉价，还是要找中国进口钢瓶，把中国本土刚刚过时的产能重新发动起来。前面自行车的例子说明，中国想在貌似简单的产业链里挤掉发达国家非常难，但是别的国家想在更简单的产品上冲击中国的地位，也没那么容易。
 
-![](images/btnews/0201_0300/0204/media/image37.png)
+![](/images/btnews/0201_0300/0204/image37.webp)
 
 11月30日，标普公司同意用440亿美元收购埃信华迈（IHS
 Markit），新闻里经常听到标普评级公司的名字，这个价值几百亿美元的埃信华迈公司生产什么产品？
@@ -202,7 +202,7 @@ PMI
 从名字就能看出来，埃信华迈（IHS
 Markit）的前身，是主营产业信息调研的美国HIS公司，和英国Markit金融数据服务公司，两家公司2016年合并。合并之前，两家公司已经在自己的领域进行了长期的收购扩张。IHS用十年时间合并30多家数据服务公司，覆盖了航天、能源、汽车、材料、通信、航运等多个领域，Markit也陆续收购了几家国际金融数据服务商。2016年之后，新成立的埃信华迈还在继续收购，甚至在2018年买下了竞争对手Ipreo。
 
-![](images/btnews/0201_0300/0204/media/image38.jpeg)
+![](/images/btnews/0201_0300/0204/image38.webp)
 
 [埃信华迈(IHS Markit)正式发布中文品牌名称-新华丝路](https://www.imsilkroad.com/news/p/389813.html)
 
@@ -234,13 +234,13 @@ Markit）的前身，是主营产业信息调研的美国HIS公司，和英国Ma
 
 包括157期节目在内，我们多次关注了北非极端主义势力向南渗透的问题，指出撒哈拉沙漠边缘的萨赫勒地区可能会同时出现生态和社会崩溃。
 
-![](images/btnews/0201_0300/0204/media/image39.png)
+![](/images/btnews/0201_0300/0204/image39.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1683877222150220908&wfr=spider&for=pc)
 
 过去大半年，非洲极端组织的扩张非常迅速，从喀麦隆北部跨越整个非洲中部，已经开始袭击非洲东南部，马达加斯加岛对岸的莫桑比克。8月份，他们占领了一个印度洋港口，网上还有政府军装备被缴获的照片。
 
-![](images/btnews/0201_0300/0204/media/image40.jpeg)
+![](/images/btnews/0201_0300/0204/image40.webp)
 
 11月18日，莫桑比克总理表示，来自北方的极端主义武装已经导致北部德尔加杜角省出现50万难民。这种从地中海到大西洋再到印度洋的跨大陆武装扩张发生在短短几年内，可见整个非洲内陆实际上都是无政府状态。
 
@@ -256,7 +256,7 @@ Markit）的前身，是主营产业信息调研的美国HIS公司，和英国Ma
 
 明天，12月9日，青海格尔木到新疆库尔勒的格库铁路将全线开通。
 
-![](images/btnews/0201_0300/0204/media/image41.jpeg)
+![](/images/btnews/0201_0300/0204/image41.webp)
 
 过去内地去新疆只有两条铁路，传统的兰新铁路和内蒙古方向的哈额铁路。但是哈额铁路一直不通客运，这次的格库铁路是通客车的，12306已经开始售票，以后我们可以体会不走河西走廊进新疆的感受，我有机会也要去坐这趟车，看看我当年做毕业设计的地方。
 

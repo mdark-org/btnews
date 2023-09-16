@@ -20,7 +20,7 @@ tag: [航天, 火箭, SpaceX, 马斯克, 重型火箭, SLS火箭, NASA]
 > 
 > [Artemis II Orion Service Module Completes Acoustic Testing](https://blogs.nasa.gov/artemis/?msclkid=e7617ce8c01811ecb6025e4ebd6a3b4f)
 
-![](/images/btnews/0401_0500/0435/media/image1.jpeg "4月25日，SLS被移出发射台")
+![](/images/btnews/0401_0500/0435/image1.webp "4月25日，SLS被移出发射台")
 
 美国另一款正在开发的重型火箭项目，是马斯克的星舰。从2018年底开始，马斯克就批量生产用来测试的飞船与助推器。按照之前的进度，很多人推测，24号飞船与7号助推器可能会组合起来，在今年上半年星舰首次发射。 
 
@@ -28,7 +28,7 @@ tag: [航天, 火箭, SpaceX, 马斯克, 重型火箭, SLS火箭, NASA]
 
 > [Leaked image shows damage inside SpaceX’s Starship Booster 7 prototype](https://spaceexplored.com/2022/04/22/leaked-image-shows-damage-inside-spacexs-starship-booster-7-prototype/)
 
-![](/images/btnews/0401_0500/0435/media/image2.jpeg "星舰7号助推器内部损坏照片")
+![](/images/btnews/0401_0500/0435/image2.webp "星舰7号助推器内部损坏照片")
  
 
 美国两款重型火箭同时遇到了故障，是不是说明美国航天发展整体出了问题？ 
@@ -59,7 +59,7 @@ SLS的项目管理原则，是按部就班推进，确保万无一失，不断�
 
 现在严格管控的SLS火箭已经走到发射演练最后几步，我估计这些琐碎的问题很快就可以解决，年内会完成首次发射，而且大概率会成功。
 
-![](/images/btnews/0401_0500/0435/media/image3.png "SLS发射演练任务清单 ")
+![](/images/btnews/0401_0500/0435/image3.webp "SLS发射演练任务清单 ")
 
 > [Artemis I Launch Countdown 101](https://www.nasa.gov/content/artemis-i-launch-countdown-101/)
 
@@ -92,21 +92,21 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 星舰在底层技术上就要超越冷战时代，几乎每一个技术节点都充满了挑战，项目最初的几年，整体方案反复大幅度修改，最后选择用焊接的304不锈钢作为火箭主体。这在传统航天部门看来完全不靠谱，但是马斯克通过反复的破坏性试验来反馈工艺，硬是把不靠谱的技术路线走成了现实。 
 
 
-![](/images/btnews/0401_0500/0435/media/image4.jpeg)
+![](/images/btnews/0401_0500/0435/image4.webp)
 
 > [Slides & animations from Starship 2022 update presentation by Elon Musk](https://www.humanmars.net/p/starship.html)
 
-![](/images/btnews/0401_0500/0435/media/image5.jpeg)
+![](/images/btnews/0401_0500/0435/image5.webp)
 
 > [Starbase Production Diagram - 20th April 2022 [@brendanlewis]](https://www.reddit.com/r/SpaceXLounge/comments/u8cc2y/starbase_production_diagram_20th_april_2022/)
 
 不锈钢焊火箭这种看似粗暴的技术解决方案，在星舰的技术开发中，是一种常态。比如说，星舰返回过程中，要二次点火着陆，这时候液氧箱已经半空，会产生大量气泡影响发动机燃烧，甚至造成机械损伤。Space X公司并没有在液氧箱内部搞复杂结构，而是到星舰顶部增加了一个高位液氧罐，专门在返回阶段给发动机供氧，同时兼顾配重。又比如，飞行器再入阶段往往会遇到等离子体黑障，导致地面测控无法覆盖火箭降落的全程。为了保障数据链，猎鹰9与星舰上安装了多个相控阵遥测天线，利用星链卫星做到全程测控覆盖。 
 
-![](/images/btnews/0401_0500/0435/media/image6.png)
+![](/images/btnews/0401_0500/0435/image6.webp)
 
-![](/images/btnews/0401_0500/0435/media/image7.png)
+![](/images/btnews/0401_0500/0435/image7.webp)
 
-![](/images/btnews/0401_0500/0435/media/image8.jpeg)
+![](/images/btnews/0401_0500/0435/image8.webp)
 
 > [Starship vs Falcon 9, what’s new and improved?](https://everydayastronaut.com/definitive-guide-to-starship/)
 > 
@@ -119,20 +119,20 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 
 
 
-![](/images/btnews/0401_0500/0435/media/image9.jpeg)
+![](/images/btnews/0401_0500/0435/image9.webp)
 
-![](/images/btnews/0401_0500/0435/media/image10.jpeg)
+![](/images/btnews/0401_0500/0435/image10.webp)
 
 > [SpaceX says Starship can beat ‘plasma blackout’ with Starlink antennas](https://www.teslarati.com/spacex-starship-plasma-blackout-starlink-test/)
 
 除了这些简单粗暴开脑洞的技术方案，星舰还有很多冷战期间开脑洞也组合不出来的高精尖技术。比如说，火箭最核心的部件是发动机，而发动机的核心部件是涡轮泵术。当初开发猎鹰火箭的默林发动机时，还是靠NASA提供技术支持，直接用阿波罗登月舱下降发动机的针式喷油器，以及X-34飞行器上的Frastrac发动机涡轮泵，提供涡轮泵技术支持的供应商也是同一家，巴伯-尼科尔斯（Barber-Nichols）公司。 
 
 
-![](/images/btnews/0401_0500/0435/media/image11.jpeg "X-34")
+![](/images/btnews/0401_0500/0435/image11.webp "X-34")
 
-![](/images/btnews/0401_0500/0435/media/image12.png)
+![](/images/btnews/0401_0500/0435/image12.webp)
 
-![](/images/btnews/0401_0500/0435/media/image13.png)
+![](/images/btnews/0401_0500/0435/image13.webp)
 
 > [Rocket Engine Turbopumps](https://barber-nichols.com/products/rocket-engine-turbopumps/)
 
@@ -140,18 +140,18 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 
 造涡轮泵需要铬镍铁合金，默林发动机用的还是传统的718号合金，但到了星舰的猛禽发动机，这些成熟的材料满足不了需求。因为猛禽发动机考虑到长期维护，以及深空任务的燃料中继，选择了液氧甲烷燃料组合。液氧甲烷组合燃料可以减少发动机积碳，未来执行火星任务的时候，还可以在火星上利用萨巴捷反应合成甲烷，提供二次发射的燃料。 
 
-![](/images/btnews/0401_0500/0435/media/image14.png)
+![](/images/btnews/0401_0500/0435/image14.webp)
 
 > [萨巴捷反应 - 维基百科](https://zh.m.wikipedia.org/wiki/%E8%96%A9%E5%B7%B4%E6%8D%B7%E5%8F%8D%E6%87%89)
 
 甲烷燃料密度比煤油低，要想达到同等水平的比冲，必须靠超高内部压力提高性能，传统合金在这种高温高压环境下会烧熔、碎裂。Space X公司专门为此开发出了超强的SX300与SX500单晶镍合金。现在猛禽发动机的涡轮泵最高压力达到800个大气压，作为对比，国内长征五号火箭用的YF-100只有500个大气压；猛禽燃烧室300个大气压，YF-100只有180个大气压。 
 
-![](/images/btnews/0401_0500/0435/media/image15.jpeg)
+![](/images/btnews/0401_0500/0435/image15.webp)
 
-![](/images/btnews/0401_0500/0435/media/image16.png)
+![](/images/btnews/0401_0500/0435/image16.webp)
 
 
-![](/images/btnews/0401_0500/0435/media/image17.jpeg "SpaceX用超强合金铸造猛禽发动机部件")
+![](/images/btnews/0401_0500/0435/image17.webp "SpaceX用超强合金铸造猛禽发动机部件")
 
 
 > [SpaceX foundry casting Raptor engine manifold out of Inconel](https://twitter.com/elonmusk/status/1096722006450462721)
@@ -159,39 +159,39 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 > [SpaceX Casting Raptor Engine Parts from Supersteel Alloys](https://www.nextbigfuture.com/2019/02/spacex-casting-raptor-engine-parts-from-supersteel-alloys.html)
 
 
-![](/images/btnews/0401_0500/0435/media/image18.jpeg)
+![](/images/btnews/0401_0500/0435/image18.webp)
 
-![](/images/btnews/0401_0500/0435/media/image19.jpeg)
+![](/images/btnews/0401_0500/0435/image19.webp)
 
 > [SpaceX Raptor](https://spaceflight101.com/spx/spacex-raptor/)
 > [长征五号火箭新型发动机为最强动力添“底气”](http://zhuanti.spacechina.com/n1489207/n1489341/n1489366/c1503021/content.html)
 
 猛禽发动机选用的构型，是效率最高、技术难度最大的全流量分级燃烧循环（FFSCC），为此也要克服最多的技术难题。之前世界上相同构型的发动机只有两款，一款是苏联的最强毒发RD-270，刚测试成功就因美国抢先完成登月而放弃；另一款是美国在2006年开发出来的集成动力验证器，听名字就知道只是个技术验证平台。可以说，使用猛禽发动机的星舰，是唯一准备实用的全流量分级燃烧循环发动机火箭。 
 
-![](/images/btnews/0401_0500/0435/media/image20.gif)
+![](/images/btnews/0401_0500/0435/image20.webp)
 
 > [SpaceX的猛禽是目前最强的火箭发动机吗？](https://36kr.com/p/1723941158913)
 
-![](/images/btnews/0401_0500/0435/media/image21.jpeg)
+![](/images/btnews/0401_0500/0435/image21.webp)
 
-![](/images/btnews/0401_0500/0435/media/image22.jpeg)
+![](/images/btnews/0401_0500/0435/image22.webp)
 
-![](/images/btnews/0401_0500/0435/media/image23.jpeg "苏联RD-270发动机与UR-700火箭计划")
+![](/images/btnews/0401_0500/0435/image23.webp "苏联RD-270发动机与UR-700火箭计划")
 
-![](/images/btnews/0401_0500/0435/media/image24.jpeg "集成动力验证器")
+![](/images/btnews/0401_0500/0435/image24.webp "集成动力验证器")
 
 采用了最激进的技术方案之后，Space X还对已经验证过的方案做了一系列大胆优化。比如，氧涡轮泵布置在推力室上方，与推力室同轴，涡轮出口就是推力室的入口；氧预燃室做成环形，集成到涡轮泵内部，同时直接利用供氧来冷却轴承和预燃室；用推进剂升温换热蒸发，给贮箱增压，集成到高温组件内部；用火炬式点火器替代传统化学点火。超复杂的发动机进一步被压缩，现在猛禽2号的海平面推重比达到了200，相当于一个成年人举起一辆汽车，刷新了Space X自己在默林1D创下的世界纪录。 
-![](/images/btnews/0401_0500/0435/media/image25.jpeg)
+![](/images/btnews/0401_0500/0435/image25.webp)
 > 《星舰动力特点及再入过程推进剂流动仿真研究 》2021 
 > 《梅林和猛禽液体火箭发动机技术研究与启示》2020 
 
-![](/images/btnews/0401_0500/0435/media/image26.jpeg "猛禽1号与猛禽2号")
+![](/images/btnews/0401_0500/0435/image26.webp "猛禽1号与猛禽2号")
 
 > [Musk outlines Starship progress towards self-sustaining Mars city](https://www.nasaspaceflight.com/2022/02/starships-self-sustaining-city-mars/)
 
 优化之后的发动机紧凑结构，必然导致管线和零部件扭曲，用传统工艺加工，保证不了强度。所以Space X采用了大量先进加工技术，使用激光烧结3D打印生产零部件，连燃烧室都是打印出来的。这在传统航天领域，属于制造额外风险的技术大跃进。 
 
-![](/images/btnews/0401_0500/0435/media/image27.jpeg)
+![](/images/btnews/0401_0500/0435/image27.webp)
 
 > [Elon Musk’s recent “Ludicrous” announcement hints at more synergy between Tesla and SpaceX](https://electrek.co/2015/07/22/elon-musks-recent-ludicrous-announcement-hints-at-more-synergy-between-tesla-and-spacex/)
 
@@ -215,13 +215,13 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 
 苏联没有这样的市场手段，每次在航天竞赛中遇到重大挑战，往往就只能靠行政施压，逼迫各单位大干快上，最后在混乱和妥协中制造重大事故，直到快解体还是这样。80年代，苏联为了迎接里根星球大战的挑战，快马加鞭冒险开发80吨重的大型轨道激光武器卫星（Skif-DM），最后因为一个程序上的失误，卫星发动机突然点火，刚入轨就坠毁了。 
 
-![](/images/btnews/0401_0500/0435/media/image28.jpeg)
+![](/images/btnews/0401_0500/0435/image28.webp)
 
-![](/images/btnews/0401_0500/0435/media/image29.jpeg)
+![](/images/btnews/0401_0500/0435/image29.webp)
 
 我们经常说Space X是商业航天企业，这话不完全准确，从美国的整个航天行业来看，Space X的运行模式算是计划框架内的有限市场。只不过美国太有钱，切出来的这个有限市场太大，大到超过其它国家航天产业规模，再加上之前积累的分项技术太多，所以Space X在商业上显得特别成功。 
 
-![](/images/btnews/0401_0500/0435/media/image30.png)
+![](/images/btnews/0401_0500/0435/image30.webp)
 > 《SpaceX 公司组织结构及业务运营浅析》2021 
 
 说这些倒不是鼓吹航天工业全面市场化，市场也只是个制度工具，有具体的适用边界。如果我们要学习美国，一方面要学习残酷的淘汰制，准备解散一批企业团队。另一方面，我们要把节约下来的政府资源用到合适的地方。因为航天工业的体系建设的确有大量看不见短期回报的沉没成本，美国人可以用金融市场的预期来填成本，我们暂时还得用更多的政府投入计划去补缺口。 
@@ -245,9 +245,9 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 所以，中国必须严肃规划自己的航天体制，不能总是对着马斯克或者美国搞道德批判。苏联和美国当年搞航天竞赛，都是用实力做批判的。 
 
 
-![](/images/btnews/0401_0500/0435/media/image31.jpeg)
+![](/images/btnews/0401_0500/0435/image31.webp)
 
-![](/images/btnews/0401_0500/0435/media/image32.jpeg)
+![](/images/btnews/0401_0500/0435/image32.webp)
 
 > [SPACEThe Cost of Space Flight Before and After SpaceX](https://www.visualcapitalist.com/the-cost-of-space-flight/)
 
@@ -259,15 +259,15 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 
 中国的类似项目，原来是要等长征九号火箭技术成熟，按美国60年代阿波罗计划方案执行。考虑到美国最新的竞争压力下，中国登月火箭改版成了长五并联登月版的“921”火箭（CZ-5DY），准备2028年首飞，2030年登月。新的应急方案开始参考马斯克的猎鹰重型方案。如果没有马斯克的成功案例在先，这种方案多半会因为技术冒险，被内部否定。 
 
-![](/images/btnews/0401_0500/0435/media/image33.jpeg "长征九号旧版方案")
+![](/images/btnews/0401_0500/0435/image33.webp "长征九号旧版方案")
 
-![](/images/btnews/0401_0500/0435/media/image34.jpeg)
+![](/images/btnews/0401_0500/0435/image34.webp)
 
-![](/images/btnews/0401_0500/0435/media/image35.png "长征五号登月火箭方案")
+![](/images/btnews/0401_0500/0435/image35.webp "长征五号登月火箭方案")
 
 > [姜杰委员：新一代载人运载火箭或助力我国2030年载人登月](http://www.stdaily.com/index/kejixinwen/202203/dd7fa12051c7464fa2e6b5fce2f38cd1.shtml)
 
-![](/images/btnews/0401_0500/0435/media/image36.jpeg)
+![](/images/btnews/0401_0500/0435/image36.webp)
 
 > [China to develop two super-heavy launchers for moon missions](https://spacenews.com/china-to-develop-two-super-heavy-launchers-for-moon-missions/)
 
@@ -276,20 +276,20 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 但从最近的报告会来看，长征九号又改成了星舰方案，一级火箭准备用26台200吨推力的液氧甲烷发动机。临时换赛道，意味着之前的成果又要归零。 
 
 
-![](/images/btnews/0401_0500/0435/media/image37.png)
+![](/images/btnews/0401_0500/0435/image37.webp)
 
 > [我国500吨级发动机全工况半系统试车成功 为重型火箭打下基础](https://www.sohu.com/a/454240356_116237)
 
-![](/images/btnews/0401_0500/0435/media/image38.jpeg)
+![](/images/btnews/0401_0500/0435/image38.webp)
 
 > [航天强国的重要标志！中国重型火箭220吨级发动机现身](http://www.xinhuanet.com/mil/2021-07/29/c_1211265065.htm)
 
 
-![](/images/btnews/0401_0500/0435/media/image39.jpeg)
+![](/images/btnews/0401_0500/0435/image39.webp)
 
 > [中国推力500吨整体式固体火箭发动机试车成功](http://www.stdaily.com/cehua/Oct20th/2021-10/20/content_1227046.shtml)
 
-![](/images/btnews/0401_0500/0435/media/image40.jpeg)
+![](/images/btnews/0401_0500/0435/image40.webp)
 
 对于中国来说，重型火箭可预期的经济和军事回报不明朗，难以说服上级领导，至少比马斯克说服金融部门要难，所以立项必须反复权衡目标，避免出现失败之后，多年拿不到后续资金。 
 
@@ -302,12 +302,12 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 目前国内的民营航天企业还很弱小，在液氧甲烷发动机方面走得最远的，是民营企业蓝箭航天。蓝箭现在定型的发动机天鹊12，推力只有80吨，为了降低技术难度，用的还是开式循环，应该是为开发迷你版星舰做准备。国内的民营航天起码还需要十年以上的孵化周期，才有能力开发重型火箭，来不及应付美国这一轮挑战了。 
 
 
-![](/images/btnews/0401_0500/0435/media/image41.jpeg)
+![](/images/btnews/0401_0500/0435/image41.webp)
 
 > [Starship lookalike among China’s new human spaceflight concepts](https://spacenews.com/starship-lookalike-among-chinas-new-human-spaceflight-concepts/)
 
 
-![](/images/btnews/0401_0500/0435/media/image42.png)
+![](/images/btnews/0401_0500/0435/image42.webp)
 
 > [http://landspace.com/engine/show.php?id=127](https://web.archive.org/web/20210226032903/http:/landspace.com/engine/show.php?id=127)
 
@@ -316,15 +316,15 @@ SLS火箭追求成功率，保住下限。马斯克的星舰要挑战技术上�
 在政府作用方面，应该充分发挥政府的统筹作用，搞举国体制，就彻底搞举国体制，建一个中国版的NASA，停止计划经济下的“九龙治水”。 
 
 
-![](/images/btnews/0401_0500/0435/media/image43.png)
+![](/images/btnews/0401_0500/0435/image43.webp)
 
 > [深瞳丨太空治理，中国不能缺席](http://www.stdaily.com/index/kejixinwen/2020-11/09/content_1041962.shtml)
 
 另外，火箭的测试、运输，无论是国有单位来做，还是民营单位来做，都对技术设施有硬性要求。成昆铁路设计的时候，就要考虑西昌发射基地运输火箭的需求，调整弯道和隧道的几何尺寸。美国当年开发土星五号时，对交通设施做过全面规划，现在的SLS火箭各部段转运，都在在沿用当年的公路、运河路线，Space X公司的火箭开发，也靠冷战设施大幅压低了成本。所以中国就算开发一遍保守版的航天器方案，从整个行业基础设施的规划建设角度来说，也是非常大的进步。 
 
-![](/images/btnews/0401_0500/0435/media/image44.png)
+![](/images/btnews/0401_0500/0435/image44.webp)
 
-![](/images/btnews/0401_0500/0435/media/image45.png)
+![](/images/btnews/0401_0500/0435/image45.webp)
 
 在这两个任务之外，政府应该充分对市场开放航天产业，不要让每个单位都能用自己的安全理由占用天空，不要让具体的服务机构只给对口企业做测试，不要企图去具体指导企业的开发逻辑，更不要把每一次成功都夸耀成民族之光，当然也就不会在失败的时候打击整个行业的热情。 
 

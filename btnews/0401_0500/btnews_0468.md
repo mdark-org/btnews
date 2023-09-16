@@ -4,7 +4,7 @@ date: 2022-08-08
 ---
 
 
-![](/images/btnews/0401_0500/0468/e8c63ac7-ae7e-4a4f-82b6-a5099a32e996.jpg)
+![](/images/btnews/0401_0500/0468/e8c63ac7-ae7e-4a4f-82b6-a5099a32e996.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-08-08
 
 
 
-![](/images/btnews/0401_0500/0468/a4bf46d8-4655-4edc-9152-1f015b0098f9.png)
+![](/images/btnews/0401_0500/0468/a4bf46d8-4655-4edc-9152-1f015b0098f9.webp)
 
 http://k.sina.com.cn/article_6433615942_17f7930460010152cr.html
 
@@ -24,7 +24,7 @@ http://k.sina.com.cn/article_6433615942_17f7930460010152cr.html
 
 
 
-![](/images/btnews/0401_0500/0468/3331e915-260c-4b78-8f49-8c5d93e3091f.jpg)
+![](/images/btnews/0401_0500/0468/3331e915-260c-4b78-8f49-8c5d93e3091f.webp)
 
 https://www.thepaper.cn/newsDetail_forward_18991367
 
@@ -37,7 +37,7 @@ https://www.thepaper.cn/newsDetail_forward_19111189
 
 
 
-![](/images/btnews/0401_0500/0468/b27d096f-5b11-4cfc-aace-1a997ff42435.png)
+![](/images/btnews/0401_0500/0468/b27d096f-5b11-4cfc-aace-1a997ff42435.webp)
 
 
 
@@ -50,7 +50,7 @@ https://www.thepaper.cn/newsDetail_forward_19111189
 
 
 
-![](/images/btnews/0401_0500/0468/72511a3d-f2b7-4322-9b8c-38c2a94ff313.png)
+![](/images/btnews/0401_0500/0468/72511a3d-f2b7-4322-9b8c-38c2a94ff313.webp)
 
 https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab952/6428613?login=false
 
@@ -59,7 +59,7 @@ https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab952/6428613?log
 
 
 
-![](/images/btnews/0401_0500/0468/f99e914c-e6d1-4194-908a-050970bc1f93.png)
+![](/images/btnews/0401_0500/0468/f99e914c-e6d1-4194-908a-050970bc1f93.webp)
 
 https://www.humanresourcesonline.net/living-with-omicron-in-singapore-simplified-recovery-protocols-flexibility-on-household-visitors-and-more-chi
 
@@ -68,7 +68,7 @@ https://www.humanresourcesonline.net/living-with-omicron-in-singapore-simplified
 
 
 
-![](/images/btnews/0401_0500/0468/5691b020-b1be-41bf-88a3-d62ed9eade47.png)
+![](/images/btnews/0401_0500/0468/5691b020-b1be-41bf-88a3-d62ed9eade47.webp)
 
 https://www.moh.gov.sg/news-highlights/details/employees-and-students-do-not-require-recovery-memos-to-return-to-work-or-school
 
@@ -85,7 +85,7 @@ https://view.inews.qq.com/a/20220416A02UAA00
 
 
 
-![](/images/btnews/0401_0500/0468/b82d461a-16d3-4c0a-aac6-814518d80a2a.png)
+![](/images/btnews/0401_0500/0468/b82d461a-16d3-4c0a-aac6-814518d80a2a.webp)
 
 
 
@@ -100,7 +100,7 @@ https://view.inews.qq.com/a/20220416A02UAA00
 
 
 
-![](/images/btnews/0401_0500/0468/a6291904-a6ea-43a7-bb82-4529674e6199.png)
+![](/images/btnews/0401_0500/0468/a6291904-a6ea-43a7-bb82-4529674e6199.webp)
 http://finance.sina.com.cn/tech/roll/2022-07-14/doc-imizirav3424850.shtml
 
 
@@ -124,7 +124,7 @@ http://finance.sina.com.cn/tech/roll/2022-07-14/doc-imizirav3424850.shtml
 
 这张榜单首先排除了北上广深一线城市，默认就算房产市场崩盘，这几个超级城市也能稳住价格。接下来合肥99分排第一名，杭州87分，成都75分，到了宁波就只有69分。往中西部去，郑州不到40分，武汉、重庆只有12分，但还明显高于天津的9.8分。这算是对未来几年房地产市场的一个悲观量化分析，也在一定程度上解释了停贷事件的分布。
 
-![](/images/btnews/0401_0500/0468/03fff9fb-e701-4e8e-8e8d-fadb15e50631.png)
+![](/images/btnews/0401_0500/0468/03fff9fb-e701-4e8e-8e8d-fadb15e50631.webp)
 
 
 
@@ -132,7 +132,7 @@ http://finance.sina.com.cn/tech/roll/2022-07-14/doc-imizirav3424850.shtml
 
 
 
-![](/images/btnews/0401_0500/0468/b4ea2fb1-c68e-4d0d-93bb-94467b5f5e6f.png)
+![](/images/btnews/0401_0500/0468/b4ea2fb1-c68e-4d0d-93bb-94467b5f5e6f.webp)
 
 https://m.gmw.cn/baijia/2022-07/17/1303049200.html
 
@@ -148,7 +148,7 @@ M-84保留了苏联的优秀设计，同时大量使用西方技术和工艺，�
 
 
 
-![](/images/btnews/0401_0500/0468/6e8c5d54-a30d-4e67-8a5d-3e0708eaf57b.png)
+![](/images/btnews/0401_0500/0468/6e8c5d54-a30d-4e67-8a5d-3e0708eaf57b.webp)
 
 
 
@@ -162,7 +162,7 @@ M-84保留了苏联的优秀设计，同时大量使用西方技术和工艺，�
 
 
 
-![](/images/btnews/0401_0500/0468/ae1cfdd7-11d0-46d7-ac14-136058d4d046.jpg)
+![](/images/btnews/0401_0500/0468/ae1cfdd7-11d0-46d7-ac14-136058d4d046.webp)
 
 
 
@@ -180,7 +180,7 @@ M-84保留了苏联的优秀设计，同时大量使用西方技术和工艺，�
 
 
 
-![](/images/btnews/0401_0500/0468/677a5d0b-f25f-4e23-8c8f-28a15a2e123f.png)
+![](/images/btnews/0401_0500/0468/677a5d0b-f25f-4e23-8c8f-28a15a2e123f.webp)
 
 https://www.thepaper.cn/newsDetail_forward_18994938
 
@@ -189,7 +189,7 @@ https://www.thepaper.cn/newsDetail_forward_18994938
 
 
 
-![](/images/btnews/0401_0500/0468/401cc36c-a679-4995-a113-f0a011b3209d.png)
+![](/images/btnews/0401_0500/0468/401cc36c-a679-4995-a113-f0a011b3209d.webp)
 
 
 
@@ -197,7 +197,7 @@ https://www.thepaper.cn/newsDetail_forward_18994938
 
 
 
-![](/images/btnews/0401_0500/0468/3173981f-3eda-41f7-ba13-25d220ba90d4.png)
+![](/images/btnews/0401_0500/0468/3173981f-3eda-41f7-ba13-25d220ba90d4.webp)
 
 https://www.12309.gov.cn/12309/gj/sd/sdbzsy/sdbxxy/zjxflws/202112/t20211223_11348226.shtml
 
@@ -209,7 +209,7 @@ https://www.12309.gov.cn/12309/gj/sd/sdbzsy/sdbxxy/zjxflws/202112/t20211223_1134
 
 
 
-![](/images/btnews/0401_0500/0468/b08372f7-e848-42a1-85fb-5e2b2049db02.png)
+![](/images/btnews/0401_0500/0468/b08372f7-e848-42a1-85fb-5e2b2049db02.webp)
 
 
 
@@ -229,9 +229,9 @@ https://www.12309.gov.cn/12309/gj/sd/sdbzsy/sdbxxy/zjxflws/202112/t20211223_1134
 
 
 
-![](/images/btnews/0401_0500/0468/e1fb6bae-70ad-4b19-b0b8-b3772cd288a8.png)
+![](/images/btnews/0401_0500/0468/e1fb6bae-70ad-4b19-b0b8-b3772cd288a8.webp)
 
-![](/images/btnews/0401_0500/0468/11105b21-137b-45a2-97c3-599b35d20458.png)
+![](/images/btnews/0401_0500/0468/11105b21-137b-45a2-97c3-599b35d20458.webp)
 
 https://sd.sina.cn/news/2020-07-21/detail-iivhvpwx6677337.d.html?pos=351&wm=1123?car_1$car_1&wm=1123?car_1$car_1
 
@@ -249,7 +249,7 @@ https://sd.sina.cn/news/2020-07-21/detail-iivhvpwx6677337.d.html?pos=351&wm=1123
 
 
 
-![](/images/btnews/0401_0500/0468/3c976e85-d8d2-4c94-87a0-a5b65fc700a8.png)
+![](/images/btnews/0401_0500/0468/3c976e85-d8d2-4c94-87a0-a5b65fc700a8.webp)
 
 https://www.163.com/dy/article/G19KR0C70550MC9U.html
 
@@ -258,7 +258,7 @@ https://www.163.com/dy/article/G19KR0C70550MC9U.html
 
 
 
-![](/images/btnews/0401_0500/0468/dca5acfc-e390-420b-8ee0-a925e5e2a6b3.png)
+![](/images/btnews/0401_0500/0468/dca5acfc-e390-420b-8ee0-a925e5e2a6b3.webp)
 
 http://bank.hexun.com/2019-05-21/197262578.html
 
@@ -267,7 +267,7 @@ http://bank.hexun.com/2019-05-21/197262578.html
 
 
 
-![](/images/btnews/0401_0500/0468/8d1004ef-61cc-4815-b27c-dec79d47a4a3.png)
+![](/images/btnews/0401_0500/0468/8d1004ef-61cc-4815-b27c-dec79d47a4a3.webp)
 
 http://www.lawcd.net/a/old-5-397.html
 
@@ -306,7 +306,7 @@ http://www.lawcd.net/a/old-5-397.html
 
 
 
-![](/images/btnews/0401_0500/0468/a5f37d08-8b92-4583-a21c-c6bcbf774b33.png)
+![](/images/btnews/0401_0500/0468/a5f37d08-8b92-4583-a21c-c6bcbf774b33.webp)
 
 我用三期节目回顾了过去的七月份典型事件，除了挖掘深层原因之外，几乎每一期的结论都是应该正视矛盾，承认已经形成的损失，让还能保持活力的经济部门轻装上阵，尽快恢复到高速增长状态。比如说466期结尾，我说人民银行应该尽快公布存款保险的实际覆盖范围，避免中小银行全面破产。这一期节目前面提到，新冠阳性人员恢复健康之后，应该被视为资源而不是负担。希望各位观众看到今年夏天的各种新闻之后，不要因为具体的矛盾冲突过于焦虑，而是能把视角放远，用长期发展化解矛盾。
 

@@ -6,7 +6,7 @@ date: 2022-08-22
 点击下图观看视频
 
 
-![](/images/btnews/0401_0500/0474/f87381e3-58b4-4cb2-8483-9b9cf92758a2.jpg)
+![](/images/btnews/0401_0500/0474/f87381e3-58b4-4cb2-8483-9b9cf92758a2.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-08-22
 
 7月25日，国家药监局发布公告，附条件批准河南真实生物阿兹夫定片增加治疗新冠肺炎适应症的注册申请。8月9日，国家卫生健康委与国家中医药管理局将阿兹夫定片纳入第九版《新型冠状病毒肺炎诊疗方案》。8月14日，海南将阿兹夫定片临时纳入医保支付范围。督工，你怎么看待这款进展迅速的国产抗新冠口服药？
 
-![](/images/btnews/0401_0500/0474/d57afc6f-8bfc-4695-b579-b3165d663fb1.png)
+![](/images/btnews/0401_0500/0474/d57afc6f-8bfc-4695-b579-b3165d663fb1.webp)
 
 https://baijiahao.baidu.com/s?id=1739421480403312105
 
@@ -23,7 +23,7 @@ https://baijiahao.baidu.com/s?id=1739421480403312105
 
 阿兹夫定不是新药，2009年就是有专利的化合物，2013年作为药物进入研发流程。它是一种核苷酸类抗病毒药物，治疗目标是对抗艾滋病。原理是通过冒充RNA合成底物，让病毒RNA合成错误，抑制病毒的复制。这恰好和最近几年新冠病毒的传播原理有一定互动。****
 
-![](/images/btnews/0401_0500/0474/ccf2816c-8e7f-4411-9346-6f825cedcc8c.png)
+![](/images/btnews/0401_0500/0474/ccf2816c-8e7f-4411-9346-6f825cedcc8c.webp)
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7547293/
 
@@ -31,12 +31,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7547293/
 
 新冠病毒的传播方式，是利用RNA依赖性RNA聚合酶，从RNA单链直接合成新的RNA。而合成RNA的原材料是核糖核苷酸，也就是我们说的底物。在宿主细胞内，阿兹夫定这一类药物伪装成天然核苷，通过活化酶催化，在 RNA合成期间嵌入病毒 RNA ，阻断向3端-羟基加入核苷酸的过程，最终打断RNA 链合成，阻止病毒复制。
 
-![](/images/btnews/0401_0500/0474/d575f88e-0ac6-487f-ac51-d32ddad3dd06.png)
+![](/images/btnews/0401_0500/0474/d575f88e-0ac6-487f-ac51-d32ddad3dd06.webp)
 https://www.ncbi.nlm.nih.gov/books/NBK548938/
  
 阿兹夫定的实际发明人为郑州大学副校长兼化学系教授常俊标。2009年，常俊标取得了化合物专利。但现在阿兹夫定的生产和常教授已经没有直接关系了，因为早在2011年，常教授就以4000万元的价格把阿兹夫定专利卖给了王朝阳的公司，也就是后来的真实生物公司。
 
-![](/images/btnews/0401_0500/0474/4ace982b-d9b2-4a05-b163-19596fe48ac9.jpg)
+![](/images/btnews/0401_0500/0474/4ace982b-d9b2-4a05-b163-19596fe48ac9.webp)
 
 
 
@@ -64,18 +64,18 @@ https://rocketreach.co/qun-dang-email_3997308
 
 
 
-![](/images/btnews/0401_0500/0474/23c42f47-9716-468c-89b0-4b3db7ab3577.png)
+![](/images/btnews/0401_0500/0474/23c42f47-9716-468c-89b0-4b3db7ab3577.webp)
 https://www.henandaily.cn/content/2020/1103/262935.html 
 
 
 
-![](/images/btnews/0401_0500/0474/b35d91a6-673b-49cb-ad3f-120bae522d1f.png)
+![](/images/btnews/0401_0500/0474/b35d91a6-673b-49cb-ad3f-120bae522d1f.webp)
 
 http://wangchao.a.kbyun.com/zskj/index.php/article/453.html 
 
 
 
-![](/images/btnews/0401_0500/0474/9a96dc3a-cfb2-4f80-9db1-010e849fed15.png)
+![](/images/btnews/0401_0500/0474/9a96dc3a-cfb2-4f80-9db1-010e849fed15.webp)
 
 http://wangchao.a.kbyun.com/zskj/index.php/article/407.html 
 
@@ -85,7 +85,7 @@ http://wangchao.a.kbyun.com/zskj/index.php/article/407.html 
 
 2013年，真实生物公司拿到批文，启动阿兹夫定治疗艾滋病的一期临床试验。在这些药学专家的共同努力之下，阿兹夫定2021年通过了三期临床实验。到这个阶段为止，王朝阳基本靠自己的钱支撑科研，投入可能超过十亿人民币。2021年7月，阿兹夫定获批上市，成为合法药物，真实生物公司的化学药生产能力提升到每年3亿片，终于能凭借科研成果融资了，公司的估值达到了几十亿。
 
-![](/images/btnews/0401_0500/0474/c9c896c6-edfe-47e5-990b-5fdcdc7278d7.png)
+![](/images/btnews/0401_0500/0474/c9c896c6-edfe-47e5-990b-5fdcdc7278d7.webp)
 
 https://www.sohu.com/a/576081084_477212
 
@@ -111,7 +111,7 @@ https://www.sohu.com/a/576081084_477212
 
 进入21世纪20年代，中国实现了工业化，也培养了足够多的高技术人才，在大分子生物药这个新的赛道上逐渐追上了美国的脚步，甚至逼迫美国头部药企默沙东主动打价格战。现在阿兹夫定开发成功，说明着中国药企逐步补上了过去的缺口，在小分子化学药的原创研发领域也能追赶世界先进水平。这是可以类比中国独立开发歼10 战斗机的科研里程碑，值得所有人关注。
 
-![](/images/btnews/0401_0500/0474/bc9fe87c-9c8c-4541-8724-a724d3d5f934.png)
+![](/images/btnews/0401_0500/0474/bc9fe87c-9c8c-4541-8724-a724d3d5f934.webp)
 
 https://mp.weixin.qq.com/s?__biz=MzU4MTU1NzI4Mw==&mid=2247489501&idx=1&sn=648cb0590647dc54c0ff68938e5e4904
 
@@ -128,7 +128,7 @@ https://mp.weixin.qq.com/s?__biz=MzU4MTU1NzI4Mw==&mid=2247489501&idx=1&sn=648cb0
 
 从IPO文件中可以看出，阿兹夫定把临床改善和核酸转阴时间作为自己的实验研究终点。和控制组10%的康复率相比，阿兹夫定有效性提高到40%，把康复率提高了三倍。很多人已经开始拿阿兹夫定和辉瑞口服药相比较了。
 
-![](/images/btnews/0401_0500/0474/5e03a6ee-3a1e-4b2c-85a9-dd846e29aee8.png)
+![](/images/btnews/0401_0500/0474/5e03a6ee-3a1e-4b2c-85a9-dd846e29aee8.webp)
 
 https://www1.hkexnews.hk/app/sehk/2022/104646/documents/sehk22080402059.pdf
 
@@ -142,7 +142,7 @@ https://www1.hkexnews.hk/app/sehk/2022/104646/documents/sehk22080402059.pdf
 
 再说主要终点，阿兹夫定在中国的临床试验，主要终点设定为第7天和第14天的病毒载量下降幅度。而辉瑞口服药的试验主要终点是与新冠病毒相关的住院或因任何原因死亡的参与者比例。因此两种药物不具备直接的可比性。
 
-![](/images/btnews/0401_0500/0474/dd459426-3094-4a62-be99-8fa6bc004105.png)
+![](/images/btnews/0401_0500/0474/dd459426-3094-4a62-be99-8fa6bc004105.webp)
 
 
 
@@ -153,7 +153,7 @@ https://clinicaltrials.gov/ct2/show/NCT04668235
 
 更重要的问题是，公开领域看不到阿兹夫定的三期临床实验论文。目前仅有一篇披露出来的阿兹夫定论文是随机分组开放标签的，样本总数只有20人，几乎没有讨论价值。****
 
-![](/images/btnews/0401_0500/0474/58602475-eaa0-4281-917d-9356af4df91e.png)
+![](/images/btnews/0401_0500/0474/58602475-eaa0-4281-917d-9356af4df91e.webp)
 
 https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202001435
 
@@ -173,7 +173,7 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202001435
 
 第三是质疑财务操作黑幕。从三期临床实验结束到批准上市，再到公司IPO和药品纳入医保，速度太快了，信息披露不足。****
 
-![](/images/btnews/0401_0500/0474/70274c4e-e3dc-4e8c-9c56-91d618acd88a.png)
+![](/images/btnews/0401_0500/0474/70274c4e-e3dc-4e8c-9c56-91d618acd88a.webp)
 
 https://m.thepaper.cn/baijiahao_19347167 
 
@@ -181,7 +181,7 @@ https://m.thepaper.cn/baijiahao_19347167 
 
 首先看第一个问题，样本量不足。
 
-![](/images/btnews/0401_0500/0474/545d3151-7db8-48ad-a118-8a1fb710cbc8.png)
+![](/images/btnews/0401_0500/0474/545d3151-7db8-48ad-a118-8a1fb710cbc8.webp)
 
 
 
@@ -197,7 +197,7 @@ https://m.thepaper.cn/baijiahao_19347167 
 
 第3个就是我们“关心的药效”。被认为有意义的药效“越大”，需要的样本量就越少。比如说，我们想观察到一个药物是否把相对死亡率降低了1%，就需要很大很大的样本量。但是我们只想看到一个药物是否把相对死亡率降低了80%，那我们就只需要很少的样本量
 
-![](/images/btnews/0401_0500/0474/b78fec58-dde6-4a96-b314-b317bd24ac8b.jpg)
+![](/images/btnews/0401_0500/0474/b78fec58-dde6-4a96-b314-b317bd24ac8b.webp)
 
 
 
@@ -212,14 +212,14 @@ https://m.thepaper.cn/baijiahao_19347167 
 
 其次，根据雌性小鼠实验，毒性数据换算到人类孕妇是每天12.5毫克，高于每天5毫克的治疗用量。
 
-![](/images/btnews/0401_0500/0474/907f6116-7729-4a38-b8d8-24a0c89ae59d.png)
+![](/images/btnews/0401_0500/0474/907f6116-7729-4a38-b8d8-24a0c89ae59d.webp)
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804402/
 
 
 之前阿兹夫定治疗艾滋病说明书也指出，药物还没有对孕妇，儿童和老年患者进行用药研究，这三种人群原则上应该慎重使用。以后还应该进一步对比药物风险和药物的效果。
 
-![](/images/btnews/0401_0500/0474/f5b7e806-964f-4c3a-a3d6-fe2ac8b060c5.png)
+![](/images/btnews/0401_0500/0474/f5b7e806-964f-4c3a-a3d6-fe2ac8b060c5.webp)
 
 https://m.jrj.com.cn/madapter/finance/2022/08/15071236898453.shtml
 
@@ -233,9 +233,9 @@ https://m.jrj.com.cn/madapter/finance/2022/08/15071236898453.shtml
 
 除了阿兹夫定之外，中国生物医药公司还有多个平行的抗新冠药物正在推进。这里面比较值得关注的是君实生物正在研发中VV116。它被认为是口服瑞德西韦改良产品，科研团队给瑞德西韦的代谢产物GS-441524添加重氢，产生更强的碳-氘键。希望氘化药物产生疗效、代谢或安全性方面的优势。
 
-![](/images/btnews/0401_0500/0474/1e1673e7-c49c-466d-b9b6-a41fdc962a47.jpg)
+![](/images/btnews/0401_0500/0474/1e1673e7-c49c-466d-b9b6-a41fdc962a47.webp)
 
-![](/images/btnews/0401_0500/0474/1a93d0a2-ea2f-4cff-b294-1642c0b7b380.jpg)
+![](/images/btnews/0401_0500/0474/1a93d0a2-ea2f-4cff-b294-1642c0b7b380.webp)
 
 
 
@@ -254,7 +254,7 @@ https://pdf.dfcfw.com/pdf/H3_AP202205241567536644_1.pdf?1653385123000.pdf
 
 煤老板投资开发的阿兹夫定的确存在很多问题，但起码敢下场公平较量，接受其他人乃至美国企业的正面挑战，到目前还没有倒下，这就是了不起的进步。煤老板搞产业升级，做出里程碑式的成就，当然是好事。但中国在煤老板之外，还有更多的资本，更多的资金可以投入产业升级，为什么他们没有做出中国原研小分子药的样板呢？这才是我们应该考虑的问题。
 
-![](/images/btnews/0401_0500/0474/2c070eb8-da6c-4346-8bfd-0664a7fb35f1.jpg)
+![](/images/btnews/0401_0500/0474/2c070eb8-da6c-4346-8bfd-0664a7fb35f1.webp)
 
 
 
@@ -266,7 +266,7 @@ https://pdf.dfcfw.com/pdf/H3_AP202205241567536644_1.pdf?1653385123000.pdf
 
 “到目前为止，没有一个药能够被证实对新冠肺炎有预防作用。”
 
-![](/images/btnews/0401_0500/0474/33beea79-a7bc-4352-9df6-169d195bd2c0.png)
+![](/images/btnews/0401_0500/0474/33beea79-a7bc-4352-9df6-169d195bd2c0.webp)
 
 https://sghexport.shobserver.com/html/baijiahao/2022/08/21/831626.html
 
@@ -303,7 +303,7 @@ https://baijiahao.baidu.com/s?id=1730635914493911898
 
 现在中国大学生天天骂“生化环材”是“天坑专业”，但是从市场上中成药的销量和保健品的市场规模看，中国本来不应该这么缺生物医药研发资金。如果我们不用类似的标准去衡量中药，还是允许神秘主义光环降低药品检验门槛，那就等于宣布假钱和真钞有同样的购买力，必然在研发资本市场产生“劣币驱逐良币”的效果。以岭药业这种企业的股票不跌到5块钱，各位生化环材的研究人员就不会有体面的工作。
 
-![](/images/btnews/0401_0500/0474/b32d2787-70d0-481a-8332-9d69c6377ffe.jpg)
+![](/images/btnews/0401_0500/0474/b32d2787-70d0-481a-8332-9d69c6377ffe.webp)
 
 
 
@@ -337,7 +337,7 @@ https://baijiahao.baidu.com/s?id=1730635914493911898
 
 最近几天，至少长三角的情况并不太好，到今天为止，中国外贸小商品中心义乌已经连续十天处于实际上的封城状态，外贸订单快速流失。过去两年，外商来中国采购已经很麻烦了，这次在外贸旺季封城，肯定会影响浙江全年经济发展。
 
-![](/images/btnews/0401_0500/0474/b7c96b57-621e-49f2-8cca-a76a0601a08f.png)
+![](/images/btnews/0401_0500/0474/b7c96b57-621e-49f2-8cca-a76a0601a08f.webp)
 
 
 
@@ -347,7 +347,7 @@ https://baijiahao.baidu.com/s?id=1730635914493911898
 
 另外，最近四川、重庆限电，也影响了其他省份的经济发展。****
 
-![](/images/btnews/0401_0500/0474/901f8be5-8e3a-489d-a0f3-b3c8757da807.png)
+![](/images/btnews/0401_0500/0474/901f8be5-8e3a-489d-a0f3-b3c8757da807.webp)
 
 https://baijiahao.baidu.com/s?id=1741500177765740452
 
@@ -357,14 +357,14 @@ https://baijiahao.baidu.com/s?id=1741500177765740452
  
 8月18日，陕西省工信厅也给重庆经信委发了类似的公函。提到比亚迪在陕西的工厂要停产了，希望重庆市能重点保证本地汽车零部件企业的生产用电。
 
-![](/images/btnews/0401_0500/0474/486e4ef8-3c0b-4d3e-a2bf-4710e01763b9.png)
+![](/images/btnews/0401_0500/0474/486e4ef8-3c0b-4d3e-a2bf-4710e01763b9.webp)
 
 https://baijiahao.baidu.com/s?id=1741656951132469810
 
  
 天气热，水力发电少，需要优先保空调，保民用电，这当然是可以理解的事情。但是，比热更可怕的事情是没订单，没工作，以及将来连电费都付不起。前几天有个热议话题，追星粉丝在网上感慨明星拍戏不易，说“一天十万你能在太阳底下站一天吗”，被普通网民全面嘲讽。现在现实的考验来了，为了长远的经济发展，为了和比亚迪特斯拉合作，内地省份是否愿意给那些已经挤进沿海供应链的企业优先供电呢？
 
-![](/images/btnews/0401_0500/0474/a02f4ead-348f-40ba-876d-d170b7b692b6.png)
+![](/images/btnews/0401_0500/0474/a02f4ead-348f-40ba-876d-d170b7b692b6.webp)
 
 
 
@@ -379,5 +379,5 @@ https://baijiahao.baidu.com/s?id=1741656951132469810
 
 
 
-![](/images/btnews/0401_0500/0474/10efe923-89fd-4fd8-8e00-b8ee812ca4d7.jpg)
+![](/images/btnews/0401_0500/0474/10efe923-89fd-4fd8-8e00-b8ee812ca4d7.webp)
 

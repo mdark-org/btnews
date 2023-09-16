@@ -5,7 +5,7 @@ date: 2023-02-17
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0552/20a6a8ae-44ee-4161-a4ce-0fd8186a005b.jpg)
+![](/images/btnews/0501_0600/0552/20a6a8ae-44ee-4161-a4ce-0fd8186a005b.webp)
 
 
 
@@ -14,7 +14,7 @@ date: 2023-02-17
 
 1月10日，有媒体报道说，在欧美“限价令”实行一个月之后，俄罗斯乌拉尔原油价格降到了每桶37.8美元，跌破了当时全球基准原油价格的一半。
 
-![](/images/btnews/0501_0600/0552/251af49c-426b-4d43-84a6-f4c357ca4c01.png)
+![](/images/btnews/0501_0600/0552/251af49c-426b-4d43-84a6-f4c357ca4c01.webp)
 
 
 
@@ -27,7 +27,7 @@ date: 2023-02-17
 
 2023年1月，俄罗斯石油出口的主力产品乌拉尔原油平均价格为49.48美元一桶，而2022年的平均价格为85.64美元一桶，降了43%，甚至还低于欧美限价令规定的60美元一桶的上限。
 
-![](/images/btnews/0501_0600/0552/cc09055c-8128-4d7f-ae8d-3494d0d1c540.png)
+![](/images/btnews/0501_0600/0552/cc09055c-8128-4d7f-ae8d-3494d0d1c540.webp)
 
 https://minfin.gov.ru/ru/press-center/?id_4=38362-o_srednei_tsene_na_neft_marki_urals
 
@@ -37,10 +37,10 @@ https://minfin.gov.ru/ru/press-center/?id_4=38362-o_srednei_tsene_na_neft_marki_
 
 2月4日，美国财政部长耶伦表示，通过原油限价令打击俄罗斯财政收入的措施，取得初步成效，俄罗斯的能源收入降到了了2020年以来的最低水平，按月计算，能源销售的税收和收入在一年内下降了46%。
 
-![](/images/btnews/0501_0600/0552/08f6ac0f-a34f-4209-8188-1c5e7ca5ebc0.png)
+![](/images/btnews/0501_0600/0552/08f6ac0f-a34f-4209-8188-1c5e7ca5ebc0.webp)
 
 
-![](/images/btnews/0501_0600/0552/979986e8-9c27-4db1-9d85-1dc06945d26f.png)
+![](/images/btnews/0501_0600/0552/979986e8-9c27-4db1-9d85-1dc06945d26f.webp)
 
 
 
@@ -54,7 +54,7 @@ https://minfin.gov.ru/ru/press-center/?id_4=38362-o_srednei_tsene_na_neft_marki_
 
 根据外媒报道，2021年印度石油进口总量，俄罗斯原油占比只有1%。但是到了2022年暴增到15%，进口量增长了十几倍；在西方限价令推出的12月份，印度对俄罗斯的石油日进口量，达到了创纪录的125万桶。
 
-![](/images/btnews/0501_0600/0552/00809f9d-5192-450b-aef4-5fd0b0943ce0.png)
+![](/images/btnews/0501_0600/0552/00809f9d-5192-450b-aef4-5fd0b0943ce0.webp)
 
 
 
@@ -64,14 +64,14 @@ https://minfin.gov.ru/ru/press-center/?id_4=38362-o_srednei_tsene_na_neft_marki_
 
 暴增的进口量，不全是印度自己消化掉的，印度炼油厂加工进口的俄罗斯石油，变成相关产品，又转卖给欧美，赚到了巨额利润。
 
-![](/images/btnews/0501_0600/0552/3eee1f59-41f4-49bb-9103-90eac4f00163.png)
+![](/images/btnews/0501_0600/0552/3eee1f59-41f4-49bb-9103-90eac4f00163.webp)
 
 https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 
 根据印度工商部的数据，2022年4月到11月的半年，印度进口了1465亿美元的石油产品，比2021年增加了52.5%，出口了626亿美元的成品油，比2021年增加60%，这一波降价之后，印度不仅赚了现金，炼油工业应该也有很大进步。
 
-![](/images/btnews/0501_0600/0552/3bfe325c-9398-4c17-9a37-336fb4b74cd0.png)
+![](/images/btnews/0501_0600/0552/3bfe325c-9398-4c17-9a37-336fb4b74cd0.webp)
 
 
 
@@ -81,7 +81,7 @@ https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 1月25日，美国做空机构找到了印度自己的漏洞，针对印度能源和运输行业巨头阿达尼集团，提出了做空文件。兴登堡公司指出，阿达尼集团过去几十年里一直在进行股票操纵和会计欺诈，早已经资不抵债，阿达尼集团和相关企业在接下来一周，财富损失了1100亿美元。
 
-![](/images/btnews/0501_0600/0552/848eaa6a-3783-4700-8192-c525abaa0b34.png)
+![](/images/btnews/0501_0600/0552/848eaa6a-3783-4700-8192-c525abaa0b34.webp)
 
 
 
@@ -100,10 +100,10 @@ https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 同时，根据中国海关数据，2021年中国进口俄罗斯原油 7964万吨，花费405亿美元，平均69.4美元一桶；2022年中国进口俄罗斯原油 8624万吨，花费583亿美元，平均92.3美元一桶。也就是说，和上一年相比，中国去年从俄罗斯多进口了600万吨石油，增加了8%，付出去的钱增加了182亿美元。因为油价波动，中国多花了1100亿美元买油，但绝大多数被其他出口国赚走了。
 
-![](/images/btnews/0501_0600/0552/d573bf88-d917-46cb-9ec5-1cb3f9a44b1a.png)
+![](/images/btnews/0501_0600/0552/d573bf88-d917-46cb-9ec5-1cb3f9a44b1a.webp)
 
 
-![](/images/btnews/0501_0600/0552/31f82616-2070-43b7-a02d-9c32f320dcb7.png)
+![](/images/btnews/0501_0600/0552/31f82616-2070-43b7-a02d-9c32f320dcb7.webp)
 
 
 
@@ -116,7 +116,7 @@ https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 长期原因是能源供应多元化战略。在俄乌战争开打之前，中国已经在不断增加俄罗斯石油进口量了，俄罗斯石油占总进口的比例逐年上升。
 
-![](/images/btnews/0501_0600/0552/9d555a87-60fc-4d6d-bd78-2c94674667e0.png)
+![](/images/btnews/0501_0600/0552/9d555a87-60fc-4d6d-bd78-2c94674667e0.webp)
 
 
 
@@ -130,7 +130,7 @@ https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 所以目前中国依旧坚持能源进口多元化的原则，沙特还是中国第一大进口来源国。为了规避制裁风险，在去年11月之后，中国国有炼油厂还减少了对俄罗斯石油的进口。
 
-![](/images/btnews/0501_0600/0552/b4d35c68-bfbd-467b-ab9d-6156c4fb727c.png)
+![](/images/btnews/0501_0600/0552/b4d35c68-bfbd-467b-ab9d-6156c4fb727c.webp)
 
 
 
@@ -140,15 +140,15 @@ https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 目前中国进口俄罗斯石油，很大一部分是通过管道运输的。2011年，俄罗斯向中国大庆修了石油输送管道，全长约1000公里，之后就建立了管道石油贸易。
 
-![](/images/btnews/0501_0600/0552/4786f558-b76c-4f3c-b981-5d0ac4aeeb5b.png)
+![](/images/btnews/0501_0600/0552/4786f558-b76c-4f3c-b981-5d0ac4aeeb5b.webp)
 
-![](/images/btnews/0501_0600/0552/ea1bc51a-ffe9-48f8-b1e9-480593136e4b.png)
+![](/images/btnews/0501_0600/0552/ea1bc51a-ffe9-48f8-b1e9-480593136e4b.webp)
 
 
 
 现在前些年的贸易细节已经逐渐公开了，因为中俄管道建成之后经历过几次石油价格暴涨，在贸易谈判中，俄罗斯对中方多次设置障碍，还因为运费的矛盾，多次无故抬高石油出口价格，甚至公开违约。就算中国企业交了预付款的情况下，还经常拒绝履行石油出口合同。
 
-![](/images/btnews/0501_0600/0552/c38ef98e-589d-4349-a072-2e911ab68f5a.png)
+![](/images/btnews/0501_0600/0552/c38ef98e-589d-4349-a072-2e911ab68f5a.webp)
 
 所以，在不同的阶段，中俄双方总有一方对管道石油贸易不满意，对加强管道运输能力缺乏积极性，这明显限制了目前俄罗斯对中国的石油出口能力。
 
@@ -169,7 +169,7 @@ https://view.inews.qq.com/wxn/20230206A07UBQ00?refer=wx_hot&web_channel=detail
 
 1月24日，美国兴登堡研究（Hindenburg Research）发布了106页报告，针对印度阿达尼集团（Adani Group）做空。报告名称是《阿达尼集团：全球第三大富豪如何实施了企业史上最大的骗局》。
 
-![](/images/btnews/0501_0600/0552/e9d90e2b-b577-4121-bb46-f5397e810dd1.png)
+![](/images/btnews/0501_0600/0552/e9d90e2b-b577-4121-bb46-f5397e810dd1.webp)
 
 
 https://hindenburgresearch.com/adani/
@@ -177,7 +177,7 @@ https://hindenburgresearch.com/adani/
 
 兴登堡公司说，阿达尼集团过去数十年间实施了“厚颜无耻的操纵股票、财务欺诈计划”，所以过去3年内资产增加1000亿美元以上，旗下7家上市企业的股价平均上涨了819%。
 
-![](/images/btnews/0501_0600/0552/5633caa7-51c9-4ae5-9b3f-c2748d4409c0.png)
+![](/images/btnews/0501_0600/0552/5633caa7-51c9-4ae5-9b3f-c2748d4409c0.webp)
 
 
 在这份报告中，兴登堡对阿达尼集团提出了88项指控，认为阿达尼集团在进行资本扩张的同时掩盖企业负债，同时通过境外空壳公司实施财务欺诈、操纵股市、洗钱。
@@ -201,7 +201,7 @@ https://www.sohu.com/na/637062120_465270
 
 我没有做空印度股票，也不喜欢阿达尼集团。但以我在国内积累的媒体经验，如果某个企业声称，批评自己就是攻击整个国家、就是打击整个国家的经济信心，那它的对手一定是抓住了某些无法反驳的证据。
 
-![](/images/btnews/0501_0600/0552/7abdab9c-5b9c-4376-9111-e7e78d37fd75.png)
+![](/images/btnews/0501_0600/0552/7abdab9c-5b9c-4376-9111-e7e78d37fd75.webp)
 
 
 https://www.adani.com/-/media/Project/Adani/Invetsors/Adani-Response-to-Hindenburg-January-29-2023.pdf?la=en
@@ -209,7 +209,7 @@ https://www.adani.com/-/media/Project/Adani/Invetsors/Adani-Response-to-Hindenbu
 
 兴登堡的反驳也抓住了这个重点。几个小时后发表了争锋相对的回应。标题是:《欺诈不能被民族主义遮掩，不能用浮夸回应我们提出的关键指控》。
 
-![](/images/btnews/0501_0600/0552/be9d280e-048c-4198-8d97-fd198a251d97.png)
+![](/images/btnews/0501_0600/0552/be9d280e-048c-4198-8d97-fd198a251d97.webp)
 
 
 https://hindenburgresearch.com/adani-response/
@@ -226,7 +226,7 @@ https://hindenburgresearch.com/adani-response/
 
 阿达尼并没有否认这些交易，也不解释违规行为。只是简单地说，董事长的哥哥不是交易关联方。阿达尼公司还表示，保留使用法律武器的权利。而兴登堡公司表示欢迎起诉，还提出提议，“如果阿达尼是认真的，它应该在我们居住的美国同时提起诉讼。”
 
-![](/images/btnews/0501_0600/0552/99b6fd1e-fdb4-4b21-bc00-d35cb3843d0f.png)
+![](/images/btnews/0501_0600/0552/99b6fd1e-fdb4-4b21-bc00-d35cb3843d0f.webp)
 
 从结果看，兴登堡公司说阿达尼公司的股价可以打掉85%。市场虽然没有立刻接受它的估值，但也部分承认了做空内容。到2月7日，不到两个星期，阿达尼七家子公司的总市值从2170亿美元变成1060亿美元左右。阿达尼也因此失去了亚洲首富地位，从全球第九富豪跌到了20位之外。
 https://www.163.com/dy/article/HT56NKP70530I1ON.html
@@ -255,15 +255,15 @@ https://wallstreetcn.com/articles/3681285
 
 我们A股的3000点保卫战已经打了15年，而同期的印度股市经历了长达二十多年的牛市。孟买证券交易所SENSEX30指数包含了印度前三十大的股票。指数从2001年的2594点，涨到2022年底的63583点，涨幅23倍。
 
-![](/images/btnews/0501_0600/0552/48db5224-c4f1-4028-9590-3e2129afcb0f.png)
+![](/images/btnews/0501_0600/0552/48db5224-c4f1-4028-9590-3e2129afcb0f.webp)
 
 
 连续几十年大牛市，原因和印度经济基本面有关系，GDP常年快速增长、侨汇多，外资流入量大，但这也不足以支撑指数20年涨20多倍。
 
-![](/images/btnews/0501_0600/0552/f24e69d8-e41d-4d75-b264-e1239058fc77.png)
+![](/images/btnews/0501_0600/0552/f24e69d8-e41d-4d75-b264-e1239058fc77.webp)
 
 
-![](/images/btnews/0501_0600/0552/3de79916-c072-45f7-a539-4f593a8b9c9a.png)
+![](/images/btnews/0501_0600/0552/3de79916-c072-45f7-a539-4f593a8b9c9a.webp)
 
 
 
@@ -290,7 +290,7 @@ https://business.sohu.com/a/627703048_121256970
 
 一旦兴登堡公司破坏了市场对阿达尼公司的信心，借给阿达尼公司的钱就成了一种高风险资产。所以印度银行和印度人寿保险公司的股价也被连累，大幅下跌，最终印度股市整体受影响。1月27日到1月31日，外国投资者从印度股市净撤出20亿美元，创下去年3月以来最大的3日抛售幅度。另有数据显示，整个1月，外国投资者抛售了35亿美元的印度股票，导致印度股市失去了全球前五大股市的位置。
 
-![](/images/btnews/0501_0600/0552/52249232-7220-46b4-87da-092644ea9e99.png)
+![](/images/btnews/0501_0600/0552/52249232-7220-46b4-87da-092644ea9e99.webp)
 https://www.bloomberg.com/news/articles/2023-01-27/adani-contagion-fear-hits-india-bank-stocks-major-life-insurer?srnd=premium-europe&leadSource=uverify%20wall
 https://finance.eastmoney.com/a/202302072629807396.html
 
@@ -298,7 +298,7 @@ https://finance.eastmoney.com/a/202302072629807396.html
 我们猜测兴登堡公司或许没有直接进入印度股市，而是通过做空印度股指ETF来谋利。比如全球最大的资产管理公司贝莱德就有相关产品，1月23日做空报告发布前最高43.44，2月7日的41.34。
  
 
-![](/images/btnews/0501_0600/0552/f53cfcc7-0936-4d28-b860-929656d13f74.png)
+![](/images/btnews/0501_0600/0552/f53cfcc7-0936-4d28-b860-929656d13f74.webp)
 
 https://www.financialnews.com.cn/hq/cj/202302/t20230208_264299.html
 http://t.10jqka.com.cn/pid_228640992.shtml
@@ -312,7 +312,7 @@ https://baijiahao.baidu.com/s?id=1757161026830587753
 
 去年10月份，睡前消息496期我们介绍过这位前亚洲首富高塔姆·阿达尼，那时他还是世界第三富豪。作为古吉拉特老乡。高塔姆·阿达尼是莫迪及人民党的主要支持者，莫迪上任，就是乘坐阿达尼的私人飞机去新德里的。莫迪给阿达尼提供了大量政府招标的基础设施项目，实际上让阿达尼集团控制了印度煤炭进口贸易。
 
-![](/images/btnews/0501_0600/0552/ea18c2b5-307b-4a66-8dc0-0fe007fa49ab.png)
+![](/images/btnews/0501_0600/0552/ea18c2b5-307b-4a66-8dc0-0fe007fa49ab.webp)
 
 
 
@@ -329,7 +329,7 @@ https://en.wikipedia.org/wiki/Gautam_Adani
 
 2003年，莫迪参加印度工业联合会活动，有一批商界精英再次提到屠杀和人权，这时候阿达尼公司立刻与这些老牌商界精英决裂。一度大多数商业重要人物都拒绝参加莫迪组织的投资会议，以阿达尼为首的一群古吉拉特资本家来救场，帮助创建了一个商业活动，名字是“充满活力的古吉拉特邦”。每2年举办一次峰会，活跃古吉拉特邦市场。
 
-![](/images/btnews/0501_0600/0552/c9011443-0979-4b25-a310-6974fd6380d9.png)
+![](/images/btnews/0501_0600/0552/c9011443-0979-4b25-a310-6974fd6380d9.webp)
 
 
 
@@ -345,13 +345,13 @@ https://m.economictimes.com/news/politics-and-nation/gujarat-now-indias-sez-modi
 https://www.business-standard.com/article/companies/adani-group-got-land-at-cheapest-rates-in-modi-s-gujarat-114042501228_1.html
  
 
-![](/images/btnews/0501_0600/0552/b2df6e07-3ea6-4ff5-b206-7e6708a7180e.png)
+![](/images/btnews/0501_0600/0552/b2df6e07-3ea6-4ff5-b206-7e6708a7180e.webp)
 
 
 
 而阿达尼也持续给当总理的莫迪提供回报。莫迪提倡的项目，阿达尼公司就冲在前面，不管赚不赚钱，反正莫迪会想办法让他们盈利。比如说同时投资煤炭和新能源，让印度快速增加电力供应，也保持环保的形象。莫迪对斯里兰卡施加外交压力，取消中国的新能源项目，阿达尼公司就立刻去投资，抢占位置，配合莫迪的外交战略。
 
-![](/images/btnews/0501_0600/0552/2297a94d-7eec-4218-bb1c-d3ff8e62063f.png)
+![](/images/btnews/0501_0600/0552/2297a94d-7eec-4218-bb1c-d3ff8e62063f.webp)
 
 
 https://www.ft.com/content/9840aa4e-3270-4f3b-abe4-3f6838a542d0
@@ -361,7 +361,7 @@ https://www.japantimes.co.jp/news/2022/11/14/business/gautam-adani-sri-lanka-inv
 所以，只要莫迪不倒，大概率阿达尼集团就不会倒。虽然莫迪的对手国大党一直在要求调查人民党和阿达尼集团的关系，还在做空报告之后组织了示威者，要求调查阿达尼公司的欺诈行为。但人民党政府显然不想拿阿达尼公司出来做交易，而是当做基本盘要坚决保护。
 https://baijiahao.baidu.com/s?id=1756855136608008757
 
-![](/images/btnews/0501_0600/0552/5a856cc8-1bab-4648-9b8f-cf5f3c95aac6.png)
+![](/images/btnews/0501_0600/0552/5a856cc8-1bab-4648-9b8f-cf5f3c95aac6.webp)
 
 https://finance.sina.com.cn/jjxw/2023-02-07/doc-imyevxkr6174491.shtml
 
@@ -405,6 +405,6 @@ https://www.livemint.com/news/india/adani-s-debt-how-much-does-he-owe-indian-ban
 
 
 
-![](/images/btnews/0501_0600/0552/a46d4db0-1fa3-48eb-a2b4-d30b83ca1c48.jpg)
+![](/images/btnews/0501_0600/0552/a46d4db0-1fa3-48eb-a2b4-d30b83ca1c48.webp)
 
 

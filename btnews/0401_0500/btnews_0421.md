@@ -5,7 +5,7 @@ date: 2022-04-19
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0421/bb81749e-a162-4fce-a05f-0ba393d16824.png)
+![](/images/btnews/0401_0500/0421/bb81749e-a162-4fce-a05f-0ba393d16824.webp)
 
 
 大家好，2022年4月19日星期二，欢迎收看第421期睡前消息，请静静介绍话题。
@@ -22,9 +22,9 @@ date: 2022-04-19
 
 三鹿刚出事的时候，替他辩护的各种声音可不少，其中最主要的说法，就是说外国资本策划了三鹿事件，指责举报一方拿了外国资本的钱。直到三鹿公司破产之后，类似的声音才逐渐减少，但也从来没消失过。比如说昆仑策研究院2015年还有一篇文章，直接说三鹿奶粉事件是外国资本阴谋破坏。所以我现在一点都不奇怪有人说我拿了辉瑞代理商的钱。
 
-![](/images/btnews/0401_0500/0421/55514880-5c71-43ab-ae88-6cf961aab6a7.png)
+![](/images/btnews/0401_0500/0421/55514880-5c71-43ab-ae88-6cf961aab6a7.webp)
 
-![](/images/btnews/0401_0500/0421/5b4715d6-18f0-4d48-83c5-7a8824ade63d.png)
+![](/images/btnews/0401_0500/0421/5b4715d6-18f0-4d48-83c5-7a8824ade63d.webp)
 
 http://www.kunlunce.com/e/wap/show.php?classid=176&id=15073
 
@@ -32,7 +32,7 @@ http://www.kunlunce.com/e/wap/show.php?classid=176&id=15073
 
 但是我想提醒各位一下，辉瑞新冠口服药的中国总代理商是中国医药健康产业股份有限公司，简称中国医药。和以岭药业比起来，这才是根正苗红的国有资本。分析连花清瘟之后，今天我说说美国辉瑞的抗新冠病毒口服药帕克斯洛维德。
 
-![](/images/btnews/0401_0500/0421/68d0e9cc-9d81-4c7f-a7c3-170c37fab953.png)
+![](/images/btnews/0401_0500/0421/68d0e9cc-9d81-4c7f-a7c3-170c37fab953.webp)
 
 https://www.sohu.com/a/528785924_121124374
 
@@ -46,43 +46,43 @@ https://www.sohu.com/a/528785924_121124374
 
 辉瑞口服药是一种奈玛特韦/利托那韦联合药剂，其中奈玛特韦是冠状病毒蛋白酶切割位点的竞争性抑制剂，可以阻止蛋白酶对位点的切割，从而阻止多蛋白成熟为病毒的功能部分。而利托那韦可以抑制细胞色素酶，减缓奈玛特韦的代谢，从而增加主要药物的循环浓度。除此之外，利托那韦本身也是一种用于治疗艾滋病的抗逆转录病毒药物。
 
-![](/images/btnews/0401_0500/0421/f63a7a1d-0b18-4be4-99c3-3270d5e4ba44.png)
+![](/images/btnews/0401_0500/0421/f63a7a1d-0b18-4be4-99c3-3270d5e4ba44.webp)
 
 https://en.wikipedia.org/wiki/Nirmatrelvir
 
 
 
-![](/images/btnews/0401_0500/0421/8a18bf42-c80a-41a9-9d18-51e702136988.png)
+![](/images/btnews/0401_0500/0421/8a18bf42-c80a-41a9-9d18-51e702136988.webp)
 
 https://en.wikipedia.org/wiki/GC376
 
 
 
-![](/images/btnews/0401_0500/0421/fa49d9e4-f6c1-42f3-9aad-c2b7b1c07d67.png)
+![](/images/btnews/0401_0500/0421/fa49d9e4-f6c1-42f3-9aad-c2b7b1c07d67.webp)
 
 https://en.wikipedia.org/wiki/3C-like_protease
 
 
 
-![](/images/btnews/0401_0500/0421/2478485d-2ef9-448a-b1d5-e05bb7c47732.png)
+![](/images/btnews/0401_0500/0421/2478485d-2ef9-448a-b1d5-e05bb7c47732.webp)
 
 https://en.wikipedia.org/wiki/Ritonavir
 
 
 美国FDA紧急授权文件显示，新冠症状出现5天内，服药的患者可以降低88%的重症和死亡风险。但辉瑞口服药也有不良反应，包括5-6%的味觉障碍，3%的腹泻，以及1%的概率引发呕吐，高血压和肌肉疼痛。另外，辉瑞明确提出，不建议孕妇和备孕女性服用，治疗期间应该中断母乳喂养，因为动物实验表明，高剂量药物会影响胎儿生长。****
 
-![](/images/btnews/0401_0500/0421/4ba6b8ba-d8f2-4bf2-971b-37ca4d023cee.png)
+![](/images/btnews/0401_0500/0421/4ba6b8ba-d8f2-4bf2-971b-37ca4d023cee.webp)
 
-![](/images/btnews/0401_0500/0421/46d368ca-e1a0-4947-a17c-6cd0fc768091.png)
+![](/images/btnews/0401_0500/0421/46d368ca-e1a0-4947-a17c-6cd0fc768091.webp)
 
 https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-oral-antiviral-treatment-covid-19
 
 
 ****
 
-![](/images/btnews/0401_0500/0421/93b8711c-5af6-4230-9ab9-64c77f544609.png)
+![](/images/btnews/0401_0500/0421/93b8711c-5af6-4230-9ab9-64c77f544609.webp)
 
-![](/images/btnews/0401_0500/0421/4eb5e192-ee78-4ad1-b968-44a0efa4f38d.png)
+![](/images/btnews/0401_0500/0421/4eb5e192-ee78-4ad1-b968-44a0efa4f38d.webp)
 
 https://en.wikipedia.org/wiki/Nirmatrelvir/ritonavir
 
@@ -102,7 +102,7 @@ https://en.wikipedia.org/wiki/Nirmatrelvir/ritonavir
 
 但是现在流行的是奥密克戎（omicron）病毒，在辉瑞提出紧急授权申请之后一周才被发现和命名。和德尔塔类型相比，现在流行的奥密克戎类型重症率低，后遗症概率小，自愈速度快。而吃辉瑞口服药还有5%的几率造成味觉障碍，这就造成了一个奇葩的局面——吃药的副作用导致短期后遗症的概率，和感染奥密克戎本身造成短期后遗症概率相比，并没有低到可以忽视的地步。
 
-![](/images/btnews/0401_0500/0421/bbc43863-3a1c-45ea-803f-ec50f95b9cef.png)
+![](/images/btnews/0401_0500/0421/bbc43863-3a1c-45ea-803f-ec50f95b9cef.webp)
 
 https://www.ema.europa.eu/en/news/ema-issues-advice-use-paxlovid-pf-07321332-ritonavir-treatment-covid-19-rolling-review-starts
 
@@ -110,20 +110,20 @@ https://www.ema.europa.eu/en/news/ema-issues-advice-use-paxlovid-pf-07321332-rit
 回到公共卫生的视角，还是以新加坡举例，这是大规模感染之后受到冲击最小的国家。根据联合早报和狮城新闻统计，新加坡有近2000个全科医生诊所，满足了80%的基础医疗需求。从感冒咳嗽这种常见小病，到糖尿病高血压的慢性病体检与跟踪治疗，这些小诊所都可以完成。在此之上，是20家综合诊疗所，提供门诊，出院后复查，儿童体检和疫苗注射等复杂一些服务，最后才是8家公立医院提供住院服务。新加坡规定，如果没有全科医生的转诊单，患者直接去公立医院只能去看急诊。
 
 
-![](/images/btnews/0401_0500/0421/cd5519aa-e859-4e13-b911-6593dae23a3d.png)
+![](/images/btnews/0401_0500/0421/cd5519aa-e859-4e13-b911-6593dae23a3d.webp)
 
 
 
-![](/images/btnews/0401_0500/0421/d578e584-3897-4021-98f5-f20ff3b737ac.png)
+![](/images/btnews/0401_0500/0421/d578e584-3897-4021-98f5-f20ff3b737ac.webp)
 
 
-![](/images/btnews/0401_0500/0421/d8ce76c9-f888-405e-94e6-c6d396620ebb.png)
+![](/images/btnews/0401_0500/0421/d8ce76c9-f888-405e-94e6-c6d396620ebb.webp)
 
 https://www.shicheng.news/v/K9vYp
  
 
 
-![](/images/btnews/0401_0500/0421/ad07e25c-6b9e-490c-bab8-0a8a197f0721.png)
+![](/images/btnews/0401_0500/0421/ad07e25c-6b9e-490c-bab8-0a8a197f0721.webp)
 
 https://www.zaobao.com.sg/forum/views/talk/story20201030-1096913
 
@@ -136,17 +136,17 @@ https://www.zaobao.com.sg/forum/views/talk/story20201030-1096913
 
 这样的分级诊疗制度有效阻止了不需要急诊的患者挤占资源。事实证明，由于大部分打过疫苗的青壮年患者都会在五天内自愈，所以大型公立医院的急诊资源可以集中保护缺乏疫苗保护的儿童，以及身体基础较差的老人，进一步压低新冠病毒造成的死亡率。为了加强基层的治疗能力，新加坡授权基层全科诊所的医生，可以自主判断是否需要给患者开辉瑞口服药，患者不需要跑到大医院急诊科排队，在自己的社区第一时间就可以获得辉瑞口服药治疗。所以新加坡在全面感染的同时，能把死亡率控制到可承受的程度。
 
-![](/images/btnews/0401_0500/0421/409f5411-b945-474e-be35-f8753d3bda29.png)
+![](/images/btnews/0401_0500/0421/409f5411-b945-474e-be35-f8753d3bda29.webp)
 
 https://www.primarycarepages.sg/practice-management/moh-national-schemes/public-health-preparedness-clinic-(phpc)
 
 
 
-![](/images/btnews/0401_0500/0421/ce5fa0bc-986a-4631-936b-6f8da2ba041d.png)
+![](/images/btnews/0401_0500/0421/ce5fa0bc-986a-4631-936b-6f8da2ba041d.webp)
 
 
 
-![](/images/btnews/0401_0500/0421/7f7d975f-e147-4a2e-b73e-5b82acad3b99.png)
+![](/images/btnews/0401_0500/0421/7f7d975f-e147-4a2e-b73e-5b82acad3b99.webp)
 
 https://www.tzuchi.org.sg/news-and-stories/local-news/20220325/
 
@@ -157,18 +157,18 @@ https://www.tzuchi.org.sg/news-and-stories/local-news/20220325/
 
 所有人都挤到大医院，就意味着大多数人需要排队，不能第一时间找到医生。所以，无论辉瑞口服药效果到底怎么样，作为一种有明确副作用的处方药，普通人不可能在服药窗口期拿到它。
 
-![](/images/btnews/0401_0500/0421/a818d513-d5f4-4a51-81ac-7670c8b4ef35.png)
+![](/images/btnews/0401_0500/0421/a818d513-d5f4-4a51-81ac-7670c8b4ef35.webp)
 
-![](/images/btnews/0401_0500/0421/c779ad55-46fd-4d1f-a726-cae17d3462e0.png)
+![](/images/btnews/0401_0500/0421/c779ad55-46fd-4d1f-a726-cae17d3462e0.webp)
 
 http://www.gov.cn/xinwen/2021-07/23/content_5626971.htm
 
 
 上海进入封控状态之后，大量医护人员被抽调前往支援方舱医院，大多数医院不再接待普通门诊。根据澎湃新闻报道，湖北援沪医疗队30名医生123名护士，要负责照看3800多名患者。平均每个医生对应130名患者。考虑到医生护士需要轮班休息，每个医生护士需要照管的患者会远远多于130人。很显然，当前防疫模式下的医疗资源，并不适合给新冠患者进行精细化的初级诊疗，没有足够的医生现场诊断，给病人开辉瑞口服药。****
 
-![](/images/btnews/0401_0500/0421/f183b89e-4530-49fc-8882-91666a9bdf07.png)
+![](/images/btnews/0401_0500/0421/f183b89e-4530-49fc-8882-91666a9bdf07.webp)
 
-![](/images/btnews/0401_0500/0421/cb5192e3-71c7-4514-90b7-85368d813ae9.jpg)
+![](/images/btnews/0401_0500/0421/cb5192e3-71c7-4514-90b7-85368d813ae9.webp)
 
 https://m.thepaper.cn/baijiahao_17498322
 
@@ -187,10 +187,10 @@ https://m.thepaper.cn/baijiahao_17498322
 
 回到新冠口服药的话题。3月17日，药品专利池公布辉瑞向全球35家制药厂商授权以成本价生产帕克斯洛维德的仿制药，无需支付专利费，供应协议涵盖95个发展中国家，其中中国有五家药企获得了仿制药授权。就算是进口的原厂辉瑞口服药，在中国的售价是一个疗程2300元人民币，在美国是一个疗程5天收费530美元，折合3370元人民币，看上去辉瑞似乎更喜欢赚美国人的钱。
 
-![](/images/btnews/0401_0500/0421/d129c754-5b78-4370-9027-357844673ff0.png)
+![](/images/btnews/0401_0500/0421/d129c754-5b78-4370-9027-357844673ff0.webp)
 
 
-![](/images/btnews/0401_0500/0421/a1286a49-2a99-49a6-ba5b-c5acbde90a0b.png)
+![](/images/btnews/0401_0500/0421/a1286a49-2a99-49a6-ba5b-c5acbde90a0b.webp)
 
 https://healthpolicy-watch.news/pfizers-paxlovid-goes-generic-in-95-countries-too-little-too-late-critics-say/
 https://baijiahao.baidu.com/s?id=1727629180042525114
@@ -199,7 +199,7 @@ https://baijiahao.baidu.com/s?id=1727675111789587517
 
 上个月3月18日，有个值得关注的水利工程完全投入使用——四川甘孜州雅江县的雅砻江两河口水电站。
 
-![](/images/btnews/0401_0500/0421/0e0345e6-eeb7-4ecf-974a-44b1605efa64.png)
+![](/images/btnews/0401_0500/0421/0e0345e6-eeb7-4ecf-974a-44b1605efa64.webp)
 
 https://baijiahao.baidu.com/s?id=1712300008812927428
 
@@ -209,11 +209,11 @@ https://baijiahao.baidu.com/s?id=1712300008812927428
 
 从数据来看，两河口水电站的特色是中国海拔最高的百万千瓦级水电站。比它高的水利工程没它大，比它大的水利工程没它高。两河口电站竣工，在海拔3000米的地方造了一个大型人工湖。
 
-![](/images/btnews/0401_0500/0421/007aa459-34ab-48c4-87fc-1460f0563126.png)
+![](/images/btnews/0401_0500/0421/007aa459-34ab-48c4-87fc-1460f0563126.webp)
 
-![](/images/btnews/0401_0500/0421/5915f290-aa9e-44ce-abdd-b04fd6abe00d.png)
+![](/images/btnews/0401_0500/0421/5915f290-aa9e-44ce-abdd-b04fd6abe00d.webp)
 
-![](/images/btnews/0401_0500/0421/4df2d5c1-2219-4822-bdc9-cfe43a0bb46f.png)
+![](/images/btnews/0401_0500/0421/4df2d5c1-2219-4822-bdc9-cfe43a0bb46f.webp)
 
 http://www.water12.com/news_detail.asp?id=22589
 
@@ -221,7 +221,7 @@ http://www.water12.com/news_detail.asp?id=22589
 
 听两河口电站名字就知道，建大坝的地方是两条重要支流汇合，再流入雅砻江的地方。所以，人工湖不是一条线的山谷河道，而是灌满了大坝后面三四条交错的高原山谷，制造了100多平方公里的水面，改变了方圆几百平方公里的地貌。水库预计有几百米深，颜色纯净，和背后的高原垂直植被形成鲜明对比，可以预计四季景色都不一样。现在为了施工，峡谷上修了桥，高原山体里面有隧道，希望将来能开发成旅游设施。
 
-![](/images/btnews/0401_0500/0421/907e20f5-53d0-4af0-bd16-870fd9a0b23c.png)
+![](/images/btnews/0401_0500/0421/907e20f5-53d0-4af0-bd16-870fd9a0b23c.webp)
 
 https://www.bilibili.com/video/BV1x341117YZ?spm_id_from=333.337.search-card.all.click
 
@@ -231,16 +231,16 @@ https://www.bilibili.com/video/BV1x341117YZ?spm_id_from=333.337.search-card.all.
 
 所谓土石坝，就是用普通的土料、石料通过填筑、碾压形成坝体，靠重力顶住水压，这是历史最悠久、应用最广泛的大坝类型。但是，一般来说山区高坝都会用混凝土，因为混凝土可以做成复杂结构，减少施工量，比如即将竣工的白鹤滩大坝弯成拱形，向有水的一边凸出。水压就通过混凝土传递到两边的山体。现在正在施工的双江口大坝，将来是世界最高大坝，依靠拱坝造型，修到了314米高。
 
-![](/images/btnews/0401_0500/0421/7c39acf1-ebb6-4c27-bb78-9b5b1a4bf57a.png)
+![](/images/btnews/0401_0500/0421/7c39acf1-ebb6-4c27-bb78-9b5b1a4bf57a.webp)
 
 https://mp.weixin.qq.com/s/cLiEv282p1PXQ93u_NW39w
 
 
 
-![](/images/btnews/0401_0500/0421/7d0edcdc-5a86-45eb-9eb5-e300c9e65006.png)
+![](/images/btnews/0401_0500/0421/7d0edcdc-5a86-45eb-9eb5-e300c9e65006.webp)
 
 
-![](/images/btnews/0401_0500/0421/93ec8dc3-3012-4ccc-a235-ce95311fc86b.gif)
+![](/images/btnews/0401_0500/0421/93ec8dc3-3012-4ccc-a235-ce95311fc86b.webp)
 
 https://mmbiz.qpic.cn/mmbiz_gif/PziaXk2Dvl06I6AicJd7wqx4vYnRefrwD5yENaKfa6FfgyLQfGZs9LghCFzMTDS1BVc8GVTygnDeDrDh0V9CuI5w/640
  
@@ -253,20 +253,20 @@ https://mmbiz.qpic.cn/mmbiz_gif/PziaXk2Dvl06I6AicJd7wqx4vYnRefrwD5yENaKfa6FfgyLQ
 
 两河口大坝的高度是红石岩堰塞坝的三倍以上，水压也是三倍，所以必须保证没有任何潜流通过大坝，否则大坝就会慢慢变成世界上最壮观的泥石流。建造大坝的时候，砂石都经过严格筛选，本身的强度要高，而且还要大小搭配均匀，级配合理，接近于理论上的最大密度。最后，既然是从头修筑一座土石坝，就要在大坝内部构筑一道完全不渗水的混凝土“心墙”。心墙阻断渗透水流，两侧的土石方提供整体稳定性，一起构成接近300米高的挡水屏障。
 
-![](/images/btnews/0401_0500/0421/b7d375ab-6ea7-445f-8b3b-0ebe95b5f7f0.gif)
+![](/images/btnews/0401_0500/0421/b7d375ab-6ea7-445f-8b3b-0ebe95b5f7f0.webp)
 
 https://mmbiz.qpic.cn/mmbiz_gif/PziaXk2Dvl06I6AicJd7wqx4vYnRefrwD5iaoLOqybGiboV7cWd3VKQQXC1CMpVSVfBCZzE8YOJUChiaKiaKicxoOms7g/640
 
 
 
-![](/images/btnews/0401_0500/0421/f9d26732-9231-4b1c-9e2b-09b47b4d4845.png)
+![](/images/btnews/0401_0500/0421/f9d26732-9231-4b1c-9e2b-09b47b4d4845.webp)
 
 
 
-![](/images/btnews/0401_0500/0421/772ade04-f59a-4ca1-a1e7-b03c5cb71574.png)
+![](/images/btnews/0401_0500/0421/772ade04-f59a-4ca1-a1e7-b03c5cb71574.webp)
 
 
-![](/images/btnews/0401_0500/0421/7794daf0-ce36-46ef-b480-af1196ae2ee2.png)
+![](/images/btnews/0401_0500/0421/7794daf0-ce36-46ef-b480-af1196ae2ee2.webp)
 
  两河口大坝结构示意图
 
@@ -276,7 +276,7 @@ https://mmbiz.qpic.cn/mmbiz_gif/PziaXk2Dvl06I6AicJd7wqx4vYnRefrwD5iaoLOqybGiboV7
 
 另外，土石坝的强度，不足以保证在内部维持一条稳定的发电通道，所以土石坝必须在旁边的山体另外开凿一条引水洞，在下游条引水洞的底部设置发电机。考虑到高原地区的气候条件，两河口电站整体都建在地下，在山里面开凿了一个长276米，宽29米，高76米的地下空间，可以在地下设置一个中型火车站台了。
 
-![](/images/btnews/0401_0500/0421/951c0e92-c986-4bf2-a0df-d50d4313e137.png)
+![](/images/btnews/0401_0500/0421/951c0e92-c986-4bf2-a0df-d50d4313e137.webp)
 
 
 
@@ -291,18 +291,18 @@ https://mmbiz.qpic.cn/mmbiz_gif/PziaXk2Dvl06I6AicJd7wqx4vYnRefrwD5iaoLOqybGiboV7
 
 最后，两河口大坝两侧的边坡最高有1600米宽，最高684米，为了避免蓄水之后，新增的水压导致山体变形，整个山体钉上了1.6万束锚索，每束锚索70米长、1吨多重。隔几根锚索，就有一根安装了感应器，未来能够实时监测边坡内的地下张力，必要的时候及时补救。
 
-![](/images/btnews/0401_0500/0421/596b1894-b27f-416c-a2e4-9c5271cf63b1.png)
+![](/images/btnews/0401_0500/0421/596b1894-b27f-416c-a2e4-9c5271cf63b1.webp)
 
 无人碾压机
 
 
-![](/images/btnews/0401_0500/0421/14c1ad82-56ec-46db-a2c7-373215dbb952.png)
+![](/images/btnews/0401_0500/0421/14c1ad82-56ec-46db-a2c7-373215dbb952.webp)
 
 
-![](/images/btnews/0401_0500/0421/d52092ff-091c-44f3-a890-78dfe2100761.png)
+![](/images/btnews/0401_0500/0421/d52092ff-091c-44f3-a890-78dfe2100761.webp)
 
 
-![](/images/btnews/0401_0500/0421/00f6321d-028a-45a2-a95a-df68eed2e1f6.png)
+![](/images/btnews/0401_0500/0421/00f6321d-028a-45a2-a95a-df68eed2e1f6.webp)
 
 https://www.bilibili.com/video/BV1x341117YZ?spm_id_from=333.337.search-card.all.click
 
@@ -331,33 +331,33 @@ https://www.bilibili.com/video/BV1x341117YZ?spm_id_from=333.337.search-card.all.
 
 雅砻江水电开发是从下游向上级逐步推进的，下游的5个梯级，锦屏一级、二级、官地、二滩和桐子林电站已经全部建成投运。而两河口是中游梯级最上游的一级，也是中游6级第一个开工建设的水电站，标志着雅砻江开发从下游进入中游梯级。
 
-![](/images/btnews/0401_0500/0421/6387455b-ccf7-4a8a-999a-cf8e4dfde38c.png)
+![](/images/btnews/0401_0500/0421/6387455b-ccf7-4a8a-999a-cf8e4dfde38c.webp)
 
 
-![](/images/btnews/0401_0500/0421/efb8d9bf-3ab0-42bd-8bd1-afaa342505d3.png)
+![](/images/btnews/0401_0500/0421/efb8d9bf-3ab0-42bd-8bd1-afaa342505d3.webp)
 
 
 
 前面介绍景观的时候提到过，两河口电站设在几条支流汇集的地方，用很窄但很高的土石坝挡住了干流，同时在三四条高山峡谷蓄水，库容量达到了108亿立方米。所以两河口项目是雅砻江流域调节性能最好的水电站。而四川占了全国水电装机容量的23%，大多数是径流式水电站，枯水期发电能力差，汛期缺库容只能浪费水。两河口电站的高坝建成后，除了自身发电的同时，还可以调节水量，稳定输水，减少下游径流电站的浪费水量，预计雅砻江、金沙江下游以及长江干流电站每年可以因此增加342亿度电，相当于两河口自身发电量的三倍还多。
 
-![](/images/btnews/0401_0500/0421/2dfc5721-0e4a-44bf-a272-f5ed9944fde7.png)
+![](/images/btnews/0401_0500/0421/2dfc5721-0e4a-44bf-a272-f5ed9944fde7.webp)
 
 
 
-![](/images/btnews/0401_0500/0421/83500165-fb40-4306-9f7e-1b063df98909.png)
+![](/images/btnews/0401_0500/0421/83500165-fb40-4306-9f7e-1b063df98909.webp)
 
 
-![](/images/btnews/0401_0500/0421/768af413-d50d-4a3b-941c-0591651b3702.png)
+![](/images/btnews/0401_0500/0421/768af413-d50d-4a3b-941c-0591651b3702.webp)
 
 
-![](/images/btnews/0401_0500/0421/d7f9b9ae-0220-4e52-8ae8-9d6576239bf0.png)
+![](/images/btnews/0401_0500/0421/d7f9b9ae-0220-4e52-8ae8-9d6576239bf0.webp)
 
 https://www.bilibili.com/video/BV1Mx411u7ZN/
 
 
 与雅砻江情况类似的流域，还有大渡河、乌江和长江的上游金沙江。其中，大渡河流域可开发水能有2350万千瓦，也规划了3库22级水电开发方案。其中正在建设的双江口水电站大坝高315米，即将成为新的世界第一高坝，可以给长江全流域提供稳定的流量。预计乌江和金沙江也会有类似的高坝电站。两河口的经验，将来会用到很多地方。****
 
-![](/images/btnews/0401_0500/0421/9bc0a3a0-4630-4da6-a860-fbaf31f1ffb1.png)
+![](/images/btnews/0401_0500/0421/9bc0a3a0-4630-4da6-a860-fbaf31f1ffb1.webp)
 
 https://t.ynet.cn/baijia/28867462.html
 
@@ -368,14 +368,14 @@ https://t.ynet.cn/baijia/28867462.html
 
 最后，我再说几句关于辉瑞新冠口服药的问题。3月10日，辉瑞公司和通用技术中国医药公司共同宣布，中国医药公司负责辉瑞公司新冠病毒治疗药物帕克斯洛维德。
 
-![](/images/btnews/0401_0500/0421/d4337f43-bff7-41c8-a409-643620ae4ade.png)
+![](/images/btnews/0401_0500/0421/d4337f43-bff7-41c8-a409-643620ae4ade.webp)
 
 https://www.sohu.com/a/528785924_121124374
 
 
 中国医药公司也在A股上市，消息传出之后，中国医药的股价连续暴涨，从3月初的10块钱左右，涨到过40块，现在也有25块上下。考虑到辉瑞口服药在中国也会有仿制药，而且推广存在严重社会障碍，我不认为中国医药的代理权会产生重大影响，这也是一次值得关注的异常股价波动。****
 
-![](/images/btnews/0401_0500/0421/9d1e87c3-19cd-4557-b7c4-416f2da76fca.png)
+![](/images/btnews/0401_0500/0421/9d1e87c3-19cd-4557-b7c4-416f2da76fca.webp)
 
 
 
@@ -391,5 +391,5 @@ https://www.sohu.com/a/528785924_121124374
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0421/c0eb851e-f030-4276-930b-2b57d6b4780e.jpg)
+![](/images/btnews/0401_0500/0421/c0eb851e-f030-4276-930b-2b57d6b4780e.webp)
 

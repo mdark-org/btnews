@@ -4,7 +4,7 @@ date: 2022-09-12
 ---
 
 
-![](/images/btnews/0401_0500/0483/154721f8-287a-4e8f-a6a2-c86483f95f50.jpg)
+![](/images/btnews/0401_0500/0483/154721f8-287a-4e8f-a6a2-c86483f95f50.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-09-12
 
 
 
-![](/images/btnews/0401_0500/0483/1f535b7f-c53d-41d5-9844-a8b16e666de6.jpg)
+![](/images/btnews/0401_0500/0483/1f535b7f-c53d-41d5-9844-a8b16e666de6.webp)
 
 
 
@@ -34,7 +34,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002919864
 
 我先来读一下关于紧迫性的内容：
 
-![](/images/btnews/0401_0500/0483/9dbaff8b-7c59-4a0f-a6ec-5af7b8b48107.png)
+![](/images/btnews/0401_0500/0483/9dbaff8b-7c59-4a0f-a6ec-5af7b8b48107.webp)
 
 这两段文字总结成中国人熟悉的说法，就是苏联社会主义在物质和精神两方面都丧失了优越性，而且精神方面的问题更严重一些。物质方面只是发展停滞，缺乏增量，现有的“存量”起码还能保证；而精神方面是人民不再相信当前的意识形态，连“存量”都要崩塌了。
 
@@ -44,7 +44,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002919864
 
 至于改革需要遵循的原则，静静帮我读一下第二部分的结论：
 
-![](/images/btnews/0401_0500/0483/402b81d1-01a5-402f-86ec-5acde375f7fa.png)
+![](/images/btnews/0401_0500/0483/402b81d1-01a5-402f-86ec-5acde375f7fa.webp)
 
 所谓改革的基础是民主化，意思是戈尔巴乔夫已经意识到，推举自己上台的官僚集团，本身就是苏联发展乃至生产的最大障碍。所以他必须尽快在传统的推举模式之外找到权力基础，确认自己的合法性。
 
@@ -52,13 +52,13 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002919864
 
 关于对外政策的第三部分我就不多说了，静静帮我再读一下陆南泉全文的总结：
 
-![](/images/btnews/0401_0500/0483/eea82ebe-d08d-4379-8182-aab185bbcf63.png)
+![](/images/btnews/0401_0500/0483/eea82ebe-d08d-4379-8182-aab185bbcf63.webp)
 
 1988年有几十篇论文密集评价了戈尔巴乔夫的新书《改革与新思维》，前面提到的作者陆南泉到今天还很活跃。下一篇我注意到的论文，作者是连玉如，现在还在北京大学国际政治系当副主任，研究重点是德国与欧洲。1988年她在《国际政治研究》第3期发表了论文《新思维对德苏关系影响初探》，请静静帮我读一段：
 
 
 
-![](/images/btnews/0401_0500/0483/1c5d33c6-bc88-4cd6-81db-a3a697377ac4.png)
+![](/images/btnews/0401_0500/0483/1c5d33c6-bc88-4cd6-81db-a3a697377ac4.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1002661590
 这段分析是整篇论文最有价值的地方，至于其他的内容，介绍了什么，不如没介绍什么重要。此时已经是1988年中期，距离柏林墙倒塌还有15个月，距离西德和平吞并东德只有两年时间，但哪怕是专门研究苏联和德国的专家，也没意识到东德体系已经进入倒计时。
@@ -76,7 +76,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003052724
 
 
 
-![](/images/btnews/0401_0500/0483/3128c119-ca4f-4ff6-b870-b57130e44750.png)
+![](/images/btnews/0401_0500/0483/3128c119-ca4f-4ff6-b870-b57130e44750.webp)
 
 
 
@@ -84,7 +84,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003052724
 
 
 
-![](/images/btnews/0401_0500/0483/5a61444d-0030-4d13-a1bf-f1a604ccb360.png)
+![](/images/btnews/0401_0500/0483/5a61444d-0030-4d13-a1bf-f1a604ccb360.webp)
 
 
 
@@ -95,7 +95,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003052724
 
 
 
-![](/images/btnews/0401_0500/0483/f5db9c06-a75c-4ee2-a9cc-c5cd9b091eff.png)
+![](/images/btnews/0401_0500/0483/f5db9c06-a75c-4ee2-a9cc-c5cd9b091eff.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=71749087495756564957
 这句话我没看到英文原文，从中文翻译字面意思看，是说戈尔巴乔夫的地位非常稳固，稳固到他会像列宁、斯大林、勃列日涅夫那样得到终身执政的地位。
@@ -103,22 +103,22 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=71749087495756564957
 
 
 
-![](/images/btnews/0401_0500/0483/0ff2e10f-1fdc-4ba9-9ba2-e9b5da4d6f74.png)
+![](/images/btnews/0401_0500/0483/0ff2e10f-1fdc-4ba9-9ba2-e9b5da4d6f74.webp)
 
-![](/images/btnews/0401_0500/0483/fc1bd136-b895-487f-9dec-0b3e02947a5c.png)
+![](/images/btnews/0401_0500/0483/fc1bd136-b895-487f-9dec-0b3e02947a5c.webp)
 
 布热津斯基比较重视民族矛盾，这些年他被很多心理弱势的民族主义者当做先知。在戈尔巴乔夫问题上，他用同一把民族主义锤子解决所有钉子，得出了和卡特差不多的结论，就是戈尔巴乔夫并不真心要搞改革，通过改革姿态稳固地位之后，就会叫停改革，回去当官僚机构的首领。所以戈尔巴乔夫的执政要比他的改革政策还要长久。
 
 
 
-![](/images/btnews/0401_0500/0483/b4294a5c-d670-41b3-802c-a731a65814d9.jpg)
+![](/images/btnews/0401_0500/0483/b4294a5c-d670-41b3-802c-a731a65814d9.webp)
 
 
 
 
 最后是尼克松的预测。因为尼克松曾经主动访华缓和中美关系，大多数中国人觉得他是一个温和领导人。但是在苏联问题上，尼克松是最极端，最不择手段的美国总统之一。和中国缓和关系，恰恰是他谋杀苏联的重要手段。就在做出预测的1988年，尼克松出版了一本著名的书《1999 不战而胜》，认为美国只要不害怕发展技术，正确施加压力，不用发动战争，也能在20世纪赢得冷战，不会把苏联霸权留到21世纪。
 
-![](/images/btnews/0401_0500/0483/446714e6-b232-421b-ab1d-f71ea4875cb9.png)
+![](/images/btnews/0401_0500/0483/446714e6-b232-421b-ab1d-f71ea4875cb9.webp)
 
 
 
@@ -126,13 +126,13 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=71749087495756564957
 
 
 
-![](/images/btnews/0401_0500/0483/71ebebc6-521b-4c5f-9f8d-8960c8c79f00.png)
+![](/images/btnews/0401_0500/0483/71ebebc6-521b-4c5f-9f8d-8960c8c79f00.webp)
 
 
-![](/images/btnews/0401_0500/0483/31cbfc87-d573-4def-ab2f-47b67e6ee368.png)
+![](/images/btnews/0401_0500/0483/31cbfc87-d573-4def-ab2f-47b67e6ee368.webp)
 
 
-![](/images/btnews/0401_0500/0483/2e15374a-d5bb-43f7-a9e8-f4e983ef3307.png)
+![](/images/btnews/0401_0500/0483/2e15374a-d5bb-43f7-a9e8-f4e983ef3307.webp)
 
 
 
@@ -149,7 +149,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=71749087495756564957
 
 
 
-![](/images/btnews/0401_0500/0483/0e528e5e-44d4-4727-9d6e-e98bfcb0a1d8.jpg)
+![](/images/btnews/0401_0500/0483/0e528e5e-44d4-4727-9d6e-e98bfcb0a1d8.webp)
 
 
 
@@ -158,13 +158,13 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=71749087495756564957
 
 
 
-![](/images/btnews/0401_0500/0483/2bb54b2c-8bf0-4c32-9b95-06c31d5d32f6.png)
+![](/images/btnews/0401_0500/0483/2bb54b2c-8bf0-4c32-9b95-06c31d5d32f6.webp)
 
 
-![](/images/btnews/0401_0500/0483/aba64b89-9510-484f-ac51-473c388ab664.png)
+![](/images/btnews/0401_0500/0483/aba64b89-9510-484f-ac51-473c388ab664.webp)
 
 
-![](/images/btnews/0401_0500/0483/a2ce4f5f-6b93-4ca9-8fdc-805bbdaa1ee3.png)
+![](/images/btnews/0401_0500/0483/a2ce4f5f-6b93-4ca9-8fdc-805bbdaa1ee3.webp)
 
 
 
@@ -175,10 +175,10 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003001900
 
 
 
-![](/images/btnews/0401_0500/0483/e8de24e4-3061-4123-93e6-d403fbc62932.png)
+![](/images/btnews/0401_0500/0483/e8de24e4-3061-4123-93e6-d403fbc62932.webp)
 
 
-![](/images/btnews/0401_0500/0483/4f5c6207-bba5-455c-bb4c-f141157bcf8f.png)
+![](/images/btnews/0401_0500/0483/4f5c6207-bba5-455c-bb4c-f141157bcf8f.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003006687
 叶利钦忽然发出激进言论，被戈尔巴乔夫降低职务，说明戈尔巴乔夫这时候实行的是平衡策略。既要利用新的文化，新的权力基础给自己提供支持，又要保持自己在传统官僚体系内的权威。卡特和尼克松正是看到了这一点，所以才说戈尔巴乔夫是个善于保护权力的聪明人。
@@ -186,7 +186,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003006687
 
 接下来再请静静读一段：
 
-![](/images/btnews/0401_0500/0483/bfb533a6-805d-4bf0-b4f6-0bed739e95e0.png)
+![](/images/btnews/0401_0500/0483/bfb533a6-805d-4bf0-b4f6-0bed739e95e0.webp)
 
 苏联财政平衡依赖于出售石油和收酒税，这种落后国家的表现，在之前的苏联一直是要回避的话题，戈尔巴乔夫把矛盾掀翻，拿出来由全国讨论，一方面是要在内部证明改革必要性，另一方面也是因为80年代后期石油价格进入低谷，苏联不得不考虑没有石油怎么生存了。
 
@@ -195,7 +195,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003006687
 
 
 
-![](/images/btnews/0401_0500/0483/c360a3d2-f76c-4f26-af4d-d5008b6e8bb9.png)
+![](/images/btnews/0401_0500/0483/c360a3d2-f76c-4f26-af4d-d5008b6e8bb9.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003011494
 这个十字路口，就是前面卡特和尼克松预测的转折时间点。他们一致认为，戈尔巴乔夫是个聪明人，改革旧秩序遇到强大阻力，最好的选择就是退回去，让社会按旧秩序运转，同时继续卖石油缓解财政压力。
@@ -203,13 +203,13 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003011494
 
 但是，说戈尔巴乔夫愚蠢也可以，说戈尔巴乔夫信念坚定也可以，反正他坚决拒绝当一个旧秩序下的苏联总书记。1989年第五期的《社会主义研究》登载了李兴中的文章：《首届苏联人民代表大会述评》。这就是戈尔巴乔夫推出的新体制，用来对抗曾经把他任命为苏联领导人的旧体制。前面让静静读的太多了，我自己来读一段：
 
-![](/images/btnews/0401_0500/0483/808a9f59-12ab-44fe-96a6-190be3bc12a7.png)
+![](/images/btnews/0401_0500/0483/808a9f59-12ab-44fe-96a6-190be3bc12a7.webp)
 
 
-![](/images/btnews/0401_0500/0483/6e329e70-61bd-4281-928d-43d5a486bee6.png)
+![](/images/btnews/0401_0500/0483/6e329e70-61bd-4281-928d-43d5a486bee6.webp)
 
 
-![](/images/btnews/0401_0500/0483/cc10cdd8-e5d3-4361-92f0-60f182bdbd06.png)
+![](/images/btnews/0401_0500/0483/cc10cdd8-e5d3-4361-92f0-60f182bdbd06.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1002898066
 走过这一步，戈尔巴乔夫就没有回头的选择了。从这以后，他必须保持双重身份，对苏共保守派，他是不能撤换的民选元首；对议会激进派，他是必须接受的苏共领导人。他的地位和改变苏联的能力，取决于他在两种身份之间切换的灵活性。反过来说，他必须给所有国内力量做批判对象，无论是改革停滞还是改革力度太大，他都必须承揽全部责任。
@@ -217,10 +217,10 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002898066
 
 1989年第四期的《当代世界社会主义问题》登载了王崇杰的文章《戈尔巴乔夫在风浪中驾驶改革航船》，从标题就能看到和之前的区别。静静帮我读一段：
 
-![](/images/btnews/0401_0500/0483/96c85abe-1be1-4e98-a4e1-984474a2f8c2.png)
+![](/images/btnews/0401_0500/0483/96c85abe-1be1-4e98-a4e1-984474a2f8c2.webp)
 
 
-![](/images/btnews/0401_0500/0483/d69cb144-8511-4107-a623-a8cb712e38c8.png)
+![](/images/btnews/0401_0500/0483/d69cb144-8511-4107-a623-a8cb712e38c8.webp)
 
 
 
@@ -228,14 +228,14 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002898066
 
 
 
-![](/images/btnews/0401_0500/0483/46e80e6e-4b16-49ab-884e-e976f30c8100.png)
+![](/images/btnews/0401_0500/0483/46e80e6e-4b16-49ab-884e-e976f30c8100.webp)
 
 http://www.nssd.cn/articles/article_detail.aspx?id=1003010601
 《俄罗斯东欧中亚研究》1990年第一期节目，又一个在后苏联时代赫赫有名的人物登场了，叶夫根尼·马克西莫维奇·普里马科夫，标题是《跻身于党和国家领导人之列的学者》。
 http://www.nssd.cn/articles/article_detail.aspx?id=1002875376
 文章对他的总结是“稳健派”，请静静帮我读一下：
 
-![](/images/btnews/0401_0500/0483/7c5667ce-f81a-49ab-932d-9ce424f5c0fd.png)
+![](/images/btnews/0401_0500/0483/7c5667ce-f81a-49ab-932d-9ce424f5c0fd.webp)
 
 
 
@@ -249,10 +249,10 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002875376
 
 
 
-![](/images/btnews/0401_0500/0483/6b0d8d26-fcc5-41a4-8827-b9bc17f4eb20.png)
+![](/images/btnews/0401_0500/0483/6b0d8d26-fcc5-41a4-8827-b9bc17f4eb20.webp)
 
 
-![](/images/btnews/0401_0500/0483/5f0c646c-e40b-4d00-b684-5dabd9a5bd0f.png)
+![](/images/btnews/0401_0500/0483/5f0c646c-e40b-4d00-b684-5dabd9a5bd0f.webp)
 
 
 
@@ -265,7 +265,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002990382
 
 
 
-![](/images/btnews/0401_0500/0483/34d03eb8-8cd5-4bc1-8c99-f86e9a496216.png)
+![](/images/btnews/0401_0500/0483/34d03eb8-8cd5-4bc1-8c99-f86e9a496216.webp)
 
 
 
@@ -273,7 +273,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002990382
 
 
 
-![](/images/btnews/0401_0500/0483/d19a4114-21c9-42e3-beb6-c277a648a845.png)
+![](/images/btnews/0401_0500/0483/d19a4114-21c9-42e3-beb6-c277a648a845.webp)
 
 
 
@@ -281,7 +281,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002990382
 
 
 
-![](/images/btnews/0401_0500/0483/47af9a11-584f-405f-b522-2ee6e8fa90c2.png)
+![](/images/btnews/0401_0500/0483/47af9a11-584f-405f-b522-2ee6e8fa90c2.webp)
 
 http://www.nssd.cn/articles/article_detail.aspx?id=1002875405
 在分析总统制的效果之前，我想讲一个经典苏联笑话。一个苏联公民到苏联银行存钱，问工作人员，说我这5000卢布安全吗。工作人员说，没事，我们出了问题，上面有分行呢。他又问分行出事了怎么办，工作人员说还有总行呢，实在不行还有苏联政府担保。这个人还是不放心，说苏联政府出问题了怎么办，工作人员说，5000卢布你就看到苏联没了，还有什么不满意的！
@@ -291,24 +291,24 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002875405
 
 
 
-![](/images/btnews/0401_0500/0483/300201c4-754b-4048-aeb0-6d18f4f88236.png)
+![](/images/btnews/0401_0500/0483/300201c4-754b-4048-aeb0-6d18f4f88236.webp)
 
 http://www.nssd.cn/articles/article_detail.aspx?id=1002971749
 同一篇文章介绍了苏联官方的解释，我来读原文：
 
-![](/images/btnews/0401_0500/0483/5086f007-4aad-40e9-8197-425fc762c283.png)
+![](/images/btnews/0401_0500/0483/5086f007-4aad-40e9-8197-425fc762c283.webp)
 
 
-![](/images/btnews/0401_0500/0483/aa2cdf25-1b0d-4220-a6e4-8f20f8a28cca.png)
+![](/images/btnews/0401_0500/0483/aa2cdf25-1b0d-4220-a6e4-8f20f8a28cca.webp)
 
 
-![](/images/btnews/0401_0500/0483/4370e876-f285-428d-8dbf-4154868eac81.png)
+![](/images/btnews/0401_0500/0483/4370e876-f285-428d-8dbf-4154868eac81.webp)
 
 
-![](/images/btnews/0401_0500/0483/8286adea-96f4-4220-89d3-49b85b9e96d3.png)
+![](/images/btnews/0401_0500/0483/8286adea-96f4-4220-89d3-49b85b9e96d3.webp)
 
 
-![](/images/btnews/0401_0500/0483/d16460f0-0977-4bde-a295-8e7a62199625.png)
+![](/images/btnews/0401_0500/0483/d16460f0-0977-4bde-a295-8e7a62199625.webp)
 
 
 
@@ -317,7 +317,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002973074
 
 
 
-![](/images/btnews/0401_0500/0483/b8b0824b-6d5b-4e3d-b526-dba12c8c5a1a.jpg)
+![](/images/btnews/0401_0500/0483/b8b0824b-6d5b-4e3d-b526-dba12c8c5a1a.webp)
 
 
 
@@ -326,14 +326,14 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002973074
 
 
 
-![](/images/btnews/0401_0500/0483/f351adf7-5a24-4b97-8f2d-2eec40d90146.png)
+![](/images/btnews/0401_0500/0483/f351adf7-5a24-4b97-8f2d-2eec40d90146.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1002593280
 前面是传记作家从个人视角的观察，接下来我想引用几篇距离苏联解体久一点的文章。
 
 
 
-![](/images/btnews/0401_0500/0483/e06b2887-2c52-4b35-9b61-e6ce9c64ae29.png)
+![](/images/btnews/0401_0500/0483/e06b2887-2c52-4b35-9b61-e6ce9c64ae29.webp)
 
 
 
@@ -341,14 +341,14 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002593280
 
 
 
-![](/images/btnews/0401_0500/0483/334c5523-cf87-4412-a1d6-447a258ed63d.png)
+![](/images/btnews/0401_0500/0483/334c5523-cf87-4412-a1d6-447a258ed63d.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1002563528
 然后我来读一下祝黄河教授对819事件的定性：
 
 
 
-![](/images/btnews/0401_0500/0483/e8c73da4-767f-465b-a09a-2f572edda86f.png)
+![](/images/btnews/0401_0500/0483/e8c73da4-767f-465b-a09a-2f572edda86f.webp)
 
 
 
@@ -359,7 +359,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002563528
 
 
 
-![](/images/btnews/0401_0500/0483/1812a533-dde5-47ef-8710-acedaf20734c.jpg)
+![](/images/btnews/0401_0500/0483/1812a533-dde5-47ef-8710-acedaf20734c.webp)
 
 
 
@@ -388,26 +388,26 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=SJSHZYYJ2021010007
 
 
 
-![](/images/btnews/0401_0500/0483/58f1570b-ff5b-40c1-9e72-c83a6855671e.png)
+![](/images/btnews/0401_0500/0483/58f1570b-ff5b-40c1-9e72-c83a6855671e.webp)
 
 
-![](/images/btnews/0401_0500/0483/ed029ba1-57fb-4b1a-ae31-ce21e48d10c3.png)
+![](/images/btnews/0401_0500/0483/ed029ba1-57fb-4b1a-ae31-ce21e48d10c3.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=90718866495757524854484948
 戈尔巴乔夫去世，代表了一个时代的结束。上周听到新闻的时候，办公室的高流同学设想了戈尔巴乔夫和列宁的对话，我觉得很有意思，请左手王同学画了场景和各位分享：
 
 
 
-![](/images/btnews/0401_0500/0483/f1b8e50b-e5d3-4d06-bfa1-7936e3da09ca.jpg)
+![](/images/btnews/0401_0500/0483/f1b8e50b-e5d3-4d06-bfa1-7936e3da09ca.webp)
 
 
-![](/images/btnews/0401_0500/0483/bfb3c872-6c5a-4ed3-8aaf-efe522814d55.jpg)
+![](/images/btnews/0401_0500/0483/bfb3c872-6c5a-4ed3-8aaf-efe522814d55.webp)
 
 
-![](/images/btnews/0401_0500/0483/da188c62-0e51-4a7b-8655-8e95ca9e1875.jpg)
+![](/images/btnews/0401_0500/0483/da188c62-0e51-4a7b-8655-8e95ca9e1875.webp)
 
 
-![](/images/btnews/0401_0500/0483/d95aff05-4503-4a5d-99a0-b1b29a3aaa9d.jpg)
+![](/images/btnews/0401_0500/0483/d95aff05-4503-4a5d-99a0-b1b29a3aaa9d.webp)
 
 
 

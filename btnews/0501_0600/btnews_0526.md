@@ -4,7 +4,7 @@ date: 2022-12-18
 ---
 
 点击下图观看视频
-![](/images/btnews/0501_0600/0526/c36ad045-0799-4831-8cf1-2b8bfbddf5cc.jpg)
+![](/images/btnews/0501_0600/0526/c36ad045-0799-4831-8cf1-2b8bfbddf5cc.webp)
 
 
 
@@ -17,12 +17,12 @@ date: 2022-12-18
 这是一个特朗普撒种子，拜登接手之后精心培育，最后享受政治回报的故事
 台积电到美国建厂，是2020年5月就定下来的，亚利桑那州的工厂也建设一年半了，每隔一段时间就会上一次新闻。这次设备进厂，台积电自己原本只想搞个低调仪式，但拜登要求提升庆祝规格，搞一个隆重的大活动，除了拜登还有一大批业内有分量的人物来撑场面，所以得到舆论关注。
 
-![](/images/btnews/0501_0600/0526/e0ee1e88-64f9-45fc-bcf4-2434f0bba45f.png)
+![](/images/btnews/0501_0600/0526/e0ee1e88-64f9-45fc-bcf4-2434f0bba45f.webp)
 
 https://www.jiemian.com/article/4382392.html
  
 
-![](/images/btnews/0501_0600/0526/262181f7-fe2e-4e54-b53e-9ea63dd3eb0a.png)
+![](/images/btnews/0501_0600/0526/262181f7-fe2e-4e54-b53e-9ea63dd3eb0a.webp)
 
 https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-starts-construction-of-12bn-Arizona-chip-plant
 
@@ -36,21 +36,21 @@ https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-starts-construction-of
 
 这几年是台积电密集投资的阶段，全台湾岛现在有接近20个芯片厂处于建造或调试阶段，其中任何一个工厂运行之后，都和美国亚利桑那的工厂规模相当。不意外的话，一两周内，台积电就要宣布新竹市1到2nm的芯片厂开始建设。所以没必要太在意拜登高调的设备进厂仪式。不过是一个普通3-4nm厂而已。
 
-![](/images/btnews/0501_0600/0526/9e46886b-d242-497a-a9fb-03cdf312026a.png)
+![](/images/btnews/0501_0600/0526/9e46886b-d242-497a-a9fb-03cdf312026a.webp)
 
 
 
 https://mic.iii.org.tw/english/AsiaExpress_Detail.aspx?doc_sqno=13074
  
 
-![](/images/btnews/0501_0600/0526/2e8b6e51-60c4-459d-a9bf-cf6e0ef31240.png)
+![](/images/btnews/0501_0600/0526/2e8b6e51-60c4-459d-a9bf-cf6e0ef31240.webp)
 
 
 
 https://www.bloomberg.com/news/articles/2022-12-01/tsmc-plans-to-make-more-advanced-chips-in-us-at-urging-of-apple
  
 
-![](/images/btnews/0501_0600/0526/0d79c842-3eb9-4b3c-b931-dfd97b6d7b31.png)
+![](/images/btnews/0501_0600/0526/0d79c842-3eb9-4b3c-b931-dfd97b6d7b31.webp)
 
 https://www.taipeitimes.com/News/biz/archives/2022/12/08/2003790299
 
@@ -87,18 +87,18 @@ https://www.taipeitimes.com/News/biz/archives/2022/12/08/2003790299
 
 2019年，美国通过了《外商投资风险评估现代化法案》，扩大了美国外资投资委员会（CFIUS）的管辖范围，增加了中国收购境外集成电路项目的难度。与此同时，特朗普推动欧盟出台配套的法律，严格审查中国在欧盟的投资，禁止ASML向中国交付EUV光刻机，破坏了中芯国际尖端制程计划。2020年2月，特朗普推动42国更新《瓦森纳协议》，增加了对光刻软件和大硅片技术出口的管制。这个瓦森纳协定，是当年巴黎统筹计划的后续方案，而巴黎统筹计划的目的就是对苏联搞技术封锁。美国已经把中国当做70年代的苏联来对付了。
 
-![](/images/btnews/0501_0600/0526/4d92ddf4-9497-4a5c-8748-aeac6763b548.png)
+![](/images/btnews/0501_0600/0526/4d92ddf4-9497-4a5c-8748-aeac6763b548.webp)
 
 http://pdf.dfcfw.com/pdf/H3_AP201809101192011016_1.pdf
  
 
-![](/images/btnews/0501_0600/0526/84077923-c93e-45a9-8512-f3af530c511a.png)
+![](/images/btnews/0501_0600/0526/84077923-c93e-45a9-8512-f3af530c511a.webp)
 
 https://www.congress.gov/bill/115th-congress/house-bill/5040/all-actions?overview=closed#tabs
 
 
  
-![](/images/btnews/0501_0600/0526/cebcb48f-eb4b-44d8-99e8-b3d98cb4dbec.png)
+![](/images/btnews/0501_0600/0526/cebcb48f-eb4b-44d8-99e8-b3d98cb4dbec.webp)
 
 http://www.gov.cn/xinwen/2018-11/22/content_5342549.htm
 ——《美日半导体贸易摩擦的历程对我国的启示研究》；2020
@@ -128,15 +128,15 @@ https://www.bilibili.com/video/BV1254y1L7WG/?vd_source=42a67c5a5f6a827af92aa63c5
 
 美国造芯片贵，原因是美国掌握的产业链都在上游，缺乏中下游配合。在美国造出芯片之后，还要再送回台湾或东南亚封测组装，然后再卖回美国，来回折腾。台积电之前在华盛顿州的8吋晶圆厂已经是长期亏损运营了。再开一个工厂也很难更好。
 
-![](/images/btnews/0501_0600/0526/fe2994bb-9440-4eb8-8ee7-2f2107cc2228.png)
+![](/images/btnews/0501_0600/0526/fe2994bb-9440-4eb8-8ee7-2f2107cc2228.webp)
 
 
-![](/images/btnews/0501_0600/0526/bf03f70c-e405-4368-8706-c1ba2c595a1e.png)
+![](/images/btnews/0501_0600/0526/bf03f70c-e405-4368-8706-c1ba2c595a1e.webp)
 
 https://zhidx.com/p/268819.html
  
 
-![](/images/btnews/0501_0600/0526/e595c62c-2a7b-43ad-af0c-720e3f586d7d.png)
+![](/images/btnews/0501_0600/0526/e595c62c-2a7b-43ad-af0c-720e3f586d7d.webp)
 
 https://www.jiemian.com/article/5155663.html
 
@@ -145,7 +145,7 @@ https://www.jiemian.com/article/5155663.html
 https://www.laoyaoba.com/n/797432
  
 
-![](/images/btnews/0501_0600/0526/57e2842a-ff1f-410c-a9a6-7b82d91f9a6d.png)
+![](/images/btnews/0501_0600/0526/57e2842a-ff1f-410c-a9a6-7b82d91f9a6d.webp)
 
 https://www.glassdoor.com/Reviews/TSMC-Reviews-E4130.htm
 https://www.eetimes.com/tsmcs-arizona-culture-clash/
@@ -157,20 +157,20 @@ https://www.eetimes.com/tsmcs-arizona-culture-clash/
 
 从招聘信息来看，台积电亚利桑那州工厂，给当地开出的薪资水平普遍在每年12、3万美元，从台湾省外派到美国的员工，到手的还要少一些。台积电给赴美员工办理三年工作签证，承诺说三年到期后如果想继续留在美国，会帮忙办绿卡。但如果待遇不大幅提高，拿到绿卡的台湾员工大概率会跳槽，甚至转行当互联网码农。这既是美国本土开不出芯片工厂的原因，也是未来台积电工厂在美国持续运行的最大障碍。
 
-![](/images/btnews/0501_0600/0526/b03416b9-0e2c-46df-a602-898ea90b5aee.png)
+![](/images/btnews/0501_0600/0526/b03416b9-0e2c-46df-a602-898ea90b5aee.webp)
 
 
-![](/images/btnews/0501_0600/0526/a626f408-f059-40cd-93ba-6dec9b87083f.png)
+![](/images/btnews/0501_0600/0526/a626f408-f059-40cd-93ba-6dec9b87083f.webp)
 
 https://www.glassdoor.com/Salary/TSMC-Phoenix-Salaries-EI_IE4130.0,4_IL.5,12_IM678.htm
  
 
-![](/images/btnews/0501_0600/0526/349f79ac-815f-4b36-a708-0df6e7eb3c14.png)
+![](/images/btnews/0501_0600/0526/349f79ac-815f-4b36-a708-0df6e7eb3c14.webp)
 
 https://www.163.com/dy/article/HNVQ960P0514R9L4.html
  
 
-![](/images/btnews/0501_0600/0526/45182a87-4002-4d1c-a25b-0f9a2fe75e53.png)
+![](/images/btnews/0501_0600/0526/45182a87-4002-4d1c-a25b-0f9a2fe75e53.webp)
 
 
 
@@ -181,17 +181,17 @@ https://www.163.com/dy/article/HNVQ960P0514R9L4.html
 https://chinaflashmarket.com/News/2022-03/176530
  
 
-![](/images/btnews/0501_0600/0526/509b4e4c-ef4e-4087-8972-51ba0a287bbe.png)
+![](/images/btnews/0501_0600/0526/509b4e4c-ef4e-4087-8972-51ba0a287bbe.webp)
 
 https://www.techinsights.com/blog/2021-top-semiconductor-equipment-suppliers
 
 
 从日常工作来看，大多数芯片设计软件和IP都掌握在美国公司手里，台积电如果不配合美国，日常工作就会立刻停顿。这次台积电设备进厂仪式，来的不只是拜登，还有五大设备供应商的代表，以及五大客户其中的三个。所以，拜登的隆重仪式不仅是庆祝自己拿到了政绩，更是对台积电乃至全世界耀武扬威，展示美国对半导体供应链的控制霸权。
 
-![](/images/btnews/0501_0600/0526/fb930853-9357-4261-b7ee-88261a40ea17.png)
+![](/images/btnews/0501_0600/0526/fb930853-9357-4261-b7ee-88261a40ea17.webp)
 
 
-![](/images/btnews/0501_0600/0526/75a6c76c-586e-49ef-8203-5e8f97442c64.png)
+![](/images/btnews/0501_0600/0526/75a6c76c-586e-49ef-8203-5e8f97442c64.webp)
 
 督工你前面提到，台积电去美国，是特朗普推动的决定。是不是拜登抢到了特朗普的政绩呢？
 
@@ -207,14 +207,14 @@ https://www.techinsights.com/blog/2021-top-semiconductor-equipment-suppliers
 
 但拜登完全无视这些短期因素，强行宣布问题在于美国不掌握供应链。2021年2月24日，拜登会见两党议员，讨论全球芯片短缺问题，提议调查供应链，达成两党议员共识。同一天，拜登签署行政令，对美国供应链潜在薄弱环节进行100天审查，包括半导体、医疗物资、电动汽车电池和稀土矿。
 
-![](/images/btnews/0501_0600/0526/afc64da1-7d55-4175-8b42-90dc5c1648da.png)
+![](/images/btnews/0501_0600/0526/afc64da1-7d55-4175-8b42-90dc5c1648da.webp)
 
 https://baijiahao.baidu.com/s?id=1692630842197051330
 
 
 2021年9月23日，美国国务院举行全球半导体峰会，商务部长要求包括苹果、微软、通用汽车在内的芯片制造商，向政府提交供应链信息，并且给出45天期限，说是要调查芯片都去哪儿了，为什么供应紧张。
 
-![](/images/btnews/0501_0600/0526/06aabc40-ea5d-45f0-a1e5-e023e94dca50.png)
+![](/images/btnews/0501_0600/0526/06aabc40-ea5d-45f0-a1e5-e023e94dca50.webp)
 
 美国商务部长吉娜·雷蒙多
 
@@ -230,7 +230,7 @@ https://baijiahao.baidu.com/s?id=1692630842197051330
 
 与此同时，拜登政府还在用其它手段加强战略捆绑，在管理方面，推出了一批多边管制联盟，从上游到下游全覆盖。在技术方面，2022年3月2日，英特尔、AMD、高通、三星、台积电、Meta和微软宣布成立小芯片互连（UCle）标准联盟，要通过开源设计实现芯片互连标准化，构建验证芯片的生态系统。这种内部互连生态，对于后来的竞争者非常不利。
 
-![](/images/btnews/0501_0600/0526/1ba52819-643a-4834-8a81-0c027a59b2e8.png)
+![](/images/btnews/0501_0600/0526/1ba52819-643a-4834-8a81-0c027a59b2e8.webp)
 
 ——《“芯片四方联盟” 加速西方“技术联盟”构建》；2022
 ——《不想站队!台芯片企业心情复杂》；2022
@@ -250,23 +250,23 @@ https://baijiahao.baidu.com/s?id=1692630842197051330
 
 “无尽前沿”这个名字，是冷战期间的概念。指挥世界大战的罗斯福总统雇了美国第一个总统科学顾问，万尼瓦尔·布什（Vanneavar Bush）。罗斯福死后，1954年，万尼瓦尔·布什写了一份报告，叫《科学：无尽前沿》，指出在科技领域的长期投入可以保证美国的领先地位。
 
-![](/images/btnews/0501_0600/0526/8c5d914c-2096-4785-b3e7-f37dd362359e.png)
+![](/images/btnews/0501_0600/0526/8c5d914c-2096-4785-b3e7-f37dd362359e.webp)
 
 
-![](/images/btnews/0501_0600/0526/8dc59dec-6943-442d-93e5-20d19680bdcf.png)
+![](/images/btnews/0501_0600/0526/8dc59dec-6943-442d-93e5-20d19680bdcf.webp)
 
 https://www.congress.gov/bill/116th-congress/senate-bill/3832/text
  
 
-![](/images/btnews/0501_0600/0526/a4eed180-f03a-4b2b-8f3f-094b684f1b46.png)
+![](/images/btnews/0501_0600/0526/a4eed180-f03a-4b2b-8f3f-094b684f1b46.webp)
 
 
-![](/images/btnews/0501_0600/0526/942a8cbd-bf4e-4be5-9f06-67cd3c1e203f.png)
+![](/images/btnews/0501_0600/0526/942a8cbd-bf4e-4be5-9f06-67cd3c1e203f.webp)
 
 https://www.congress.gov/bill/116th-congress/house-bill/6978/text
  
 
-![](/images/btnews/0501_0600/0526/67864dbf-09d1-48f5-b6f7-f40a5e6a467d.png)
+![](/images/btnews/0501_0600/0526/67864dbf-09d1-48f5-b6f7-f40a5e6a467d.webp)
 
 
 
@@ -275,7 +275,7 @@ https://www.congress.gov/bill/116th-congress/house-bill/6978/text
 
 当时美国两党矛盾比较大，虽然名义上都支持法案，但在国会上反复提出修订意见。2021年，法案更名为《美国创新与竞争法案》，长达1400多页，有几百个章节。2021年版进一步加强了进攻性内容。包括限制中国从美国引进人才，将知识产权交易关联到出口管制与经济制裁，将AI与个人数据采集保护相关的设备、技术、软件列入管控清单，加强对中国企业在美机构的调查核实，禁止中国收购美国新兴技术企业。
 
-![](/images/btnews/0501_0600/0526/d528ce22-af6a-42cc-b984-7062083c88a9.png)
+![](/images/btnews/0501_0600/0526/d528ce22-af6a-42cc-b984-7062083c88a9.webp)
 
 https://www.congress.gov/bill/117th-congress/house-bill/4521
 https://www.vox.com/2021/6/4/22518923/endless-frontier-act-innovation-competition-act-china-congress
@@ -293,14 +293,14 @@ https://www.vox.com/2021/6/4/22518923/endless-frontier-act-innovation-competitio
 
 从法案中受益的企业，禁止在未来十年参与和中国大陆有关的任何重大交易，换句话说，台积电拿了补贴就再也不能扩建上海和南京的工厂。
 
-![](/images/btnews/0501_0600/0526/488d5c50-9026-4e14-9b5a-f4034605d013.png)
+![](/images/btnews/0501_0600/0526/488d5c50-9026-4e14-9b5a-f4034605d013.webp)
 
 https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-sheet-chips-and-science-act-will-lower-costs-create-jobs-strengthen-supply-chains-and-counter-china/
 
 
 第二部分是研发创新和竞争法，针对其它关键技术领域，拨款1699亿美元促进研发创新，延续了之前版本针对中国的内容。在两党议员争论中，1000亿美元的投资规模已经扩张到2300亿。
 
-![](/images/btnews/0501_0600/0526/7c6b3ee5-14c0-44b8-ae46-dec25c8c3b89.png)
+![](/images/btnews/0501_0600/0526/7c6b3ee5-14c0-44b8-ae46-dec25c8c3b89.webp)
 
 
 法案是长期宏观战略，拜登政府还有短期精准战术。
@@ -311,10 +311,10 @@ https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-she
 
 更新内容包括新增4个管制分类编码（ECCN），新增3个外国直接产品规则，新增2个最终用户、用途限制条款，同时还加上1个新增临时通用许可证。做出了非常精准的限制。比如说在最终用户、用途限制部分，加上了“16nm或14nm以下制程芯片”以及“128层以上NAND闪存芯片”，与此相关的所有开发、制造物品都受到直接管制。
 
-![](/images/btnews/0501_0600/0526/14ccd604-d285-4bb0-aa0c-c8f601840e70.png)
+![](/images/btnews/0501_0600/0526/14ccd604-d285-4bb0-aa0c-c8f601840e70.webp)
 
 
-![](/images/btnews/0501_0600/0526/cf7f6786-fe99-43ba-81ce-828b75997c53.png)
+![](/images/btnews/0501_0600/0526/cf7f6786-fe99-43ba-81ce-828b75997c53.webp)
 
 
 
@@ -323,14 +323,14 @@ https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/09/fact-she
 
 507期，我们提到过紫光投资长江存储的问题。关注我们睡前消息编辑部公众号的读者可能已经看到了近期新闻，长江存储向美国的核查低头，愿意接受一定的限制，换取企业生存。
 
-![](/images/btnews/0501_0600/0526/bcf5a4f5-80e3-4c3a-9df3-8416d1fae70e.png)
+![](/images/btnews/0501_0600/0526/bcf5a4f5-80e3-4c3a-9df3-8416d1fae70e.webp)
 
 https://www.cnbeta.com.tw/articles/tech/1334071.htm
 
 
 这些条款加剧了国内半导体业内的悲观情绪。总体来看，美国商务部以先进计算芯片、超级计算机为切入点，全面加强对中国半导体行业的限制。未来几年，影响将顺着半导体行业向其它领域扩散，包括高端智能汽车、数据中心、云计算。这是比特朗普贸易战威胁大得多的技术管制。
 
-![](/images/btnews/0501_0600/0526/5113d154-85a7-49c7-9554-6b0045711f51.png)
+![](/images/btnews/0501_0600/0526/5113d154-85a7-49c7-9554-6b0045711f51.webp)
 
 
 
@@ -342,9 +342,9 @@ https://www.cnbeta.com.tw/articles/tech/1334071.htm
 
 前段时间，彭博社出了一份研究报告，认为尽管中美脱钩很困难，但只要坚持推进，到2030年，美国对中国的供应链依存度可以下降到40%以下。一个最近的典型案例就是服务器制造，从2019年到2021年，中国大陆制造的服务器，在全球市场份额已经从90%下降到60%以下。这是因为在美国影响下，大量品牌制造商都将代工厂、高端装配线向台湾省和东南亚转移。
 
-![](/images/btnews/0501_0600/0526/cfba041f-bd7f-420e-8248-f7e0a308f6fa.png)
+![](/images/btnews/0501_0600/0526/cfba041f-bd7f-420e-8248-f7e0a308f6fa.webp)
 
-![](/images/btnews/0501_0600/0526/73f35c62-9553-4e69-8009-a74dd9b8f21b.png)
+![](/images/btnews/0501_0600/0526/73f35c62-9553-4e69-8009-a74dd9b8f21b.webp)
 
 
 
@@ -353,23 +353,23 @@ https://www.cnbeta.com.tw/articles/tech/1334071.htm
 
 但从现在中国的舆论场气氛来看，大多数媒体并不实事求是，甚至不认为拜登的政策真是个威胁。用“拜登”做关键词搜索新闻，中国媒体关注的重点都是他的发言口误，抓住他的年龄问题反复嘲笑，强调七八十岁的老头子不配管理国家，推出的政策都软弱无力，国际上没人当回事。这说明中国社会眼下的气氛有点浮躁，不愿意正视一个内政外交都非常出色的对手。这比拜登的政策本身更值得忧虑。
 
-![](/images/btnews/0501_0600/0526/d7881845-c3f3-45b2-b5a2-e4993f0462bc.png)
+![](/images/btnews/0501_0600/0526/d7881845-c3f3-45b2-b5a2-e4993f0462bc.webp)
 
 
 
 刚刚过去的一周又发生了几件事。首先，中国商务部12号向世贸组织起诉美国滥用进出口管制措施，限制芯片产品贸易。路透社在13号爆料，说中国计划拨款1430亿美元发展半导体产业。16号美国商务部将36家中国科技公司列入“实体清单”，包括长江存储、寒武纪、上海微电子。目前大陆企业先不要妄想台积电的3纳米、7纳米，就是28nm制程，在光刻机、检测、量测、KLA机台这些方面也都绕不过美系设备，美国正在不断收紧限制措施。
 
-![](/images/btnews/0501_0600/0526/f838333f-447c-4b6e-8cc7-f0b3c5e3558d.png)
+![](/images/btnews/0501_0600/0526/f838333f-447c-4b6e-8cc7-f0b3c5e3558d.webp)
 
 
-![](/images/btnews/0501_0600/0526/7d2d2dd6-e54e-4891-afb8-4210b6f7ebf8.png)
+![](/images/btnews/0501_0600/0526/7d2d2dd6-e54e-4891-afb8-4210b6f7ebf8.webp)
 
 
-![](/images/btnews/0501_0600/0526/1a4e9d04-001d-4b7b-ab2a-b1b0e6f971b0.png)
+![](/images/btnews/0501_0600/0526/1a4e9d04-001d-4b7b-ab2a-b1b0e6f971b0.webp)
 
 国内的媒体最近总是说荷兰和中国友好，要顶着美国压力卖我们光刻机。荷兰ASML前几天向媒体抱怨，说美国能向中国出口先进芯片，却要求ASML只能向中国出口旧设备。这句抱怨是国内媒体乐观情绪的来源。真实情况是，美国希望联合盟友，限制110nm以下所有工艺的对华出口，而荷兰政府希望稍微放放宽一点，45nm就差不多了。
 
-![](/images/btnews/0501_0600/0526/b9a9c1f9-47a8-4a62-b9b8-4c81f0b820e9.png)
+![](/images/btnews/0501_0600/0526/b9a9c1f9-47a8-4a62-b9b8-4c81f0b820e9.webp)
 
 
 
@@ -380,6 +380,6 @@ https://www.cnbeta.com.tw/articles/tech/1334071.htm
 
 
 
-![](/images/btnews/0501_0600/0526/e4905de1-1f54-4f6d-8617-89afb51ff80a.jpg)
+![](/images/btnews/0501_0600/0526/e4905de1-1f54-4f6d-8617-89afb51ff80a.webp)
 
 

@@ -13,7 +13,7 @@ date: 2021-08-13
 
 九州大学林克彦团队这篇论文的重点是，诱导小鼠胚胎干细胞，在体外产生**卵巢体细胞样细胞**，形成了一个卵泡。
 
-![](images/btnews/0301_0400/0313/media/image1.png)
+![](/images/btnews/0301_0400/0313/image1.webp)
 
 [人類的皮膚細胞也能製造出嬰兒了？ - 紐約時報中文網](https://cn.nytimes.com/science/20170517/ivg-reproductive-technology/zh-hant/#:~:text=%E5%8E%BB%E5%B9%B4%EF%BC%8C%E7%94%B1%E6%9E%97%E5%8B%9D%E5%BD%A5%EF%BC%88Katsuhiko%20Hayashi,%E4%BA%86%E5%81%A5%E5%BA%B7%E7%9A%84%E5%B9%BC%E9%BC%A0%E3%80%82)
 
@@ -21,7 +21,7 @@ date: 2021-08-13
 
 自然界中的卵母细胞，都是雌性哺乳动物出生的时候就带上的，只会减少不会增加，每个人类女性终生只有四五百个卵子。
 
-![](images/btnews/0301_0400/0313/media/image2.jpg)
+![](/images/btnews/0301_0400/0313/image2.webp)
 
 林克彦团队从2011年开始。就开始尝试用多能干细胞重建小鼠的生殖细胞，以及发育所需的环境。2012年，他用多能干细胞制造了原生殖细胞样细胞，在母鼠体内形成人工卵细胞。
 
@@ -33,19 +33,19 @@ date: 2021-08-13
 
 到这个阶段，林克彦团队已经可以在母鼠体内制造有活性精子和卵子。但是要产生卵母细胞，还绕不过原生殖细胞在母鼠的卵巢内部发育这一步，体外不行。
 
-![](images/btnews/0301_0400/0313/media/image3.png)
+![](/images/btnews/0301_0400/0313/image3.webp)
 
 这是因为**原生殖细胞**变成卵母细胞，需要卵泡环境。
 
-![](images/btnews/0301_0400/0313/media/image4.png)
+![](/images/btnews/0301_0400/0313/image4.webp)
 
 今年林克彦团队在体外成功制造了卵泡，然后把原生殖细胞样细胞植入人工卵泡。还成功的人工授精。这个受精卵在体外人工卵泡中发育到了胚胎**第12.5天**，相当于人类胚胎受孕的第40天。胚胎重新移植回母鼠之后，发育成可繁殖的后代。所以说卵子生产链条已经完整，而且证明了自己的可靠性。
 
-![](images/btnews/0301_0400/0313/media/image5.jpg)
+![](/images/btnews/0301_0400/0313/image5.webp)
 
-![](images/btnews/0301_0400/0313/media/image6.png)
+![](/images/btnews/0301_0400/0313/image6.webp)
 
-![](images/btnews/0301_0400/0313/media/image7.png)
+![](/images/btnews/0301_0400/0313/image7.webp)
 
 <https://embryology.med.unsw.edu.au/embryology/index.php/Category:Mouse_E12.5>
 
@@ -53,7 +53,7 @@ date: 2021-08-13
 
 [繊維芽細胞から卵を作り出した科学者たち \| Nature ダイジェスト \| Nature Portfolio](https://www.natureasia.com/ja-jp/ndigest/v10/n11/%E7%B9%8A%E7%B6%AD%E8%8A%BD%E7%B4%B0%E8%83%9E%E3%81%8B%E3%82%89%E5%8D%B5%E3%82%92%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%97%E3%81%9F%E7%A7%91%E5%AD%A6%E8%80%85%E3%81%9F%E3%81%A1/48341)
 
-![](images/btnews/0301_0400/0313/media/image8.png)
+![](/images/btnews/0301_0400/0313/image8.webp)
 
 现在卵泡问题解决了，人类终于可以说，只需要雄性自己的遗传信息，就可以生产出完整的受精卵。抛开伦理问题不说，现在只要有一个雌性提供最初的卵细胞组成第一个受精卵，以及负责代孕的雌性，雄性社会就可以制造自己的后代，在遗传信息上和任何雌性都没关系。
 
@@ -79,13 +79,13 @@ date: 2021-08-13
 
 一套房子62.5万起拍，瞬间有人出价135.5万，心理上打垮了所有竞价者，快速成交。
 
-![](images/btnews/0301_0400/0313/media/image9.png)
+![](/images/btnews/0301_0400/0313/image9.webp)
 
 上周8月6日，深圳南山区一套法拍二手房，经过88轮竞争，8137万成交价。而同一小区类似的二手房，挂牌价只有4000多万。
 
 <https://new.qq.com/rain/a/20210806A0EFIS00>
 
-![](images/btnews/0301_0400/0313/media/image10.png)
+![](/images/btnews/0301_0400/0313/image10.webp)
 
 羊城晚报分析广东省法拍房数据，和去年相比，今年上半年法拍房成交量增加了19.39%，成交额增加28.2%。
 
@@ -95,13 +95,13 @@ date: 2021-08-13
 
 [åäº¬æ³ææ¿å¸åºç«ç­ æé³åºæ³ææ¿æäº¤æ»ä»·å±é¦-è¯å¸æ¥æ¥ç½](http://www.zqrb.cn/house/hangyedongtai/2021-07-02/A1625229386478.html)
 
-![](images/btnews/0301_0400/0313/media/image11.png)
+![](/images/btnews/0301_0400/0313/image11.webp)
 
 首先当然是便宜。根据最高法院的规定，起拍价可以从市场价的七折开始。如果流拍后进入第二次拍卖，很可能在上一次的价格上再打八折。
 
 [<u>https://www.chinacourt.org/law/detail/2016/08/id/148803.shtml</u>](https://www.chinacourt.org/law/detail/2016/08/id/148803.shtml)
 
-![](images/btnews/0301_0400/0313/media/image12.png)
+![](/images/btnews/0301_0400/0313/image12.webp)
 
 [Sina Visitor System](https://weibo.com/2140526657/KjFJOBmPr)
 
@@ -118,7 +118,7 @@ date: 2021-08-13
 
 从长时间来看，法拍房热度增加，是因为从2016年开始，最高人民法院鼓励优先通过网络拍卖方式处置财产。网络司法拍卖突破了地域限制，给普通人去买外地房子提供了机会。
 
-![](images/btnews/0301_0400/0313/media/image13.png)
+![](/images/btnews/0301_0400/0313/image13.webp)
 
 [<u>https://www.chinacourt.org/law/detail/2016/08/id/148803.shtml</u>](https://www.chinacourt.org/law/detail/2016/08/id/148803.shtml)
 
@@ -127,7 +127,7 @@ date: 2021-08-13
 现在各地政府控制房价，最直接的手段是限制新开楼盘的一手房售价，大多数大城市都出现了新房二手房房价倒挂的现象。比如说，郑爽在上海的豪宅所在的小区复兴珑御，最近成交两套二手房，其中一套成交总价4080万元，均价差不多每平米20万元，周边同地段的新房售价2700万元，只要能摇号排队拿到买新房资格，能净赚1300万。这种差价制造了了大量<span
 dir="rtl">“</span>卖旧买新”的置换人群。
 
-![](images/btnews/0301_0400/0313/media/image14.png)
+![](/images/btnews/0301_0400/0313/image14.webp)
 
 [上海房价倒挂，有人“卖旧买新”净赚千万元_澎湃号·媒体_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_13043301)
 
@@ -143,7 +143,7 @@ dir="rtl">“</span>卖旧买新”的置换人群。
 
 <u>[ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1674698129847744252&wfr=spider&for=pc)</u>
 
-![](images/btnews/0301_0400/0313/media/image15.png)
+![](/images/btnews/0301_0400/0313/image15.webp)
 
 虚构债务当然是违法行为，但是你情我愿的房屋买卖，因为限购政策的存在，不允许合法成交，市场肯定会寻找阻力最低的突破口，形成最符合供需关系的价格。第280期节目，我讲了两个反差明显的故事。一是深圳禁止中介按照供求关系展示价格，二手房也只能标政府指导价，中介被迫用水果代表价格，一个榴莲1000万，一个香蕉100万。另外一个故事是海口市委书记张琦倒台，他在深圳的两套二手房被法院拍卖，政府担心国有资产流失，没有限价，结果一套的单价是每平米17万，另外一套是29万，完全无视了深圳的二手房限价。
 
@@ -151,13 +151,13 @@ dir="rtl">“</span>卖旧买新”的置换人群。
 
 <u>[æ­å·æ³ææ¿å¸åºéæ­¥åå½çæ§](http://fgj.hangzhou.gov.cn/art/2021/3/15/art_1229265248_58873038.html)</u>
 
-![](images/btnews/0301_0400/0313/media/image16.png)
+![](/images/btnews/0301_0400/0313/image16.webp)
 
 去年12月，福建泉州市民在人民网领导留言板上向市委书记投诉，说当地一套法拍房成交价达3.35万/平米，每平米远高于市场价一万多，怀疑有人恶意哄抬房价，希望官方能介入调查。
 
 <http://liuyan.people.com.cn/threads/content?tid=8780750>
 
-![](images/btnews/0301_0400/0313/media/image17.png)
+![](/images/btnews/0301_0400/0313/image17.webp)
 
 今年5月，又有泉州市民抱怨，自媒体大肆宣传个别法拍房价格高于市场价，营造房价疯涨氛围，认为法拍房是泉州房价上涨的原因之一。
 
@@ -167,11 +167,11 @@ dir="rtl">“</span>卖旧买新”的置换人群。
 
 今年以来，上海、杭州、成都、合肥、长沙等城市都出台了一系列限购政策，要求购买法拍房必须具有本市的购房资格。
 
-![](images/btnews/0301_0400/0313/media/image18.png)
+![](/images/btnews/0301_0400/0313/image18.webp)
 
 不过从杭州的经验来看，虽然法拍房纳入限购后，市场有所降温，但豪宅、顶级学区等优质资源在市场上仍然是硬通货，多套法拍房的成交单价继续破纪录。[五月法拍市场上演“豪宅”热 多套成交单价破纪录](https://zj.zjol.com.cn/news.html?id=1679584)
 
-![](images/btnews/0301_0400/0313/media/image19.png)
+![](/images/btnews/0301_0400/0313/image19.webp)
 
 最新的消息是，各地法院集中发起了腾迁法拍房行动，而且还打通了各地法院之间的关系，实现了异地清空住房。8月5日，山东高级法院从广州天河区法院借了法警和车辆，清空了广州价值1.7亿的两套法拍房，
 
@@ -191,7 +191,7 @@ dir="rtl">“</span>卖旧买新”的置换人群。
 
 <http://www.bjchp.gov.cn/cpqzf/315734/bmdt/cp5425405/index.html>
 
-![](images/btnews/0301_0400/0313/media/image20.png)
+![](/images/btnews/0301_0400/0313/image20.webp)
 
 但是，既然政府消灭了需求，禁止了交易，资本和劳动力就必然会快速退出。昨天晚上，第一财经获得消息，华尔街英语公司下周会宣布破产，一大批擅长教学的劳动力会被抛向社会。
 

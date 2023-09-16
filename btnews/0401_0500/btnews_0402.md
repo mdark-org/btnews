@@ -34,7 +34,7 @@ date: 2022-03-06
 
 
 
-![](/images/btnews/0401_0500/0402/a118374c-79e5-4354-9e16-7c3a997e10b1.png)
+![](/images/btnews/0401_0500/0402/a118374c-79e5-4354-9e16-7c3a997e10b1.webp)
 
 
 
@@ -48,11 +48,11 @@ date: 2022-03-06
 
 
 
-![](/images/btnews/0401_0500/0402/6255d921-d4c6-4cd7-af06-35284f9d9d00.png)
+![](/images/btnews/0401_0500/0402/6255d921-d4c6-4cd7-af06-35284f9d9d00.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/7d0ecb81-0784-498a-8a13-29438082e4d9.png)
+![](/images/btnews/0401_0500/0402/7d0ecb81-0784-498a-8a13-29438082e4d9.webp)
 
 
 
@@ -72,13 +72,13 @@ https://www.ha.org.hk/haho/ho/pad/220304_daily_chi.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/b24029ae-3826-4e13-8c08-42861f32338f.png)
+![](/images/btnews/0401_0500/0402/b24029ae-3826-4e13-8c08-42861f32338f.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0402/8d739220-c242-4bd9-a209-3ac249b86810.png)
+![](/images/btnews/0401_0500/0402/8d739220-c242-4bd9-a209-3ac249b86810.webp)
 
 
 
@@ -94,7 +94,7 @@ https://www.ha.org.hk/haho/ho/pad/220304_daily_chi.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/50a6e1da-785b-4ca3-b597-9e7aeecd673e.png)
+![](/images/btnews/0401_0500/0402/50a6e1da-785b-4ca3-b597-9e7aeecd673e.webp)
 
 
 
@@ -108,11 +108,11 @@ https://www.ha.org.hk/haho/ho/pad/220304_daily_chi.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/e6bfda12-e0fa-4fe5-9630-b4fd8ef51781.png)
+![](/images/btnews/0401_0500/0402/e6bfda12-e0fa-4fe5-9630-b4fd8ef51781.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/ac986c87-e677-4623-9031-7ec165c6c4f7.png)
+![](/images/btnews/0401_0500/0402/ac986c87-e677-4623-9031-7ec165c6c4f7.webp)
 
 
 
@@ -126,7 +126,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/d9dde61f-c21d-4273-be51-3228f8ca94ec.png)
+![](/images/btnews/0401_0500/0402/d9dde61f-c21d-4273-be51-3228f8ca94ec.webp)
 
 
 
@@ -138,11 +138,11 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/1e91e050-db16-410f-9194-cdadb7eaaa49.png)
+![](/images/btnews/0401_0500/0402/1e91e050-db16-410f-9194-cdadb7eaaa49.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/5f9275c5-4de2-482d-a604-22f48aabbd0d.png)
+![](/images/btnews/0401_0500/0402/5f9275c5-4de2-482d-a604-22f48aabbd0d.webp)
 
 
 
@@ -158,11 +158,11 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/9b439f8e-ca2d-4b4d-b3ad-0c18c262cb87.png)
+![](/images/btnews/0401_0500/0402/9b439f8e-ca2d-4b4d-b3ad-0c18c262cb87.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/c7ad118c-9aa5-44d2-a6a6-9f8677beb2f1.png)
+![](/images/btnews/0401_0500/0402/c7ad118c-9aa5-44d2-a6a6-9f8677beb2f1.webp)
 
 
 
@@ -190,11 +190,11 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/eae137c4-23f7-4ee8-93a2-6ea5239239c1.png)
+![](/images/btnews/0401_0500/0402/eae137c4-23f7-4ee8-93a2-6ea5239239c1.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/b6833b95-b9a7-48ec-9e67-d1981b5f2f37.png)
+![](/images/btnews/0401_0500/0402/b6833b95-b9a7-48ec-9e67-d1981b5f2f37.webp)
 
 
 
@@ -204,7 +204,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/9a8aedd0-420c-429c-8dd4-d95c71695b9f.png)
+![](/images/btnews/0401_0500/0402/9a8aedd0-420c-429c-8dd4-d95c71695b9f.webp)
 
 
 
@@ -220,7 +220,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/7573d4df-29c7-467c-a06c-846364cea5a3.png)
+![](/images/btnews/0401_0500/0402/7573d4df-29c7-467c-a06c-846364cea5a3.webp)
 
 
 
@@ -242,7 +242,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/5137207b-2c87-4253-b8d6-be293648db66.png)
+![](/images/btnews/0401_0500/0402/5137207b-2c87-4253-b8d6-be293648db66.webp)
 
 
 
@@ -254,13 +254,13 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/c2b8912b-2a05-478b-aee6-52285711a390.png)
+![](/images/btnews/0401_0500/0402/c2b8912b-2a05-478b-aee6-52285711a390.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0402/0e6a2910-3a82-41c3-8c20-f15a3d6ee6e0.png)
+![](/images/btnews/0401_0500/0402/0e6a2910-3a82-41c3-8c20-f15a3d6ee6e0.webp)
 
 
 
@@ -282,7 +282,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/b2c616d4-e758-4f3a-9a77-09e186a76c4e.png)
+![](/images/btnews/0401_0500/0402/b2c616d4-e758-4f3a-9a77-09e186a76c4e.webp)
 
 
 
@@ -306,7 +306,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/63f06c56-9b76-4d70-95cc-fd545d46cacc.png)
+![](/images/btnews/0401_0500/0402/63f06c56-9b76-4d70-95cc-fd545d46cacc.webp)
 
 
 
@@ -316,7 +316,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/f91d490e-28a5-4357-882e-b7f435196ec8.png)
+![](/images/btnews/0401_0500/0402/f91d490e-28a5-4357-882e-b7f435196ec8.webp)
 
 
 
@@ -344,7 +344,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/dfcd233d-53d9-4e0b-9ded-6d63fe217ad5.png)
+![](/images/btnews/0401_0500/0402/dfcd233d-53d9-4e0b-9ded-6d63fe217ad5.webp)
 
 
 
@@ -354,7 +354,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/be63e79a-34f6-4f98-acb5-2533974f4514.png)
+![](/images/btnews/0401_0500/0402/be63e79a-34f6-4f98-acb5-2533974f4514.webp)
 
 
 
@@ -370,7 +370,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/506940c1-5211-48b5-878f-ccb86b3279f8.png)
+![](/images/btnews/0401_0500/0402/506940c1-5211-48b5-878f-ccb86b3279f8.webp)
 
 
 
@@ -394,11 +394,11 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/34e78bc8-e1b0-434f-917c-be552ab1b589.png)
+![](/images/btnews/0401_0500/0402/34e78bc8-e1b0-434f-917c-be552ab1b589.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/abee5e5e-0102-4db9-a2da-70b2d5a4e5c5.png)
+![](/images/btnews/0401_0500/0402/abee5e5e-0102-4db9-a2da-70b2d5a4e5c5.webp)
 
 
 
@@ -410,7 +410,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/4b25e44b-d067-4b4d-b4de-968a7029330d.png)
+![](/images/btnews/0401_0500/0402/4b25e44b-d067-4b4d-b4de-968a7029330d.webp)
 
 
 
@@ -434,7 +434,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/e206cc5f-6bf0-45e8-8493-a049358febae.png)
+![](/images/btnews/0401_0500/0402/e206cc5f-6bf0-45e8-8493-a049358febae.webp)
 
 
 
@@ -452,7 +452,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/a615cd02-b5fc-444c-8f7e-ff2220a6004a.png)
+![](/images/btnews/0401_0500/0402/a615cd02-b5fc-444c-8f7e-ff2220a6004a.webp)
 
 
 
@@ -470,7 +470,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/3dd24a40-dc66-46cb-b5eb-820fe3350f2c.png)
+![](/images/btnews/0401_0500/0402/3dd24a40-dc66-46cb-b5eb-820fe3350f2c.webp)
 
 
 
@@ -482,7 +482,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/a695fba1-4ba8-49cc-9166-0e939e63da2d.png)
+![](/images/btnews/0401_0500/0402/a695fba1-4ba8-49cc-9166-0e939e63da2d.webp)
 
 
 
@@ -492,13 +492,13 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/ad961795-1d47-4192-9cc9-a14fd9c29501.png)
+![](/images/btnews/0401_0500/0402/ad961795-1d47-4192-9cc9-a14fd9c29501.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0402/a8b6c715-2309-4eef-8184-0cdaf449d4e9.png)
+![](/images/btnews/0401_0500/0402/a8b6c715-2309-4eef-8184-0cdaf449d4e9.webp)
 
 
 
@@ -508,7 +508,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/8983a495-87d7-4bc7-99ff-06e69effd2f9.png)
+![](/images/btnews/0401_0500/0402/8983a495-87d7-4bc7-99ff-06e69effd2f9.webp)
 
 
 
@@ -534,11 +534,11 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/e3fe06e3-c470-4bb6-a17d-1805c5fe7f19.png)
+![](/images/btnews/0401_0500/0402/e3fe06e3-c470-4bb6-a17d-1805c5fe7f19.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/7ceb98bc-9475-42ec-9236-753559829964.png)
+![](/images/btnews/0401_0500/0402/7ceb98bc-9475-42ec-9236-753559829964.webp)
 
 
 
@@ -558,7 +558,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/8ce1dbd1-5c37-4aba-8cec-dbe59634f8f8.png)
+![](/images/btnews/0401_0500/0402/8ce1dbd1-5c37-4aba-8cec-dbe59634f8f8.webp)
 
 
 
@@ -570,7 +570,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/719b4943-6a7b-4688-9716-a6f177812b53.png)
+![](/images/btnews/0401_0500/0402/719b4943-6a7b-4688-9716-a6f177812b53.webp)
 
 
 
@@ -586,11 +586,11 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/f67bb0a4-6bf0-4e67-946c-496913b50e69.png)
+![](/images/btnews/0401_0500/0402/f67bb0a4-6bf0-4e67-946c-496913b50e69.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/36251a93-71a1-4813-9d00-5d031af8752c.png)
+![](/images/btnews/0401_0500/0402/36251a93-71a1-4813-9d00-5d031af8752c.webp)
 
 
 
@@ -604,7 +604,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/6a8d0a8f-19ac-496e-997b-ac487545ee68.png)
+![](/images/btnews/0401_0500/0402/6a8d0a8f-19ac-496e-997b-ac487545ee68.webp)
 
 
 
@@ -638,7 +638,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
 
 
-![](/images/btnews/0401_0500/0402/6d318b06-e417-4d8f-bdf8-96629fa54c90.png)
+![](/images/btnews/0401_0500/0402/6d318b06-e417-4d8f-bdf8-96629fa54c90.webp)
 
 
 
@@ -664,7 +664,7 @@ https://www.chp.gov.hk/files/pdf/local_situation_covid19_tc.pdf
 
  
 
-![](/images/btnews/0401_0500/0402/a12d7ad4-d842-4c8b-8c70-f967ae11fc1a.png)
+![](/images/btnews/0401_0500/0402/a12d7ad4-d842-4c8b-8c70-f967ae11fc1a.webp)
 
 
 
@@ -684,7 +684,7 @@ wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0402/8acaa50d-47aa-4f92-ba98-e2deb6ae0a18.png)
+![](/images/btnews/0401_0500/0402/8acaa50d-47aa-4f92-ba98-e2deb6ae0a18.webp)
 
 
 
@@ -698,7 +698,7 @@ wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0402/ed49ee33-3a3c-4828-a81a-99fe66fde1c1.png)
+![](/images/btnews/0401_0500/0402/ed49ee33-3a3c-4828-a81a-99fe66fde1c1.webp)
 
 
 
@@ -748,11 +748,11 @@ https://www.chinanews.com.cn/ga/2022/02-25/9685688.shtml
 
 
 
-![](/images/btnews/0401_0500/0402/392eaa8f-adf4-4970-8f20-831985fedb5c.png)
+![](/images/btnews/0401_0500/0402/392eaa8f-adf4-4970-8f20-831985fedb5c.webp)
 
 
 
-![](/images/btnews/0401_0500/0402/e766a0ae-f2c1-46a0-8d4e-a85deb5eaf7d.png)
+![](/images/btnews/0401_0500/0402/e766a0ae-f2c1-46a0-8d4e-a85deb5eaf7d.webp)
 
 
 
@@ -778,7 +778,7 @@ https://www.chinanews.com.cn/ga/2022/02-25/9685688.shtml
 
 
 
-![](/images/btnews/0401_0500/0402/cdb359f2-46d7-47cc-ac76-88935171ccd1.png)
+![](/images/btnews/0401_0500/0402/cdb359f2-46d7-47cc-ac76-88935171ccd1.webp)
 
 
 
@@ -792,7 +792,7 @@ https://www.chinanews.com.cn/ga/2022/02-25/9685688.shtml
 
 
 
-![](/images/btnews/0401_0500/0402/4081cf57-2c04-4f9c-9355-2b2124b848d6.png)
+![](/images/btnews/0401_0500/0402/4081cf57-2c04-4f9c-9355-2b2124b848d6.webp)
 
 
 
@@ -806,7 +806,7 @@ https://www.chinanews.com.cn/ga/2022/02-25/9685688.shtml
 
 
 
-![](/images/btnews/0401_0500/0402/5c69ce6b-13e3-4951-ba16-f35e7bb2b54a.png)
+![](/images/btnews/0401_0500/0402/5c69ce6b-13e3-4951-ba16-f35e7bb2b54a.webp)
 
 
 
@@ -818,7 +818,7 @@ https://www.chinanews.com.cn/ga/2022/02-25/9685688.shtml
 
 
 
-![](/images/btnews/0401_0500/0402/1cea1795-fa01-40f3-9bb6-d8511c4d92cd.png)
+![](/images/btnews/0401_0500/0402/1cea1795-fa01-40f3-9bb6-d8511c4d92cd.webp)
 
 
 
@@ -846,7 +846,7 @@ https://www.sohu.com/a/483385402_639898
 
 
 
-![](/images/btnews/0401_0500/0402/f7c575be-e6e6-40d7-a9f9-f1c7ebe32733.jpg)
+![](/images/btnews/0401_0500/0402/f7c575be-e6e6-40d7-a9f9-f1c7ebe32733.webp)
 
 
 
@@ -854,7 +854,7 @@ https://www.sohu.com/a/483385402_639898
 
 
 
-![](/images/btnews/0401_0500/0402/316e7dc2-13fb-42e5-9060-a6bc583f4fb0.jpg)
+![](/images/btnews/0401_0500/0402/316e7dc2-13fb-42e5-9060-a6bc583f4fb0.webp)
 
 
 

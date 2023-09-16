@@ -4,7 +4,7 @@ date: 2022-09-03
 ---
 
 
-![](/images/btnews/0401_0500/0479/b6f7ef19-d706-4639-adc2-ab7142c00934.jpg)
+![](/images/btnews/0401_0500/0479/b6f7ef19-d706-4639-adc2-ab7142c00934.webp)
 
 
 
@@ -18,7 +18,7 @@ date: 2022-09-03
 
 
 
-![](/images/btnews/0401_0500/0479/5c8ec9e7-212c-4cd5-b082-3104a37f7b71.png)
+![](/images/btnews/0401_0500/0479/5c8ec9e7-212c-4cd5-b082-3104a37f7b71.webp)
 
 
 
@@ -50,7 +50,7 @@ https://news.ifeng.com/c/8IuAu5GG6Ya
 
 
 
-![](/images/btnews/0401_0500/0479/a4ce944d-ee97-42f4-87a3-5edcfd9415f9.png)
+![](/images/btnews/0401_0500/0479/a4ce944d-ee97-42f4-87a3-5edcfd9415f9.webp)
 
 
 
@@ -64,9 +64,9 @@ https://news.ifeng.com/c/8IuAu5GG6Ya
 
 
 
-![](/images/btnews/0401_0500/0479/92ca1992-3255-4ea5-b368-194fcebba8ed.png)
+![](/images/btnews/0401_0500/0479/92ca1992-3255-4ea5-b368-194fcebba8ed.webp)
 
-![](/images/btnews/0401_0500/0479/5d8457f3-e27d-499a-8f46-24d87272106f.png)
+![](/images/btnews/0401_0500/0479/5d8457f3-e27d-499a-8f46-24d87272106f.webp)
 
 
 
@@ -80,7 +80,7 @@ https://news.ifeng.com/c/8IuAu5GG6Ya
 
 
 
-![](/images/btnews/0401_0500/0479/6439a677-d790-46df-bf41-1b1a94c93fa8.png)
+![](/images/btnews/0401_0500/0479/6439a677-d790-46df-bf41-1b1a94c93fa8.webp)
 
 http://www.hinews.cn/news/system/2010/07/24/010956649.shtml
 https://news.sina.com.cn/s/2008-01-10/064913231355s.shtml
@@ -120,9 +120,9 @@ https://news.sina.com.cn/s/2008-01-10/064913231355s.shtml
 
 
 
-![](/images/btnews/0401_0500/0479/7e68ffa9-db86-4491-8c5f-661fb95453c7.jpg)
+![](/images/btnews/0401_0500/0479/7e68ffa9-db86-4491-8c5f-661fb95453c7.webp)
 
-![](/images/btnews/0401_0500/0479/58597419-1fcf-4872-a500-d48dee247f89.jpg)
+![](/images/btnews/0401_0500/0479/58597419-1fcf-4872-a500-d48dee247f89.webp)
 
 
 
@@ -142,7 +142,7 @@ https://news.sina.com.cn/s/2008-01-10/064913231355s.shtml
 
 
 
-![](/images/btnews/0401_0500/0479/f12c2985-ff3d-4523-a128-b4fca2ddd80e.jpg)
+![](/images/btnews/0401_0500/0479/f12c2985-ff3d-4523-a128-b4fca2ddd80e.webp)
 
 
 
@@ -174,9 +174,9 @@ https://news.sina.com.cn/s/2008-01-10/064913231355s.shtml
 
 
 
-![](/images/btnews/0401_0500/0479/1dc37c5b-0713-406b-a0f9-8fb50175f7f9.png)
+![](/images/btnews/0401_0500/0479/1dc37c5b-0713-406b-a0f9-8fb50175f7f9.webp)
 
-![](/images/btnews/0401_0500/0479/2c4f3e6c-c714-4ac4-8b82-bc467d0d8f5d.png)
+![](/images/btnews/0401_0500/0479/2c4f3e6c-c714-4ac4-8b82-bc467d0d8f5d.webp)
 
 https://baijiahao.baidu.com/s?id=1735601622989958304
 
@@ -194,7 +194,7 @@ https://baijiahao.baidu.com/s?id=1735601622989958304
 
 
 
-![](/images/btnews/0401_0500/0479/a6520f85-0917-4ee8-97e2-a56c631840db.jpg)
+![](/images/btnews/0401_0500/0479/a6520f85-0917-4ee8-97e2-a56c631840db.webp)
 
 
 
@@ -209,7 +209,7 @@ https://baijiahao.baidu.com/s?id=1735601622989958304
 
 
 
-![](/images/btnews/0401_0500/0479/c9941a77-6424-4ec7-b669-632dd6dd437e.jpg)
+![](/images/btnews/0401_0500/0479/c9941a77-6424-4ec7-b669-632dd6dd437e.webp)
 
 
 
@@ -223,7 +223,7 @@ http://finance.china.com.cn/industry/20210509/5567026.shtml
 
 到了去年10月的339期节目，我又介绍了水质协议的后续发展。山东省在省内全面推广类似的生态补偿政策，凡是从一个县流到另一个县的河流，都要在断面上测水质，由测量数据决定上游和下游相互付钱的数量。这实际上就是把环保任务定量分解，让各级政府相互博弈，用定量指标提高决策效率，和前面提到的垃圾场选址在本质上是一回事。
 
-![](/images/btnews/0401_0500/0479/7b9e305c-dbde-44b7-b363-deaf4faecb97.png)
+![](/images/btnews/0401_0500/0479/7b9e305c-dbde-44b7-b363-deaf4faecb97.webp)
 
 http://sd.cri.cn/20210930/2615732f-c1d4-ef47-dec3-57a0eb52b6c8.html
 
@@ -242,7 +242,7 @@ http://sd.cri.cn/20210930/2615732f-c1d4-ef47-dec3-57a0eb52b6c8.html
 
 
 
-![](/images/btnews/0401_0500/0479/ea1cfbb5-db13-4035-a56b-2f1aacfc4561.jpg)
+![](/images/btnews/0401_0500/0479/ea1cfbb5-db13-4035-a56b-2f1aacfc4561.webp)
 
 
 
@@ -251,7 +251,7 @@ http://sd.cri.cn/20210930/2615732f-c1d4-ef47-dec3-57a0eb52b6c8.html
 
 
 
-![](/images/btnews/0401_0500/0479/8c26b5b9-703c-4a4b-8274-e8e181aec3ee.png)
+![](/images/btnews/0401_0500/0479/8c26b5b9-703c-4a4b-8274-e8e181aec3ee.webp)
 
 
 
@@ -270,5 +270,5 @@ http://sd.cri.cn/20210930/2615732f-c1d4-ef47-dec3-57a0eb52b6c8.html
 
 
 
-![](/images/btnews/0401_0500/0479/0127b7c6-e4f4-4621-9704-8074e85f98b0.jpg)
+![](/images/btnews/0401_0500/0479/0127b7c6-e4f4-4621-9704-8074e85f98b0.webp)
 

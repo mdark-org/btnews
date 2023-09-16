@@ -6,7 +6,7 @@ date: 2022-06-03
 
 
 
-![](/images/btnews/0401_0500/0440/5ab45e62-7de6-46bf-8510-f944673db812.jpg)
+![](/images/btnews/0401_0500/0440/5ab45e62-7de6-46bf-8510-f944673db812.webp)
 
 
 
@@ -18,7 +18,7 @@ date: 2022-06-03
 
 
 
-![](/images/btnews/0401_0500/0440/3b867620-32b2-4299-9069-58ebbb24cfc9.jpg)
+![](/images/btnews/0401_0500/0440/3b867620-32b2-4299-9069-58ebbb24cfc9.webp)
 
 
 
@@ -30,7 +30,7 @@ https://www.thepaper.cn/newsDetail_forward_18318397
 
 
 
-![](/images/btnews/0401_0500/0440/5b1d3604-9590-4ae9-9a7d-71736f41525b.png)
+![](/images/btnews/0401_0500/0440/5b1d3604-9590-4ae9-9a7d-71736f41525b.webp)
 
 
 
@@ -41,7 +41,7 @@ https://www.thepaper.cn/newsDetail_forward_18318397
 
 
 
-![](/images/btnews/0401_0500/0440/1c3e5321-bbc9-43a6-8c86-a6e742f8356d.png)
+![](/images/btnews/0401_0500/0440/1c3e5321-bbc9-43a6-8c86-a6e742f8356d.webp)
 
 
 
@@ -52,7 +52,7 @@ https://www.thepaper.cn/newsDetail_forward_18318397
 
 
 
-![](/images/btnews/0401_0500/0440/6b343275-f369-46cd-9931-af2aa2a84e34.png)
+![](/images/btnews/0401_0500/0440/6b343275-f369-46cd-9931-af2aa2a84e34.webp)
 
 
 
@@ -70,7 +70,7 @@ https://www.bilibili.com/video/BV1aq4y1d769
 
 
 
-![](/images/btnews/0401_0500/0440/c74bfba5-5d4c-475b-9e4d-dd6b7633b18f.png)
+![](/images/btnews/0401_0500/0440/c74bfba5-5d4c-475b-9e4d-dd6b7633b18f.webp)
  
 所以，在20世纪，国家统一编写的教科书和配套教师参考书是中国大多数中小学教育水平的上限，甚至是唯一的教学凭据。教科书必须在考虑基层接受能力的前提下，达到最高水平，否则就会影响下一代人的思考能力。
 
@@ -79,7 +79,7 @@ https://www.bilibili.com/video/BV1aq4y1d769
 
 
 
-![](/images/btnews/0401_0500/0440/8c24d03b-1eba-4863-b953-e5aaa09a1d07.png)
+![](/images/btnews/0401_0500/0440/8c24d03b-1eba-4863-b953-e5aaa09a1d07.webp)
  
 所以，当时的教科书不仅要强调特定知识的准确性、通俗性，还要兼职做通识教育读本。教科书的插图、应用题、人物背景，都要考虑能给普通中国儿童带来什么额外知识，建立什么样的世界观，传递什么样的审美标准。
 
@@ -89,7 +89,7 @@ https://www.bilibili.com/video/BV1aq4y1d769
 
 我们再一起看一下八十年代的语文课本插图，从水平尾翼和机头的形状看，左上方的编队是歼5飞机——中国能仿造的第一代国产战斗机。右上方是先进一点的歼6——80年代初的空军主力。最右边比较卡通的双翼机是小型运5运输机，结构简单，是当时中国制造工艺最成熟的机型。右下方比较胖的直升机是直5型直升机。左下方最显眼的大型民航客机，虽然忽略了发动机，但外形基本对应中国唯一能造的大型飞机——运十。
  
-![](/images/btnews/0401_0500/0440/a0ab5993-0f2b-4146-b63a-97112bc2a9fd.png)
+![](/images/btnews/0401_0500/0440/a0ab5993-0f2b-4146-b63a-97112bc2a9fd.webp)
 
 
 
@@ -100,9 +100,9 @@ https://www.bilibili.com/video/BV1aq4y1d769
 
 
 
-![](/images/btnews/0401_0500/0440/f09b7e2e-c06d-4b24-bc04-f64776d1414e.png)
+![](/images/btnews/0401_0500/0440/f09b7e2e-c06d-4b24-bc04-f64776d1414e.webp)
 
-![](/images/btnews/0401_0500/0440/477971ab-6108-45d4-b64d-20181858b86c.png)
+![](/images/btnews/0401_0500/0440/477971ab-6108-45d4-b64d-20181858b86c.webp)
  
 70年代末80年代初的时候，中国空军和民航的量产机型，除了进口之外，基本上都是仿造外国旧装备。比如说前面语文课本展示的型号，歼5飞机仿造了苏联米格17，歼6仿造米格19，运5飞机仿造苏联的安2飞机，直5直升机仿造苏联的米-4直升机。最大的运10，外形来自一架在新疆坠毁的美国波音707飞机。其他的飞机，比如轰6，轰5，也是刚刚仿造到原版水平。
  
@@ -119,7 +119,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756564850484952
 
 
 
-![](/images/btnews/0401_0500/0440/bd3e2794-fc8d-4fa6-a5a7-42e1c1e2d247.png)
+![](/images/btnews/0401_0500/0440/bd3e2794-fc8d-4fa6-a5a7-42e1c1e2d247.webp)
 
 
 
@@ -131,7 +131,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756564850484952
 
 1998年9月我到上海读大学，土木工程专业，第一个十一长假，全班集体外出旅游，第一站选了南京长江大桥，原因是我们这一代人用了共同的小学课本。一年级语文识字部分的插图塑造了共同记忆，导致南京长江大桥的文化地位远远超出了经济地位。
  
-![](/images/btnews/0401_0500/0440/a289bf9d-5eca-4765-93b2-f7c1b5823854.png)
+![](/images/btnews/0401_0500/0440/a289bf9d-5eca-4765-93b2-f7c1b5823854.webp)
 
 
 
@@ -148,7 +148,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756564850484952
 
 
 
-![](/images/btnews/0401_0500/0440/efc995f7-961b-40bc-87a6-10dec60e69d1.png)
+![](/images/btnews/0401_0500/0440/efc995f7-961b-40bc-87a6-10dec60e69d1.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756554850485049
  
@@ -158,7 +158,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756554850485049
 面对全社会严密的监督，小学课本的编写者也抱着如履薄冰的态度，必须把每个细节都解释清楚。袁微子先生解放前在开明书店当教育编辑，解放后被教育部副部长叶圣陶带到人民教育出版社，从1955年到1986年一直在人民教育出版社负责全国语文教材，2022年的小学语文课本里还有20%左右的篇幅和袁先生有关。袁微子70岁的时候，要亲自写文章，对全国人民解释低年级语文生字表和课文的排序问题。
  
 
-![](/images/btnews/0401_0500/0440/d3958913-ae9d-4b1f-abe5-134ae260c6a4.png)
+![](/images/btnews/0401_0500/0440/d3958913-ae9d-4b1f-abe5-134ae260c6a4.webp)
 
 
 
@@ -167,9 +167,9 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756554850485049
 
 
 
-![](/images/btnews/0401_0500/0440/bb6f746b-5904-4b16-98ab-63af7a8d80fb.png)
+![](/images/btnews/0401_0500/0440/bb6f746b-5904-4b16-98ab-63af7a8d80fb.webp)
 
-![](/images/btnews/0401_0500/0440/ddeb8d79-76df-489c-9acb-f8d7b9a7f7e8.png)
+![](/images/btnews/0401_0500/0440/ddeb8d79-76df-489c-9acb-f8d7b9a7f7e8.webp)
 
 
 
@@ -177,9 +177,9 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756554850485049
 
 
 
-![](/images/btnews/0401_0500/0440/65c761a3-7e53-40be-8cf5-e3d7e72814fe.png)
+![](/images/btnews/0401_0500/0440/65c761a3-7e53-40be-8cf5-e3d7e72814fe.webp)
 
-![](/images/btnews/0401_0500/0440/caf98e3a-998c-4fad-84b6-9be4efa490f8.png)
+![](/images/btnews/0401_0500/0440/caf98e3a-998c-4fad-84b6-9be4efa490f8.webp)
 
 
 
@@ -193,7 +193,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=88689088495756554850485049
 
 
 
-![](/images/btnews/0401_0500/0440/223885cd-4d85-4466-88e6-9fc2195c6beb.png)
+![](/images/btnews/0401_0500/0440/223885cd-4d85-4466-88e6-9fc2195c6beb.webp)
 
 https://www.thepaper.cn/newsDetail_forward_18327537
  
@@ -202,7 +202,7 @@ https://www.thepaper.cn/newsDetail_forward_18327537
 
 更进一步说，现在有精力有时间参与子女教育的父母，对教科书的态度甚至不能用“不重视”来形容，而是“轻视”和“歧视”。如果学生只是读一遍课本，只能解答教科书上提供的练习题，完全不看其他学科教育类辅导书，不接受额外的练习，成绩几乎不可能在城市中小学排到前50%。按照教育部给大多数地区规定的1:1分流比例，这意味着学生没有上高中参加高考的资格。
  
-![](/images/btnews/0401_0500/0440/b9fd3ed1-e24a-4137-888d-af27c989e4ec.png)
+![](/images/btnews/0401_0500/0440/b9fd3ed1-e24a-4137-888d-af27c989e4ec.webp)
 
 
 
@@ -229,13 +229,13 @@ https://www.thepaper.cn/newsDetail_forward_18327537
 
 我算是整体文化产品匮乏和精编教科书的受益者。初中毕业那个暑假，我把高中数学、物理、化学课本都读完了，解决了所有普通习题。接下来两三年，每个月我都会逐字逐句读物理教材，把每句话的细节都体会一遍。
  
-![](/images/btnews/0401_0500/0440/9ad01d24-1161-40c9-8fdd-039a7d0a6775.png)
+![](/images/btnews/0401_0500/0440/9ad01d24-1161-40c9-8fdd-039a7d0a6775.webp)
 
 
 
 比如说物理书的某个定律说了“通常状态下”，我就要搞清楚有哪些“不通常”状态。物理书总结共同点的时候，某个物理现象和其他物理现象之间用了顿号，又和其他物理现象之间用了逗号，我就要搞清楚为什么分类标准有区别。像气体状态方程这一类基于粒子模型的规律，我完全可以从牛顿三定律开始，通过弹性碰撞模型推导出来。
  
-![](/images/btnews/0401_0500/0440/ae60bfd7-7ef1-4d78-8a86-ce11873cd51e.png)
+![](/images/btnews/0401_0500/0440/ae60bfd7-7ef1-4d78-8a86-ce11873cd51e.webp)
 
 
 
@@ -263,7 +263,7 @@ https://www.thepaper.cn/newsDetail_forward_18327537
 
 
 
-![](/images/btnews/0401_0500/0440/650a9c08-d06e-4723-958c-6f6f12df06f1.jpg)
+![](/images/btnews/0401_0500/0440/650a9c08-d06e-4723-958c-6f6f12df06f1.webp)
 
 
 
@@ -296,7 +296,7 @@ https://www.thepaper.cn/newsDetail_forward_18327537
 
 我最近几天在辅导我儿子学习一元二次方程内容，为了应付中考，我不得不让他去做很多关于求根判别式的计算题。但以我大学教育和后来的工程师经历来看，如果不结合抛物线讨论二次方程参数的意义，不引入圆锥曲线和极坐标内容，现在练习的解题能力，还不如打王者荣耀的技巧有用，最起码玩游戏还要考虑团队配合。我们能接受这种内卷浪费，为什么不能花点钱，让每个中学都有高等数学选修课呢?
  
-![](/images/btnews/0401_0500/0440/38f20700-a84c-4605-84a3-e6034287e405.png)
+![](/images/btnews/0401_0500/0440/38f20700-a84c-4605-84a3-e6034287e405.webp)
 
 
 
@@ -337,7 +337,7 @@ https://www.thepaper.cn/newsDetail_forward_18327537
 
 
 
-![](/images/btnews/0401_0500/0440/81718e17-6464-4a11-bd10-42cd82df9d4e.jpg)
+![](/images/btnews/0401_0500/0440/81718e17-6464-4a11-bd10-42cd82df9d4e.webp)
 
 
 
@@ -360,13 +360,13 @@ https://www.thepaper.cn/newsDetail_forward_18327537
 
 
 
-![](/images/btnews/0401_0500/0440/8d41fb97-28b4-4a64-8aa3-d6e01f634104.png)
+![](/images/btnews/0401_0500/0440/8d41fb97-28b4-4a64-8aa3-d6e01f634104.webp)
 80年代小学语文教科书第一册插图
 
-![](/images/btnews/0401_0500/0440/c0ba505c-439f-4346-aa3d-5ccf0cfcde04.png)
+![](/images/btnews/0401_0500/0440/c0ba505c-439f-4346-aa3d-5ccf0cfcde04.webp)
 2022年左手王修订版插图
 
-![](/images/btnews/0401_0500/0440/8eb4e999-3d0e-4fcf-b863-30ce9e077c6f.png)
+![](/images/btnews/0401_0500/0440/8eb4e999-3d0e-4fcf-b863-30ce9e077c6f.webp)
 
 https://weibo.com/u/1807699475
 
@@ -382,5 +382,5 @@ https://weibo.com/u/1807699475
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0440/a1b59273-6fb1-4271-b6c8-e2fe46d003f9.jpg)
+![](/images/btnews/0401_0500/0440/a1b59273-6fb1-4271-b6c8-e2fe46d003f9.webp)
 

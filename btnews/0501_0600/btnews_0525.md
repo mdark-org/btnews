@@ -5,7 +5,7 @@ date: 2022-12-16
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0525/b092b4d6-5a06-43ab-b092-d23bbbd7511b.jpg)
+![](/images/btnews/0501_0600/0525/b092b4d6-5a06-43ab-b092-d23bbbd7511b.webp)
 
 
 
@@ -14,7 +14,7 @@ date: 2022-12-16
 
 本月初，神舟14号载人飞船安全返回，之前的10月12日，神舟14号任务组三个人——陈冬、刘洋、蔡旭哲在中国空间站组织了第三次“天宫课堂”活动，也是中国第四次直播太空授课。
 
-![](/images/btnews/0501_0600/0525/d269c48d-99e0-4aa5-929d-461530f22622.png)
+![](/images/btnews/0501_0600/0525/d269c48d-99e0-4aa5-929d-461530f22622.webp)
 https://www.bilibili.com/video/BV1hd4y117cz/
 中国有条件的公立中小学普遍组织学生收看了太空课堂，还往往会留作业写观后感，督工你也是中学生的父亲，对中国的空间站授课怎么看？
 
@@ -36,7 +36,7 @@ https://www.bilibili.com/video/BV1hd4y117cz/
 
 在此之后，NASA提出了替代方案——航天员教育家计划（Educator Astronaut Programme，EPA），航天员可以接受教育培训，获得上天讲课的资格。
 
-![](/images/btnews/0501_0600/0525/aec26860-c62e-4eaa-8623-facd50715222.png)
+![](/images/btnews/0501_0600/0525/aec26860-c62e-4eaa-8623-facd50715222.webp)
 
 右：克丽丝塔·麦考利夫，左：芭芭拉·摩根
  
@@ -45,12 +45,12 @@ https://www.bilibili.com/video/BV1hd4y117cz/
 
 “挑战者”号航天飞机爆炸后，芭芭拉·摩根并没有放弃梦想，而是选择加入航天员教育家计划，最终在56岁成为NASA的全职航天员，也是首位专职教育航天员。
 
-![](/images/btnews/0501_0600/0525/a118b9a6-8092-400b-995d-5a4cccc3ed14.png)
+![](/images/btnews/0501_0600/0525/a118b9a6-8092-400b-995d-5a4cccc3ed14.webp)
 
 芭芭拉·摩根
  
 
-![](/images/btnews/0501_0600/0525/59e081af-94ec-4110-879a-47fd2fa3dc1a.png)
+![](/images/btnews/0501_0600/0525/59e081af-94ec-4110-879a-47fd2fa3dc1a.webp)
 
 
 芭芭拉·摩根太空课堂，2007年
@@ -63,7 +63,7 @@ https://www.youtube.com/watch?v=RVZlvnrn_Ho
 
 就算只看宣传方面，因为近年类似的太空视频和影视作品已经很多，空间站直播授课并没有产生明显的冲击力，所以学生的反映也比较平淡，缺乏主动写读后感的愿望，必须以留作业的方式来完成任务。现在在搜索引擎上用“天宫课堂”作为关键词搜索，可以看到读后感基本上都是套路化的内容。这说明我们的太空授课不能再照搬美苏冷战时期的玩法，需要考虑时代背景，做一点修改。否则浪费一点航天员的时间是小事，影响几千万学生的价值观才是最大的社会成本。
 
-![](/images/btnews/0501_0600/0525/ea3ee73a-1557-4e85-9cf0-0ce70f4d789b.png)
+![](/images/btnews/0501_0600/0525/ea3ee73a-1557-4e85-9cf0-0ce70f4d789b.webp)
 
 http://scitech.people.com.cn/n/2013/0620/c1007-21904055.html
  
@@ -72,15 +72,15 @@ http://scitech.people.com.cn/n/2013/0620/c1007-21904055.html
 
 这两天正是世界杯决赛，用足球运动做对照，就是中国的太空课堂，还停留在组织全部学生看中国或者亚洲足球队比赛直播的阶段，希望能普遍培养兴趣。而美国已经在请一线运动员和爱好足球的学生做主题交流，为下一阶段“青训”做准备了。所以中国的太空教育还需要进一步改良。
 
-![](/images/btnews/0501_0600/0525/c3bb67bb-e513-4883-9002-12c27004a516.png)
+![](/images/btnews/0501_0600/0525/c3bb67bb-e513-4883-9002-12c27004a516.webp)
 
 https://www.youtube.com/watch?v=9Xx--5ut2Co
 
-![](/images/btnews/0501_0600/0525/6360f0ab-e441-4ce4-90b6-f9cdf6ae47dd.png)
+![](/images/btnews/0501_0600/0525/6360f0ab-e441-4ce4-90b6-f9cdf6ae47dd.webp)
 
 https://www.youtube.com/watch?v=5eMy0i8P954
 
-![](/images/btnews/0501_0600/0525/d240e2cf-94f7-46c8-8361-a3dd624b1d24.png)
+![](/images/btnews/0501_0600/0525/d240e2cf-94f7-46c8-8361-a3dd624b1d24.webp)
 
 https://www.youtube.com/watch?v=rNgWcLleeQc&t=549
 结合最近的天宫课堂内容，督工你能说说具体的改良方向吗？
@@ -91,12 +91,12 @@ https://www.youtube.com/watch?v=rNgWcLleeQc&t=549
 
 这些改良说明，美国在冷战前后设计的太空教学培训计划是有道理的，当航天员是一门专业，设计课程和授课也是专业，不能直接默认航天员就适合做科普，也不能默认太空站的失重环境一定比各学校的实验室更适合演示科学规律。
 
-![](/images/btnews/0501_0600/0525/e99453c4-0c9e-4fc9-a263-45b24f581f07.png)
+![](/images/btnews/0501_0600/0525/e99453c4-0c9e-4fc9-a263-45b24f581f07.webp)
 
 https://www.bilibili.com/video/BV1hd4y117cz/
  
 
-![](/images/btnews/0501_0600/0525/5f2ded1f-9f62-46ef-8d45-0c875916138d.png)
+![](/images/btnews/0501_0600/0525/5f2ded1f-9f62-46ef-8d45-0c875916138d.webp)
 
 
 （天宫课堂第一课连线开始前这一段现场互动杀时间，实在是太尬了）
@@ -110,7 +110,7 @@ https://www.bilibili.com/video/BV1AL4y1H7pe/
 
 这个效果，如果是原本设计的表现内容，显然需要做出一定的解释。如果不是，更应该做出解释。而无论是哪一种原因，都应该允许观众当场提出质疑，和航天员互动，甚至给出改善实验过程的建议。现在看来这些准备工作都没做，只是按部就班地推进授课。直播课失去了直播的意义，甚至还不如在地面的实验室里做演示。
 
-![](/images/btnews/0501_0600/0525/97f8a621-04da-408f-b902-76d8021506e7.png)
+![](/images/btnews/0501_0600/0525/97f8a621-04da-408f-b902-76d8021506e7.webp)
 
 https://www.bilibili.com/video/BV1hd4y117cz/
 
@@ -127,12 +127,12 @@ https://www.bilibili.com/video/BV1hd4y117cz/
 
 2011年，美国航天员在国际空间站上发现，液体的内表面可以玩出很多花样。他们在失重环境下做出一个水球，也像王亚平那样，在水球内部充气形成一个气泡。然后，在这个气泡内部再注入许多小水球，又把气泡表面和振动器连起来。当振动器以特定的频率波形振动时，可以看到小水球在大水球的内表面上弹来弹去，而不是融为一体。
 
-![](/images/btnews/0501_0600/0525/42f81baa-f155-4561-abef-18a2e7716cc1.png)
+![](/images/btnews/0501_0600/0525/42f81baa-f155-4561-abef-18a2e7716cc1.webp)
 
 https://www.zhihu.com/zvideo/1572196973523980289
  
 
-![](/images/btnews/0501_0600/0525/ea905b1b-4a24-4c1e-98c8-d821ae372c6f.png)
+![](/images/btnews/0501_0600/0525/ea905b1b-4a24-4c1e-98c8-d821ae372c6f.webp)
 
 
 2014年，宇航员在国际空间站手搓水球
@@ -146,11 +146,11 @@ https://www.youtube.com/watch?v=9ZEdApyi9Vw
 
 事后他又展示了一次泪水包裹眼眶的效果，这是地球居民翻物理书很难想到的问题。学生如果理解了他的故事，可以同时加深对科学和工程学的理解，比简单地看到一个悬浮水球更有兴趣。
 
-![](/images/btnews/0501_0600/0525/09f51f0f-9a6d-4abd-93d0-d49001f76bdf.png)
+![](/images/btnews/0501_0600/0525/09f51f0f-9a6d-4abd-93d0-d49001f76bdf.webp)
 
 https://www.youtube.com/watch?v=wEpRiF58pJc
 
-![](/images/btnews/0501_0600/0525/30095740-1845-4562-902f-4dd81c205384.png)
+![](/images/btnews/0501_0600/0525/30095740-1845-4562-902f-4dd81c205384.webp)
 
 
 （哈德菲尔德讲解并演示人在太空流眼泪会怎样）
@@ -167,13 +167,13 @@ https://www.bilibili.com/video/BV1Df4y1f7zM/
 
 这个质问看似找茬，实际上很切中要害。因为宇航员上厕所本来就是一个复杂的科学和工程问题，值得专门讲解。油管WIRED频道有NASA资深航天员克里斯·哈德菲尔德和麦克·马西米诺的访谈系列，GQ Taiwan频道上有这一系列视频的中文翻译。里面就有大段内容和宇航员上厕所相关。我们如果不为这一类问题做准备，就不可能提高太空授课的直播质量。
 
-![](/images/btnews/0501_0600/0525/965e22b6-c902-4215-80da-50b002c60696.png)
+![](/images/btnews/0501_0600/0525/965e22b6-c902-4215-80da-50b002c60696.webp)
 
 https://www.youtube.com/watch?v=TZkuQUCUYgM
 https://www.youtube.com/playlist?list=PLiyT3ZJaRwTufgJmmlnDREiFQNgdobyGE
  
 
-![](/images/btnews/0501_0600/0525/93f800a8-66ef-45b2-99a6-9f59bce39725.png)
+![](/images/btnews/0501_0600/0525/93f800a8-66ef-45b2-99a6-9f59bce39725.webp)
 
 
 航天“网红”麦克·马西米诺谈在失重环境下上厕所，是该话题下内容最详实的视频
@@ -181,7 +181,7 @@ https://www.youtube.com/watch?v=QQ7Ywzu0lhg
 
 
 
-![](/images/btnews/0501_0600/0525/4cd3f3d9-96f0-4c1f-9d34-82df87c6d674.png)
+![](/images/btnews/0501_0600/0525/4cd3f3d9-96f0-4c1f-9d34-82df87c6d674.webp)
 
 马西米诺谈太空伙食
 https://www.youtube.com/watch?v=rrjn02GPRKw&list=PLiyT3ZJaRwTufgJmmlnDREiFQNgdobyGE&index=21
@@ -191,7 +191,7 @@ https://www.youtube.com/watch?v=rrjn02GPRKw&list=PLiyT3ZJaRwTufgJmmlnDREiFQNgdob
 
 在我也坐过飞机之后，中国人用20年时间建立了自己的载人航天体系，下一代、下两代中国人乘坐各种航天器出门的概率，很可能就相当于当代中国人坐飞机出国的概率。所以，航天员的生活本身是最好的科普内容，也是最好的授课素材。中国航天员还可以更多地挖掘自己的太空生活细节。
 
-![](/images/btnews/0501_0600/0525/368d3017-4a2f-48c4-b493-98f5b65bdc55.png)
+![](/images/btnews/0501_0600/0525/368d3017-4a2f-48c4-b493-98f5b65bdc55.webp)
 
 翟志刚谈第一次出舱，视觉刺激太大了
 https://www.bilibili.com/video/BV1jS4y1J7yU/
@@ -211,13 +211,13 @@ NASA的科普体系是怎么规划的？
 
 NASA每年有几十项青少年航天科普活动和教育项目，除了总部的教育机构之外，NASA下属有差不多10个航天中心，比如肯尼迪航天中心、阿姆斯特朗飞行研究中心，也都承担宣传和教育职能，组织学生和公众参与活动。
 
-![](/images/btnews/0501_0600/0525/01c85dee-4f29-4044-a940-0d15f50e4702.png)
+![](/images/btnews/0501_0600/0525/01c85dee-4f29-4044-a940-0d15f50e4702.webp)
 
 国际空间站建设过程
 https://www.youtube.com/watch?v=oLrOnEmy_GA
  
 
-![](/images/btnews/0501_0600/0525/9454a2e9-4c2b-406c-8390-79c5747e193a.png)
+![](/images/btnews/0501_0600/0525/9454a2e9-4c2b-406c-8390-79c5747e193a.webp)
 
 传奇航天员苏妮塔·威廉姆斯带你看国际空间站内部
 https://www.youtube.com/watch?v=06-Xm3_Ze1o
@@ -245,7 +245,7 @@ https://www.youtube.com/watch?v=Z6HC_K1sjEo
 视频链接：
 https://www.youtube.com/watch?v=NA4aPX5SuME
 
-![](/images/btnews/0501_0600/0525/4577a39c-27c9-4453-8f0f-26f64c91f1f2.png)
+![](/images/btnews/0501_0600/0525/4577a39c-27c9-4453-8f0f-26f64c91f1f2.webp)
 
 实验室安全课堂指南链接，检查列表在第3页，协议模板在第4页：
 https://www.nasa.gov/sites/default/files/atoms/files/lab_safety_classroom_connection_508.pdf
@@ -258,19 +258,19 @@ https://www.nasa.gov/sites/default/files/atoms/files/lab_safety_classroom_connec
 
 我们在再看一门比较有逻辑的理科课程，以太空健身作为知识入口，介绍欧姆定律和线性函数，长度75分钟，NASA还准备了例题和课后习题。
 
-![](/images/btnews/0501_0600/0525/839aaf22-c29e-4076-a80d-f1d9fe37f751.png)
+![](/images/btnews/0501_0600/0525/839aaf22-c29e-4076-a80d-f1d9fe37f751.webp)
 
 https://www.nasa.gov/audience/foreducators/exploringmath/algebra1/Prob_Exercise_detail.html
  
 在直接传授信息之外，NASA网站还提供了很多结合太空和科研内容的互动游戏。比如说模拟驾驶“毅力号”火星车，根据探测目标所在的方位设定行进路线，再将指令组按顺序发给火星车。玩家的目标是在有限的点数用完之前抵达有价值目标并完成探测，获得更多点数继续探索。这个游戏一方面科普了初步的编程逻辑，同时也很好地模拟了地球到火星的信号延迟。
 
-![](/images/btnews/0501_0600/0525/031dd20f-ed59-491d-8d05-5ce96b58064a.png)
+![](/images/btnews/0501_0600/0525/031dd20f-ed59-491d-8d05-5ce96b58064a.webp)
 
 https://spaceplace.nasa.gov/explore-mars/en/
  
 另一个游戏是模拟在洁净车间装配立方体卫星，需要对不同部件进行测试，再按正确顺序完成装配。
 
-![](/images/btnews/0501_0600/0525/cec8de7b-d5dc-4b44-a697-150a36739356.png)
+![](/images/btnews/0501_0600/0525/cec8de7b-d5dc-4b44-a697-150a36739356.webp)
 
 https://climatekids.nasa.gov/cubesat-builder-game/
  
@@ -285,14 +285,14 @@ NASA的第二类教育资源，是与航天内容相结合的参与性活动。
 
 NASA本身往往也会从这些全民参与的活动中获益。比如2019年开始，NASA举办了一项全民测量树高的挑战，在手机上安装一个由NASA开发的APP，“环球观察者（Global Observer）”，就可以使用其中的“测量树高（Global Tree）”功能，测量并上传数据。与其同时，国际空间站会用激光测距获得的数据和地表数据对比，验证和提高太空测量技术。
 
-![](/images/btnews/0501_0600/0525/4512b4ad-8812-43e7-b73b-95f69e8f086f.png)
+![](/images/btnews/0501_0600/0525/4512b4ad-8812-43e7-b73b-95f69e8f086f.webp)
 
 这个项目属于“全球生态系统动力学调查”，首字母缩写恰好是GEDI，也就是“绝地武士”，吸引了很多星战爱好者。
 https://www.nasa.gov/feature/goddard/2019/help-nasa-measure-trees-with-new-app
 https://www.youtube.com/watch?v=aHxiLiKwxt8
  
 
-![](/images/btnews/0501_0600/0525/c1ed3bf2-109c-4b2c-9cfb-a184899ef1c9.png)
+![](/images/btnews/0501_0600/0525/c1ed3bf2-109c-4b2c-9cfb-a184899ef1c9.webp)
 
 https://www.bilibili.com/video/BV19b411U7rS/
 https://svs.gsfc.nasa.gov/13114
@@ -316,13 +316,13 @@ NASA的第四类科普工作，是结合航天未来发展的工程设计竞赛�
 
 例如2015年开展的3D打印火星居住舱挑战赛，第一阶段为方案设计竞赛，参赛团队提交建筑效果图。第二阶段参赛团队要做出自己的结构组件。第三阶段是现场建造，各个参赛团队按照三分之一的比例，要造一个火星房子出来。NASA准备了三百多万美元的奖金包，最后发出了二百多万美元。美国很多新兴3D打印技术公司，就是这次竞赛中孵化的。
 
-![](/images/btnews/0501_0600/0525/2bcf79ad-ba0e-45fd-adea-a67fd5696f03.png)
+![](/images/btnews/0501_0600/0525/2bcf79ad-ba0e-45fd-adea-a67fd5696f03.webp)
 
 https://www.youtube.com/watch?v=XWJ-sE08ASg
  
 NASA的第五类科普课程，是在大学阶段合作开设的选修课及研究项目，招募本科生和研究生参加。NASA的课程往往对于前置课程要求不高，学费低廉，而且能实实在在地拿到学分，帮助选修者拿到学位。很多合作项目还为参与者提供报酬，以及和NASA人员一起工作的机会。中国将来也可以用类似方式招募航天机构的工作人员。
 
-![](/images/btnews/0501_0600/0525/4db84b10-e1e1-4b9a-aec6-0a0074fa374e.png)
+![](/images/btnews/0501_0600/0525/4db84b10-e1e1-4b9a-aec6-0a0074fa374e.webp)
 
 美国大学校园里的NASA合作项目宣传板
  
@@ -331,7 +331,7 @@ NASA的第五类科普课程，是在大学阶段合作开设的选修课及研�
 
 但是，和科研或者经济效益相比，NASA的科普宣传最主要的成果还是在人文方面。在登月计划之后，航天产业和航天文化已经成为美国精神和美国文化的组成部分，航天员代表了一种很酷的工作与生活方式，是一个受人尊重的职业。承担重要任务的航天员，知名度和影响力相当于一线的娱乐明星和体育明星。看美剧就能体会到过去几十年美国的航天文化。
 
-![](/images/btnews/0501_0600/0525/279cf1f4-f39f-44d9-8adc-35cd56cd15e0.png)
+![](/images/btnews/0501_0600/0525/279cf1f4-f39f-44d9-8adc-35cd56cd15e0.webp)
 
 
 
@@ -355,20 +355,20 @@ https://www.bilibili.com/video/BV1id4y137M2/
 
 中国2050年的航天工程师现在应该还在读中小学，而且未必就成长在中国，我们也应该为他们准备科普资料了，让他们尽快了解从普通人到航天事业的发展路线，希望中国航天部门能早一点认识到自己科普工作的缺点，向全世界拿出自己的优秀文化作品。
 
-![](/images/btnews/0501_0600/0525/d567d7a0-49e1-4372-a947-e9bab64f785f.png)
+![](/images/btnews/0501_0600/0525/d567d7a0-49e1-4372-a947-e9bab64f785f.webp)
 
 
-![](/images/btnews/0501_0600/0525/b63e8e79-86d1-409b-8c68-227d99e8eace.png)
+![](/images/btnews/0501_0600/0525/b63e8e79-86d1-409b-8c68-227d99e8eace.webp)
 
 
-![](/images/btnews/0501_0600/0525/2fadedf7-0f3a-44b4-ad00-12f5306878de.png)
+![](/images/btnews/0501_0600/0525/2fadedf7-0f3a-44b4-ad00-12f5306878de.webp)
 
 2022年全球航天发射量（网友统计）
 https://www.zhihu.com/question/567021181
 
 
 
-![](/images/btnews/0501_0600/0525/b915cbd9-9594-41e8-a3e3-3d88e781a078.png)
+![](/images/btnews/0501_0600/0525/b915cbd9-9594-41e8-a3e3-3d88e781a078.webp)
 
 
 
@@ -376,7 +376,7 @@ https://www.zhihu.com/question/567021181
 
 
 
-![](/images/btnews/0501_0600/0525/aef364f1-ac88-49f3-93fd-06816a7ba7ce.jpg)
+![](/images/btnews/0501_0600/0525/aef364f1-ac88-49f3-93fd-06816a7ba7ce.webp)
 
 
 

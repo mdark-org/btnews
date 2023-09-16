@@ -5,7 +5,7 @@ date: 2022-04-15
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0419/6279e475-1e84-40ea-9d5d-1341680da2dd.jpg)
+![](/images/btnews/0401_0500/0419/6279e475-1e84-40ea-9d5d-1341680da2dd.webp)
 
 
 
@@ -21,7 +21,7 @@ date: 2022-04-15
 
 
 
-![](/images/btnews/0401_0500/0419/3aafddd3-a070-4d06-bb14-5b4f8166b12a.png)
+![](/images/btnews/0401_0500/0419/3aafddd3-a070-4d06-bb14-5b4f8166b12a.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17341614
 
@@ -30,13 +30,13 @@ https://www.thepaper.cn/newsDetail_forward_17341614
 
 
 
-![](/images/btnews/0401_0500/0419/6a65ca5e-9d0b-4c67-9897-033bd4cf078e.png)
+![](/images/btnews/0401_0500/0419/6a65ca5e-9d0b-4c67-9897-033bd4cf078e.webp)
 
 督工，华为自己也被美国制裁，无法继续使用谷歌技术，不得不宣布自研操作系统“鸿蒙”。按照正常逻辑，华为肯定应该希望支持和采用鸿蒙系统的手机越多越好。为什么华为要拒绝俄罗斯方面的合作意向？
 
 
 
-![](/images/btnews/0401_0500/0419/4cdbcd7e-0a4b-405f-8d21-3a95a8611f27.jpg)
+![](/images/btnews/0401_0500/0419/4cdbcd7e-0a4b-405f-8d21-3a95a8611f27.webp)
 
 
 
@@ -50,7 +50,7 @@ https://www.thepaper.cn/newsDetail_forward_17341614
 
 
 
-![](/images/btnews/0401_0500/0419/6555f55a-a4e0-4f7f-bcd6-23857df27326.png)
+![](/images/btnews/0401_0500/0419/6555f55a-a4e0-4f7f-bcd6-23857df27326.webp)
 
 https://www.zhihu.com/question/453450270/answer/1920271480
 
@@ -66,7 +66,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/2045027b-9c6f-4274-b365-6ad4a6f4f8c3.jpg)
+![](/images/btnews/0401_0500/0419/2045027b-9c6f-4274-b365-6ad4a6f4f8c3.webp)
 
 
 
@@ -77,7 +77,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/5c3cb553-d019-4022-8910-a8ef3c835017.png)
+![](/images/btnews/0401_0500/0419/5c3cb553-d019-4022-8910-a8ef3c835017.webp)
 
 
 
@@ -94,7 +94,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/1771b561-d584-4000-ba1e-67a499b3d6ef.jpg)
+![](/images/btnews/0401_0500/0419/1771b561-d584-4000-ba1e-67a499b3d6ef.webp)
 
 
 
@@ -108,10 +108,10 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/a1693de2-966a-48bf-98d0-31b3b0daa0b3.jpg)
+![](/images/btnews/0401_0500/0419/a1693de2-966a-48bf-98d0-31b3b0daa0b3.webp)
 
 
-![](/images/btnews/0401_0500/0419/79b94d06-e2a5-435a-9137-acfe274032ed.png)
+![](/images/btnews/0401_0500/0419/79b94d06-e2a5-435a-9137-acfe274032ed.webp)
 
 
 
@@ -133,7 +133,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/75c389e2-9dfc-4837-87c5-3073b3434be5.jpg)
+![](/images/btnews/0401_0500/0419/75c389e2-9dfc-4837-87c5-3073b3434be5.webp)
 
 
 
@@ -159,7 +159,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/90e7667c-1824-4c5a-bc59-aa1548be5a19.jpg)
+![](/images/btnews/0401_0500/0419/90e7667c-1824-4c5a-bc59-aa1548be5a19.webp)
 
 
 
@@ -176,7 +176,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/bc54bd1a-c50e-4617-9c90-ac187560798c.jpg)
+![](/images/btnews/0401_0500/0419/bc54bd1a-c50e-4617-9c90-ac187560798c.webp)
 
 
 
@@ -190,7 +190,7 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/48c15af5-8741-4965-a909-ec4409f629a0.png)
+![](/images/btnews/0401_0500/0419/48c15af5-8741-4965-a909-ec4409f629a0.webp)
 
 
 
@@ -210,9 +210,9 @@ https://www.zhihu.com/question/453450270/answer/1920271480
 
 
 
-![](/images/btnews/0401_0500/0419/0ebaa323-29e5-42fa-8b2e-f58bfd444e18.png)
+![](/images/btnews/0401_0500/0419/0ebaa323-29e5-42fa-8b2e-f58bfd444e18.webp)
 
-![](/images/btnews/0401_0500/0419/d62bec02-6a20-47b5-b236-558dfee5ce78.png)
+![](/images/btnews/0401_0500/0419/d62bec02-6a20-47b5-b236-558dfee5ce78.webp)
 
 https://www.nature.com/articles/s41586-022-04625-0
 
@@ -222,7 +222,7 @@ https://www.nature.com/articles/s41586-022-04625-0
 
 
 
-![](/images/btnews/0401_0500/0419/7709e0e3-a7cc-484a-b210-c1b0ffb613f5.jpg)
+![](/images/btnews/0401_0500/0419/7709e0e3-a7cc-484a-b210-c1b0ffb613f5.webp)
 
 https://baijiahao.baidu.com/s?id=1727970797870151125
 
@@ -237,7 +237,7 @@ https://baijiahao.baidu.com/s?id=1727970797870151125
 
 
 
-![](/images/btnews/0401_0500/0419/2f5b0c91-d2e0-4df6-8479-8cd81542ad7c.jpg)
+![](/images/btnews/0401_0500/0419/2f5b0c91-d2e0-4df6-8479-8cd81542ad7c.webp)
 
 
 
@@ -245,7 +245,7 @@ https://baijiahao.baidu.com/s?id=1727970797870151125
 
 
 
-![](/images/btnews/0401_0500/0419/5e6e4f8a-ea45-4172-a2b8-95ada9aa5fe7.png)
+![](/images/btnews/0401_0500/0419/5e6e4f8a-ea45-4172-a2b8-95ada9aa5fe7.webp)
 
 https://www.science.org/doi/10.1126/science.abe0237
 
@@ -254,7 +254,7 @@ https://www.science.org/doi/10.1126/science.abe0237
 
 
 
-![](/images/btnews/0401_0500/0419/71ea40cf-fdd5-417f-9ca2-b5c1d6003dd7.jpg)
+![](/images/btnews/0401_0500/0419/71ea40cf-fdd5-417f-9ca2-b5c1d6003dd7.webp)
 
 https://baijiahao.baidu.com/s?id=1728239725129973724
 
@@ -268,7 +268,7 @@ https://baijiahao.baidu.com/s?id=1728239725129973724
 
 
 
-![](/images/btnews/0401_0500/0419/5d39cbac-3132-4845-9309-c6c200374072.png)
+![](/images/btnews/0401_0500/0419/5d39cbac-3132-4845-9309-c6c200374072.webp)
 
 https://www.instrument.com.cn/webinar/expert_6593.html
 
@@ -277,9 +277,9 @@ https://www.instrument.com.cn/webinar/expert_6593.html
 
 
 
-![](/images/btnews/0401_0500/0419/d0033929-1c52-48e5-a784-91ad190dc687.png)
+![](/images/btnews/0401_0500/0419/d0033929-1c52-48e5-a784-91ad190dc687.webp)
 
-![](/images/btnews/0401_0500/0419/3e5f6e0f-4187-4b44-aac0-2b2cc9db750f.png)
+![](/images/btnews/0401_0500/0419/3e5f6e0f-4187-4b44-aac0-2b2cc9db750f.webp)
 
 
 
@@ -290,7 +290,7 @@ https://www.instrument.com.cn/webinar/expert_6593.html
 
 
 
-![](/images/btnews/0401_0500/0419/fdf0e87b-8144-46bf-b184-2f6fdfded3bd.jpg)
+![](/images/btnews/0401_0500/0419/fdf0e87b-8144-46bf-b184-2f6fdfded3bd.webp)
 
 https://www.sohu.com/a/432252849_260616
 
@@ -300,11 +300,11 @@ https://www.sohu.com/a/432252849_260616
 
 
 
-![](/images/btnews/0401_0500/0419/9979a253-233b-4da7-8ffd-4fcfca4403f2.png)
+![](/images/btnews/0401_0500/0419/9979a253-233b-4da7-8ffd-4fcfca4403f2.webp)
 
-![](/images/btnews/0401_0500/0419/f7164e48-69bc-4e1d-9d8e-5ade93bde837.png)
+![](/images/btnews/0401_0500/0419/f7164e48-69bc-4e1d-9d8e-5ade93bde837.webp)
 
-![](/images/btnews/0401_0500/0419/90360fba-26e7-470b-a278-2dc0c3f5444e.png)
+![](/images/btnews/0401_0500/0419/90360fba-26e7-470b-a278-2dc0c3f5444e.webp)
 
 
 
@@ -312,7 +312,7 @@ https://www.sohu.com/a/432252849_260616
 
 
 
-![](/images/btnews/0401_0500/0419/e8d6985f-efb4-4341-a217-cce8dcf0f2e6.png)
+![](/images/btnews/0401_0500/0419/e8d6985f-efb4-4341-a217-cce8dcf0f2e6.webp)
 
 
 

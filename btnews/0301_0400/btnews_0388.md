@@ -30,7 +30,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/79dfd3e1-e0ea-4a21-b6c1-541eab35e05b.jpg)
+![](/images/btnews/0301_0400/0388/79dfd3e1-e0ea-4a21-b6c1-541eab35e05b.webp)
 
 
 
@@ -52,13 +52,13 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/a7597716-416c-40e2-b4ea-97ad949adec3.jpg)
+![](/images/btnews/0301_0400/0388/a7597716-416c-40e2-b4ea-97ad949adec3.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0388/dcff9a7b-9f59-4d0a-b1f2-229307d1483b.jpg)
+![](/images/btnews/0301_0400/0388/dcff9a7b-9f59-4d0a-b1f2-229307d1483b.webp)
 
 
 
@@ -92,7 +92,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/4e6b1a39-73d3-4ed8-91cf-de8d96f62f76.png)
+![](/images/btnews/0301_0400/0388/4e6b1a39-73d3-4ed8-91cf-de8d96f62f76.webp)
 
 
 
@@ -108,7 +108,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/6b349487-a9fb-4b94-9036-0bce387f7a0d.jpg)
+![](/images/btnews/0301_0400/0388/6b349487-a9fb-4b94-9036-0bce387f7a0d.webp)
 
 
 
@@ -136,7 +136,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/f69b60e9-0762-4287-bb18-54be0a7ee221.png)
+![](/images/btnews/0301_0400/0388/f69b60e9-0762-4287-bb18-54be0a7ee221.webp)
 
 
 
@@ -194,13 +194,13 @@ date: 2022-02-03
 
  
 
-![](/images/btnews/0301_0400/0388/17d28cf6-8fec-456b-901a-7a62f36de51e.jpg)
+![](/images/btnews/0301_0400/0388/17d28cf6-8fec-456b-901a-7a62f36de51e.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0388/d9612af1-50cd-499d-9de0-19c4dcf1ff27.png)
+![](/images/btnews/0301_0400/0388/d9612af1-50cd-499d-9de0-19c4dcf1ff27.webp)
 
 
 
@@ -242,7 +242,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/7bf5ec2d-a2d9-49e8-b12c-a44974cb09ee.jpg)
+![](/images/btnews/0301_0400/0388/7bf5ec2d-a2d9-49e8-b12c-a44974cb09ee.webp)
 
 
 
@@ -268,7 +268,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/72dbf648-d7f8-4e89-821f-c2b035a10d62.jpg)
+![](/images/btnews/0301_0400/0388/72dbf648-d7f8-4e89-821f-c2b035a10d62.webp)
 
 
 
@@ -276,7 +276,7 @@ date: 2022-02-03
 
 
 
-![](/images/btnews/0301_0400/0388/be647d53-5f74-47b2-924d-7a30aa701c7c.jpg)
+![](/images/btnews/0301_0400/0388/be647d53-5f74-47b2-924d-7a30aa701c7c.webp)
 
 
 
