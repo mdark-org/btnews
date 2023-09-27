@@ -1,6 +1,6 @@
 import fs, {promises as fsp} from "fs";
 import path from "path";
-
+import sharp from "sharp";
 export const saveImage = async (url: string, filePath: string) => {
     // const pattern = /https:\/\/mmbiz.qpic.cn\/mmbiz_.*/
     // if (!pattern.test(url)) {
@@ -18,7 +18,17 @@ export const saveImage = async (url: string, filePath: string) => {
         })
         .then(async buffer => {
             const bf = Buffer.from(buffer)
-            return fsp.writeFile(filePath, bf)
+            let targetPath = filePath.toLocaleLowerCase()
+            .replace(/\.jpg$/,".webp")
+            .replace(/\.jpeg$/,".webp")
+            .replace(/\.png$/,".webp")
+            .replace(/\.gif$/,".webp")
+            .replace(/\.bmp$/,".webp")
+            .replace(/\.tiff$/,".webp")
+            return sharp(bf)
+            .webp({
+                quality: 80,
+            }).toFile(targetPath)
         })
         // 处理可能的错误
         .catch(error => {
