@@ -11,6 +11,7 @@
   "description": "睡前消息文稿合集",
   "license": "MIT",
   "devDependencies": {
+    "typescript":"^5.2.2",
     "@types/uuid": "^9.0.1",
     "@vuepress/plugin-google-analytics": "2.0.0-beta.62",
     "@waline/client": "^2.15.5",
