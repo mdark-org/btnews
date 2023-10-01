@@ -6,8 +6,8 @@ tag: ["天空之城","影评"]
 ---
 
 <VideoService 
-:provider="['bilibili']"
-:videoId = "['BV1Mm4y1V7ai']"
+:provider="['bilibili','Youtube']"
+:videoId = "['BV1Mm4y1V7ai','A8OffSQPnuk']"
 />
 
 ::::warning 
