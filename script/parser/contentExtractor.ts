@@ -43,7 +43,8 @@ export const extractItem = async (elem,pathPrefix:string,imgPath:string,images:M
             return ans
         case "img":
             let src = elem.attribs["data-src"]
-            let fn = `${uuidv4()}.${getPicTypeByURL(src)}`
+            // let fn = `${uuidv4()}.${getPicTypeByURL(src)}`
+            let fn = `${uuidv4()}.webp`
             let filePath = path.join(pathPrefix,imgPath,fn)
             images.push({url:src,savePath:filePath})
             ans +=`\n\n![](${path.join(imgPath,fn)})\n\n`

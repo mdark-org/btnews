@@ -12,6 +12,9 @@ export const parserToMd = async (title: string, date: string, articleHTML: strin
     for (let child of children) {
         mdContent +="\n\n" + await extractItem(child, pathPrefix, imgPath,images)
     }
+    // remove redundant \n
+    mdContent = mdContent.replace(/\n\n\n/g,"\n\n")
+
     return {
         content:mdContent,
         images: images

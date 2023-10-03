@@ -1,7 +1,7 @@
 import {SourceInfo} from "../type";
 
 export const getArticle =async (cnt = 1)=>{
-    let url = `https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzU4MTU1NzI4Mw==&album_id=2338651474802671620&count=${cnt}&f=json`
+    let url = `https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=Mzk0MTIzNTc0NQ==&album_id=3119370632720400390&count=${cnt}&f=json`
     const response = await fetch(url);
     let res = await response.json()
     let ret = res.base_resp

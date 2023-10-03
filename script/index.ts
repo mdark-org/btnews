@@ -52,9 +52,9 @@ const get = async (res: SourceInfo) => {
 
     // let articles = [{
     //     msgid: "2247591077",
-    //     title: "睡前消息576期文稿：新冠保险不赔钱 香港内地是一家",
-    //     url: "https://mp.weixin.qq.com/s/CUHtqioAX0yD4LYCzu6xPw",
-    //     date:"1681445700",
+    //     title: "睡前消息651期文稿：维珍输给Spacex 辅仁输给以岭",
+    //     url: "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTc0NQ==&mid=2247491505&idx=1&sn=5073ef5b96ea68c07f0cd267d13f7029&chksm=c2d4d4fff5a35de9df2cfabec50b06945e4ef3ec8d92257d4137e67e8ce83d45e72ac83f362c&scene=178&cur_album_id=3119370632720400390#rd",
+    //     date:"1696337760",
     // }]
     // for (let i = 0; i < articles.length; i++) {
     //     await get(articles[i])
