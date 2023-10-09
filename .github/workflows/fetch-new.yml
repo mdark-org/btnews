@@ -19,7 +19,7 @@ jobs:
           run: npm run get:new
         - name: Get current date
           id: date
-          run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+          run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
         - name: Create Pull Request
           id: cpr
           uses: peter-evans/create-pull-request@v5
