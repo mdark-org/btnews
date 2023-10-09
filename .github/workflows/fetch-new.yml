@@ -1,7 +1,8 @@
 name: fetch-new
 on:
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 22 * * *'
 jobs:
     fetch:
       runs-on: ubuntu-latest
