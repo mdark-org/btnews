@@ -11,15 +11,15 @@ jobs:
           uses: actions/setup-node@v3
           with:
             node-version: '20'
-
         - name: add ts-node
           run: npm install -g ts-node
         - name: install dependencies
           run: npm install
         - name: run script
           run: npm run get:new
-        # - name: check if file change in path btnews
-        #   run: |
+        - name: Get current date
+          id: date
+          run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
         - name: Create Pull Request
           id: cpr
           uses: peter-evans/create-pull-request@v5
@@ -30,6 +30,7 @@ jobs:
             author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
             signoff: false
             delete-branch: true
+            branch: fetch-btnews/${{ steps.date.outputs.date }}
             title: 'new btnews'
             add-paths: |
               btnews/**/*.md
@@ -40,6 +41,6 @@ jobs:
   
               [1]: https://github.com/peter-evans/create-pull-request
             labels: |
-              report
+              btnews
               automated pr
             draft: false
