@@ -6,8 +6,8 @@ tag: ["巴以冲突","以色列","加沙"]
 ---
 
 <VideoService  
- :provider="['bilibili']" 
- :videoId = "['BV1MB4y1Z7vE']" 
+ :provider="['bilibili','Youtube']" 
+ :videoId = "['BV1MB4y1Z7vE','En-nEmMyQEE']" 
  /> 
 
 大家好，2023年10月13日星期五，欢迎收看第655期睡前消息，请静静介绍话题。
