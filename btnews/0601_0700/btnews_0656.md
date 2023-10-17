@@ -6,8 +6,8 @@ tag: ["芯片","汉芯","半导体"]
 ---
 
 <VideoService  
- :provider="['bilibili']" 
- :videoId = "['BV1bj411x7Lb']" 
+ :provider="['bilibili','Youtube']" 
+ :videoId = "['BV1bj411x7Lb','6iLJ-MF9w54']" 
  />
  
 大家好，2023年10月15日星期日，欢迎收看第656期睡前消息。请静静介绍话题。
