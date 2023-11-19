@@ -12,6 +12,8 @@ let frontmatter = {
     description: "",
     tags: [],
     cnt: "0001",
+    bvid: "",
+    ytid: "",
 }
 
 const timestmapToStr = (ts:string) => {
@@ -63,6 +65,7 @@ const extractDescription = async (bvid:string):Promise<string> => {
     let url = `https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`
     console.log(url)
     let res =await fetch(url).then(res => res.json())
+    frontmatter.bvid = bvid
     let description = res.data.dynamic
     return description
 }
@@ -71,6 +74,7 @@ const extractDescription = async (bvid:string):Promise<string> => {
     
     const program = new Command();
     program.option('--bv <char>');
+    program.option('--yt <char>');
     program.parse(process.argv);
     const options = program.opts();
     
@@ -78,7 +82,20 @@ const extractDescription = async (bvid:string):Promise<string> => {
     if (options.bv) {
         let bv = options.bv
         console.log(bv)
+        try {
         frontmatter.description = await extractDescription(bv)
+        frontmatter.bvid = bv
+        } catch (e) {
+            console.log(e)
+        }
+    }
+    if (options.yt) {
+        let yt = options.yt
+        if (yt.length == 11) {
+            frontmatter.ytid = yt
+            // throw new Error("ytid长度不对")
+        }
+        // frontmatter.ytid = yt
     }
     // let articles = [{
     //     msgid: "2247591077",
@@ -97,6 +114,3 @@ const extractDescription = async (bvid:string):Promise<string> => {
     get(res)
     
 })();
-
-
-

@@ -1,6 +1,15 @@
 name: fetch-new
 on:
   workflow_dispatch:
+    inputs:
+      bvid:
+        description: 'Bilibili bvid'
+        default: 'err'
+        required: false
+      ytid:
+        description: 'youtube video id'
+        default: 'err'
+        required: false
   schedule:
     - cron: '0 22 * * *'
 jobs:
@@ -17,7 +26,7 @@ jobs:
         - name: install dependencies
           run: npm install
         - name: run script
-          run: npm run get:new
+          run: npm run get:new --bv ${{ github.event.inputs.bvid }} --yt ${{ github.event.inputs.ytid }}
         - name: Get current date
           id: date
           run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"

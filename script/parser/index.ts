@@ -6,7 +6,9 @@ interface Frontmatter {
     date: string,
     description: string,
     tags: string[],
-    cnt: string
+    cnt: string,
+    bvid?: string,
+    ytid?: string,
 }
 
 export const parserToMd = async (frontmatter:Frontmatter, articleHTML: string, pathPrefix: string, imgPath: string):Promise<ParserResult> => {
@@ -14,12 +16,17 @@ export const parserToMd = async (frontmatter:Frontmatter, articleHTML: string, p
     const content = $("#js_content")
     const children = content.children()
     let mdContent = 
-    `---
+`---
 title: ${frontmatter.title}
 date: ${frontmatter.date}
 description: ${frontmatter.description}
 tags: [${frontmatter.tags.join(",")}]
 ---
+
+<VideoService 
+:provider="['Bilibili','Youtube']"
+:videoId = "['${frontmatter.bvid}','${frontmatter.ytid}']"
+/>
 `
     let images:MDImage[] = []
     for (let child of children) {
