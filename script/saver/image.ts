@@ -2,12 +2,6 @@ import fs, {promises as fsp} from "fs";
 import path from "path";
 import sharp from "sharp";
 export const saveImage = async (url: string, filePath: string) => {
-    // const pattern = /https:\/\/mmbiz.qpic.cn\/mmbiz_.*/
-    // if (!pattern.test(url)) {
-    //     console.log(url)
-    //     console.log("not a image url")
-    //     return
-    // }
     if (!fs.existsSync(path.dirname(filePath))){
         await fsp.mkdir(path.dirname(filePath), { recursive: true })
     }

@@ -1,8 +1,18 @@
+
 import {getArticle} from "./article"
 import {parserToMd} from "./parser";
 import * as path from "path";
 import {saveToMd} from "./saver";
 import {SourceInfo} from "./type";
+import { Command } from 'commander';
+
+let frontmatter = {
+    title: "",
+    date: "",
+    description: "",
+    tags: [],
+    cnt: "0001",
+}
 
 const timestmapToStr = (ts:string) => {
     let date = new Date(parseInt(ts) * 1000);
@@ -17,6 +27,7 @@ const getTitle = (title:string):string => {
     // @ts-ignore
     let g = ans["0"]
     let res = `【睡前消息${g.slice(4,7)}】${title.slice(g.length+1)}`
+    frontmatter.cnt = "0"+g.slice(4,7)
     return res
 }
 const getRangeById = (id:string):string => {
@@ -42,14 +53,33 @@ const get = async (res: SourceInfo) => {
     let imgPathPrefix = path.resolve(`${__dirname}/../`)
     let imagePath = `/images/btnews/${getRangeById(id)}/${id}/`
     let filePath = path.resolve(`${__dirname}/../btnews/${getRangeById(id)}/${filename}`)
-
-
-    let md = await parserToMd(title,timestmapToStr(res.date),a,imgPathPrefix,imagePath)
+    frontmatter.title = title
+    frontmatter.date = timestmapToStr(res.date)
+    let md = await parserToMd(frontmatter,a,imgPathPrefix,imagePath)
     saveToMd(md,filePath)
 }
 
-(async () => {
+const extractDescription = async (bvid:string):Promise<string> => {
+    let url = `https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`
+    console.log(url)
+    let res =await fetch(url).then(res => res.json())
+    let description = res.data.dynamic
+    return description
+}
 
+(async () => {
+    
+    const program = new Command();
+    program.option('--bv <char>');
+    program.parse(process.argv);
+    const options = program.opts();
+    
+    
+    if (options.bv) {
+        let bv = options.bv
+        console.log(bv)
+        frontmatter.description = await extractDescription(bv)
+    }
     // let articles = [{
     //     msgid: "2247591077",
     //     title: "睡前消息651期文稿：维珍输给Spacex 辅仁输给以岭",
@@ -59,12 +89,14 @@ const get = async (res: SourceInfo) => {
     // for (let i = 0; i < articles.length; i++) {
     //     await get(articles[i])
     // }
-
-    // 获取最新文章
     const res = await getArticle(1)
+    
     if (res == null) {
         throw new Error("获取文章失败")
     }
-    await get(res)
+    get(res)
+    
 })();
+
+
 
