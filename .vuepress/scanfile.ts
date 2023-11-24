@@ -29,7 +29,7 @@ const scanDir =  (dir: string, options: opts): string[] => {
 }
 
 let docPath = path.join(__dirname, '../btnews')
-const files = scanDir(docPath, {match: [/\.md$/], exclude: [/\.vuepress/, "btnews.md", "readme.md"]})
+const files = scanDir(docPath, {match: [/\.md$/], exclude: [/\.vuepress/, /btnews\.md/, /readme\.md/]})
 
 // 文件名 -> 文件元数据映射
 export const contentMap:Map<string,any> = files.reduce((acc:Map<string,any>, cur) => {
