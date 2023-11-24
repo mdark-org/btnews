@@ -3,12 +3,9 @@ title: 【睡前消息664】惠州房价过山车 背后半部当代史（上）
 date: 2023-11-04
 description: 1992年，中国人均GDP2300元，广州惠州大亚湾房价已经达到1.1万，换算到2023年的经济水平，相当于每平米44万。今天的大亚湾，二手房实际成交价可能还在一万以下。房价大起大落，背后有中国半部当代史。
 tags: ['房地产','惠州']
+bvid: BV1VM411Q7Yx
+ytid: NkDLsxDsEjs
 ---
-
-<VideoService 
-:provider="['bilibili','Youtube']"
-:videoId = "['BV1VM411Q7Yx','NkDLsxDsEjs']"
-/>
 
 大家好，2023年11月3日星期五，欢迎收看第664期睡前消息。
 

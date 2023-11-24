@@ -3,12 +3,10 @@ title: 【睡前消息572】次子造反，清算第五共和国
 date: 2023-04-04
 description: 全斗焕的孙子全宇元揭露家族黑幕，批判韩国右翼权贵。
 tag: ["韩国","全斗焕","第五共和国","右翼"]
+xgid: 7218107634720637472
+bvid: BV1Qo4y1H7kC
+ytid: W9FWjfVYPmk
 ---
-
-<VideoService 
-:provider="['XiGua','Youtube','Bilibili']"
-:videoId = "['7218107634720637472','W9FWjfVYPmk','BV1Qo4y1H7kC']"
-/>
 
 大家好，2023年4月4日星期二，欢迎收看第572期睡前消息，请静静介绍话题。
 

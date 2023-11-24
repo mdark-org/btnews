@@ -3,12 +3,10 @@ title: 【睡前消息651】维珍输给Spacex 辅仁输给以岭
 date: 2023-10-03
 description: 维珍轨道公司被马斯克的Spacex打败破产；辅仁药业的生态位被以岭药业抢走，也只能破产；中国开始测试海水提铀技术，大家都有光明的前途。
 tag: ["维珍","Spacex","以岭","辅仁"]
+bvid: BV1ZV411F7QF
+ytid: glV4ddV1rRo
 ---
 
-<VideoService 
-:provider="['bilibili','Youtube']"
-:videoId = "['BV1ZV411F7QF','glV4ddV1rRo']"
-/>
 
 大家好，2023年10月3日星期二，欢迎收看第651期睡前消息。
 

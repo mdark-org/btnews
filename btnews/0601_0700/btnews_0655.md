@@ -3,12 +3,9 @@ title: 【睡前消息655】加沙是帝国主义养殖场，以色列也是
 date: 2023-10-13
 description: 分析加沙和巴勒斯坦人的命运。
 tag: ["巴以冲突","以色列","加沙"]
+bvid: BV1MB4y1Z7vE
+ytid: En-nEmMyQEE
 ---
-
-<VideoService  
- :provider="['bilibili','Youtube']" 
- :videoId = "['BV1MB4y1Z7vE','En-nEmMyQEE']" 
- /> 
 
 大家好，2023年10月13日星期五，欢迎收看第655期睡前消息，请静静介绍话题。
 

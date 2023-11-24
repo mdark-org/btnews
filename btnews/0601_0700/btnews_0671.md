@@ -3,11 +3,9 @@ title: 【睡前消息671】抄半个日本方案 毁掉课间10分钟
 date: 2023-11-17
 description: 课间10分钟的起源是普鲁士军国教育体系，先传到日本，再被20世纪的中国照抄过来——遗憾的是，抄到21世纪只剩下一半，所以小学生体育锻炼问题，在当前的中国无解。
 tags: [教育]
+bvid: BV1Su411F7t6
+ytid: bOws2a3ZoL4
 ---
-<VideoService 
-:provider="['bilibili','Youtube']"
-:videoId = "['BV1Su411F7t6','bOws2a3ZoL4']"
-/>
 
 大家好，2023年11月17日星期五，欢迎收看第671期睡前消息。
 

@@ -3,12 +3,9 @@ title: 【睡前消息661】外国有没有张雪峰？
 date: 2023-10-27
 description: 1.5万元，填三行志愿，张雪峰代表了一种利润率惊人的新生意。而张雪峰对各个专业的锐利点评，更是让他的影响力超出了教辅行业。这给中国社会提出了一个问题：“谁给张雪峰创造了生存空间？”
 tags: [高考,志愿填报]
+bvid: BV1Qc411Z7ZU
+ytid: Fs-EEKk5XlI
 ---
-
-<VideoService  
- :provider="['bilibili','Youtube']" 
- :videoId = "['BV1Qc411Z7ZU','Fs-EEKk5XlI']" 
- />
 
 大家好，2023年10月27日星期五，欢迎收看第661期睡前消息，请静静介绍话题。
 

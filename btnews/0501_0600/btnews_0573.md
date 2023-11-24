@@ -3,12 +3,10 @@ title: 【睡前消息573】买碳汇能缓刑，蚂蚁不卖森林也赚钱
 date: 2023-04-07
 description: 分析碳排放统一市场的发展趋势。
 tag: ["蚂蚁集团","碳汇"]
+xgid: 7219282003386958369
+bvid: BV1po4y1p7rX
+ytid: 3yvLO66h4uI
 ---
-
-<VideoService 
-:provider="['XiGua','Youtube','Bilibili']"
-:videoId = "['7219282003386958369','3yvLO66h4uI','BV1po4y1p7rX']"
-/>
 
 大家好，2023年4月7日星期五，欢迎收看573期睡前消息，请静静介绍话题。
 

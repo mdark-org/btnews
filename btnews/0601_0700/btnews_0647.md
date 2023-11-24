@@ -3,12 +3,9 @@ title: 【睡前消息647】有林志玲的地方，一切都是八卦
 date: 2023-09-26
 description: 富士康老板郭台铭想找一个“高知名度”女性做竞选搭档，自己还没想好，台湾媒体已经达成了共识——林志玲最合适。古龙说，世上只有错误的名字，没有错误的绰号，郭台铭现在应该知道自己的公众形象了。
 tag: ["台湾","政治","郭台铭"]
+bvid: BV1f34y1A7oo
+ytid: 8IyntuwvYHw
 ---
-
-<VideoService 
-:provider="['Youtube','bilibili']"
-:videoId = "['8IyntuwvYHw','BV1f34y1A7oo']"
-/>
 
 大家好，2023年9月26日星期二，欢迎收看647期睡前消息。请静静介绍新闻。
 

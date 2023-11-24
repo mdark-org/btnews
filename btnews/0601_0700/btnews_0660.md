@@ -3,12 +3,9 @@ title: 【睡前消息660】翻开旧中国历史 理解尼日尔政变
 date: 2023-10-24
 description: 尼日尔政变之后，由军政府管理国家。中国上一次全面实行军政府，已经是北洋政府时代了。研究自己的历史，可以帮助我们理解遥远的非洲。
 tags: [尼日尔]
+bvid: BV1Dw411F7L7
+ytid: h0eWWX6VcoI
 ---
-
-<VideoService  
- :provider="['bilibili','Youtube']" 
- :videoId = "['BV1Dw411F7L7','h0eWWX6VcoI']" 
- />
 
 大家好，2023年10月24日星期二，欢迎收看第660期睡前消息，请静静介绍话题。
 

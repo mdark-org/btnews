@@ -3,12 +3,9 @@ title: 【睡前消息666】遇见马克思 孔子才懂传统文化 （上）
 date: 2023-11-07
 description: 网红副教授郭继承领衔，《当马克思遇见孔夫子》拍成了一部闹剧。但是，马克思主义是新中国的指导思想，中国人迟早要用马克思主义全面解剖传统文化。闹剧过后，孔夫子还是要去见马克思。
 tags: [马克思,孔子,历史]
+bvid: BV1Nz4y1P7GH
+ytid: PQdB9pXhcSk
 ---
-
-<VideoService 
-:provider="['bilibili','Youtube']"
-:videoId = "['BV1Nz4y1P7GH','PQdB9pXhcSk']"
-/>
 
 大家好，2023年11月7日星期二，欢迎收看第666期睡前消息。请静静介绍话题。
 

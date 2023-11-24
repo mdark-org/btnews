@@ -3,14 +3,10 @@ title: 【睡前消息570】放下GDP和考试，安吉游戏改变中国
 date: 2023-03-31
 description: 分析正在兴起的“安吉游戏”教育模式。
 tag: ["中国","学习","教育","安吉游戏"]
+xgid: 7200330779086389792
+bvid: BV1CK41167gJ
+ytid: IIPT8Q0trM8
 ---
-
-
-<VideoService 
-:provider="['XiGua','Youtube','Bilibili']"
-:videoId = "['7216686249216901684','ErWnxbPYOVs','BV1wm4y1z7U2']"
-/>
-
 
 今年年初直播的时候，有观众提问，想让你结合“安吉游戏”话题谈谈社会化抚养。当时你说不了解这个概念，后续一定会分析。
 

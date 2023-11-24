@@ -3,12 +3,9 @@ title: 【睡前消息673】模范夫妻中国梦 毁在融创烂尾楼
 date: 2023-11-21
 description: 回顾2023年11月第三周，只有两件事值得写进历史：1郑州买房小夫妻被融创殴打。2 星舰33台发动机同时点火，送二级火箭进亚轨道爆炸。
 tags: [郑州,航天]
+bvid: BV15u4y1j7V1
+ytid: we8vNy6DYMI
 ---
-
-<VideoService 
-:provider="['Bilibili','Youtube']"
-:videoId = "['BV15u4y1j7V1','we8vNy6DYMI']"
-/>
 
 大家好，2023年11月21日星期二，欢迎收看第673期睡前消息。请静静介绍话题。
 
