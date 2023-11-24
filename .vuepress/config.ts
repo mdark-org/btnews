@@ -79,7 +79,7 @@ export default defineUserConfig({
         sidebarSorter: "date",
         repo: "https://github.com/ktKongTong/btnews",
         docsBranch: "master",
-        docsDir: "docs",
+        docsDir: ".",
         pageInfo:["Date", "ReadingTime", "Tag"],
         blog: {
             sidebarDisplay:"none"
