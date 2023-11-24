@@ -37,6 +37,10 @@ export const customPlugin = {
         clientConfigFile: path.join(__dirname, "./client/client.ts"),
 
         alias: {
+            "@theme-hope/modules/info/components/ReadingTimeInfo": path.resolve(
+                __dirname,
+                "./client/components/blog-replace/ReadingTimeInfo.ts"
+            ),
             "@theme-hope/modules/blog/components/TagList": path.resolve(
               __dirname,
               "./client/components/blog-replace/TagListWrapper.vue"

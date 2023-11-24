@@ -8,7 +8,7 @@ const wechat_img_pattern = /https:\/\/mmbiz.qpic.cn\/mmbiz_.*/
 
 let imgCnt = 1
 // @ts-ignore
-export const extractItem = async (cnt:string,elem,pathPrefix:string,imgPath:string,images:MDImage[]): string => {
+export const extractItem = async (btnewsIndex:string,elem,pathPrefix:string,imgPath:string,images:MDImage[]): string => {
     let ans = ""
     if (elem?.data) {
         // 文本匹配，如果文本是链接，先访问内容获取标题
@@ -28,7 +28,7 @@ export const extractItem = async (cnt:string,elem,pathPrefix:string,imgPath:stri
             // @ts-ignore
             if (cheerio.text(elem.children)==""){
                 for (let item of elem.children) {
-                    ans += await extractItem(cnt,item, pathPrefix, imgPath, images)
+                    ans += await extractItem(btnewsIndex,item, pathPrefix, imgPath, images)
                 }
             }else {
                 // @ts-ignore
@@ -38,13 +38,13 @@ export const extractItem = async (cnt:string,elem,pathPrefix:string,imgPath:stri
         case "p":
         case "section":
             for (let item of elem.children) {
-                ans += await extractItem(cnt,item, pathPrefix, imgPath, images)
+                ans += await extractItem(btnewsIndex,item, pathPrefix, imgPath, images)
             }
             return ans
         case "img":
             let src = elem.attribs["data-src"]
             // let fn = `${uuidv4()}.${getPicTypeByURL(src)}`
-            let fn = `${cnt}_${imgCnt}.webp`
+            let fn = `${btnewsIndex}_${imgCnt}.webp`
             let filePath = path.join(pathPrefix,imgPath,fn)
             imgCnt++
             images.push({url:src,savePath:filePath})
@@ -52,7 +52,7 @@ export const extractItem = async (cnt:string,elem,pathPrefix:string,imgPath:stri
             return ans
         case "span":
             for (let item of elem.children) {
-                ans += await extractItem(cnt,item,pathPrefix,imgPath,images)
+                ans += await extractItem(btnewsIndex,item,pathPrefix,imgPath,images)
             }
             return ans
         case "h3":
@@ -60,28 +60,28 @@ export const extractItem = async (cnt:string,elem,pathPrefix:string,imgPath:stri
         case "h2":
             ans += "#"
         case "h1":
-            ans += "# " + await extractItem(cnt,elem.children,pathPrefix,imgPath,images) + "\n"
+            ans += "# " + await extractItem(btnewsIndex,elem.children,pathPrefix,imgPath,images) + "\n"
             return ans
         case "table":
             let text = "\n\n"
             // @ts-ignore
             for (let item of elem.children) {
-                text += await extractItem(cnt,item,pathPrefix,imgPath,images)
+                text += await extractItem(btnewsIndex,item,pathPrefix,imgPath,images)
             }
             return text
         case "tbody":
             let body = ""
             let w = elem.children[0].children.length
-            body += `${await extractItem(cnt,elem.children[0],pathPrefix,imgPath,images)}\n`
+            body += `${await extractItem(btnewsIndex,elem.children[0],pathPrefix,imgPath,images)}\n`
             body += "|" + Array(w).fill("---").join("|") + "|\n";
             for (let item of elem.children.slice(1)) {
-                body += await extractItem(cnt,item,pathPrefix,imgPath,images) + "\n";
+                body += await extractItem(btnewsIndex,item,pathPrefix,imgPath,images) + "\n";
             }
             return body
         case "tr":
             ans = "|"
             for (let item of elem.children) {
-                ans += `${await extractItem(cnt,item,pathPrefix,imgPath,images)} |`
+                ans += `${await extractItem(btnewsIndex,item,pathPrefix,imgPath,images)} |`
             }
             return ans
         case "td":

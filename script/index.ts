@@ -5,13 +5,17 @@ import * as path from "path";
 import {saveToMd} from "./saver";
 import {SourceInfo} from "./type";
 import { Command } from 'commander';
+import * as ghac from '@actions/core';
+
+const isGitHubAction = process.env.GITHUB_ACTIONS
+
 
 let frontmatter = {
     title: "",
     date: "",
     description: "",
     tags: [],
-    cnt: "0001",
+    index: "0001",
     bvid: "",
     ytid: "",
 }
@@ -29,7 +33,10 @@ const getTitle = (title:string):string => {
     // @ts-ignore
     let g = ans["0"]
     let res = `【睡前消息${g.slice(4,7)}】${title.slice(g.length+1)}`
-    frontmatter.cnt = "0"+g.slice(4,7)
+    frontmatter.index = "0"+g.slice(4,7)
+    if (isGitHubAction) {
+        ghac.setOutput('index', frontmatter.index);
+    }
     return res
 }
 const getRangeById = (id:string):string => {
@@ -57,13 +64,16 @@ const get = async (res: SourceInfo) => {
     let filePath = path.resolve(`${__dirname}/../btnews/${getRangeById(id)}/${filename}`)
     frontmatter.title = title
     frontmatter.date = timestmapToStr(res.date)
+    if (isGitHubAction) {
+        ghac.setOutput('title', frontmatter.title);
+        ghac.setOutput('date', frontmatter.date);
+    }
     let md = await parserToMd(frontmatter,a,imgPathPrefix,imagePath)
     saveToMd(md,filePath)
 }
 
 const extractDescription = async (bvid:string):Promise<string> => {
     let url = `https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`
-    console.log(url)
     let res =await fetch(url).then(res => res.json())
     frontmatter.bvid = bvid
     let description = res.data.dynamic
@@ -77,40 +87,35 @@ const extractDescription = async (bvid:string):Promise<string> => {
     program.option('--yt <char>');
     program.parse(process.argv);
     const options = program.opts();
-    
-    
+
     if (options.bv) {
         let bv = options.bv
         console.log(bv)
+        if (isGitHubAction) {
+            ghac.debug('bv: ' + bv);
+        }
         try {
         frontmatter.description = await extractDescription(bv)
         frontmatter.bvid = bv
         } catch (e) {
+            if (isGitHubAction) {
+                ghac.debug('try get bv:' + bv + ' error');
+            }
             console.log(e)
         }
     }
     if (options.yt) {
         let yt = options.yt
+        if (isGitHubAction) {
+            ghac.debug('ytid:' + yt);
+        }
         if (yt.length == 11) {
             frontmatter.ytid = yt
-            // throw new Error("ytid长度不对")
         }
-        // frontmatter.ytid = yt
     }
-    // let articles = [{
-    //     msgid: "2247591077",
-    //     title: "睡前消息651期文稿：维珍输给Spacex 辅仁输给以岭",
-    //     url: "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTc0NQ==&mid=2247491505&idx=1&sn=5073ef5b96ea68c07f0cd267d13f7029&chksm=c2d4d4fff5a35de9df2cfabec50b06945e4ef3ec8d92257d4137e67e8ce83d45e72ac83f362c&scene=178&cur_album_id=3119370632720400390#rd",
-    //     date:"1696337760",
-    // }]
-    // for (let i = 0; i < articles.length; i++) {
-    //     await get(articles[i])
-    // }
-    const res = await getArticle(1)
-    
+    const res = await getArticle(1)    
     if (res == null) {
         throw new Error("获取文章失败")
     }
     get(res)
-    
 })();

@@ -79,6 +79,8 @@ export default defineUserConfig({
         sidebarSorter: "date",
         repo: "https://github.com/ktKongTong/btnews",
         docsBranch: "master",
+        docsDir: "docs",
+        pageInfo:["Date", "ReadingTime", "Tag"],
         blog: {
             sidebarDisplay:"none"
         },
@@ -124,6 +126,9 @@ export default defineUserConfig({
             feed:{
                 rss: true,
                 filter: ({ frontmatter }):boolean => frontmatter.type === "index",
+            },
+            readingTime:{
+
             }
         }
     },{

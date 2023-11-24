@@ -6,7 +6,7 @@ interface Frontmatter {
     date: string,
     description: string,
     tags: string[],
-    cnt: string,
+    index: string,
     bvid?: string,
     ytid?: string,
 }
@@ -20,17 +20,15 @@ export const parserToMd = async (frontmatter:Frontmatter, articleHTML: string, p
 title: ${frontmatter.title}
 date: ${frontmatter.date}
 description: ${frontmatter.description}
-tags: [${frontmatter.tags.join(",")}]
+tag: [${frontmatter.tags.join(",")}]
+bvid: ${frontmatter.bvid}
+ytid: ${frontmatter.ytid}
 ---
 
-<VideoService 
-:provider="['Bilibili','Youtube']"
-:videoId = "['${frontmatter.bvid}','${frontmatter.ytid}']"
-/>
 `
     let images:MDImage[] = []
     for (let child of children) {
-        mdContent += await extractItem(frontmatter.cnt,child, pathPrefix, imgPath,images)
+        mdContent += await extractItem(frontmatter.index,child, pathPrefix, imgPath,images)
     }
     // remove redundant \n
     mdContent = mdContent.replace(/\n\n\n/g,"\n\n")

@@ -2,7 +2,7 @@
 title: 【睡前消息669】GDP≠退休金，关注江苏=关心自己
 date: 2023-11-13
 description: 江苏是人均GDP最高的省，但退休金低于所有邻居，最先暴露了中国养老制度缺陷。
-tags: [苏州,退休金]
+tag: [苏州,退休金]
 bvid: BV1gN41137Au
 ytid: W8-5BEmNBlc
 ---
