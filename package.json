@@ -6,7 +6,8 @@
     "build": "vuepress build .",
     "get:new": "ts-node script/index.ts",
     "clean": "rm -rf .vuepress/dist .vuepress/.temp .vuepress/.cache",
-    "pure": "npm run clean  && rm -rf node_modules"
+    "pure": "npm run clean  && rm -rf node_modules",
+    "gh-fetch": "node -r ts-node/register --env-file=.env ./script/index.ts"
   },
   "description": "睡前消息文稿合集",
   "license": "MIT",
@@ -18,6 +19,7 @@
     "@waline/client": "^2.15.5",
     "cheerio": "^1.0.0-rc.12",
     "commander": "^11.1.0",
+    "dotenv": "^16.4.5",
     "sharp": "^0.32.6",
     "typescript": "^5.2.2",
     "uuid": "^9.0.0",
@@ -25,5 +27,8 @@
     "vuepress-plugin-search-pro": "^2.0.0-rc.0",
     "vuepress-shared": "^2.0.0-rc.0",
     "vuepress-theme-hope": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
   }
 }
