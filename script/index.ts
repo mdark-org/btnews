@@ -1,121 +1,195 @@
-
-import {getArticle} from "./article"
-import {parserToMd} from "./parser";
-import * as path from "path";
-import {saveToMd} from "./saver";
-import {SourceInfo} from "./type";
-import { Command } from 'commander';
+import { getArticle } from "./utils/getArticleMetaFromMP";
+import { buildFrontmatter } from './utils/frontmatter';
+import parseHTMLtoMD from './parse';
+import fs from 'fs'
+import path from "path";
+import 'dotenv/config'
 import * as ghac from '@actions/core';
+import dayjs from "dayjs";
+import { Command } from 'commander';
+import { indexToRange, msg } from "./utils";
+import { BedtimeNewsFrontmatter } from "./interfaces";
+import * as cheerio from "cheerio";
+import {extractFrontMatter} from "./parse/frontmatter";
 
+require('dotenv').config()
 const isGitHubAction = process.env.GITHUB_ACTIONS
+export const bizId = process.env.MP_BIZ_ID as string
+export const albumId = process.env.MP_ALBUM_ID as string
+export const imageSavePolicy = process.env.IMAGE_SAVE_POLICY as string
+export const imageStorageHost = process.env.IMAGE_STORAGE_HOST as string
+export const imageStorageToken = process.env.IMAGE_STORAGE_TOKEN as string
+console.log(`bizId: ${bizId}`)
+console.log(`albumId: ${albumId}`)
+console.log(`imageSavePolicy`, imageSavePolicy)
+console.log(`imageStorageHost`, imageStorageHost)
+console.log(`imageStorageToken`, imageStorageToken)
 
-
-let frontmatter = {
-    title: "",
-    date: "",
-    description: "",
-    tags: [],
-    index: "0001",
-    bvid: "",
-    ytid: "",
+export interface Options {
+    url?:string,
+    bv?:string,
+    yt?:string,
+    wb?:string,
+    xg?:string,
+    title?: string,
+    date?: string,
+    path?:string,
+    overwrite?:boolean,
+    localDir:string,
+    ghac:boolean,
+    index?: string,
+    category?: string,
 }
 
-const timestmapToStr = (ts:string) => {
-    let date = new Date(parseInt(ts) * 1000);
-    let y = date.getFullYear();
-    let m = date.getMonth() + 1;
-    let d = date.getDate();
-    return `${y}-${m < 10 ? '0' + m : m}-${d < 10 ? ('0' + d) : d}`
-}
-const getTitle = (title:string):string => {
-    let titlePattern = /睡前消息\d{3}期?文稿/
-    let ans = titlePattern.exec(title)
-    // @ts-ignore
-    let g = ans["0"]
-    let res = `【睡前消息${g.slice(4,7)}】${title.slice(g.length+1)}`
-    frontmatter.index = "0"+g.slice(4,7)
-    if (isGitHubAction) {
-        ghac.setOutput('index', frontmatter.index);
-    }
-    return res
-}
-const getRangeById = (id:string):string => {
-    let i = parseInt(id);
-    let start = Math.floor(i / 100);
-    if (i % 100 == 0) {
-        start -= 1;
-    }
-    let s = start * 100 + 1;
-    let e = s + 99;
-    return `${s.toString().padStart(4, "0")}_${e.toString().padStart(4, "0")}`;
-}
+const program = new Command();
+function getOptions() {
+    program
+      .option('--bv [string]')
+      .option('--yt [string]')
+      .option('--wb [string]')
+      .option('--xg [string]')
+      .option('--url [string]')
+      .option('--type [string]')
+      .option('--title [string]')
+      .option('--date [string]')
+      .option('--path [string]')
+      .option('--index [string]')
+      .option('--local-dir [string]')
+      .option('--ghac')
+      .option('--category [string]', 'category')
+      .option('-o, --overwrite [boolean]');55
 
-
-
-const get = async (res: SourceInfo) => {
-    let url = res.url
-    let content = await fetch(url)
-    let a =await content.text()
-    let title = getTitle(res.title)
-    let id = title.slice(5,8).padStart(4, "0")
-    let filename = `btnews_${id}.md`
-    let imgPathPrefix = path.resolve(`${__dirname}/../`)
-    let imagePath = `/images/btnews/${getRangeById(id)}/${id}/`
-    let filePath = path.resolve(`${__dirname}/../btnews/${getRangeById(id)}/${filename}`)
-    frontmatter.title = title
-    frontmatter.date = timestmapToStr(res.date)
-    if (isGitHubAction) {
-        ghac.setOutput('title', frontmatter.title);
-        ghac.setOutput('date', frontmatter.date);
-    }
-    let md = await parserToMd(frontmatter,a,imgPathPrefix,imagePath)
-    saveToMd(md,filePath)
-}
-
-const extractDescription = async (bvid:string):Promise<string> => {
-    let url = `https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`
-    let res =await fetch(url).then(res => res.json())
-    frontmatter.bvid = bvid
-    let description = res.data.dynamic
-    return description
-}
-
-(async () => {
-    
-    const program = new Command();
-    program.option('--bv <char>');
-    program.option('--yt <char>');
-    program.parse(process.argv);
     const options = program.opts();
+    program.parse(process.argv);
+    console.log(options)
 
-    if (options.bv) {
-        let bv = options.bv
-        console.log(bv)
-        if (isGitHubAction) {
-            ghac.debug('bv: ' + bv);
-        }
-        try {
-        frontmatter.description = await extractDescription(bv)
-        frontmatter.bvid = bv
-        } catch (e) {
-            if (isGitHubAction) {
-                ghac.debug('try get bv:' + bv + ' error');
-            }
-            console.log(e)
-        }
-    }
-    if (options.yt) {
-        let yt = options.yt
-        if (isGitHubAction) {
-            ghac.debug('ytid:' + yt);
-        }
-        if (yt.length == 11) {
-            frontmatter.ytid = yt
+    const url = options.url!==""?(typeof options.url == "boolean" ?undefined:options.url):undefined;
+    const bv = options.bv!==""?(typeof options.bv == "boolean" ?undefined:options.bv):undefined;
+    const yt = options.yt!==""?(typeof options.yt == "boolean" ?undefined:options.yt):undefined;
+    const wb = options.wb!==""?(typeof options.wb == "boolean" ?undefined:options.wb):undefined;
+    const xg = options.xg!==""?(typeof options.xg == "boolean" ?undefined:options.xg):undefined;
+    const title = options.title!==""?(typeof options.title == "boolean" ?undefined:options.title):undefined;
+    const path = options.path!==""?(typeof options.path == "boolean" ?undefined:options.path):undefined;
+    const date = options.date!==""?(typeof options.date == "boolean" ?undefined:options.date):undefined;
+    const category = options.category!==""?(typeof options.category == "boolean" ?undefined:options.category):undefined;
+    const index = options.index!==""?(typeof options.index == "boolean" ?undefined:options.index):undefined;
+    let overwrite = false
+    if (options.overwrite!==undefined) {
+        if (options.overwrite == "false") {
+            overwrite = false
+        }else if (options.overwrite == "true") {
+            overwrite = true
+        }else {
+            overwrite = options.overwrite
         }
     }
-    const res = await getArticle(1)    
+    const ghac = options.ghac !== undefined;
+    let localDir = "."
+    if (options.localDir!==undefined) {
+        localDir = options.localDir
+    }
+    return {
+        url,bv,yt,wb,xg,overwrite,localDir,ghac,title,path,date,category,index
+    }
+}
+
+
+export const options = getOptions()
+console.log(options)
+
+
+async function fetchFromSpecifiedURL(url:string,options:Options) {
+    let articleHTML = await (await fetch(url)).text()
+    let $ = cheerio.load(articleHTML)
+    let frontmatter = await extractFrontMatter($,options)
+    return {
+        frontmatter,
+        articleHTML:$
+    }
+}
+
+async function fetchFromTag(options:Options) {
+    const res = await getArticle(bizId,albumId,1)
     if (res == null) {
         throw new Error("获取文章失败")
     }
-    get(res)
-})();
+    let frontmatter = await buildFrontmatter(res,options)
+
+    let articleHTML = cheerio.load(await (await fetch(res.url)).text())
+    return {
+        frontmatter,
+        articleHTML
+    }
+}
+
+async function fetchByOptions(options:Options) {
+    if (options.url) {
+        return await fetchFromSpecifiedURL(options.url,options)
+    }
+    return await fetchFromTag(options)
+}
+
+export function getRelativePath(frontmatter:BedtimeNewsFrontmatter) {
+    let relativePath = `${frontmatter.category}`
+    relativePath = path.join(relativePath, indexToRange(parseInt(frontmatter.index)))
+    return relativePath
+}
+
+function buildPrefix(frontmatter:BedtimeNewsFrontmatter, options:Options) {
+    let prefixTemplate = `---
+title: ${frontmatter.title}
+description: ${frontmatter.description}
+tag: []
+date: ${frontmatter.date}
+category: ${frontmatter.category}
+ytid: ${frontmatter.ytid}
+bvid: ${frontmatter.bvid}
+---
+`
+    return prefixTemplate
+}
+
+async function main() {
+    const {frontmatter,articleHTML} = await fetchByOptions(options)
+    console.log(frontmatter)
+    if (isGitHubAction) {
+        ghac.setOutput('branch', `${frontmatter.category}-${frontmatter.index}`);
+        ghac.setOutput('title', frontmatter.title);
+        ghac.setOutput('date', frontmatter.date);
+        ghac.setOutput('category', frontmatter.category);
+    }
+    let relativePath = getRelativePath(frontmatter)
+    let targetPath = path.join(relativePath, `${frontmatter.category}_${frontmatter.index.toString().padStart(4,'0')}.md`)
+    if(options.path) {
+        targetPath = options.path
+    }
+    let repoRawContentBase = `https://raw.githubusercontent.com/ktKongTong/btnews/master`
+    let outputUrl = `${repoRawContentBase}/${targetPath}`
+    console.log("fetch")
+    let response = await fetch(outputUrl)
+    if (response.status == 200 && !options.overwrite) {
+        console.log(targetPath,"已存在")
+        if(isGitHubAction) {
+            ghac.setOutput('return', true);
+        }
+        return
+    }
+    if (isGitHubAction) {
+        ghac.setOutput('return', false);
+    }
+    console.log("prepare to parse")
+    let parserResult = await parseHTMLtoMD(articleHTML,frontmatter)
+    let filepath = `${options.localDir}/${path.dirname(targetPath)}`
+    console.log(filepath)
+    if (!fs.existsSync(filepath)) {
+        fs.mkdirSync(filepath,{
+            recursive: true
+        });
+    }
+    fs.writeFileSync(path.resolve(filepath,path.basename(targetPath)),buildPrefix(frontmatter,options)+parserResult)
+    if (isGitHubAction) {
+        ghac.setOutput('msg', msg);
+    }
+}
+
+main()
