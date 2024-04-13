@@ -12,3 +12,5 @@ backup
 yarn-error.log
 .DS_Store
 .env
+.vitepress/cache
+.vitepress/dist
