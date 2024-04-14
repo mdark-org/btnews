@@ -77,7 +77,7 @@ tag: ["长三角","阿富汗","交通枢纽","上海虹桥","爱狗人士","房�
 
 ![](/images/btnews/0201_0300/0284/image10.webp)
 
-![](images/btnews/0201_0300/0284/image11.jfif)
+![](/images/btnews/0201_0300/0284/image11.webp)
 
 ![](/images/btnews/0201_0300/0284/image5.webp)
 
