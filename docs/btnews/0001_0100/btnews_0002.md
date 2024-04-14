@@ -165,7 +165,13 @@ videoId="BV1mt411G73q"
 
 时隔一年，月亮好像还是那个月亮，飞机也几乎长得一模一样，看来飞机很配合周部长。![](/images/btnews/0001_0100/0002/image18.webp)
 
-今年，周海军发表了2019年第一个日出摄影![](/images/btnews/0001_0100/0002/image19.webp)![](/images/btnews/0001_0100/0002/image20.webp)![](/images/btnews/0001_0100/0002/image21.webp)。（[该文章已不存在_手机新浪网](http://k.sina.com.cn/article_6867521020_199560dfc00100mosi.html?from=travel&subch=)）
+今年，周海军发表了2019年第一个日出摄影。
+
+![](/images/btnews/0001_0100/0002/image19.webp)
+![](/images/btnews/0001_0100/0002/image20.webp)
+![](/images/btnews/0001_0100/0002/image21.webp)
+
+（[该文章已不存在_手机新浪网](http://k.sina.com.cn/article_6867521020_199560dfc00100mosi.html?from=travel&subch=)）
 
 但是，从盱眙县的地图可以看出，淮河在城区的西侧。
 
