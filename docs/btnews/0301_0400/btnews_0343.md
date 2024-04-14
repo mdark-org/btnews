@@ -114,7 +114,11 @@ tag: ["引洮工程","拆迁","宅基地","甘肃","房产税","莆田杀人案"
 
 ![](/images/btnews/0301_0400/0343/image5.webp)
 
-[世纪“解渴”工程引洮工程建成，600万人告别靠天吃水历史_绿政公署_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_14700209)![](/images/btnews/0301_0400/0343/image6.webp)**https://kuaibao.qq.com/s/20190927A06EY900?refer=spider**
+[世纪“解渴”工程引洮工程建成，600万人告别靠天吃水历史_绿政公署_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_14700209)
+
+![](/images/btnews/0301_0400/0343/image6.webp)
+
+**https://kuaibao.qq.com/s/20190927A06EY900?refer=spider**
 
 甘肃是唯一在全国四大地理区域都有土地的省份，其他的省份，除了陕西省跨三个地理大区划之外，最多也就是属于两个分区。所以甘肃省是是中国气候和地貌最多样化的省份。
 

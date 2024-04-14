@@ -3,12 +3,8 @@ title: 【睡前消息353】28nm光刻机卡住“02专项”，冷静一下也�
 date: 2021-11-14
 description: 28nm光刻机卡住“02专项”，冷静一下也好
 tag: ["光刻机","芯片"]
+ytid: bHdLa1Nwizs
 ---
-
-<VideoService 
-:provider="['Youtube']"
-:videoId="['bHdLa1Nwizs']"
-/>
 
 大家好，2021年11月14日星期日，欢迎收看353期睡前消息，请静静介绍新闻。
 

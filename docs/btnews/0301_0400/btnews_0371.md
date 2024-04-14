@@ -114,29 +114,45 @@ tag: ["CAD","欧特克","遛狗","昭通","Autodesk"]
 
 这个时候，电力协会终于意识到支持国产软件企业的重要性，开会讨论国产化工作。同时，避免各设计单位和美国单独谈判，制造不合理的合作价格。所以协会特别警告，说有的单位可能收到了CAD延长服务的通知，别轻易启用，要等集体谈判，不然会被坑。
 
-![](/images/btnews/0301_0400/0371/image12.webp)![](/images/btnews/0301_0400/0371/image13.webp)
+![](/images/btnews/0301_0400/0371/image12.webp)
 
-![](/images/btnews/0301_0400/0371/image14.webp)![](/images/btnews/0301_0400/0371/image15.webp)
+![](/images/btnews/0301_0400/0371/image13.webp)
+
+![](/images/btnews/0301_0400/0371/image14.webp)
+
+![](/images/btnews/0301_0400/0371/image15.webp)
 
 2019年2月15日，电力协会与Autodesk签署了新的合作协议，155家会员单位打包拿到了非常优惠的报价.之前买过最新版本的单位，接下来3年持续升级，每套只需要三千多，没买过最新版本的单位，每套年租金七千多。为了绕过Autodesk的服务器，电力协会还把软件更新服务放在了协会的云服务器上，由协会提供技术服务。
 
-![](/images/btnews/0301_0400/0371/image16.webp)![](/images/btnews/0301_0400/0371/image17.webp)
+![](/images/btnews/0301_0400/0371/image16.webp)
 
-![](/images/btnews/0301_0400/0371/image18.webp)![](/images/btnews/0301_0400/0371/image19.webp)
+![](/images/btnews/0301_0400/0371/image17.webp)
+
+![](/images/btnews/0301_0400/0371/image18.webp)
+
+![](/images/btnews/0301_0400/0371/image19.webp)
 
 这份合同有两处细节，第一个是各单位根据需要自愿参与，也就是说虽然打包签了合同，但不是说这155家单位就必须要买。就算没买，欧特克也没法说对方没履行合同。另一个细节是合作期限，截止日期是到2021年4月15日。最近几个月纠纷突然升级，这是因为团购合同到期了。
 
-![](/images/btnews/0301_0400/0371/image20.webp)![](/images/btnews/0301_0400/0371/image21.webp)
+![](/images/btnews/0301_0400/0371/image20.webp)
+
+![](/images/btnews/0301_0400/0371/image21.webp)
 
 就在电力协会与欧特克签署合同的10天后，电力协会在哈尔滨召开了CAD国产化工作会。安排了下一阶段的国产化任务。总的来说，也是一个短期计划，一个长期计划。短期计划上，如果之后与Autodesk翻脸，没法继续更新最新版本，那国产化版本要顶上，主要就是基于CAD平台搞二次开发。长期计划就是要从头打造国产平台，从底层设计功能做起，逐步升级到高端内容，合作单位主要是中望和浩辰。
 
-![](/images/btnews/0301_0400/0371/image22.webp)![](/images/btnews/0301_0400/0371/image23.webp)
+![](/images/btnews/0301_0400/0371/image22.webp)
+
+![](/images/btnews/0301_0400/0371/image23.webp)
 
 2019年的最后一天，CAD国产化终于有了可以落地的成果，电力协会与中望和浩辰分别签署了合作备忘录，安排了会员单位的采购计划，而且每套年费只有240元，加800块钱就能永久授权。
 
-![](/images/btnews/0301_0400/0371/image24.webp)![](/images/btnews/0301_0400/0371/image25.webp)
+![](/images/btnews/0301_0400/0371/image24.webp)
 
-![](/images/btnews/0301_0400/0371/image26.webp)![](/images/btnews/0301_0400/0371/image27.webp)
+![](/images/btnews/0301_0400/0371/image25.webp)
+
+![](/images/btnews/0301_0400/0371/image26.webp)
+
+![](/images/btnews/0301_0400/0371/image27.webp)
 
 可以说，到这一步，至少在司法程序上，这些单位不用再担心欧特克的敲诈了，不管实际有没有用盗版，至少可以声称有国产CAD应付最新项目的设计。但这也意味着跟Autodesk的关系彻底恶化了。随着这几个月合同到期，欧特克开始频繁给各个设计院发邮件发告知函，而有了底气的电力协会，也直接把抽屉里准备多年的材料一次性递交给公安局。这就有了我们开头看到的警方通知书。
 

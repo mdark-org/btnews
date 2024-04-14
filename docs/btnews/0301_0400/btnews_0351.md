@@ -83,7 +83,9 @@ date: 2021-11-09
 
 过去十几年，中国的铀矿需求量比当年的1.3万吨还要多久，但是产量只提升到1650吨，对外依存度从一半提高到90%左右，相对的问题似乎更严重了。[2007-2018年我国铀矿产量、需求量、进口量及对外依存度统计-立鼎产业研究网](http://www.leadingir.com/datacenter/view/1867.html)
 
-![](/images/btnews/0301_0400/0351/image2.webp)![](/images/btnews/0301_0400/0351/image3.webp)
+![](/images/btnews/0301_0400/0351/image2.webp)
+
+![](/images/btnews/0301_0400/0351/image3.webp)
 
 ![](/images/btnews/0301_0400/0351/image4.webp)
 

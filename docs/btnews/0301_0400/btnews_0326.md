@@ -107,7 +107,9 @@ date: 2021-09-12
 
 ![](/images/btnews/0301_0400/0326/image20.webp)
 
-![](/images/btnews/0301_0400/0326/image21.webp)![](/images/btnews/0301_0400/0326/image22.webp)
+![](/images/btnews/0301_0400/0326/image21.webp)
+
+![](/images/btnews/0301_0400/0326/image22.webp)
 
 ![](/images/btnews/0301_0400/0326/image23.webp)
 
@@ -177,7 +179,9 @@ date: 2021-09-12
 
 魏桥集团在短短十几年里发展成了全球铝业巨头，主要方案是逆势扩张。每次遇到行业周期低谷，别的企业收缩，魏桥集团反而拼命扩张产能。这时候，原料、设备和专业人员的价格都低，容易快速扩张。当然，反周期扩张，必然会带来严重的财务问题，这是魏桥集团多次负面消息的主要原因。
 
-![](/images/btnews/0301_0400/0326/image37.webp)![](/images/btnews/0301_0400/0326/image38.webp)
+![](/images/btnews/0301_0400/0326/image37.webp)
+
+![](/images/btnews/0301_0400/0326/image38.webp)
 
 [看魏桥600kA电解槽，为何满满科技感？](https://www.sohu.com/a/145218793_716522)
 
@@ -261,7 +265,9 @@ date: 2021-09-12
 
 ![](/images/btnews/0301_0400/0326/image50.webp)
 
-![](/images/btnews/0301_0400/0326/image51.webp)![](/images/btnews/0301_0400/0326/image52.webp)
+![](/images/btnews/0301_0400/0326/image51.webp)
+
+![](/images/btnews/0301_0400/0326/image52.webp)
 
 ![](/images/btnews/0301_0400/0326/image53.webp)https://www.sohu.com/a/235181778_716522
 

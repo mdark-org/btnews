@@ -31,7 +31,9 @@ date: 2021-08-08
 
 ![](/images/btnews/0301_0400/0311/image1.webp)
 
-![](/images/btnews/0301_0400/0311/image2.webp)![](/images/btnews/0301_0400/0311/image3.webp)
+![](/images/btnews/0301_0400/0311/image2.webp)
+
+![](/images/btnews/0301_0400/0311/image3.webp)
 
 <https://nordot.app/777494499896459264>
 

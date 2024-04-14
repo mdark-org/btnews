@@ -67,7 +67,9 @@ IGN给它打了9分。
 
 尤其是人物形象和性格设定，得到了一致认同。
 
-![](/images/btnews/0301_0400/0323/image12.webp)![](/images/btnews/0301_0400/0323/image13.webp)
+![](/images/btnews/0301_0400/0323/image12.webp)
+
+![](/images/btnews/0301_0400/0323/image13.webp)
 
 ![](/images/btnews/0301_0400/0323/image14.webp)
 

@@ -47,7 +47,9 @@ date: 2021-08-06
 
 ![](/images/btnews/0301_0400/0310/image4.webp)
 
-![](/images/btnews/0301_0400/0310/image5.webp)![](/images/btnews/0301_0400/0310/image6.webp)
+![](/images/btnews/0301_0400/0310/image5.webp)
+
+![](/images/btnews/0301_0400/0310/image6.webp)
 
 ![](/images/btnews/0301_0400/0310/image7.webp)
 
@@ -69,11 +71,15 @@ date: 2021-08-06
 
 华北地区的可用路线明显要少，就算北京也没有联通周边城市。
 
-![](/images/btnews/0301_0400/0310/image11.webp)![](/images/btnews/0301_0400/0310/image12.webp)
+![](/images/btnews/0301_0400/0310/image11.webp)
+
+![](/images/btnews/0301_0400/0310/image12.webp)
 
 华南地区目前还处于割裂状态，不要说跨省线路，连广东省内大多数地区都不能和珠三角联通。
 
-![](/images/btnews/0301_0400/0310/image13.webp)![](/images/btnews/0301_0400/0310/image14.webp)
+![](/images/btnews/0301_0400/0310/image13.webp)
+
+![](/images/btnews/0301_0400/0310/image14.webp)
 
 如果把各地群友所有走通过的路线放到一张总图上，可以发现中国只有东部和东南沿海两个城市群，其他地区的城市基本上都是孤立发展，偶尔有个大城市向外延伸公交网络，也很快因为缺乏中型城市接力，变成断头路。
 
