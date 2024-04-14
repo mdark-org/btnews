@@ -230,7 +230,9 @@ date: 2019-09-20
 
 ![](/images/btnews/0001_0100/0021/image36.webp)
 
-![](/images/btnews/0001_0100/0021/image37.webp)![](/images/btnews/0001_0100/0021/image38.webp)
+![](/images/btnews/0001_0100/0021/image37.webp)
+
+![](/images/btnews/0001_0100/0021/image38.webp)
 
 ![](/images/btnews/0001_0100/0021/image39.webp)
 
