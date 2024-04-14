@@ -232,7 +232,9 @@ date: 2020-07-03
 
 6月11日，北京新发地市场出现新冠肺炎爆发式传染，成为新的疫情中心。之后，北京迅速开始大规模病毒检测。六月的北京天气炎热，又不像南方梅雨季节那样有云彩挡住太阳，很多工作人员在30度的气温下穿防护服工作，还要被太阳暴晒，很容易中暑，所以不少网友质疑后勤工作不到位。
 
-![](/images/btnews/0101_0200/0136/image43.webp)![](/images/btnews/0101_0200/0136/image44.webp)
+![](/images/btnews/0101_0200/0136/image43.webp)
+
+![](/images/btnews/0101_0200/0136/image44.webp)
 
 6月15日，新发地附近银地家园，一名医护人员中暑。
 
@@ -246,13 +248,17 @@ date: 2020-07-03
 
 [Sina Visitor System](https://weibo.com/1662214194/J6UKMfJM5?from=page_1005051662214194_profile&wvr=6&mod=weibotime&type=comment)
 
-![](/images/btnews/0101_0200/0136/image45.webp)![](/images/btnews/0101_0200/0136/image46.webp)
+![](/images/btnews/0101_0200/0136/image45.webp)
+
+![](/images/btnews/0101_0200/0136/image46.webp)
 
 ![](/images/btnews/0101_0200/0136/image47.webp)
 
 6月16日，有微博网友提议，引进韩国的核酸检测亭。医护人员站在里面，对外面的民众进行检测，不需要晒太阳，也不需要穿防护服，感染风险也更低。这个建议得到了许多网友的支持。但是，“向韩国学习”是中国互联网上一个非常敏感的话题，所以也出现了很多反对者。
 
-![](/images/btnews/0101_0200/0136/image48.webp)![](/images/btnews/0101_0200/0136/image49.webp)
+![](/images/btnews/0101_0200/0136/image48.webp)
+
+![](/images/btnews/0101_0200/0136/image49.webp)
 
 ![](/images/btnews/0101_0200/0136/image50.webp)
 
@@ -276,7 +282,9 @@ date: 2020-07-03
 
 ![](/images/btnews/0101_0200/0136/image54.webp)
 
-![](/images/btnews/0101_0200/0136/image55.webp)![](/images/btnews/0101_0200/0136/image56.webp)
+![](/images/btnews/0101_0200/0136/image55.webp)
+
+![](/images/btnews/0101_0200/0136/image56.webp)
 
 但是，就在网络讨论越来越激烈的同时，医疗机构已经做出了自己的选择。6月16日新民晚报报道，上海中山医院西院出现了类似的核酸采样亭，正压密闭室配置了进风扇，用物理方式避免医护人员感染。。
 
@@ -309,7 +317,11 @@ date: 2020-07-03
 
 视频：[Sina Visitor System](https://weibo.com/2194868354/J7ZCa9bQT?from=page_1005052194868354_profile&wvr=6&mod=weibotime&type=comment)
 
-同一天，北京佑安医院也开始试用“移动核酸筛查亭”。根据报道，研制团队将在近期生产出二代设备，向北京22家市属医院投放。![](/images/btnews/0101_0200/0136/image61.webp)![](/images/btnews/0101_0200/0136/image62.webp)
+同一天，北京佑安医院也开始试用“移动核酸筛查亭”。根据报道，研制团队将在近期生产出二代设备，向北京22家市属医院投放。
+
+![](/images/btnews/0101_0200/0136/image61.webp)
+
+![](/images/btnews/0101_0200/0136/image62.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1670471144838816082&wfr=spider&for=pc)
 

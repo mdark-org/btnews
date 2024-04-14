@@ -13,7 +13,11 @@ date: 2020-05-01
 
 在《自然神经科学》杂志上，这篇文章的主题是在测试者的大脑上植入电极，收集伽马波，然后让测试者参与对话，使用机器学习方式研究伽马波，建立模型，最终做到翻译大脑波。
 
-![](/images/btnews/0101_0200/0109/image1.webp)![](/images/btnews/0101_0200/0109/image2.webp)![](/images/btnews/0101_0200/0109/image3.webp)
+![](/images/btnews/0101_0200/0109/image1.webp)
+
+![](/images/btnews/0101_0200/0109/image2.webp)
+
+![](/images/btnews/0101_0200/0109/image3.webp)
 
 加州大学旧金山分校的爱德华 · 张（Edward
 Chang）团队使用了ECoG（Electrocorticography）皮质脑电图技术，这项技术又被称为颅内脑电图，核心是侵入式电极阵列，通过开颅手术，在大脑皮层中植入电极网络，从而收集记录电信号活动。
@@ -38,7 +42,11 @@ Chang）团队使用了ECoG（Electrocorticography）皮质脑电图技术，这
 
 [腦電圖 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%85%A6%E9%9B%BB%E5%9C%96)
 
-![](/images/btnews/0101_0200/0109/image7.webp)![](/images/btnews/0101_0200/0109/image8.webp)![](/images/btnews/0101_0200/0109/image9.webp)
+![](/images/btnews/0101_0200/0109/image7.webp)
+
+![](/images/btnews/0101_0200/0109/image8.webp)
+
+![](/images/btnews/0101_0200/0109/image9.webp)
 
 这次实验是怎么把脑电波和具体的语言建立联系的？
 
@@ -48,7 +56,10 @@ Chang）团队使用了ECoG（Electrocorticography）皮质脑电图技术，这
 
 在患者进行对话和回答问题的时候，实验人员通过植入的电极阵列，收集活跃的伽马波，同时观察活跃的脑区，记录阵列反应图像。
 
-![](/images/btnews/0101_0200/0109/image11.webp)![](/images/btnews/0101_0200/0109/image12.webp)
+![](/images/btnews/0101_0200/0109/image11.webp)
+
+![](/images/btnews/0101_0200/0109/image12.webp)
+
 ![](/images/btnews/0101_0200/0109/image13.webp)
 
 实验中的一系列题目和回答的选项都是提前设计好的，一共有九个问题，都很简单直接，比如说“你讨厌听到哪种乐器？”，“从0到10，形容你现在的舒适度”，“你觉得现在的房间怎么样”。答案只能从确定的选项里面选，每个问题最多六个选项，而且都是一个或者几个单词，比如“好”、“坏”、或者简单的数字。

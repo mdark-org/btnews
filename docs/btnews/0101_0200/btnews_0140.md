@@ -3,12 +3,9 @@ title: 【睡前消息140】马前卒暴走，亲眼看看独山县怎么烧掉4
 date: 2020-07-11
 description: 一周年特辑 督工独山县Vlog
 tag: ["独山"]
+bvid: BV1Jz4y1e7gK
+ytid: yeAh-GzrUAA
 ---
-
-<VideoService 
-:provider="['Bilibili','Youtube']"
-:videoId = "['BV1Jz4y1e7gK','yeAh-GzrUAA']"
-/>
 
 大家好，睡前消息 140 期。节目开播一整年了，无论是我们的节目本身还是大家发的弹幕，这一整年露脸最多的一个县级单位是...
 

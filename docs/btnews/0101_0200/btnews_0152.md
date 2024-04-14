@@ -118,7 +118,9 @@ date: 2020-08-09
 
 再往前看，2012年世界卫生组织发布过《狂犬病疫苗临床反应观察信息表》，当时人二倍体细胞狂犬病疫苗在中国还没上市，基本都是国外的疫苗数据。Vero细胞疫苗的局部轻度不良反应率是7%，发热病例占6%。而人二倍体细胞疫苗的局部轻度不良反应率是21%到74%，发热概率是7%到55.6%。虽然大多数不良反应都不会威胁健康，但明显可以看到，反而是Vero细胞疫苗更安全。
 
-![](/images/btnews/0101_0200/0152/image5.webp)![](/images/btnews/0101_0200/0152/image6.webp)
+![](/images/btnews/0101_0200/0152/image5.webp)
+
+![](/images/btnews/0101_0200/0152/image6.webp)
 
 <https://www.who.int/vaccine_safety/initiative/tools/Rabies_Vaccine_rates_information_sheet.pdf?ua=1>
 
@@ -165,7 +167,9 @@ date: 2020-08-09
 
 过去一年，人二倍体细胞法疫苗的批签发量比例大幅上升，从4%增长到18%。考虑到每支人二倍体细胞疫苗的售价是vero细胞疫苗的四倍，中国人花在两种疫苗上的钱差不多，今后可能还会花更多的钱买更贵的疫苗。
 
-![](/images/btnews/0101_0200/0152/image11.webp)![](/images/btnews/0101_0200/0152/image12.webp)
+![](/images/btnews/0101_0200/0152/image11.webp)
+
+![](/images/btnews/0101_0200/0152/image12.webp)
 
 <https://www.chyxx.com/industry/202003/838929.html>
 

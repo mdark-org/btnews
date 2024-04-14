@@ -81,7 +81,13 @@ date: 2020-09-08
 
 ![](/images/btnews/0101_0200/0165/image2.webp)
 
-![](/images/btnews/0101_0200/0165/image3.webp)![](/images/btnews/0101_0200/0165/image4.webp)![](/images/btnews/0101_0200/0165/image5.webp)![](/images/btnews/0101_0200/0165/image6.webp)
+![](/images/btnews/0101_0200/0165/image3.webp)
+
+![](/images/btnews/0101_0200/0165/image4.webp)
+
+![](/images/btnews/0101_0200/0165/image5.webp)
+
+![](/images/btnews/0101_0200/0165/image6.webp)
 
 当然，“珠峰工程”靠社会工程来解决问题，还是有局限的。本来干扰素本身就有接近10%的临床治愈率，现在加上抗病毒口服药，才能有三分之一的临床治愈率。而且和单纯干扰素治疗一样，成本很高，限制也比较多。中国还是需要在技术方面寻求更多的突破。
 

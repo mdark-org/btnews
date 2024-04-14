@@ -78,7 +78,9 @@ date: 2020-06-12
 
 ![](/images/btnews/0101_0200/0127/image6.webp)
 
-![](/images/btnews/0101_0200/0127/image7.webp)![](/images/btnews/0101_0200/0127/image8.webp)
+![](/images/btnews/0101_0200/0127/image7.webp)
+
+![](/images/btnews/0101_0200/0127/image8.webp)
 
 加州大学的团队通过转基因技术，把能够表达反射蛋白的异构体的基因，转染给人体胚胎肾脏细胞，在细胞和周围观察到了一圈白色素体。
 

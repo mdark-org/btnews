@@ -101,7 +101,9 @@ date: 2020-07-31
 
 ![](/images/btnews/0101_0200/0148/image18.webp)
 
-![](/images/btnews/0101_0200/0148/image19.webp)![](/images/btnews/0101_0200/0148/image20.webp)
+![](/images/btnews/0101_0200/0148/image19.webp)
+
+![](/images/btnews/0101_0200/0148/image20.webp)
 
 神职人员居伦被指控为政变主要策划者，但美国拒绝向土耳其引渡他
 

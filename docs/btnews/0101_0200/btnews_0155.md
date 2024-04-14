@@ -122,7 +122,9 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 文件说了1.4万人死亡数字的来源，并不是一个个数出来的，而是根据大样本抽样调查的推算结果。抽样调查的数据来自韩国两个地区，北方的汉城，京畿道，忠清地区和江原道的3000户家庭，以及南方“湖南地区”的2000户家庭，一共15472人。
 
-![](/images/btnews/0101_0200/0155/image11.webp)![](/images/btnews/0101_0200/0155/image12.webp)
+![](/images/btnews/0101_0200/0155/image11.webp)
+
+![](/images/btnews/0101_0200/0155/image12.webp)
 
 调查委员会发现，在1.57万人的样本中，使用加湿器杀菌剂的有830户2844人，在这其中有249人曾经去医院就诊，诊断出加湿器杀菌剂肺炎的有44人，其中7人死亡。
 
@@ -136,7 +138,9 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 乘以上面的比例数据，得出了死亡人数约为1.4万人。
 
-![](/images/btnews/0101_0200/0155/image14.webp)![](/images/btnews/0101_0200/0155/image15.webp)
+![](/images/btnews/0101_0200/0155/image14.webp)
+
+![](/images/btnews/0101_0200/0155/image15.webp)
 
 <http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830>
 
@@ -161,7 +165,9 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 韩国禹贡（yugong）化学公司是SK化学的前身，它在1994年发明了加湿器添加剂，命名为“加湿器伴侣”。从这个名字看，绝对不是为了给加湿器本身消毒的产品。类
 
-![](/images/btnews/0101_0200/0155/image16.webp)![](/images/btnews/0101_0200/0155/image17.webp)
+![](/images/btnews/0101_0200/0155/image16.webp)
+
+![](/images/btnews/0101_0200/0155/image17.webp)
 
 其次，利洁时韩国分公司生产的杀菌剂产品说明书是这样写的：“将其放入装满水的加湿器中”，“建议每次都添加”，“这不是洗涤剂。它是一种消毒剂。”
 
@@ -200,7 +206,9 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 醋本身当然不是有毒物质，但这里的“有毒”是针对吃下去说的。雾化吸入肺泡的醋，就可以对人体有害。但是现在翻淘宝，很多店铺打出的广告和当年韩国加湿器肺炎事件的广告差不多，希望消费者把次氯酸钠消毒液放进加湿器水箱，雾化以后散布到封闭空间，用来消毒。虽然我不知道八四消毒液雾化到底有什么严重后果，但肯定是有巨大的风险。
 
-![](/images/btnews/0101_0200/0155/image20.webp)![](/images/btnews/0101_0200/0155/image21.webp)
+![](/images/btnews/0101_0200/0155/image20.webp)
+
+![](/images/btnews/0101_0200/0155/image21.webp)
 
 [
                     淘宝网 - 淘！我喜欢            ](https://s.taobao.com/search?q=%E5%8A%A0%E6%B9%BF%E5%99%A8%E6%9D%80%E8%8F%8C%E5%89%82&imgfile=&js=1&stats_click=search_radio_all%3A1&initiative_id=staobaoz_20200806&ie=utf8&sort=sale-desc)

@@ -170,7 +170,9 @@ http://society.people.com.cn/n1/2020/0815/c1008-31823594.html
 
 https://tech.sina.com.cn/roll/2020-08-10/doc-iivhvpwy0282543.shtml?qq-pf-to=pcqq.c2c
 
-![](/images/btnews/0101_0200/0160/image8.webp)![](/images/btnews/0101_0200/0160/image9.webp)
+![](/images/btnews/0101_0200/0160/image8.webp)
+
+![](/images/btnews/0101_0200/0160/image9.webp)
 
 另外，今天最新消息，《科学》杂志封面新闻刚刚登载了Google
 量子研究团队的成就，他们在量子计算机上模拟了两个氮原子和两个氢原子组成的二氮烯分子的异构化反应，最终证明计算结果正确，可以算是量子计算机的第一次实战出场。我们可能距离量子计算机时代只有一步之遥了。这是计算机和化学乃至材料学的重大胜利，中国还有很多路程要追赶。
