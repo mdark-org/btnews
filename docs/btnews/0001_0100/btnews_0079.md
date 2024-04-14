@@ -3,12 +3,10 @@ title: 【睡前消息79】重奖医护人员，但“子女择校权”是最�
 date: 2020-02-21
 description: 1. 各省市复工积极性不同；<br>2. 如何看待各地奖励医护人员“子女择校权”。
 tag: ["医护人员","择校权","防疫"]
+bvid: BV1R7411w7VA
+ytid: 1IXXk6O1RnA
+xgid: 6795893033318482440
 ---
-
-<VideoService 
-:provider="['Bilibili','Youtube','XiGua']"
-:videoId = "['BV1R7411w7VA','1IXXk6O1RnA','6795893033318482440']"
-/>
 
 大家好，2020年2月21日星期五，欢迎各位收看第79期睡前消息。请静静远程介绍新闻。
 

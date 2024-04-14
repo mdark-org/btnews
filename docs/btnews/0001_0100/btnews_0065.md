@@ -24,7 +24,9 @@ date: 2020-01-12
 
 2005年MQ-9展示内部卫星通讯设备与传感器
 
-![](/images/btnews/0001_0100/0065/image4.webp)![](/images/btnews/0001_0100/0065/image5.webp)
+![](/images/btnews/0001_0100/0065/image4.webp)
+
+![](/images/btnews/0001_0100/0065/image5.webp)
 
 https://books.google.com/books?id=-z-8BgAAQBAJ&pg=PT14&lpg=PT14&dq#v=onepage&q&f=false
 
@@ -183,7 +185,9 @@ Church)宣布了一个分家计划，这个事件在中国还没有多少人注�
 
 发展到今天，不仅神职人员会承认同性恋，甚至卫理公会的主教也出现了同性恋。2016年，一个公开同性婚姻2年的女人当选卫理公会地区主教。
 
-![](/images/btnews/0001_0100/0065/image31.webp)![](/images/btnews/0001_0100/0065/image32.webp)
+![](/images/btnews/0001_0100/0065/image31.webp)
+
+![](/images/btnews/0001_0100/0065/image32.webp)
 
 这个事情把同性恋问题推上了前台，信徒和牧师都不能假装看不见了。去年2月，卫理公会在密苏里州圣路易斯开大会，为同性恋问题投票，结果是438票对384票，继续反对同性恋，而且主要是非洲和亚洲代表投反对票。但是，保守派也做出了一定的妥协，对于已经出柜的牧师，允许他们保留职位，条件是放弃同性恋身份，永不再犯。
 
@@ -231,7 +235,9 @@ Church)宣布了一个分家计划，这个事件在中国还没有多少人注�
 
 ![](/images/btnews/0001_0100/0065/image40.webp)
 
-![](/images/btnews/0001_0100/0065/image41.webp)![](/images/btnews/0001_0100/0065/image42.webp)
+![](/images/btnews/0001_0100/0065/image41.webp)
+
+![](/images/btnews/0001_0100/0065/image42.webp)
 
 2018年，武汉理工大学研究生陶崇园，因为导师王攀的精神摧残，跳楼自杀。2018年12月，同济大学医学院研究生陆经纬，也是因为导师压迫，跳楼自杀。
 

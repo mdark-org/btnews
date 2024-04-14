@@ -11,11 +11,15 @@ tag: ["故宫","奔驰","二甲双胍"]
 
 [同盾事件，杭州警方保护同盾金融员工，阻挠专案组对其调查。专案组被杭州警方控制。 - YouTube](https://www.youtube.com/watch?v=_d4mspVcH3k)
 
-![](/images/btnews/0001_0100/0068/image1.webp)![](/images/btnews/0001_0100/0068/image2.webp)
+![](/images/btnews/0001_0100/0068/image1.webp)
+
+![](/images/btnews/0001_0100/0068/image2.webp)
 
 被查抄的的“同盾公司”一度在业内有“独角兽”的说法，加上杭州警方也到场围观，很快就有人说，东北地方政府穷疯了，年前发不出工资，借着小案子，到上海抓人，连财政局和审计局的人都一起参与。所以杭州警察要干预。
 
-![](/images/btnews/0001_0100/0068/image3.webp)![](/images/btnews/0001_0100/0068/image4.webp)
+![](/images/btnews/0001_0100/0068/image3.webp)
+
+![](/images/btnews/0001_0100/0068/image4.webp)
 
 老观众应该知道，睡前消息经常会调侃经济落后地区的地方政府，尤其喜欢分析这些地方的公检法秩序。所以这个消息一出来，我们就开始跟进搜集信息。
 
@@ -37,7 +41,9 @@ tag: ["故宫","奔驰","二甲双胍"]
 
 ![](/images/btnews/0001_0100/0068/image6.webp)
 
-![](/images/btnews/0001_0100/0068/image7.webp)![](/images/btnews/0001_0100/0068/image8.webp)
+![](/images/btnews/0001_0100/0068/image7.webp)
+
+![](/images/btnews/0001_0100/0068/image8.webp)
 
 ![](/images/btnews/0001_0100/0068/image9.webp)
 

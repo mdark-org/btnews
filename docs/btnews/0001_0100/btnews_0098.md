@@ -3,12 +3,8 @@ title: 【睡前消息98】阳江核电站出现停堆事件，原因是：毛�
 date: 2020-04-05
 descrpition: 1. 毛虾引起核电站停堆 <br> 2. 科学家精准删除特定记忆 <br> 3.医保目录删除“神药”
 tag: ["社会化抚养","房产税"]
+bvid: BV1v64y1u7hb
 ---
-
-<VideoService 
-:provider="['Bilibili']"
-:videoId = "['BV1v64y1u7hb']"
-/>
 
 大家好，2020年4月5日星期日，欢迎收看第98期睡前消息。请静静介绍新闻。
 

@@ -3,12 +3,8 @@ title: 【睡前消息74】李文亮医生去世，我们最愤怒的事是什�
 date: 2020-02-07
 description: 李文亮医生去世，我们最愤怒的事是什么？
 tag: ["李文亮"]
+ytid: aGBdZT4RZWw
 ---
-
-<VideoService 
-:provider="['Youtube']"
-:videoId = "['aGBdZT4RZWw']"
-/>
 
 大家好，2020年2月7日，欢迎收看睡前消息74期，防疫期间，一切从简，睡前消息节目组继续在没有演播室的情况下给各位提供简讯。
 

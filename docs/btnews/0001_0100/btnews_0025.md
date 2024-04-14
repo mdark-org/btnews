@@ -149,7 +149,11 @@ Plains）的污水处理厂，1937年投入使用，不断扩建、目前是全�
 
 下面是体现防波堤结构的一些示意图。
 
-![](/images/btnews/0001_0100/0025/image31.webp)![](/images/btnews/0001_0100/0025/image32.webp)![](/images/btnews/0001_0100/0025/image33.webp)
+![](/images/btnews/0001_0100/0025/image31.webp)
+
+![](/images/btnews/0001_0100/0025/image32.webp)
+
+![](/images/btnews/0001_0100/0025/image33.webp)
 
 ![](/images/btnews/0001_0100/0025/image34.webp)
 
