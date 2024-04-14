@@ -67,7 +67,9 @@ date: 2019-09-20
 
 [<u>https://academic.oup.com/cercor/article/28/8/2959/4996558</u>](https://academic.oup.com/cercor/article/28/8/2959/4996558)
 
-![](/images/btnews/0001_0100/0021/image9.webp)![](/images/btnews/0001_0100/0021/image10.webp)
+![](/images/btnews/0001_0100/0021/image9.webp)
+
+![](/images/btnews/0001_0100/0021/image10.webp)
 
 如果要从小学开始就针对设置不同的发展路线，那与其按照性别分班，不如按性格分班更合理。每年搞一个心理测试，不同的学生设置不同的课程。但我相信家长肯定会反对这种分班，所以女生织毛衣，男生学机械也是错的。我并不反对小学教一点织毛衣之类的手工课，但最好不要按照性别分，让学生根据兴趣自己选择，这才是合理的安排。下一个问题。
 
