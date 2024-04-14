@@ -40,7 +40,9 @@ date: 2020-12-29
 
 “五纵三横”，南北向比东西向少了两条，分别对应长江和珠江流域的东西向铁路干线。现在虽然“五纵三横”的说法已经过时了，但是这两条干线还是要由中央出面，组织修起来。
 
-![](/images/btnews/0201_0300/0214/image5.webp)![](/images/btnews/0201_0300/0214/image6.webp)
+![](/images/btnews/0201_0300/0214/image5.webp)
+
+![](/images/btnews/0201_0300/0214/image6.webp)
 
 ![](/images/btnews/0201_0300/0214/image7.webp)
 

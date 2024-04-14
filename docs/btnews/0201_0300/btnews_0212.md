@@ -33,7 +33,9 @@ date: 2020-12-25
 
 今年4月，浙江方面批准了钱塘江上游常山江航电枢纽项目，远期规划就是通过23公里的运河与江西信江航道连通。
 
-[](https://mp.weixin.qq.com/s/-TM0NTy1YYXZNpqlT_gsAQ)![](/images/btnews/0201_0300/0212/image6.webp)
+[](https://mp.weixin.qq.com/s/-TM0NTy1YYXZNpqlT_gsAQ)
+
+![](/images/btnews/0201_0300/0212/image6.webp)
 
 11月24日，浙江发布《义甬舟开放大通道西延行动方案》，项目总投资超过4000亿元，大部分用于交通基础设施，方案也提到了浙赣运河。
 

@@ -19,7 +19,9 @@ date: 2021-01-03
 
 ![](/images/btnews/0201_0300/0218/image2.webp)
 
-![](/images/btnews/0201_0300/0218/image3.webp)![](/images/btnews/0201_0300/0218/image4.webp)
+![](/images/btnews/0201_0300/0218/image3.webp)
+
+![](/images/btnews/0201_0300/0218/image4.webp)
 
 印度生育率分布（左）印度贫困率分布（右）
 

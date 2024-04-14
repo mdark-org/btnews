@@ -88,9 +88,17 @@ Cry席卷全球，而且几乎是无差别打击。当时中国很多大学生�
 
 到了2018年，勒索病毒技术已经非常完善，黑客市场也随之成熟，病毒开始多样化、家族化，不仅走出windows系统，进入苹果、安卓平台，连脚本语言也多样化，能用Python编程，甚至出现了中文编程“易语言”开发的勒索软件。
 
-![](/images/btnews/0201_0300/0278/image4.webp)![](/images/btnews/0201_0300/0278/image5.webp)![](/images/btnews/0201_0300/0278/image6.webp)
+![](/images/btnews/0201_0300/0278/image4.webp)
 
-![](/images/btnews/0201_0300/0278/image7.webp)![](/images/btnews/0201_0300/0278/image8.webp)![](/images/btnews/0201_0300/0278/image9.webp)
+![](/images/btnews/0201_0300/0278/image5.webp)
+
+![](/images/btnews/0201_0300/0278/image6.webp)
+
+![](/images/btnews/0201_0300/0278/image7.webp)
+
+![](/images/btnews/0201_0300/0278/image8.webp)
+
+![](/images/btnews/0201_0300/0278/image9.webp)
 
 [åç´¢çæ¯ä¸¤å¨å¹´ä¸é¢æ¥å](https://guanjia.qq.com/avast/353/index.html?ADTAG=innerenter.gj_shouye)
 
@@ -144,7 +152,9 @@ Side能对应的实体信息都在东欧或者俄罗斯，这就比较难办了�
 
 [Bloomberg - Are you a robot?](https://www.bloomberg.com/news/articles/2021-02-01/darknet-market-had-a-record-2020-led-by-russian-bazaar-hydra)
 
-![](/images/btnews/0201_0300/0278/image12.webp)![](/images/btnews/0201_0300/0278/image13.webp)
+![](/images/btnews/0201_0300/0278/image12.webp)
+
+![](/images/btnews/0201_0300/0278/image13.webp)
 
 ![](/images/btnews/0201_0300/0278/image14.webp)
 

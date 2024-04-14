@@ -130,7 +130,9 @@ dir="rtl">“</span>全球请愿”，要制造文化争论。结果总共只有
 
 当时韩国视频下的的热评第一是：中国人不要再抢别人的东西了，多拍点这样有意思的东西。现在，这条评论排名往下掉到热评第九位，点赞数增加到1.2万个。
 
-![](/images/btnews/0201_0300/0248/image12.webp)![](/images/btnews/0201_0300/0248/image13.webp)
+![](/images/btnews/0201_0300/0248/image12.webp)
+
+![](/images/btnews/0201_0300/0248/image13.webp)
 
 除此之外，这位网友还翻译了很多评论，其中既有正面的，也有负面的。他对中国网民说，翻译的初衷是<span
 dir="rtl">“</span>曝光更多偷国人（文化）行为”，然后挑出 <span
@@ -165,7 +167,9 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 [Sina Visitor System](https://weibo.com/5709559214/K34UKhKaV?refer_flag=1001030103_&type=comment#_rnd1615452246307)
 
-![](/images/btnews/0201_0300/0248/image21.webp)![](/images/btnews/0201_0300/0248/image22.webp)
+![](/images/btnews/0201_0300/0248/image21.webp)
+
+![](/images/btnews/0201_0300/0248/image22.webp)
 
 ![](/images/btnews/0201_0300/0248/image23.webp)
 
@@ -175,7 +179,9 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 ![](/images/btnews/0201_0300/0248/image25.webp)
 
-[ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1692387662178429855&wfr=spider&for=pc)![](/images/btnews/0201_0300/0248/image26.webp)
+[ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1692387662178429855&wfr=spider&for=pc)
+
+![](/images/btnews/0201_0300/0248/image26.webp)
 
 [连“江疏影”都是韩国的了？！\_澎湃号·媒体_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_11420745)
 
@@ -195,7 +201,9 @@ dir="rtl">“</span>江疏影名字像韩国人”这条几乎点赞的评论做
 
 要了解韩国人的真实观点，我们还是要回到原来的网页。截至3月12日，《三十而已》的剪辑视频已经播放了九百多万次，韩国观众非常喜欢中国电视剧情节。
 
-![](/images/btnews/0201_0300/0248/image28.webp)![](/images/btnews/0201_0300/0248/image29.webp)
+![](/images/btnews/0201_0300/0248/image28.webp)
+
+![](/images/btnews/0201_0300/0248/image29.webp)
 
 ![](/images/btnews/0201_0300/0248/image30.webp)
 
