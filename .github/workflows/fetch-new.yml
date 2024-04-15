@@ -55,10 +55,6 @@ jobs:
           run: |
             touch .env
             echo "IMAGE_SAVE_POLICY=LOCAL" >> .env
-#            echo "IMAGE_STORAGE_HOST=${{ secrets.IMAGE_STORAGE_HOST }}" >> .env
-#            echo "IMAGE_STORAGE_TOKEN=${{ secrets.IMAGE_STORAGE_TOKEN }}" >> .env
-#            echo "MP_BIZ_ID=${{ secrets.MP_BIZ_ID }}" >> .env
-#            echo "MP_ALBUM_ID=${{ secrets.MP_ALBUM_ID }}" >> .env
             cat .env
         - name: run script
           id: fetch
