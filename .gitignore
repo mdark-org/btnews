@@ -14,3 +14,4 @@ yarn-error.log
 .env
 .vitepress/cache
 .vitepress/dist
+.vitepress
