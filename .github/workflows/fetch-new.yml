@@ -62,13 +62,6 @@ jobs:
         - name: if return
           run: |
             echo !return ${{ steps.fetch.outputs.return=='false' }}
-        - name: tree
-          if: ${{ steps.fetch.outputs.return=='false' }}
-          run: |
-            pwd && ls tmp
-            mkdir ../work-tmp
-            mv tmp/* ../work-tmp/
-            ls ../work-tmp
         - name: Create Pull Request
           id: cpr
           uses: peter-evans/create-pull-request@v5
