@@ -112,9 +112,8 @@ async function fetchFromTag(options:Options) {
     if (res == null) {
         throw new Error("获取文章失败")
     }
-    let frontmatter = await buildFrontmatter(res,options)
-
     let articleHTML = cheerio.load(await (await fetch(res.url)).text())
+    let frontmatter = await extractFrontMatter(articleHTML,options)
     return {
         frontmatter,
         articleHTML
