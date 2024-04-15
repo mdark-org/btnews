@@ -56,7 +56,7 @@ function getOptions() {
       .option('--local-dir [string]')
       .option('--ghac')
       .option('--category [string]', 'category')
-      .option('-o, --overwrite [boolean]');55
+      .option('-o, --overwrite [boolean]');
 
     const options = program.opts();
     program.parse(process.argv);
