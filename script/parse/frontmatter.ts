@@ -41,6 +41,12 @@ export async function extractFrontMatter(source:cheerio.Root,option:Options):Pro
       LogToInfo(`标题格式错误:${sourceTitle}，无法提取索引`)
     }
   }
+  if(index?.includes(".5")) {
+    index = parseInt(index.replace(".5","")).toString().padStart(4,'0') + "_5"
+  }else {
+    index = parseInt(index!).toString().padStart(4,'0')
+  }
+
   title = option.title ? option.title : `【${catagory}${index}】${title.trim()}`
   let description = ""
   if (option.bv !== undefined) {

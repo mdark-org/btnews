@@ -18,13 +18,18 @@ export async function buildFrontmatter(source:SourceInfo,options:Options):Promis
   if(options.category) {
     catagory = options.category
   }
-  let indexPattern = /\d{1,4}/
+  let indexPattern = /\d{1,4}(\.5)?/
   let index = source.title.match(indexPattern)?.["0"]
   if (!index) {
     index = options.index??"1"
     if (options.ghac) {
       LogToInfo(`标题格式错误:${source.title}，无法提取索引`)
     }
+  }
+  if(index?.includes(".5")) {
+    index = parseInt(index.replace(".5","")).toString().padStart(4,'0') + "_5"
+  }else {
+    index = parseInt(index!).toString().padStart(4,'0')
   }
   title = `【${catagory}${index}】${title}`
   let description = ""
