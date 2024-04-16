@@ -6,7 +6,11 @@
 最初该仓库是作为睡前消息文稿内容的存档仓库存在的，此次更新之后（2024.04.15）有意愿引入其他栏目的同类型的内容。
 
 当前 master 分支仅存储文稿内容以及微信公众号文稿抓取脚本。
-
+### clone
+如果你需要 clone 该仓库并提交内容，请务必使用 单分支 clone，大小约为 1G（images 文件），全量 clone 过大 4g（优化中）
+```
+git clone -b master --single-branch https://github.com/ktKongTong/btnews
+```
 ### breaking change
 ##### 2024.04.15 重大变更
 新增 content(现 master) 和 vitepress 分支。
