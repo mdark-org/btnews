@@ -5,7 +5,7 @@ date: 2022-04-10
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0417/dff3a6ab-fa8a-4841-8bcd-673cbc1e5ad3.webp)
+![](/images/btnews/btnews/0401_0500/0417/dff3a6ab-fa8a-4841-8bcd-673cbc1e5ad3.webp)
 
 
 
@@ -18,7 +18,7 @@ date: 2022-04-10
 
 
 
-![](/images/btnews/0401_0500/0417/81256b5f-beb3-478d-bb05-6cfca0b81792.webp)
+![](/images/btnews/btnews/0401_0500/0417/81256b5f-beb3-478d-bb05-6cfca0b81792.webp)
 
 
 
@@ -26,13 +26,13 @@ date: 2022-04-10
 
 
 
-![](/images/btnews/0401_0500/0417/05b31ea2-28b6-45ca-9799-e8b43b47d598.webp)
+![](/images/btnews/btnews/0401_0500/0417/05b31ea2-28b6-45ca-9799-e8b43b47d598.webp)
 
 这里我补充一下后续新闻，贾振华发表论文的《植物医学》杂志总编辑早就提出了要求，贾振华应该就自己的隐瞒问题写一份勘误文件。贾振华在勘误文件中承认了自己的妻子是以岭药业的董事会秘书，也承认自己拥有一个以岭制药旗下的咨询公司股权，但是否认自己的公司参与过临床试验。
 
 
 
-![](/images/btnews/0401_0500/0417/5bc592ba-3b44-4c91-b676-05bc0df1aff9.webp)
+![](/images/btnews/btnews/0401_0500/0417/5bc592ba-3b44-4c91-b676-05bc0df1aff9.webp)
 
 
 
@@ -54,7 +54,7 @@ http://www.chictr.org.cn/showprojen.aspx?proj=48889
 
 
 
-![](/images/btnews/0401_0500/0417/9b30fbbe-de84-46bc-867b-83b1a12fce14.webp)
+![](/images/btnews/btnews/0401_0500/0417/9b30fbbe-de84-46bc-867b-83b1a12fce14.webp)
 
 
 
@@ -64,7 +64,7 @@ https://baijiahao.baidu.com/s?id=1729326868856890521&wfr=spider&for=pc
 
 所以，我只能去读正文，也希望各位观众看新闻的时候尽量不要看了标题就热血沸腾。我们这一行的可操作空间很多，花样最集中的地方是标题，读正文多少能接近一点真相。
  
-![](/images/btnews/0401_0500/0417/6be272fe-f15e-4404-af85-4d215d145ff5.webp)
+![](/images/btnews/btnews/0401_0500/0417/6be272fe-f15e-4404-af85-4d215d145ff5.webp)
 
 
 
@@ -90,7 +90,7 @@ https://baijiahao.baidu.com/s?id=1729326868856890521&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0417/6c2fb1f5-9714-41c2-baf0-0a04886db360.webp)
+![](/images/btnews/btnews/0401_0500/0417/6c2fb1f5-9714-41c2-baf0-0a04886db360.webp)
 
 
 
@@ -100,7 +100,7 @@ https://baijiahao.baidu.com/s?id=1729326868856890521&wfr=spider&for=pc
 然后我们往下看，文章的第一张配图是连花清瘟，但是紧跟着的第一个小标题是《世卫组织报告推荐中医药治疗新冠》。后面论述世卫组织会议的时候，也只是说中药，不说具体的名字。看来《中国经济周刊》写稿还有点底线。
  
 
-![](/images/btnews/0401_0500/0417/a0aaa6a4-39fa-4ffe-8022-e22ffc192f54.webp)
+![](/images/btnews/btnews/0401_0500/0417/a0aaa6a4-39fa-4ffe-8022-e22ffc192f54.webp)
 
 
 
@@ -118,7 +118,7 @@ https://baijiahao.baidu.com/s?id=1729441822026775498&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0417/72fce0eb-84c4-4a11-b8e7-9b814f56eb1f.webp)
+![](/images/btnews/btnews/0401_0500/0417/72fce0eb-84c4-4a11-b8e7-9b814f56eb1f.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17501665
 
@@ -131,10 +131,10 @@ https://www.thepaper.cn/newsDetail_forward_17501665
 
 
 
-![](/images/btnews/0401_0500/0417/85387ce4-f636-4325-be61-288e7f64b733.webp)
+![](/images/btnews/btnews/0401_0500/0417/85387ce4-f636-4325-be61-288e7f64b733.webp)
 
 
-![](/images/btnews/0401_0500/0417/11a9958d-90a3-499b-9048-a4eca934defd.webp)
+![](/images/btnews/btnews/0401_0500/0417/11a9958d-90a3-499b-9048-a4eca934defd.webp)
 
 https://m.gmw.cn/baijia/2021-08/06/35050728.html
 
@@ -152,7 +152,7 @@ https://m.gmw.cn/baijia/2021-04/30/34815309.html
 
 正确的说法是，这份报告只能证明，世卫组织中的部分中国专家建议使用传统中医药对付新冠病毒。我们在报告中可以看到这样一个专门章节：【向世卫组织提出的建议】。所以报告的上限，是一条正式建议，不能说世卫组织支持中药治新冠。
  
-![](/images/btnews/0401_0500/0417/d7f216a5-9dcf-404b-afbe-3ae6b3762709.webp)
+![](/images/btnews/btnews/0401_0500/0417/d7f216a5-9dcf-404b-afbe-3ae6b3762709.webp)
 
 
 
@@ -169,12 +169,12 @@ https://www.afro.who.int/news/who-affirms-support-covid-19-traditional-medicine-
 
 
 
-![](/images/btnews/0401_0500/0417/d4d0d26c-5d28-4a2d-9db7-d1ce8c1d0ecc.webp)
+![](/images/btnews/btnews/0401_0500/0417/d4d0d26c-5d28-4a2d-9db7-d1ce8c1d0ecc.webp)
 https://www.thepaper.cn/newsDetail_forward_7931175
 
 
  
-![](/images/btnews/0401_0500/0417/068145c5-9b2a-49fc-bd5c-fcc38edbb3f5.webp)
+![](/images/btnews/btnews/0401_0500/0417/068145c5-9b2a-49fc-bd5c-fcc38edbb3f5.webp)
 
 https://weibo.com/tv/v/It0zUaZBg?fid=1034:4469136936599596
 
@@ -184,7 +184,7 @@ https://weibo.com/tv/v/It0zUaZBg?fid=1034:4469136936599596
 
 但是，这次中医研究院拿到世卫组织讨论的所有治疗方案，没有一个是中医药单独治疗新冠病毒的。都必须和常规西药组合使用，都在努力论证中药有锦上添花的效果。这个现象值得思考。
  
-![](/images/btnews/0401_0500/0417/10e0fc00-7364-499a-9bfe-10c5a69f29a1.webp)
+![](/images/btnews/btnews/0401_0500/0417/10e0fc00-7364-499a-9bfe-10c5a69f29a1.webp)
 
 
 
@@ -208,7 +208,7 @@ https://www.who.int/publications/m/item/who-expert-meeting-on-evaluation-of-trad
 
 
 
-![](/images/btnews/0401_0500/0417/90ee5b42-0b2d-4a5d-9446-7295bfc7e215.webp)
+![](/images/btnews/btnews/0401_0500/0417/90ee5b42-0b2d-4a5d-9446-7295bfc7e215.webp)
 
 
 
@@ -221,7 +221,7 @@ https://retractionwatch.com/2021/05/04/prominent-chinese-scientist-failed-to-dis
 
 
 
-![](/images/btnews/0401_0500/0417/4d465c6f-d56e-4e27-a324-861fb73b99ed.webp)
+![](/images/btnews/btnews/0401_0500/0417/4d465c6f-d56e-4e27-a324-861fb73b99ed.webp)
 
 https://www.who.int/zh/news/item/25-03-2022-who-establishes-the-global-centre-for-traditional-medicine-in-india
 
@@ -231,7 +231,7 @@ https://www.who.int/zh/news/item/25-03-2022-who-establishes-the-global-centre-fo
 
 
 
-![](/images/btnews/0401_0500/0417/e219c138-4ed7-45c0-bc27-de799713f406.webp)
+![](/images/btnews/btnews/0401_0500/0417/e219c138-4ed7-45c0-bc27-de799713f406.webp)
 
 
 
@@ -245,7 +245,7 @@ https://www.jiemian.com/article/7308345.html 
 
 
 
-![](/images/btnews/0401_0500/0417/bb40dca6-e5ab-4882-97a4-d82f1ee6f019.webp)
+![](/images/btnews/btnews/0401_0500/0417/bb40dca6-e5ab-4882-97a4-d82f1ee6f019.webp)
 
 http://www.moe.gov.cn/srcsite/A06/s3321/202204/t20220406_614237.html
 
@@ -257,13 +257,13 @@ http://www.moe.gov.cn/srcsite/A06/s3321/202204/t20220406_614237.html
 
 
 
-![](/images/btnews/0401_0500/0417/89a4b19f-d6ad-40aa-914f-ba5b529e62a5.webp)
+![](/images/btnews/btnews/0401_0500/0417/89a4b19f-d6ad-40aa-914f-ba5b529e62a5.webp)
 
 
 
 知乎的相关问题下，有几十个人邀请我去回答。我现在还没去发言，已经看到了观众替我发言，所以我也就不去再复述了。
  
-![](/images/btnews/0401_0500/0417/58f948da-7420-48b5-8bfd-112381e05e6d.webp)
+![](/images/btnews/btnews/0401_0500/0417/58f948da-7420-48b5-8bfd-112381e05e6d.webp)
 
 https://www.zhihu.com/question/526686601/answer/2429466177
  
@@ -274,7 +274,7 @@ https://www.zhihu.com/question/526686601/answer/2429466177
 
 
 
-![](/images/btnews/0401_0500/0417/68e76f54-bae2-4acf-878e-53e038970e5d.webp)
+![](/images/btnews/btnews/0401_0500/0417/68e76f54-bae2-4acf-878e-53e038970e5d.webp)
 
 https://baijiahao.baidu.com/s?id=1720809168297371773&wfr=spider&for=pc
 
@@ -284,10 +284,10 @@ https://baijiahao.baidu.com/s?id=1720809168297371773&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0417/7d3b7d3f-a4a6-4297-a460-3a82dad497a2.webp)
+![](/images/btnews/btnews/0401_0500/0417/7d3b7d3f-a4a6-4297-a460-3a82dad497a2.webp)
 
 
-![](/images/btnews/0401_0500/0417/f21f0bf0-1e1b-4ba9-bcb3-2c2da5089252.webp)
+![](/images/btnews/btnews/0401_0500/0417/f21f0bf0-1e1b-4ba9-bcb3-2c2da5089252.webp)
 
 http://news.bandao.cn/news_html/201401/20140124/news_20140124_2355816.shtml
 
@@ -297,7 +297,7 @@ http://news.bandao.cn/news_html/201401/20140124/news_20140124_2355816.shtml
 
 
 
-![](/images/btnews/0401_0500/0417/9e5ef800-bb2a-418c-9332-74c9275daa9b.webp)
+![](/images/btnews/btnews/0401_0500/0417/9e5ef800-bb2a-418c-9332-74c9275daa9b.webp)
 
 http://news.eastday.com/eastday/13news/auto/news/pinglun/u7ai1957017_K4.html
 

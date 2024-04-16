@@ -22,7 +22,7 @@ date: 2022-03-20
 
 
 
-![](/images/btnews/0401_0500/0408/e1a4a631-f1f7-4a91-b53d-734466bc53b2.webp)
+![](/images/btnews/btnews/0401_0500/0408/e1a4a631-f1f7-4a91-b53d-734466bc53b2.webp)
 
 
 
@@ -34,7 +34,7 @@ date: 2022-03-20
 
 
 
-![](/images/btnews/0401_0500/0408/2ab96de1-b3f8-45f9-b0ee-93834b7d9a57.webp)
+![](/images/btnews/btnews/0401_0500/0408/2ab96de1-b3f8-45f9-b0ee-93834b7d9a57.webp)
 
 
 
@@ -48,13 +48,13 @@ MCC官网公告尼泊尔正式批准协议
 
 
 
-![](/images/btnews/0401_0500/0408/a566e4bf-20d7-4014-91c9-01b7c41234d3.webp)
+![](/images/btnews/btnews/0401_0500/0408/a566e4bf-20d7-4014-91c9-01b7c41234d3.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/4faa417f-7588-46f7-aa73-f9d5a9f8c32f.webp)
+![](/images/btnews/btnews/0401_0500/0408/4faa417f-7588-46f7-aa73-f9d5a9f8c32f.webp)
 
 
 
@@ -70,7 +70,7 @@ MCC官网公告尼泊尔正式批准协议
 
 
 
-![](/images/btnews/0401_0500/0408/ce938951-335f-4390-a6f1-13d8972d3184.webp)
+![](/images/btnews/btnews/0401_0500/0408/ce938951-335f-4390-a6f1-13d8972d3184.webp)
 
 
 
@@ -82,7 +82,7 @@ https://www.jfdaily.com/news/detail?id=455072
 
 
 
-![](/images/btnews/0401_0500/0408/fbbcae73-7683-4b76-9177-122a6c9941da.webp)
+![](/images/btnews/btnews/0401_0500/0408/fbbcae73-7683-4b76-9177-122a6c9941da.webp)
 
 
 
@@ -94,13 +94,13 @@ https://www.jfdaily.com/news/detail?id=455072
 
 
 
-![](/images/btnews/0401_0500/0408/bd542d12-1774-431e-b346-c1b57e22c1e9.webp)
+![](/images/btnews/btnews/0401_0500/0408/bd542d12-1774-431e-b346-c1b57e22c1e9.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/6082dd71-868b-49f9-9a2a-d9b8e20abe87.webp)
+![](/images/btnews/btnews/0401_0500/0408/6082dd71-868b-49f9-9a2a-d9b8e20abe87.webp)
 
 
 
@@ -110,7 +110,7 @@ https://www.jfdaily.com/news/detail?id=455072
 
 
 
-![](/images/btnews/0401_0500/0408/23c2ed9a-a9b7-4dd0-8c2d-032a168576b8.webp)
+![](/images/btnews/btnews/0401_0500/0408/23c2ed9a-a9b7-4dd0-8c2d-032a168576b8.webp)
 
 
 
@@ -122,7 +122,7 @@ https://www.jfdaily.com/news/detail?id=455072
 
 
 
-![](/images/btnews/0401_0500/0408/57fd93d3-ff3a-422a-8568-b1fe1b2f276f.webp)
+![](/images/btnews/btnews/0401_0500/0408/57fd93d3-ff3a-422a-8568-b1fe1b2f276f.webp)
 
 
 
@@ -136,7 +136,7 @@ https://www.jfdaily.com/news/detail?id=455072
 
 
 
-![](/images/btnews/0401_0500/0408/2578271a-eaf5-42db-96c1-fde9e5d03a88.webp)
+![](/images/btnews/btnews/0401_0500/0408/2578271a-eaf5-42db-96c1-fde9e5d03a88.webp)
 
 
 
@@ -154,7 +154,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/51520a7c-c334-4f3e-962c-6da930d6e2a7.webp)
+![](/images/btnews/btnews/0401_0500/0408/51520a7c-c334-4f3e-962c-6da930d6e2a7.webp)
 
 
 
@@ -166,7 +166,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/53f6f15c-388a-4743-97bf-e80f0b5c20b1.webp)
+![](/images/btnews/btnews/0401_0500/0408/53f6f15c-388a-4743-97bf-e80f0b5c20b1.webp)
 
 
 
@@ -174,7 +174,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/d8403606-35a2-45e2-9d86-0b90696efcd8.webp)
+![](/images/btnews/btnews/0401_0500/0408/d8403606-35a2-45e2-9d86-0b90696efcd8.webp)
 
 
 
@@ -190,13 +190,13 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/b1eebc4f-0345-421f-89ce-d41fe69b244b.webp)
+![](/images/btnews/btnews/0401_0500/0408/b1eebc4f-0345-421f-89ce-d41fe69b244b.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/8cc26882-fec3-4017-aa83-5db4d8e3f04c.webp)
+![](/images/btnews/btnews/0401_0500/0408/8cc26882-fec3-4017-aa83-5db4d8e3f04c.webp)
 
 
 
@@ -218,13 +218,13 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/1b65574e-5aed-451f-848f-f71a959c59dd.webp)
+![](/images/btnews/btnews/0401_0500/0408/1b65574e-5aed-451f-848f-f71a959c59dd.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/a376463f-77ee-42a6-ba3f-12d721875389.webp)
+![](/images/btnews/btnews/0401_0500/0408/a376463f-77ee-42a6-ba3f-12d721875389.webp)
 
 
 
@@ -238,7 +238,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/007382e3-8b97-46a3-a9df-50a9a4c4eb12.webp)
+![](/images/btnews/btnews/0401_0500/0408/007382e3-8b97-46a3-a9df-50a9a4c4eb12.webp)
 
 
 
@@ -258,7 +258,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/e7b79c04-bc7c-4616-a003-95f39511248c.webp)
+![](/images/btnews/btnews/0401_0500/0408/e7b79c04-bc7c-4616-a003-95f39511248c.webp)
 
 
 
@@ -274,7 +274,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/b04cc4f9-9332-40d4-9bde-de6310d67d86.webp)
+![](/images/btnews/btnews/0401_0500/0408/b04cc4f9-9332-40d4-9bde-de6310d67d86.webp)
 
 
 
@@ -288,7 +288,7 @@ MCC要求多、耗时长，达标条件苛刻，但有一个无与伦比的优�
 
 
 
-![](/images/btnews/0401_0500/0408/95a0660d-2577-433b-b553-6f8de71edd2f.webp)
+![](/images/btnews/btnews/0401_0500/0408/95a0660d-2577-433b-b553-6f8de71edd2f.webp)
 
 
 
@@ -314,21 +314,21 @@ recard/fy-2022/NP
 
 
 
-![](/images/btnews/0401_0500/0408/58f6e172-2fca-43fb-a937-b247cfc82521.webp)
+![](/images/btnews/btnews/0401_0500/0408/58f6e172-2fca-43fb-a937-b247cfc82521.webp)
 
 
 
-![](/images/btnews/0401_0500/0408/5b9600c7-e355-47f7-8848-db44ad781bbb.webp)
-
-
-
-
+![](/images/btnews/btnews/0401_0500/0408/5b9600c7-e355-47f7-8848-db44ad781bbb.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/b376889e-96da-4b50-b174-b612dbdf9dce.webp)
+
+
+
+
+![](/images/btnews/btnews/0401_0500/0408/b376889e-96da-4b50-b174-b612dbdf9dce.webp)
 
 
 
@@ -340,7 +340,7 @@ recard/fy-2022/NP
 
 
 
-![](/images/btnews/0401_0500/0408/1459b14b-f477-477e-b9ef-222989cfcbce.webp)
+![](/images/btnews/btnews/0401_0500/0408/1459b14b-f477-477e-b9ef-222989cfcbce.webp)
 
 
 
@@ -356,7 +356,7 @@ recard/fy-2022/NP
 
 
 
-![](/images/btnews/0401_0500/0408/787c90e5-f6dd-43a3-9e94-678c7d31fb4d.webp)
+![](/images/btnews/btnews/0401_0500/0408/787c90e5-f6dd-43a3-9e94-678c7d31fb4d.webp)
 
 
 
@@ -374,7 +374,7 @@ MCC虽然组织架构有些类似企业，但它实质是一个官方机构，�
 
 
 
-![](/images/btnews/0401_0500/0408/4342cdf4-a74b-4515-8ba1-e3b75c08cf69.webp)
+![](/images/btnews/btnews/0401_0500/0408/4342cdf4-a74b-4515-8ba1-e3b75c08cf69.webp)
 
 
 
@@ -398,7 +398,7 @@ MCC虽然组织架构有些类似企业，但它实质是一个官方机构，�
 
 
 
-![](/images/btnews/0401_0500/0408/bf7132e8-c8d2-4bd0-aece-9e748c0f47ee.webp)
+![](/images/btnews/btnews/0401_0500/0408/bf7132e8-c8d2-4bd0-aece-9e748c0f47ee.webp)
 
 
 
@@ -412,7 +412,7 @@ MCC虽然组织架构有些类似企业，但它实质是一个官方机构，�
 
 
 
-![](/images/btnews/0401_0500/0408/4a7112ce-7cee-4065-a0f0-54f32b096f46.webp)
+![](/images/btnews/btnews/0401_0500/0408/4a7112ce-7cee-4065-a0f0-54f32b096f46.webp)
 
 
 
@@ -426,7 +426,7 @@ http://www.chinatax.gov.cn/chinatax/n810341/n810765/n812203/200201/c1209938/cont
 
 
 
-![](/images/btnews/0401_0500/0408/3fd68392-f265-4c80-bb7c-1f47044fbb17.webp)
+![](/images/btnews/btnews/0401_0500/0408/3fd68392-f265-4c80-bb7c-1f47044fbb17.webp)
 
 
 
@@ -438,7 +438,7 @@ http://www.chinatax.gov.cn/chinatax/n810341/n810765/n812203/200201/c1209938/cont
 
 
 
-![](/images/btnews/0401_0500/0408/be91a5fc-548e-4c8c-824e-c613d31a6d76.webp)
+![](/images/btnews/btnews/0401_0500/0408/be91a5fc-548e-4c8c-824e-c613d31a6d76.webp)
 
 
 
@@ -460,7 +460,7 @@ http://www.chinatax.gov.cn/chinatax/n810341/n810765/n812203/200201/c1209938/cont
 
 
 
-![](/images/btnews/0401_0500/0408/43d11358-8173-4353-a935-bf6f93f96c3a.webp)
+![](/images/btnews/btnews/0401_0500/0408/43d11358-8173-4353-a935-bf6f93f96c3a.webp)
 
 
 
@@ -472,7 +472,7 @@ http://www.chinatax.gov.cn/chinatax/n810341/n810765/n812203/200201/c1209938/cont
 
 
 
-![](/images/btnews/0401_0500/0408/279e792b-49d8-406b-acf7-53ccadd1754e.webp)
+![](/images/btnews/btnews/0401_0500/0408/279e792b-49d8-406b-acf7-53ccadd1754e.webp)
 
 
 
@@ -496,7 +496,7 @@ http://www.chinatax.gov.cn/chinatax/n810341/n810765/n812203/200201/c1209938/cont
 
 
 
-![](/images/btnews/0401_0500/0408/f0dc7451-7031-4daf-9216-7ef979cbd0fc.webp)
+![](/images/btnews/btnews/0401_0500/0408/f0dc7451-7031-4daf-9216-7ef979cbd0fc.webp)
 
 
 
@@ -520,7 +520,7 @@ MCC受援国都很贫穷，如果项目进行到一半突然中止，美国根�
 
 
 
-![](/images/btnews/0401_0500/0408/dcc13049-91f7-4efe-98a9-2035121c5c3a.webp)
+![](/images/btnews/btnews/0401_0500/0408/dcc13049-91f7-4efe-98a9-2035121c5c3a.webp)
 
 
 
@@ -534,7 +534,7 @@ MCC受援国都很贫穷，如果项目进行到一半突然中止，美国根�
 
 
 
-![](/images/btnews/0401_0500/0408/05f7396c-1fb5-4784-92c4-6aab43f9e59d.webp)
+![](/images/btnews/btnews/0401_0500/0408/05f7396c-1fb5-4784-92c4-6aab43f9e59d.webp)
 
 
 
@@ -550,7 +550,7 @@ MCC受援国都很贫穷，如果项目进行到一半突然中止，美国根�
 
 
 
-![](/images/btnews/0401_0500/0408/f57f9db8-6fce-4e47-aeba-eb8b432d44b6.webp)
+![](/images/btnews/btnews/0401_0500/0408/f57f9db8-6fce-4e47-aeba-eb8b432d44b6.webp)
 
 
 
@@ -564,7 +564,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/debc440a-659e-4bf4-974d-eac3dbfb405f.webp)
+![](/images/btnews/btnews/0401_0500/0408/debc440a-659e-4bf4-974d-eac3dbfb405f.webp)
 
 
 
@@ -574,7 +574,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/19b61e00-e967-4c28-9a9a-c00e275c5813.webp)
+![](/images/btnews/btnews/0401_0500/0408/19b61e00-e967-4c28-9a9a-c00e275c5813.webp)
 
 
 
@@ -592,7 +592,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/97d03c0b-ef1c-4f9e-89e2-addd4269aa45.webp)
+![](/images/btnews/btnews/0401_0500/0408/97d03c0b-ef1c-4f9e-89e2-addd4269aa45.webp)
 
 
 
@@ -608,7 +608,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/7d1f3192-018d-4882-a2a1-4074d8f0c044.webp)
+![](/images/btnews/btnews/0401_0500/0408/7d1f3192-018d-4882-a2a1-4074d8f0c044.webp)
 
 
 
@@ -620,13 +620,13 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/320d0559-5921-4b32-af97-58a9c4cc9a9c.webp)
+![](/images/btnews/btnews/0401_0500/0408/320d0559-5921-4b32-af97-58a9c4cc9a9c.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/3d9e3b42-760b-491d-8f86-04a03034eff7.webp)
+![](/images/btnews/btnews/0401_0500/0408/3d9e3b42-760b-491d-8f86-04a03034eff7.webp)
 
 
 
@@ -642,7 +642,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/c80df46a-8ece-406d-b2e8-75706e1f39df.webp)
+![](/images/btnews/btnews/0401_0500/0408/c80df46a-8ece-406d-b2e8-75706e1f39df.webp)
 
 
 
@@ -682,7 +682,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/356a3b8f-137f-491c-a77a-71b7ecae1c0f.webp)
+![](/images/btnews/btnews/0401_0500/0408/356a3b8f-137f-491c-a77a-71b7ecae1c0f.webp)
 
 
 
@@ -692,7 +692,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/66d22a37-feb0-4e80-bff3-f28edcf0014f.webp)
+![](/images/btnews/btnews/0401_0500/0408/66d22a37-feb0-4e80-bff3-f28edcf0014f.webp)
 
 
 
@@ -710,7 +710,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/1933f86b-b2f3-4d66-b544-292d752a4364.webp)
+![](/images/btnews/btnews/0401_0500/0408/1933f86b-b2f3-4d66-b544-292d752a4364.webp)
 
 
 
@@ -722,7 +722,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/f69d54a4-45fe-46bb-b9d2-15a866740863.webp)
+![](/images/btnews/btnews/0401_0500/0408/f69d54a4-45fe-46bb-b9d2-15a866740863.webp)
 
 
 
@@ -738,7 +738,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/1f218635-b605-439f-88d4-64d3c738841b.webp)
+![](/images/btnews/btnews/0401_0500/0408/1f218635-b605-439f-88d4-64d3c738841b.webp)
 
 
 
@@ -750,13 +750,13 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/22672a9a-ec99-410c-af2c-158860e889be.webp)
+![](/images/btnews/btnews/0401_0500/0408/22672a9a-ec99-410c-af2c-158860e889be.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/06f7cdc6-9ae0-4f3a-bd56-8d9aa28ce1b5.webp)
+![](/images/btnews/btnews/0401_0500/0408/06f7cdc6-9ae0-4f3a-bd56-8d9aa28ce1b5.webp)
 
 
 
@@ -780,7 +780,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/1fdcc09f-8501-452b-9c32-ed3d9fb4f302.webp)
+![](/images/btnews/btnews/0401_0500/0408/1fdcc09f-8501-452b-9c32-ed3d9fb4f302.webp)
 
 
 
@@ -792,7 +792,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/929a61f6-5eaa-4097-a144-610076503562.webp)
+![](/images/btnews/btnews/0401_0500/0408/929a61f6-5eaa-4097-a144-610076503562.webp)
 
 
 
@@ -804,7 +804,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/6f4f16b3-1450-4bc1-b0d8-858269fce4dd.webp)
+![](/images/btnews/btnews/0401_0500/0408/6f4f16b3-1450-4bc1-b0d8-858269fce4dd.webp)
 
 
 
@@ -816,7 +816,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/334bcc58-9a25-488c-bac9-eb38c10d2ed6.webp)
+![](/images/btnews/btnews/0401_0500/0408/334bcc58-9a25-488c-bac9-eb38c10d2ed6.webp)
 
 
 
@@ -828,7 +828,7 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/7687de9c-a3a4-4e6d-b9b0-98490d723799.webp)
+![](/images/btnews/btnews/0401_0500/0408/7687de9c-a3a4-4e6d-b9b0-98490d723799.webp)
 
 
 
@@ -840,13 +840,13 @@ MCC取消与坦桑尼亚4.7亿美元的协议
 
 
 
-![](/images/btnews/0401_0500/0408/645d92ee-312c-402b-a7cc-88a5601dfd50.webp)
+![](/images/btnews/btnews/0401_0500/0408/645d92ee-312c-402b-a7cc-88a5601dfd50.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/d53eab95-a810-439c-ade8-5f3bf64ac6d8.webp)
+![](/images/btnews/btnews/0401_0500/0408/d53eab95-a810-439c-ade8-5f3bf64ac6d8.webp)
 
 
 
@@ -872,7 +872,7 @@ MCC协议会对中国产生实质性影响吗？
 
 
 
-![](/images/btnews/0401_0500/0408/5417ded4-937a-4c41-9bc9-4e44dce6cb85.webp)
+![](/images/btnews/btnews/0401_0500/0408/5417ded4-937a-4c41-9bc9-4e44dce6cb85.webp)
 
 
 
@@ -884,7 +884,7 @@ MCC协议会对中国产生实质性影响吗？
 
 
 
-![](/images/btnews/0401_0500/0408/ecfa16bc-55f7-4907-966e-addefdf6d2ce.webp)
+![](/images/btnews/btnews/0401_0500/0408/ecfa16bc-55f7-4907-966e-addefdf6d2ce.webp)
 
 
 
@@ -896,7 +896,7 @@ MCC协议会对中国产生实质性影响吗？
 
 
 
-![](/images/btnews/0401_0500/0408/e36314c3-c715-4722-b10b-e3870c24e107.webp)
+![](/images/btnews/btnews/0401_0500/0408/e36314c3-c715-4722-b10b-e3870c24e107.webp)
 
 
 
@@ -910,7 +910,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/734b8a85-6182-4a2e-9983-ef49d488c5f9.webp)
+![](/images/btnews/btnews/0401_0500/0408/734b8a85-6182-4a2e-9983-ef49d488c5f9.webp)
 
 
 
@@ -922,13 +922,13 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/72078ed7-3c73-474b-b318-1cc858250973.webp)
+![](/images/btnews/btnews/0401_0500/0408/72078ed7-3c73-474b-b318-1cc858250973.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/aa471b03-a9a2-4738-b9b1-c1cdc3ef45c0.webp)
+![](/images/btnews/btnews/0401_0500/0408/aa471b03-a9a2-4738-b9b1-c1cdc3ef45c0.webp)
 
 
 
@@ -942,13 +942,13 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/481b1851-ce14-4fed-8efc-a28500ee9761.webp)
+![](/images/btnews/btnews/0401_0500/0408/481b1851-ce14-4fed-8efc-a28500ee9761.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/056cf048-efeb-4db7-af9f-cc6916a46574.webp)
+![](/images/btnews/btnews/0401_0500/0408/056cf048-efeb-4db7-af9f-cc6916a46574.webp)
 
 
 
@@ -968,7 +968,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/dafc2599-1509-455a-926a-4ac35d1a7334.webp)
+![](/images/btnews/btnews/0401_0500/0408/dafc2599-1509-455a-926a-4ac35d1a7334.webp)
 
 
 
@@ -988,7 +988,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/592e0e14-a4e5-4a79-838a-e36c18a92b75.webp)
+![](/images/btnews/btnews/0401_0500/0408/592e0e14-a4e5-4a79-838a-e36c18a92b75.webp)
 
 
 
@@ -1010,7 +1010,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/0d661b84-a4a2-4559-af52-92a7c037f6c0.webp)
+![](/images/btnews/btnews/0401_0500/0408/0d661b84-a4a2-4559-af52-92a7c037f6c0.webp)
 
 
 
@@ -1034,7 +1034,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/7aed3cd4-baf2-4840-bd32-84adf621c9aa.webp)
+![](/images/btnews/btnews/0401_0500/0408/7aed3cd4-baf2-4840-bd32-84adf621c9aa.webp)
 
 
 
@@ -1054,7 +1054,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/5c8a0ff3-6f95-47e3-ab4f-60ae504faae7.webp)
+![](/images/btnews/btnews/0401_0500/0408/5c8a0ff3-6f95-47e3-ab4f-60ae504faae7.webp)
 
 
 
@@ -1078,13 +1078,13 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/53b83ed8-d6a1-405a-a5ae-88b0f6e1a028.webp)
+![](/images/btnews/btnews/0401_0500/0408/53b83ed8-d6a1-405a-a5ae-88b0f6e1a028.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0408/9b3e0883-99a5-4f9d-b67a-e90c0e81f06b.webp)
+![](/images/btnews/btnews/0401_0500/0408/9b3e0883-99a5-4f9d-b67a-e90c0e81f06b.webp)
 
 
 
@@ -1094,7 +1094,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/4751e3c3-d28b-4245-bb0c-c36e6ca0c27f.webp)
+![](/images/btnews/btnews/0401_0500/0408/4751e3c3-d28b-4245-bb0c-c36e6ca0c27f.webp)
 
 
 
@@ -1106,7 +1106,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/24db2a60-7490-4e0f-8733-94d9f1988318.webp)
+![](/images/btnews/btnews/0401_0500/0408/24db2a60-7490-4e0f-8733-94d9f1988318.webp)
 
 
 
@@ -1122,7 +1122,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/aa9bfd17-f859-4fe5-9463-22b37fe83787.webp)
+![](/images/btnews/btnews/0401_0500/0408/aa9bfd17-f859-4fe5-9463-22b37fe83787.webp)
 
 
 
@@ -1140,11 +1140,11 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/8c716749-13d1-4b58-b9c1-74c4a56ecee7.webp)
+![](/images/btnews/btnews/0401_0500/0408/8c716749-13d1-4b58-b9c1-74c4a56ecee7.webp)
 
 
 
-![](/images/btnews/0401_0500/0408/295ffa5f-6c6f-49df-909f-d2160bf7a26f.webp)
+![](/images/btnews/btnews/0401_0500/0408/295ffa5f-6c6f-49df-909f-d2160bf7a26f.webp)
 
 
 
@@ -1170,7 +1170,7 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/a02c27a8-efa2-4062-97e9-603624bcf975.webp)
+![](/images/btnews/btnews/0401_0500/0408/a02c27a8-efa2-4062-97e9-603624bcf975.webp)
 
 
 
@@ -1178,5 +1178,5 @@ MCC协议规定，MCC提供的资金不得被用于违反美国法律的项目�
 
 
 
-![](/images/btnews/0401_0500/0408/08067266-8735-41eb-842a-231915dc5b2e.webp)
+![](/images/btnews/btnews/0401_0500/0408/08067266-8735-41eb-842a-231915dc5b2e.webp)
 

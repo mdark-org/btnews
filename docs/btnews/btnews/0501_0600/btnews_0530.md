@@ -5,7 +5,7 @@ date: 2022-12-27
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0530/febee127-9091-4334-ac40-6d1a0047ef72.webp)
+![](/images/btnews/btnews/0501_0600/0530/febee127-9091-4334-ac40-6d1a0047ef72.webp)
 
 
 
@@ -14,7 +14,7 @@ date: 2022-12-27
 
 年底了，我们回顾一下各种排行榜。10月24日，《美国新闻与世界报道》（ U.S. News & World Report）杂志发布了2022-2023年度“世界大学排名”。中国有338所大学入围，首次成为上榜大学数最多的国家。督工，这个排名和中国的高等教育实力有什么关联？
 
-![](/images/btnews/0501_0600/0530/ed867db0-5826-46aa-ab4f-aea12a2b6cee.webp)
+![](/images/btnews/btnews/0501_0600/0530/ed867db0-5826-46aa-ab4f-aea12a2b6cee.webp)
 
 https://www.guancha.cn/internation/2022_10_26_663854.shtml
 
@@ -24,7 +24,7 @@ https://www.guancha.cn/internation/2022_10_26_663854.shtml
 
 在美国新闻发布大学排行榜之前，全世界有三个大学排名比较有影响力，英国的泰晤士高等教育排名、QS排名、还有中国的世界大学学术排名（ARWU）。2004年之前泰晤士报与QS公司联合发布，2009年之后分开发布。中国的排名，2003年开始是上海交通大学发布，2009年以后，由上海软科公司负责。2014年美国新闻与世界报道才开始搞世界大学排名，这也是第一个关心世界大学排名的美国媒体。
 
-![](/images/btnews/0501_0600/0530/98800452-da75-420d-be6c-af6552ff47e9.webp)
+![](/images/btnews/btnews/0501_0600/0530/98800452-da75-420d-be6c-af6552ff47e9.webp)
 
 https://www.shanghairanking.cn/about
 https://en.wikipedia.org/wiki/U.S._News_%26_World_Report_Best_Global_Universities_Ranking
@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/U.S._News_%26_World_Report_Best_Global_Universitie
 
 美国排名最重要的特征，就是确认哈佛大学世界第一，牛津和剑桥排第五和第八。而英国发布的排名，牛津剑桥始终在前两名。另外一个区别，就是中国和英国的3个榜单到后面只显示排名区间，而美国的排名比较详细，不仅前面一二百名有具体名次，排在最后的也有具体名次，在这个排名里，我们不仅可以看到哈佛大学排名世界第一，也可以看到锦州医科大学排名世界第2000。大家可以在网站上找找自己熟悉大学的排名。
 
-![](/images/btnews/0501_0600/0530/beaa4910-c693-460b-8b39-705ce9e65579.webp)
+![](/images/btnews/btnews/0501_0600/0530/beaa4910-c693-460b-8b39-705ce9e65579.webp)
 
 https://www.usnews.com/education/best-global-universities/search
 
@@ -82,7 +82,7 @@ https://app.myzaker.com/news/article.php?pk=63588e118e9f094aef65034f
 
 往年榜单的入选总数是1750，今年增加到2000所。新增的250所大学，有103所是中国大学，其中中国大陆93所，而美国只新增了7所。这大致反映了美国人眼中的中国高等教育，腰部实力很强，头部实力还差一些。
 
-![](/images/btnews/0501_0600/0530/2c1f999a-c9d5-4cbb-b9a0-a24060e2625d.webp)
+![](/images/btnews/btnews/0501_0600/0530/2c1f999a-c9d5-4cbb-b9a0-a24060e2625d.webp)
 
 
 
@@ -94,7 +94,7 @@ https://app.myzaker.com/news/article.php?pk=63588e118e9f094aef65034f
 
 当然中国大学也只是在最低门槛上占便宜，在入选排名池后，美国新闻会选择13个指标，分别以不同权重来计算排名。
 
-![](/images/btnews/0501_0600/0530/ed64f51e-39a5-4e07-96b5-2624acfefb99.webp)
+![](/images/btnews/btnews/0501_0600/0530/ed64f51e-39a5-4e07-96b5-2624acfefb99.webp)
 
 
 
@@ -109,7 +109,7 @@ https://app.myzaker.com/news/article.php?pk=63588e118e9f094aef65034f
 
 科学卓越指标（Scientific Excellence Indicators）只统计各领域被引用数排在前1%的论文数量，以及这部分论文占总出版物的百分比。
 
-![](/images/btnews/0501_0600/0530/ed415c84-0521-487b-b1fd-f7b52c13658b.webp)
+![](/images/btnews/btnews/0501_0600/0530/ed415c84-0521-487b-b1fd-f7b52c13658b.webp)
 
 https://www.usnews.com/education/best-global-universities/articles/methodology
 
@@ -125,7 +125,7 @@ https://www.usnews.com/education/best-global-universities/articles/methodology
 |俄罗斯 |26 |
 
 
-![](/images/btnews/0501_0600/0530/73ab8466-cd85-4302-968b-ac3f894472d3.webp)
+![](/images/btnews/btnews/0501_0600/0530/73ab8466-cd85-4302-968b-ac3f894472d3.webp)
 
 从另一个方面说，伊朗人口只有俄罗斯的60%，上榜大学更多，必然会培养出更高比例的现代化人口。这既是搞现代经济的条件，也是社会向现代化转型的压力，转型慢了，自己人都不满意。所以伊朗最近社会总是动荡——读了大学之后，没有人愿意受一群神棍统治。最近几年伊朗的内部抗议越来越频繁，当局在出动军警镇压之后，还是要逐步对现代化力量让步，一步步被迫撕掉神权组织的神秘色彩。
 
@@ -135,14 +135,14 @@ https://www.usnews.com/education/best-global-universities/articles/methodology
 
 除了按国别进行统计，榜单还列出了47 个学科领域的世界排名。美国新闻根据各个学科领域论文的出版特点定制了指标和权重。我们可以从这个排名里观察下中国大学哪里占优势哪里还需要加强。
 
-![](/images/btnews/0501_0600/0530/4856bb95-8456-427e-b95f-eba4ae73757d.webp)
+![](/images/btnews/btnews/0501_0600/0530/4856bb95-8456-427e-b95f-eba4ae73757d.webp)
 
 https://www.usnews.com/education/best-global-universities/articles/subject-rankings-methodology
 
 
 首先我看了同济大学，在土木工程领域排到了世界第一，但是综合统计下来也只有工科拿的出手。睡前消息463期我评价过，过去几十年，同济天天都说要建设综合性大学，但到了2022年，同济大学还是一个靠传统工科吃饭的技术学院。
 
-![](/images/btnews/0501_0600/0530/04f6cbbb-95bc-4afc-b1c8-14b96d69b295.webp)
+![](/images/btnews/btnews/0501_0600/0530/04f6cbbb-95bc-4afc-b1c8-14b96d69b295.webp)
 
 
 
@@ -186,9 +186,9 @@ https://baike.baidu.com/link?url=OhWIXJEn_4ujwP8IKTU461iXpol7L_pfyvGn4EC3hR5l8C6
 
 年底还可以看几个八卦段子，美国乔治亚州31岁的囚犯亚瑟·李·科菲尔德在服刑期间用手机搞诈骗，伙同监狱外两人冒充一位亿万富翁，诈骗了1100万美元。这听起来有点过于离奇，蹲监狱的人怎么还能搞诈骗？****
 
-![](/images/btnews/0501_0600/0530/9a7a146c-4b22-42d7-890e-8f8edf3f0e64.webp)
+![](/images/btnews/btnews/0501_0600/0530/9a7a146c-4b22-42d7-890e-8f8edf3f0e64.webp)
 
-![](/images/btnews/0501_0600/0530/e4eebf9d-81b4-4890-901a-cfcdc8c787d4.webp)
+![](/images/btnews/btnews/0501_0600/0530/e4eebf9d-81b4-4890-901a-cfcdc8c787d4.webp)
 中间为电影大亨西德尼·金梅尔
 https://baijiahao.baidu.com/s?id=1746286183824725244
 
@@ -204,7 +204,7 @@ https://baijiahao.baidu.com/s?id=1746286183824725244
 
 科菲尔德租了一架包机，把6000多枚金币运到亚特兰大，然后用这笔钱购买了一套价值440万美元的房子。
 
-![](/images/btnews/0501_0600/0530/e4cc20b7-92a5-46f0-9b5c-989ab08f2b4c.webp)
+![](/images/btnews/btnews/0501_0600/0530/e4cc20b7-92a5-46f0-9b5c-989ab08f2b4c.webp)
 
 
 
@@ -223,7 +223,7 @@ https://en.wikipedia.org/wiki/2017_Equifax_data_breach 
 
 除此之外，各国黑客也更很愿意直接去挖亿万富翁的个人信息。亚马逊CEO贝索斯就曾经被黑客攻破个人相册，把他的裸照发在公开网站上，导致全世界都知道贝索斯肌肉发达身材不错。私密的自拍相册尚且能找到，驾照照片这样的信息也完全可能。
 
-![](/images/btnews/0501_0600/0530/a9fdd1b9-2dad-4c88-abb7-d409014bd384.webp)
+![](/images/btnews/btnews/0501_0600/0530/a9fdd1b9-2dad-4c88-abb7-d409014bd384.webp)
 
 https://phys.org/news/2019-02-bezos-case-exposes-billionaires-vulnerability.html  
 
@@ -243,7 +243,7 @@ https://phys.org/news/2019-02-bezos-case-exposes-billionaires-vulnerability.html
 
 同时狱警的工作强度并不低，联邦监狱的狱警通常每天工作时间远远超过8小时，常规的休假由于监狱人手不足，经常要额外加班。前几期节目我们介绍过美国的铁路工人罢工事件，5万美元的平均收入，铁路工人都顶不住了，三四万年薪的狱警，肯定保证不了忠诚。
 
-![](/images/btnews/0501_0600/0530/6f744401-a590-4a4f-b362-0d65a5095d0d.webp)
+![](/images/btnews/btnews/0501_0600/0530/6f744401-a590-4a4f-b362-0d65a5095d0d.webp)
 
 工资表
 https://www.federalpay.org/gs/2020/GS-6 
@@ -254,7 +254,7 @@ https://www.federalpay.org/gs/2020/GS-6 
 
 2016年，美国内政部发现,纽约赖克斯岛监狱的狱警向监狱里卖毒品和其他违禁品，每天可以赚到400到900美元。当年入职的150名新狱警，有54人参与了走私和腐败。手机更是监狱里的高利润商品，加州一名狱警证实，通过走私手机，他年收入超过15万美元。这应该就是科菲尔德手机的来源。
 
-![](/images/btnews/0501_0600/0530/d4504359-d9bc-4b7c-969b-3789ef6410f2.webp)
+![](/images/btnews/btnews/0501_0600/0530/d4504359-d9bc-4b7c-969b-3789ef6410f2.webp)
 
 https://www.quora.com/If-gangs-are-such-a-problem-in-US-prisons-why-dont-the-guards-and-authorities-put-a-stop-to-them 
 
@@ -264,7 +264,7 @@ https://www.quora.com/If-gangs-are-such-a-problem-in-US-prisons-why-dont-the-gua
 
 神奇的是，案发之后，牡丹江监狱宣布骗子一直被单独关押，到了2015年，他又拿到手机，骗同一个受害人，说再给他一点钱，让他去把之前的钱要回来，又骗了几十万。同一个监狱的犯人也把钱给这个骗子，认为他可以帮助减刑。骗子和狱警是不是有这个能力，我们不知道，但是媒体发现这件神奇的事情，是因为一个涉案狱警被起诉玩忽职守罪，判刑2年，缓刑2年。看来中美两国的狱警在局部地区都有同样的职业问题。
 
-![](/images/btnews/0501_0600/0530/b3708061-8292-4c03-bb18-5b38c94fa7c5.webp)
+![](/images/btnews/btnews/0501_0600/0530/b3708061-8292-4c03-bb18-5b38c94fa7c5.webp)
 
 https://baijiahao.baidu.com/s?id=1596448308415632161
 https://www.chinanews.com.cn/m/sh/2018/03-31/8480450.shtml  
@@ -278,16 +278,16 @@ https://www.chinanews.com.cn/m/sh/2018/03-31/8480450.shtml  
 
 12月23日，乌鲁木齐到红其拉甫机场的航班开通，中国的本土民航机场延伸到了东经71度，比印度新德里更靠西。从红其拉甫机场飞到乌鲁木齐要1300公里，飞到巴基斯坦首都伊斯兰堡只需要400多公里。这几天虽然是北半球天最短的时候，但是按照北京时间算，这里也要晚上7点45才会落太阳。
 
-![](/images/btnews/0501_0600/0530/230c6c50-ae2a-4d5e-93b3-9b47001503fa.webp)
+![](/images/btnews/btnews/0501_0600/0530/230c6c50-ae2a-4d5e-93b3-9b47001503fa.webp)
 
 
-![](/images/btnews/0501_0600/0530/fe9f8e68-c9b7-4927-8eb9-f4d5fa38b772.webp)
+![](/images/btnews/btnews/0501_0600/0530/fe9f8e68-c9b7-4927-8eb9-f4d5fa38b772.webp)
 
 
-![](/images/btnews/0501_0600/0530/2c4a6edd-e7fc-4e82-a307-3422881a8390.webp)
+![](/images/btnews/btnews/0501_0600/0530/2c4a6edd-e7fc-4e82-a307-3422881a8390.webp)
 
 
-![](/images/btnews/0501_0600/0530/09fb2929-9ae8-4bbd-b53e-bcb69cce7c20.webp)
+![](/images/btnews/btnews/0501_0600/0530/09fb2929-9ae8-4bbd-b53e-bcb69cce7c20.webp)
 
 https://news.sina.com.cn/o/2022-12-23/doc-imxxrpwa1056172.shtml
 
@@ -307,6 +307,6 @@ https://news.sina.com.cn/o/2022-12-23/doc-imxxrpwa1056172.shtml
 
 
 
-![](/images/btnews/0501_0600/0530/ae3e5e77-0e57-460d-8220-155c2a32c429.webp)
+![](/images/btnews/btnews/0501_0600/0530/ae3e5e77-0e57-460d-8220-155c2a32c429.webp)
 
 

@@ -4,7 +4,7 @@ date: 2022-05-10
 ---
 
 点击下图观看视频
-![](/images/btnews/0401_0500/0430/36eccad9-2d4a-444a-bb57-d716c17e94f9.webp)
+![](/images/btnews/btnews/0401_0500/0430/36eccad9-2d4a-444a-bb57-d716c17e94f9.webp)
 
 
 
@@ -23,7 +23,7 @@ date: 2022-05-10
 
 
 
-![](/images/btnews/0401_0500/0430/89da7997-088c-4cf1-99ae-23b920eaefad.webp)
+![](/images/btnews/btnews/0401_0500/0430/89da7997-088c-4cf1-99ae-23b920eaefad.webp)
 
 http://health.china.com.cn/2022-04/19/content_41943962.htm
 
@@ -38,7 +38,7 @@ http://health.china.com.cn/2022-04/19/content_41943962.htm
 
 
 
-![](/images/btnews/0401_0500/0430/af69ff24-86b3-40c1-a173-12a789494d6e.webp)
+![](/images/btnews/btnews/0401_0500/0430/af69ff24-86b3-40c1-a173-12a789494d6e.webp)
 
 
 
@@ -52,9 +52,9 @@ http://health.china.com.cn/2022-04/19/content_41943962.htm
 
 
 
-![](/images/btnews/0401_0500/0430/17215f29-b184-48bf-bd83-89adbe25a536.webp)
+![](/images/btnews/btnews/0401_0500/0430/17215f29-b184-48bf-bd83-89adbe25a536.webp)
 
-![](/images/btnews/0401_0500/0430/989131b0-3814-4fde-8285-eb10ce9acfc7.webp)
+![](/images/btnews/btnews/0401_0500/0430/989131b0-3814-4fde-8285-eb10ce9acfc7.webp)
 
 http://www.healthenn.com/yfcg/812.jhtml
 
@@ -63,7 +63,7 @@ http://www.healthenn.com/yfcg/812.jhtml
 
 
 
-![](/images/btnews/0401_0500/0430/5803bfb3-fd94-4bc5-a70d-e8c3b71d1485.webp)
+![](/images/btnews/btnews/0401_0500/0430/5803bfb3-fd94-4bc5-a70d-e8c3b71d1485.webp)
 
 http://www.healthenn.com/
 
@@ -76,14 +76,14 @@ https://www.zhihu.com/question/530186140/answer/2463738949
 
 
 
-![](/images/btnews/0401_0500/0430/50213457-f119-473a-b2ee-c8f6c09afcd1.webp)
+![](/images/btnews/btnews/0401_0500/0430/50213457-f119-473a-b2ee-c8f6c09afcd1.webp)
 
  
 
 论文作者的单位，前三名是北京中医药大学，广州中医药大学，上海中医药大学。这些数据摆出来，关于连花清瘟预防新冠研究的可靠性，相信各位观众有自己的判断。但凡实验方法可靠，数据处理过硬，就不会找《循证补充和替代医学》杂志去发文章，自贬身价。
  
 
-![](/images/btnews/0401_0500/0430/7c5fbf04-6828-4e0e-aa9e-66a08819286d.webp)
+![](/images/btnews/btnews/0401_0500/0430/7c5fbf04-6828-4e0e-aa9e-66a08819286d.webp)
 
 
 
@@ -115,7 +115,7 @@ https://www.letpub.com.cn/index.php?journalid=6706&page=journalapp&view=detail
 更重要的是，拿连花清瘟做治疗实验，并没有做双盲测试。无论是治疗的医生，还是被治疗的患者，都清晰地知道自己是否得到了连花清瘟。这对于轻症的辅助治疗研究来说，非常不严谨。
  
 
-![](/images/btnews/0401_0500/0430/06626f5f-3cbc-49ae-a14a-1ee50fd65ca7.webp)
+![](/images/btnews/btnews/0401_0500/0430/06626f5f-3cbc-49ae-a14a-1ee50fd65ca7.webp)
 
 
 
@@ -126,7 +126,7 @@ https://www.letpub.com.cn/index.php?journalid=6706&page=journalapp&view=detail
 
 
 
-![](/images/btnews/0401_0500/0430/1c8abf40-bf91-4c04-bd31-21ba08fcba81.webp)
+![](/images/btnews/btnews/0401_0500/0430/1c8abf40-bf91-4c04-bd31-21ba08fcba81.webp)
 
 
 
@@ -155,7 +155,7 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 其他和连花清瘟相关的论文，学术地位最高的第一作者，是湖北中医药大学湖北省中医院肥胖专科主任肖明中。他代表湖北中医药大学，和中国中医科学院广安门医院联合做实验，发表了一篇论文：《藿香正气滴丸联合莲花清瘟颗粒治疗2019冠状病毒疾病随机对照试验的疗效观察》。
  
 
-![](/images/btnews/0401_0500/0430/bbb42d00-0113-4ed0-b349-0409cf66eb8a.webp)
+![](/images/btnews/btnews/0401_0500/0430/bbb42d00-0113-4ed0-b349-0409cf66eb8a.webp)
 
 
 
@@ -165,14 +165,14 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 和前面以岭药业赞助的胡克的论文相比，肖明中的论文对实验过程中用药情况差异做出了明确报告，这是一个显著的进步，也是非常值得赞赏的信息公开。可惜作者没有讨论这种差异是否会影响文章结论。
  
 
-![](/images/btnews/0401_0500/0430/b3990554-a4e7-44c7-b3d0-bd57e55712a3.webp)
+![](/images/btnews/btnews/0401_0500/0430/b3990554-a4e7-44c7-b3d0-bd57e55712a3.webp)
 
 
 
 治疗14天后，在完成实验的183个确诊患者中，13例发展为重症，其中吃连花清瘟和藿香正气滴丸的组1例，连花清瘟组5例，西药组7例，看起来中药表现出了一定效果。然而对数据做统计分析，P值是0.089。
  
 
-![](/images/btnews/0401_0500/0430/53e1dbe2-2361-47bc-8076-81af5a441948.webp)
+![](/images/btnews/btnews/0401_0500/0430/53e1dbe2-2361-47bc-8076-81af5a441948.webp)
 
 
 
@@ -180,7 +180,7 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 
 
 
-![](/images/btnews/0401_0500/0430/d30eefda-64aa-4d26-84d5-9bc45d183e8a.webp)
+![](/images/btnews/btnews/0401_0500/0430/d30eefda-64aa-4d26-84d5-9bc45d183e8a.webp)
 
 
 
@@ -195,7 +195,7 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 
 
 
-![](/images/btnews/0401_0500/0430/6b91fbb7-a174-4826-8ad6-37e548368062.webp)
+![](/images/btnews/btnews/0401_0500/0430/6b91fbb7-a174-4826-8ad6-37e548368062.webp)
 
 *注：Gong et al. 基于第八版诊疗方案；Hu et al. 基于第四版诊疗方案；Xiao et al. 基于第七版方案
 
@@ -213,9 +213,9 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 
 
 
-![](/images/btnews/0401_0500/0430/e406541b-edb3-445e-9e48-fef202604eaa.webp)
+![](/images/btnews/btnews/0401_0500/0430/e406541b-edb3-445e-9e48-fef202604eaa.webp)
 
-![](/images/btnews/0401_0500/0430/f560e2f0-5368-4825-8227-7c877b5590ce.webp)
+![](/images/btnews/btnews/0401_0500/0430/f560e2f0-5368-4825-8227-7c877b5590ce.webp)
 
 
 
@@ -223,7 +223,7 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 
  
 
-![](/images/btnews/0401_0500/0430/bfcdfde9-f403-4a5b-b727-292934f5925c.webp)
+![](/images/btnews/btnews/0401_0500/0430/bfcdfde9-f403-4a5b-b727-292934f5925c.webp)
 
 
 
@@ -234,7 +234,7 @@ http://www.pcfortune.com.cn/news/yuanchuang/2022/0420/98101.html
 
 
 
-![](/images/btnews/0401_0500/0430/384ee618-3985-4c6b-86da-765b12195eee.webp)
+![](/images/btnews/btnews/0401_0500/0430/384ee618-3985-4c6b-86da-765b12195eee.webp)
 
 
 
@@ -246,9 +246,9 @@ https://www.frontiersin.org/articles/10.3389/fphar.2020.00746/full
 
 
 
-![](/images/btnews/0401_0500/0430/85019046-4d1a-4f01-b81e-08f253d53ace.webp)
+![](/images/btnews/btnews/0401_0500/0430/85019046-4d1a-4f01-b81e-08f253d53ace.webp)
 
-![](/images/btnews/0401_0500/0430/a7216dae-be3d-471f-b71a-8ffa4bcdeca9.webp)
+![](/images/btnews/btnews/0401_0500/0430/a7216dae-be3d-471f-b71a-8ffa4bcdeca9.webp)
 
 
 https://www.frontiersin.org/articles/10.3389/fphar.2021.648439/full
@@ -262,7 +262,7 @@ https://www.frontiersin.org/articles/10.3389/fphar.2021.648439/full
 
 
 
-![](/images/btnews/0401_0500/0430/0db01380-b3c7-4e6d-8308-69b20b59ba12.webp)
+![](/images/btnews/btnews/0401_0500/0430/0db01380-b3c7-4e6d-8308-69b20b59ba12.webp)
 
 
 
@@ -306,7 +306,7 @@ https://en.wikipedia.org/wiki/COX-2_inhibitor 
 请100个成名中医来诊脉开方，三天成本算它2000万，再花上3000万请第三方监测实验，5千万补偿1000个实验对象，最多花一亿，就可以一举证明连花清瘟的药效，解决连花清瘟在中医界的地位问题。这笔钱说起来不少，但和以岭药业每年30多亿的销售费用相比，又是小钱。我劝以岭药业花小钱办大事，一亿的试验费用，就能让市值追赶茅台，真正配上“药茅”的称号。
  
 
-![](/images/btnews/0401_0500/0430/0bc3c7da-7321-4878-84db-69ab6f935d88.webp)
+![](/images/btnews/btnews/0401_0500/0430/0bc3c7da-7321-4878-84db-69ab6f935d88.webp)
 
 
 
@@ -354,7 +354,7 @@ https://baijiahao.baidu.com/s?id=1731431276158832745
 
 
 
-![](/images/btnews/0401_0500/0430/12c992d1-c602-4d05-a686-466cf77b7db9.webp)
+![](/images/btnews/btnews/0401_0500/0430/12c992d1-c602-4d05-a686-466cf77b7db9.webp)
 
 https://zhuanlan.zhihu.com/p/37241022
 
@@ -370,13 +370,13 @@ https://zhuanlan.zhihu.com/p/37241022
 
 我在422期节目，说ID“史老柒”坦荡，因为他接了以岭药业的宣传业务，也跑到我的评论区来骂我，敢作敢当，并不避讳自己接单的事情。其他骂我的自媒体就没那么坦荡了。比如说，在这个话题下，同样破口大骂的“地瓜熊老六”，去年开始就频繁接以岭药业的宣传任务。
  
-![](/images/btnews/0401_0500/0430/386a323b-705f-4541-b5c1-27370f22acd9.webp)
+![](/images/btnews/btnews/0401_0500/0430/386a323b-705f-4541-b5c1-27370f22acd9.webp)
 
 
 
 4月12 号，“地瓜熊老六”还专门用别人设计好的话题，宣传过那篇被以岭药业董事会秘书拿来证明预防作用的论文。
  
-![](/images/btnews/0401_0500/0430/94b2ad50-5cbd-435f-a776-a574c81cfb36.webp)
+![](/images/btnews/btnews/0401_0500/0430/94b2ad50-5cbd-435f-a776-a574c81cfb36.webp)
 
 
 
@@ -385,13 +385,13 @@ https://zhuanlan.zhihu.com/p/37241022
 
 很多思维限制在传统媒体时代的媒体，也想通过传统的方式，继续用传统媒体的方式推送错误信息。比如说，4月24日，中国历史研究院都出来传递谣言，公开说世界卫生组织官方承认中药能治疗新冠肺炎。
  
-![](/images/btnews/0401_0500/0430/e4fce554-197d-4ec5-8bf5-58906a8d1eb5.webp)
+![](/images/btnews/btnews/0401_0500/0430/e4fce554-197d-4ec5-8bf5-58906a8d1eb5.webp)
 
 
 
 我转发了中国历史研究院的微博，说你既然这么宣传，为什么不让读者看世卫组织报告的原文。然后中国历史研究院就果断关闭了原微博下面的评论区，企图让媒体规则重新回到他们熟悉的80年代，继续搞单向发布，继续挟洋自重，继续用谣言掩饰自己的文化不自信，掩饰自己崇洋媚外，破坏文化自信心的本质。
  
-![](/images/btnews/0401_0500/0430/6efdb3ba-3982-4840-a74d-bce388ef2a86.webp)
+![](/images/btnews/btnews/0401_0500/0430/6efdb3ba-3982-4840-a74d-bce388ef2a86.webp)
 
 
 
@@ -400,7 +400,7 @@ https://zhuanlan.zhihu.com/p/37241022
 
 我之前请左手王画了一幅插图，把以岭药业的劣质公关，画成刚刚沉没的莫斯科号巡洋舰。
  
-![](/images/btnews/0401_0500/0430/81a2e084-111d-4a74-abcb-187ab5b60b39.webp)
+![](/images/btnews/btnews/0401_0500/0430/81a2e084-111d-4a74-abcb-187ab5b60b39.webp)
 
 
 
@@ -415,7 +415,7 @@ https://zhuanlan.zhihu.com/p/37241022
 
 而我们工作室靠原创能力自由创作，凭空高出一个维度，再加上观众转发和有价值的评论，又多出一个内容和传播维度。所以我们用很小的团队，也能做出飞机空袭军港炸炮舰的效果。我请左手王又画了一张插图。算是对这次媒体事件的总结性回顾。
  
-![](/images/btnews/0401_0500/0430/d1aaf690-73c4-4a63-90dd-b347f28cdac8.webp)
+![](/images/btnews/btnews/0401_0500/0430/d1aaf690-73c4-4a63-90dd-b347f28cdac8.webp)
 
 
 
@@ -439,5 +439,5 @@ https://finance.sina.com.cn/stock/marketresearch/2022-04-27/doc-imcwipii6756996.
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0430/f69fe874-6d61-4383-8d43-e4ff4f3cc3e3.webp)
+![](/images/btnews/btnews/0401_0500/0430/f69fe874-6d61-4383-8d43-e4ff4f3cc3e3.webp)
 

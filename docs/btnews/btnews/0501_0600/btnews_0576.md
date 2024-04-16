@@ -12,11 +12,11 @@ ytid: p0FOL65y0fE
 
 全民防疫的2022年已经过去了，但是余波还在影响2023年。银保监会网站统计信息显示，2023年春节过后，二月、三月每个月的留言数量，放到去年都是全年冠军。
 
-![](/images/btnews/0501_0600/0576/0ad581bf-046d-4be1-98a0-85c141bb1979.webp)
+![](/images/btnews/btnews/0501_0600/0576/0ad581bf-046d-4be1-98a0-85c141bb1979.webp)
 
 2月16号，中国消费者协会汇总2022年度全国受理投诉情况，点名批评的重点问题之一，就是“新冠”保险套路多。督工你自己来读消费者协会的原文：
 
-![](/images/btnews/0501_0600/0576/30006a71-74aa-49cd-9a93-18130c5a60dc.webp)
+![](/images/btnews/btnews/0501_0600/0576/30006a71-74aa-49cd-9a93-18130c5a60dc.webp)
 
 > [中消协点名“新冠”保险套路繁多_上海市地方金融监督管理局](https://jrj.sh.gov.cn/zwdt-fxts-fxjs/20230216/e4ea37bd87024f58b700f1ebbaf9fd53.html)
 
@@ -28,13 +28,13 @@ ytid: p0FOL65y0fE
 
 **三是**逃避赔付责任。有些保险公司通过下架相关保险产品、保险理赔员失联、客服电话不通等方式故意逃避赔付责任。
 
-![](/images/btnews/0501_0600/0576/ba5f7b91-5a9f-43df-9964-743a8efe72d2.webp)
+![](/images/btnews/btnews/0501_0600/0576/ba5f7b91-5a9f-43df-9964-743a8efe72d2.webp)
 
 > [保险公司赔不起了？感染人数激增，“新冠确诊险”遭遇花式拒赔](https://export.shobserver.com/toutiao/html/565660.html)
 
 与其同时，媒体报道，香港新冠保险索赔成功率达到94%。很多人说香港保险公司比大陆讲诚信，香港保险业监管更给力。
 
-![](/images/btnews/0501_0600/0576/af5ee1ba-e768-418d-add8-51ca512c2e89.webp)
+![](/images/btnews/btnews/0501_0600/0576/af5ee1ba-e768-418d-add8-51ca512c2e89.webp)
 
 > [香港94%新冠相关保险索赔成功 金额近9亿元__财经头条](https://cj.sina.com.cn/articles/view/1445876417/562e52c1019017hpr?sudaref=www.google.com&display=0&retcode=0)
 
@@ -47,19 +47,19 @@ ytid: p0FOL65y0fE
 
 可以说，香港人已经很熟悉资本主义的赌博规则了，程序上玩不过就服输。而大陆居民还不太适应保险业的花样，所以不甘心白交钱，要找银保监会、找消费者协会投诉。
 
-![](/images/btnews/0501_0600/0576/f9809817-d191-41f8-8ec2-b1c568220e33.webp)
+![](/images/btnews/btnews/0501_0600/0576/f9809817-d191-41f8-8ec2-b1c568220e33.webp)
 
 > [【粤语TVB】香港各保险公司疫情期间赔偿约5万件涉及新冠的保单共9亿元_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15b411o7L6/?vd_source=87ddbf3f4d24095b069ff1cc30a0be69)
 
 具体看数字，去年年初香港人口差不多740万，年末下降到733万。最后卖出了800万份新冠相关保险，很多人买了不止一份。
 
 和全世界所有地区一样，香港政府并不清楚全民实际的新冠感染率。卫生署从2020年开始统计新冠确诊人数，有一个最保守的数字，本地累计286万病例。去年3月，上海人还不知道未来一年大起大落的时候，港大医学院院长就估计香港感染率达到了六成。现在说香港100%感染肯定是夸张了，但说80%感染，可能还是保守了。
-![](/images/btnews/0501_0600/0576/88420837-386a-4e07-9b2d-e551d8497e39.webp)
+![](/images/btnews/btnews/0501_0600/0576/88420837-386a-4e07-9b2d-e551d8497e39.webp)
 
 [近六成香港人染疫（440万人），港大医学院院长梁卓伟最新研判](https://mp.weixin.qq.com/s?__biz=MzI0Njc5ODM4MQ==&mid=2247594543&idx=1&sn=8553540983ee87e1507d78734ed27a34&chksm=e9baf36ddecd7a7bfcc9a0b80f4e06684b74dc8bd32144d7b374d80529ca47c00bf0e6fbc88d&scene=27)
 
 
-![](/images/btnews/0501_0600/0576/56aa3968-47a0-4487-b132-c93179aca5fb.webp)
+![](/images/btnews/btnews/0501_0600/0576/56aa3968-47a0-4487-b132-c93179aca5fb.webp)
 
 
 > [https://www.covidvaccine.gov.hk/pdf/5th_wave_statistics.pdf](https://www.covidvaccine.gov.hk/pdf/5th_wave_statistics.pdf)
@@ -69,7 +69,7 @@ ytid: p0FOL65y0fE
 
 看TVB的原始报道，很容易就能理解大多香港投保者拿不到赔偿的原因——保险公司设置的赔偿门槛太高了，让普通的确诊患者根本够不到赔付条件。如果向监管机构投诉或者走司法途径，很容易就会被保险公司的律师驳回诉求。
 
-![](/images/btnews/0501_0600/0576/b7e25410-a1c9-41ae-84a6-eee48df66cb3.webp)
+![](/images/btnews/btnews/0501_0600/0576/b7e25410-a1c9-41ae-84a6-eee48df66cb3.webp)
 
 报道举了一个例子，香港保险索偿投诉委员会去年接到投诉，一名香港居民通过快速测试确认自己感染，而且被卫生中心要求强制隔离。正好他买过新冠隔离险，事后拿着保单想索赔7000港元。
 
@@ -77,11 +77,11 @@ ytid: p0FOL65y0fE
 
 投诉委员会全盘接受了保险公司的说法，驳回了客户的索赔，而且还把这个案例做为典型案例对外展示，主动堵住了有类似诉求的香港人。我相信其他香港保险公司也有类似的智慧，也有同样水平的律师，所以800万保单，做出了只赔偿5万多份的成绩。
 
-![](/images/btnews/0501_0600/0576/7c0dbacc-d600-46af-9723-6542505ad15d.webp)
+![](/images/btnews/btnews/0501_0600/0576/7c0dbacc-d600-46af-9723-6542505ad15d.webp)
 
-![](/images/btnews/0501_0600/0576/a9c1dc79-c7eb-4316-9c2b-725a796863e5.webp)
+![](/images/btnews/btnews/0501_0600/0576/a9c1dc79-c7eb-4316-9c2b-725a796863e5.webp)
 
-![](/images/btnews/0501_0600/0576/4617bd2f-f5b4-47c6-b73c-ac59eb4ec132.webp)
+![](/images/btnews/btnews/0501_0600/0576/4617bd2f-f5b4-47c6-b73c-ac59eb4ec132.webp)
 
 应该承认，香港保险公司并不是事后才想起来赖账的。这些企业经历了上百年法庭公开战斗的考验，继承了欧美几百年的保险业经验，合同文本设计得很严密。提高确诊门槛的条款就直接写在保单里，并没有隐瞒的意思。
 
@@ -89,7 +89,7 @@ ytid: p0FOL65y0fE
 
 随后的事实证明，全社会面感染的后果并没有想象的可怕，人们索赔的情绪动力已经小了很多。而在资本主义铁拳上百年的教育之后，香港市民养成了在大资本面前“知难而退”的习惯。800万份新冠保险卖出去，去年香港只有59次保险投诉和新冠肺炎相关。大多数普通香港市民，被保险公司客服告知“不符合理赔条件”之后，就能假装这件事从未发生过。
 
-![](/images/btnews/0501_0600/0576/8e1df0ee-b905-48e1-91fe-bfeb7d51782c.webp)
+![](/images/btnews/btnews/0501_0600/0576/8e1df0ee-b905-48e1-91fe-bfeb7d51782c.webp)
 
 以上是香港的情况，接下来我们看内地保险公司公然赖账的过程。
 
@@ -105,7 +105,7 @@ ytid: p0FOL65y0fE
 
 红星新闻报道了一个典型案例，投保人有正规医院出具的新冠病毒阳性确诊单，但仍然被拒赔。保险公司声明，保险合同承诺赔偿“新型冠状病毒导致肺炎”。而诊断书只能确认病人感染了“新冠病毒”，没有明确说“新冠病毒肺炎”。所以超出了赔偿范围，不能给钱。
 
-![](/images/btnews/0501_0600/0576/a8ffd520-d9c3-4464-b1b3-af9f82c54d48.webp)
+![](/images/btnews/btnews/0501_0600/0576/a8ffd520-d9c3-4464-b1b3-af9f82c54d48.webp)
 
 > [获赔15000元：一位“新冠保险”投保者的理赔之路|保险公司|保险|新型冠状病毒_新浪新闻](https://news.sina.com.cn/s/2023-03-23/doc-imymvute6511974.shtml)
 
@@ -121,22 +121,22 @@ ytid: p0FOL65y0fE
 
 我们举个例子，现在新冠保险方面被投诉最多的企业，是众惠相互保险社，而且数量可能要超过其他公司之和。
 
-![](/images/btnews/0501_0600/0576/ad398214-2024-4ade-9d7b-906ac7850499.webp)
+![](/images/btnews/btnews/0501_0600/0576/ad398214-2024-4ade-9d7b-906ac7850499.webp)
 
 研究这家公司的合同，我的同事发现了当初就隐秘藏下的一些地雷，是否引爆完全看保险公司的需要。
 
-![](/images/btnews/0501_0600/0576/2905a222-a1dd-4c4c-b6fc-7da19885faa5.webp)
+![](/images/btnews/btnews/0501_0600/0576/2905a222-a1dd-4c4c-b6fc-7da19885faa5.webp)
 
-![](/images/btnews/0501_0600/0576/12265a1c-561c-4591-9fa4-e96b5daac216.webp)
+![](/images/btnews/btnews/0501_0600/0576/12265a1c-561c-4591-9fa4-e96b5daac216.webp)
 
 > [惠无忧保险单（电子保单）.pdf](https://files2.huizecdn.com/file2/M00/AD/75/rBYA3GIYNyeAGWV0AAiqqML5FfA262.pdf)
 
 比如新冠确诊险，大多数投保人签约的时候恐怕没有注意，“惠无忧”保险产品生效，前提是在“卫生主管部门公布的新冠定点救治医院”确诊。但新冠定点救治医院数量很有限。整个湖南省6600万人，122个县区级单位，只有116家定点救治医院，每个县区还轮不到一个。其中长沙市一千万人，定点救治医院只有5个。
 
-![](/images/btnews/0501_0600/0576/05fedd25-f159-49c0-8d51-9071bc628620.webp)
+![](/images/btnews/btnews/0501_0600/0576/05fedd25-f159-49c0-8d51-9071bc628620.webp)
 
 
-![](/images/btnews/0501_0600/0576/936616aa-eb19-4758-9ca3-c9cc5823c4ef.webp)
+![](/images/btnews/btnews/0501_0600/0576/936616aa-eb19-4758-9ca3-c9cc5823c4ef.webp)
 
 
 > [湖南省新型冠状病毒感染的肺炎 定点救治医院名单.pdf](https://www.cn.emb-japan.go.jp/files/000564061.pdf)
@@ -147,7 +147,7 @@ ytid: p0FOL65y0fE
 
 这种弱化的索赔就算成功，也不太可能全额赔付。而新冠感染险一般来说也就一两万的总赔偿，不值得普通用户和保险公司死磕。中国没有通用的集体诉讼程序，所以几千万用户的怨气，没法团结起来让保险公司破产，也不能让领头的律师发大财，最终只能放任保险公司赖账。
 
-![](/images/btnews/0501_0600/0576/20e16480-816b-4ba2-9b5b-dcde0d51ffe2.webp)
+![](/images/btnews/btnews/0501_0600/0576/20e16480-816b-4ba2-9b5b-dcde0d51ffe2.webp)
 
 借助复杂的合同、繁琐的程序、成熟的经验，香港和内地的保险公司都逃脱了新冠险的赔偿责任。普通客户只能上网抱怨，实际完全触动不了保险公司的利益，督工你怎么看待这种社会现象？
 
@@ -159,7 +159,7 @@ ytid: p0FOL65y0fE
 
 客户和资本约定的共识，在合同里写的很清楚，就是稳定的负收益。买保险不应该考虑怎么赚钱，而是用“花钱”这种可以预期的负收益，回避一些极端情况。这就决定了保险公司的经营风格和其他企业不一样。
 
-![](/images/btnews/0501_0600/0576/0d66d6f5-460f-4ab3-a1fe-949af88ccd4a.webp)
+![](/images/btnews/btnews/0501_0600/0576/0d66d6f5-460f-4ab3-a1fe-949af88ccd4a.webp)
 
 > [【财经分析】“阳了”却没法理赔？新冠保险产品陷入舆论风波 - 中国金融信息网](https://www.cnfin.com/yw-lb/detail/20221226/3773262_1.html)
 
@@ -169,25 +169,25 @@ ytid: p0FOL65y0fE
 
 现在全世界成规模的私营侦探业，基本上只靠两种客户生存，一种是离婚争财产的富裕夫妻；另一种就是要找出客户程序瑕疵，拒绝赔钱的保险公司。这两种客户有一个共同心态，就是宁可把钱给侦探公司和律师，也不让对方拿到。除了保险公司，很少有企业会抱着“损人不利己”的心态去制定经营策略。
 
-![](/images/btnews/0501_0600/0576/002ea569-2189-4a13-a478-f779e2313ba8.webp)
+![](/images/btnews/btnews/0501_0600/0576/002ea569-2189-4a13-a478-f779e2313ba8.webp)
 
 > [Insurance Fraud Investigator New York | Tripi Detective Agency](https://www.tripidetectiveagency.com/services/insurance-fraud/)
 
-![](/images/btnews/0501_0600/0576/bfa3dd60-279c-488d-bb8d-09f34bd37dac.webp)
+![](/images/btnews/btnews/0501_0600/0576/bfa3dd60-279c-488d-bb8d-09f34bd37dac.webp)
 
 > [Insurance Fraud Investigations - Haywood Hunt & Associates Inc.](https://haywoodhunt.ca/insurance-fraud-investigations/)
 
-![](/images/btnews/0501_0600/0576/8708126d-630c-4aa4-b306-ff6c747fcb37.webp)
+![](/images/btnews/btnews/0501_0600/0576/8708126d-630c-4aa4-b306-ff6c747fcb37.webp)
 
 > [Insurance Claims | Best Detectives in Delhi NCR, Mumbai | Sleuths India](https://www.sleuthsindiadetectives.com/insurance_claims.html)
 
 比如说2020年南京航班延误险案，投保人占了便宜，但也的确是跟着程序才找到的漏洞，保险企业发现之后就果断报案，完全没有考虑协商解决。新闻曝光后，很多人对保险公司的做法不满，声称保险公司的强硬态度会影响未来投保意愿。但是，保险公司不是这么考虑问题的，它考虑的是让更多的人知道不能惹保险公司，不要利用模糊地带去修改保险公司的赔付概率。
 
-![](/images/btnews/0501_0600/0576/1d74c752-67de-407f-bb83-9da5232f2bce.webp)
+![](/images/btnews/btnews/0501_0600/0576/1d74c752-67de-407f-bb83-9da5232f2bce.webp)
 
 > [女子看天气预报推测航班延误，买保险赚了300万|延误险|保险公司|投保人|航空公司_网易新闻](https://www.163.com/news/article/HVI7SJ8F000181BT.html)
 
-![](/images/btnews/0501_0600/0576/32fd2ad0-db90-4758-8ce4-4cf47b54754b.webp)
+![](/images/btnews/btnews/0501_0600/0576/32fd2ad0-db90-4758-8ce4-4cf47b54754b.webp)
 
 > [南京一女子用延误险挣钱，五年获利300万，保险公司将其告上法庭|航空公司|保险金_网易订阅](https://www.163.com/dy/article/H7O5C4RU05534CPT.html)
 
@@ -203,7 +203,7 @@ ytid: p0FOL65y0fE
 
 所以，这一阶段，众惠相互保险社并没有打算通过研究确诊医院名单做到赖账，而是想借助低感染率来赚钱。只要地方政府继续执行“发现一例就封城”的政策，宁可放弃经济也维持低感染率，众惠公司应该愿意给每一个经过严密手续被隔离的确诊病人赔钱。
 
-![](/images/btnews/0501_0600/0576/521be838-30e5-4b0b-acf2-baa4fd0c643f.webp)
+![](/images/btnews/btnews/0501_0600/0576/521be838-30e5-4b0b-acf2-baa4fd0c643f.webp)
 
 但是，众惠公司没想到，几个月后就有地方政府的防疫政策开始调头，再过几个月还有全国范围的政策急转弯。中国用了一年多时间嘲笑欧美的群体防疫政策，忽然自己也靠全民感染来解决问题，这个180度急转弯太快，把很多跟着政策设计产品的保险公司撂到马路中间了。
 
@@ -215,25 +215,25 @@ ytid: p0FOL65y0fE
 
 在金融行业里，保险企业比较特殊。它们赚钱不一定很多，但筹集资金能力非常强，可以用未来的承诺，快速在当下筹集天文数字的资金，所以往往被资本集团当成加油站，用来支持整个集团“干大事”。2015到2017年，真实体量较小的宝能系资本企图强行控制国内地产巨头万科股份，被称为“蛇吞象”。宝能资本这条蛇敢吞大象，底气就是拥有前海人寿公司，可以筹集巨额资金，
 
-![](/images/btnews/0501_0600/0576/5aa1e3ee-7107-4f97-a57d-1d5d6e885083.webp)
+![](/images/btnews/btnews/0501_0600/0576/5aa1e3ee-7107-4f97-a57d-1d5d6e885083.webp)
 
-![](/images/btnews/0501_0600/0576/46c3ce75-5228-40b7-bc84-0fe019315ec0.webp)
+![](/images/btnews/btnews/0501_0600/0576/46c3ce75-5228-40b7-bc84-0fe019315ec0.webp)
 
 为了给整个集团的商业战争提供弹药，当时前海人寿拼命出售一种很出名的“万能险”,销售员对回报率的承诺已经到了公然说谎的地步。在资金使用方面，万能险被做成了短期理财，什么都敢投。2016年前海人寿的保险业务半年亏了60多亿，有保险变传销的风险，最后被监管部门强行叫停了大多数业务。
 
-![](/images/btnews/0501_0600/0576/8564cace-42bd-46c1-b332-65a93307d866.webp)
+![](/images/btnews/btnews/0501_0600/0576/8564cace-42bd-46c1-b332-65a93307d866.webp)
 
 > [宝能系如何用“万能险”玩转杠杆(图)](http://money.sohu.com/20151222/n432147854.shtml)
 
-![](/images/btnews/0501_0600/0576/53c02aa8-4ba2-4d91-bbd6-0b2df46ff38d.webp)
+![](/images/btnews/btnews/0501_0600/0576/53c02aa8-4ba2-4d91-bbd6-0b2df46ff38d.webp)
 
 > [保监会严整野蛮险资 加码万能险监管](http://news.hexun.com/2016/ymxzwnx/index.html)
 
-![](/images/btnews/0501_0600/0576/4926e5b2-080d-4c65-8bb6-81583e673865.webp)
+![](/images/btnews/btnews/0501_0600/0576/4926e5b2-080d-4c65-8bb6-81583e673865.webp)
 
 > [保监会撤销姚振华任职资格并禁止其进入保险业10年_滚动新闻_中国政府网](http://www.gov.cn/xinwen/2017-02/24/content_5170734.htm)
 
-![](/images/btnews/0501_0600/0576/b102967f-1475-4ce2-8684-486ebbfc8da6.webp)
+![](/images/btnews/btnews/0501_0600/0576/b102967f-1475-4ce2-8684-486ebbfc8da6.webp)
 
 > [姚振华违规“逼宫”企业遭监管训话 千亿宝能陷1900亿债务泥潭存崩解之虞](http://www.jwview.com/jingwei/html/07-25/495269.shtml)
 
@@ -241,19 +241,19 @@ ytid: p0FOL65y0fE
 
 凭借销售员的夸张承诺，众惠保险的确快速回笼了一批资金，但是也背上了严重的政策风险。虽然众惠相互保险社最终凭借两个180度转弯，避免了破产，但这肯定不是保险精算师的谋划，仅仅是运气而已。
 
-![](/images/btnews/0501_0600/0576/9979276a-3efd-404b-87f2-8063113e4d07.webp)
+![](/images/btnews/btnews/0501_0600/0576/9979276a-3efd-404b-87f2-8063113e4d07.webp)
 
-![](/images/btnews/0501_0600/0576/9f269257-418a-406f-ae92-c4f693d0752e.webp)
+![](/images/btnews/btnews/0501_0600/0576/9f269257-418a-406f-ae92-c4f693d0752e.webp)
 
-![](/images/btnews/0501_0600/0576/a7c732d8-f47c-4ead-8dc2-c8b93821f288.webp)
+![](/images/btnews/btnews/0501_0600/0576/a7c732d8-f47c-4ead-8dc2-c8b93821f288.webp)
 
 > [直击永泰能源债券违约_新浪网](http://finance.sina.com.cn/zt_d/wteclbonds/)
 
-![](/images/btnews/0501_0600/0576/645c686d-4db2-4018-ad31-bbeacca1b47b.webp)
+![](/images/btnews/btnews/0501_0600/0576/645c686d-4db2-4018-ad31-bbeacca1b47b.webp)
 
 > [永泰能源15亿元债券违约-中国能源报-人民网](http://paper.people.com.cn/zgnyb/html/2018-07/16/content_1868691.htm)
 
-![](/images/btnews/0501_0600/0576/f1f71438-f9a5-4313-a6ca-4ab38a354841.webp)
+![](/images/btnews/btnews/0501_0600/0576/f1f71438-f9a5-4313-a6ca-4ab38a354841.webp)
 
 > [大股东爆雷二股东退出 众惠相互保险怎么了_新浪财经_新浪网](http://finance.sina.com.cn/roll/2019-11-24/doc-iihnzahi2936613.shtml)
 
@@ -278,7 +278,7 @@ ytid: p0FOL65y0fE
 
 当然，监管机构和保险公司也可以说，用程序赖账、用时间拖死客户，不是内地保险业独创，而是资本主义的惯例，我们只是和主流接轨而已。这话当然不错，但中国收回香港主权，是带着制度优越性去收回的，不能遇到麻烦就说“香港公司做得，我也做得”，总要体现一点社会主义优越性才对。
 
-![](/images/btnews/0501_0600/0576/1cb6e4f7-fd0e-46ba-b60f-718c29ef6a58.webp)
+![](/images/btnews/btnews/0501_0600/0576/1cb6e4f7-fd0e-46ba-b60f-718c29ef6a58.webp)
 
 现在设计新冠险的公司凭借运气逃过了破产，为了金融危机政府可以不要求足额赔付，但无论如何不能让众惠相互保险社这样的公司因此赚一大笔钱。至少应该让他们把赚到的利润吐出来，捐给慈善事业。监管政策才有点社会主义市场经济的样子。
 

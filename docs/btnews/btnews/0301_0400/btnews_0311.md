@@ -29,66 +29,66 @@ date: 2021-08-08
 
 [东瀛见闻4：奥运也是高科技秀场，记者每天打卡上班的中巴竟是“烧氢气”的？\_上观新闻](https://www.jfdaily.com/news/detail?id=391689)
 
-![](/images/btnews/0301_0400/0311/image1.webp)
+![](/images/btnews/btnews/0301_0400/0311/image1.webp)
 
-![](/images/btnews/0301_0400/0311/image2.webp)
+![](/images/btnews/btnews/0301_0400/0311/image2.webp)
 
-![](/images/btnews/0301_0400/0311/image3.webp)
+![](/images/btnews/btnews/0301_0400/0311/image3.webp)
 
 <https://nordot.app/777494499896459264>
 
 **菅义伟内阁提出，2030年前，把加氢站增加到1000个。未来 10 年里要拨款
 3700 亿日元支持氢能源发展。**
 
-![](/images/btnews/0301_0400/0311/image4.webp)
+![](/images/btnews/btnews/0301_0400/0311/image4.webp)
 
 [Japan to subsidise hydrogen technology development \| Argus Media](https://www.argusmedia.com/en/news/2209744-japan-to-subsidise-hydrogen-technology-development)
 
 **督工，电动汽车取代燃油汽车的大趋势，所有人都看到了，但是大多数国家都用锂电池存储能源，为什么日本一定要搞独特的氢能源电动汽车。**
 
-日本积极提倡发展氢能理由很简单，这是日本极少数还能全面领先世界的产业，日本想尽量发挥自己的长处，像80年代消费电子产业那样，制造一个经济振兴的突破口。现在无论是氢能源的实用技术，还是燃料电池制造工艺，日本的技术储备最多最强，仅仅一个丰田公司，在氢燃料电池系统上就拥有6000多项专利，占了全球相关专利的一半。如果有其他国家选择氢燃料电池取代汽油，日本无论卖产品还是卖技术授权都能赚大钱。![](/images/btnews/0301_0400/0311/image5.webp)
+日本积极提倡发展氢能理由很简单，这是日本极少数还能全面领先世界的产业，日本想尽量发挥自己的长处，像80年代消费电子产业那样，制造一个经济振兴的突破口。现在无论是氢能源的实用技术，还是燃料电池制造工艺，日本的技术储备最多最强，仅仅一个丰田公司，在氢燃料电池系统上就拥有6000多项专利，占了全球相关专利的一半。如果有其他国家选择氢燃料电池取代汽油，日本无论卖产品还是卖技术授权都能赚大钱。![](/images/btnews/btnews/0301_0400/0311/image5.webp)
 
-丰田氢燃料电池系统全球专利申请数量![](/images/btnews/0301_0400/0311/image6.webp)
+丰田氢燃料电池系统全球专利申请数量![](/images/btnews/btnews/0301_0400/0311/image6.webp)
 
 丰田氢燃料电池系统主要关键技术领域[干货\| 丰田燃料电池系统全球专利技术布局详解 - OFweek氢能网](https://www.ofweek.com/hydrogen/2020-05/ART-180820-8500-30440544.html)
 
 去年底，丰田推出了第二代氢燃料汽车，大幅提高了续航力，今年5月这款车型首次完成了24小时耐力赛，这也是全球氢燃料汽车第一次通过类似测试。
 
-![](/images/btnews/0301_0400/0311/image7.webp)
+![](/images/btnews/btnews/0301_0400/0311/image7.webp)
 
-![](/images/btnews/0301_0400/0311/image8.webp)
+![](/images/btnews/btnews/0301_0400/0311/image8.webp)
 
 [ä¸°ç°åå¸æ°ä¸ä»£Miraiçæçµæ± æ±½è½¦ ç»­èªå¯è¾¾850å¬é\|ä¸°ç°\_æ°æµªè´¢ç»\_æ°æµªç½](https://finance.sina.com.cn/stock/usstock/c/2020-12-09/doc-iiznctke5597282.shtml)
 
-![](/images/btnews/0301_0400/0311/image9.webp)[ä¸°ç°ç« ç·ååç§°èµæ°¢è½æº æ°¢æ±½è½¦å®æ24å°æ¶èåèµ\|æ°¢çæ\|æ°¢è½æº\|ä¸°ç°\_æ°æµªç§æ\_æ°æµªç½](https://finance.sina.com.cn/tech/2021-05-26/doc-ikmxzfmm4842707.shtml)
+![](/images/btnews/btnews/0301_0400/0311/image9.webp)[ä¸°ç°ç« ç·ååç§°èµæ°¢è½æº æ°¢æ±½è½¦å®æ24å°æ¶èåèµ\|æ°¢çæ\|æ°¢è½æº\|ä¸°ç°\_æ°æµªç§æ\_æ°æµªç½](https://finance.sina.com.cn/tech/2021-05-26/doc-ikmxzfmm4842707.shtml)
 
-![](/images/btnews/0301_0400/0311/image10.webp)
+![](/images/btnews/btnews/0301_0400/0311/image10.webp)
 
 <https://www.keguanjp.com/kgjp_gongtong/pt20210616100024.html>
 
 今年3月，日本就又建成了全球最大的氢气生产设施，进一步加强了在产业上游的优势。
 
-![](/images/btnews/0301_0400/0311/image11.webp)
+![](/images/btnews/btnews/0301_0400/0311/image11.webp)
 
 近二三十年，日本一直苦恼传统的优势产业衰退，同时又缺少新兴产业递补。如果氢能成为下一代新能源的主流，就可以成为新支柱产业，帮助日本扭转长期产业衰退，走出经济增长停滞。
 
-![](/images/btnews/0301_0400/0311/image12.webp)
+![](/images/btnews/btnews/0301_0400/0311/image12.webp)
 
 [再エネを利用した世界最大級の水素製造施設「FH2R」が完成 \| プレスリリース \| NEDO](https://www.nedo.go.jp/news/press/AA5_101293.html)
 
 在日本看来，氢燃料电池成为新能源的第一选择，差的不是技术，而是宣传和认同，所以在奥运会上拼命推广。
 
-![](/images/btnews/0301_0400/0311/image13.webp)<https://china.kyodonews.net/news/2021/06/41e7ad398f8e-co2.html>
+![](/images/btnews/btnews/0301_0400/0311/image13.webp)<https://china.kyodonews.net/news/2021/06/41e7ad398f8e-co2.html>
 
 **日本已经很久没有领先世界的独创技术了，为什么忽然在氢能源方面占据了这么大优势？**
 
 日本在氢能领域其实也是后来居上的。1960年代，美国阿波罗飞船上已经使用了氢燃料电池。而日本在70年代石油危机后，才开始重视替代能源。经过研究对比，日本才选择了氢能路线作为主要突破方向。
 
-![](/images/btnews/0301_0400/0311/image14.webp)
+![](/images/btnews/btnews/0301_0400/0311/image14.webp)
 
 [Fuel Cell, Apollo \| National Air and Space Museum](https://airandspace.si.edu/collection-objects/fuel-cell-apollo/nasm_A19730934000)
 
-![](/images/btnews/0301_0400/0311/image15.webp)
+![](/images/btnews/btnews/0301_0400/0311/image15.webp)
 
 [Fuel Cells Launched to the Moon Realized the Dream of Mankind](https://news.hyundaimotorgroup.com/Article/Fuel-Cells-Launched-to-the-Moon-Realized-the-Dream-of-Mankind)
 
@@ -96,13 +96,13 @@ date: 2021-08-08
 
 在20世纪后后期，和欧美相比，日本产业整体规划水平更高，长期执行能力更强，日本通产省一度敢给全世界上课，教其他国家制订产业政策。同时，日本之前30年的经济高速发展阶段积累了大量资本，有能力在氢能源方面长期投入。
 
-![](/images/btnews/0301_0400/0311/image16.webp)
+![](/images/btnews/btnews/0301_0400/0311/image16.webp)
 
 <http://www.qibebt.cas.cn/xwzx/kydt/201809/t20180925_5097391.html>
 
 20世纪九十年代，国际油价处在历史性低谷。1998年底，一桶还不到10美元。如果没有政府强力推动，企业根本没有开发新能源的意愿，全世界能源行业都减少了新能源开发的研发投入。只有日本因为本土缺资源，而且在上一次石油危机受过沉重打击，所以依然关注新能源技术。在政府协调之下，日本对氢储能技术进行反周期投资，在绕不开的技术路线上拿到了大批关键专利。
 
-![](/images/btnews/0301_0400/0311/image17.webp)
+![](/images/btnews/btnews/0301_0400/0311/image17.webp)
 
 1970-2000年国际原油价格
 
@@ -115,15 +115,15 @@ date: 2021-08-08
 
 所以，氢能源汽车的应用成本非常高。一般估计，目前一座加氢站的建设成本是加油站的4倍以上，运营费用是7倍。同时，因为氢气要加压储存，加氢站和运输管道的安全性也一直没有得到公众认同。就在锂电池汽车不断取代传统燃油车的同时，氢动力汽车反而距离实用化越来越远。今年2月，日产汽车宣布停止开发氢燃料电池车，7月份，本田也跟进叫停了氢燃料汽车，奥运会结束之后就正式停产。
 
-![](/images/btnews/0301_0400/0311/image18.webp)
+![](/images/btnews/btnews/0301_0400/0311/image18.webp)
 
 [日产暂停开发燃料电池车 集中发展纯电汽车_搜狐汽车_搜狐网](https://www.sohu.com/a/448217898_280890)
 
-![](/images/btnews/0301_0400/0311/image19.webp)
+![](/images/btnews/btnews/0301_0400/0311/image19.webp)
 
-![](/images/btnews/0301_0400/0311/image20.webp)
+![](/images/btnews/btnews/0301_0400/0311/image20.webp)
 
-![](/images/btnews/0301_0400/0311/image21.webp)
+![](/images/btnews/btnews/0301_0400/0311/image21.webp)
 
 <https://c.m.163.com/news/a/GEB1QU5D0539QLJZ.html?spss=newsapp>
 
@@ -137,31 +137,31 @@ date: 2021-08-08
 
 比如说我之前曾经批评过的光伏发电行业，十年前，即使是业内人士，也不太相信自己的行业可以脱离补贴生存。十年后的今天，随着一系列相关应用技术的开发，尽管基础理论方面没有突破，但是光伏产业已经是一个完全能自主发展的行业了，而且有可能成为人类的主要发电来源。
 
-![](/images/btnews/0301_0400/0311/image22.webp)
+![](/images/btnews/btnews/0301_0400/0311/image22.webp)
 
-![](/images/btnews/0301_0400/0311/image23.webp)
+![](/images/btnews/btnews/0301_0400/0311/image23.webp)
 
 [十年前无锡尚德跌落“太阳能神坛”，十年后隆基通威引爆光伏热潮 - 知乎](https://zhuanlan.zhihu.com/p/383464800)
 
 这就是资本和技术合作创造的奇迹。21世纪初，在日本积极扶持氢能源十年之后，欧洲、中国、美国先后都给光伏产业提供了巨额补贴，在技术还没有成熟的时候，由政府承担全行业的巨额亏损。当时，国内外有很多人强烈批评政府的补贴政策，这其中也包括我，认为政府给几个先进企业出点研发经费就够了，全行业补贴纯属浪费公共资金讨好特定利益集团。
 
-![](/images/btnews/0301_0400/0311/image24.webp)
+![](/images/btnews/btnews/0301_0400/0311/image24.webp)
 
-![](/images/btnews/0301_0400/0311/image25.webp)
+![](/images/btnews/btnews/0301_0400/0311/image25.webp)
 
 [国家能源局再次确认：光伏补贴强度20年不变！](https://www.sohu.com/a/244031995_505864)
 
 没想到，在全球投入上万亿资本之后，无数研究机构和企业努力探讨生产工艺和应用技术，每个不起眼的细节都有人努力改进，今天进步一厘米，明天推进一毫米，最终用量变堆出了质变。
 
-其它已经比较成熟的新能源行业，比如说锂电池汽车，也是各大工业国不惜代价发补贴的结果。现在国内已经有500万辆纯电动车在路上跑了，这是中央政府出钱，地方政府出土地和车牌，共同砸钱的成果。![](/images/btnews/0301_0400/0311/image26.webp)
+其它已经比较成熟的新能源行业，比如说锂电池汽车，也是各大工业国不惜代价发补贴的结果。现在国内已经有500万辆纯电动车在路上跑了，这是中央政府出钱，地方政府出土地和车牌，共同砸钱的成果。![](/images/btnews/btnews/0301_0400/0311/image26.webp)
 
 氢燃料电池的能量密度远远高于锂电池，过去十几年，如果氢燃料电池技术也能得到同样力度的支持，让几万家企业在技术细节上下功夫，现在产品的成熟度肯定不是只能在奥运会上展示的水平，完全有可能接近传统燃油车的使用成本，开始占领家用汽车市场。
 
 但是，除了日本以外，氢能路线一直没有得到其它大国的全面支持。2020年，日本GDP有5万亿美元，不算少，但中美加上欧盟，差不多50万亿美元的GDP，重点投资的方向都是锂电池。无论是比市场还是比政府补贴，氢能源汽车的进步速度都比锂电池差了十倍。就算丰田努力推广，也没钱搞定每个技术细节，最终只能成为一种有潜力的技术储备。所以说，日本最大的错误，就是没有站在大多数经济强国一边，像二战末期一样被全世界围攻，浪费了新能源方面的先发优势。
 
-![](/images/btnews/0301_0400/0311/image27.webp)
+![](/images/btnews/btnews/0301_0400/0311/image27.webp)
 
-![](/images/btnews/0301_0400/0311/image28.webp)
+![](/images/btnews/btnews/0301_0400/0311/image28.webp)
 
 更进一步说，之所以日本没有带动其他国家一起来开发氢燃料电池，原因可能恰恰是因为它前期的技术优势太大，摆出了一副吃独食的样子。导致其他国家一致决定，不带日本玩了。
 
@@ -185,7 +185,7 @@ date: 2021-08-08
 
 这时候正好赶上美苏冷战年代，为了团结日本，稳定东亚局势，美欧都向日本全面开放市场，不计较它吃独食的做法。所以当年日本的大企业集团可以拉长产业链，自己独占利润。
 
-![](/images/btnews/0301_0400/0311/image29.webp)
+![](/images/btnews/btnews/0301_0400/0311/image29.webp)
 
 [1949年至2013年全国出生人口、小学及初中招生毕业人数 - 百度文库](https://wenku.baidu.com/view/94849f42ff00bed5b9f31dbd.html)
 
@@ -245,7 +245,7 @@ date: 2021-08-08
 
 文章再次夸耀了中药连花清瘟，尤其指出，对于最新的Delta（德尔塔毒株），连花清瘟显示了稳定的体外抗病毒作用。这篇报道的署名作者是“宇墨”
 
-![](/images/btnews/0301_0400/0311/image30.webp)
+![](/images/btnews/btnews/0301_0400/0311/image30.webp)
 
 在光明网查询“宇墨”的作品，上一篇标题是《保护男性生命“腺”》，这是一个讲座介绍，而讲座的发起方，恰恰就是贾振华所在的夫妻店以岭药业，连花清瘟胶囊的制造商，讲座的目的是宣传“5·10以岭品牌日”。这一连串熟悉的名字凑在一起，刻意引导舆论的痕迹有点太明显了。
 

@@ -34,7 +34,7 @@ date: 2022-03-27
 
 
 
-![](/images/btnews/0401_0500/0411/d1e641b7-aed1-4b3a-82c3-313f8a25a703.webp)
+![](/images/btnews/btnews/0401_0500/0411/d1e641b7-aed1-4b3a-82c3-313f8a25a703.webp)
 
 
 
@@ -68,7 +68,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000667/
 
 
 
-![](/images/btnews/0401_0500/0411/aa19e5fb-8d3a-41b9-aa31-c4fa1db0c1ea.webp)
+![](/images/btnews/btnews/0401_0500/0411/aa19e5fb-8d3a-41b9-aa31-c4fa1db0c1ea.webp)
 
 
 
@@ -80,7 +80,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000667/
 
 
 
-![](/images/btnews/0401_0500/0411/82208578-ded5-45e4-a96b-1032f296d8dc.webp)
+![](/images/btnews/btnews/0401_0500/0411/82208578-ded5-45e4-a96b-1032f296d8dc.webp)
 
 
 
@@ -92,7 +92,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000667/
 
 
 
-![](/images/btnews/0401_0500/0411/e2ee7739-c8c9-4fa5-bb86-72b48f4bd816.webp)
+![](/images/btnews/btnews/0401_0500/0411/e2ee7739-c8c9-4fa5-bb86-72b48f4bd816.webp)
 
 
 
@@ -108,7 +108,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000667/
 
 
 
-![](/images/btnews/0401_0500/0411/813fec8e-b8ba-4c8c-b8e8-25b7d8b1d7b1.webp)
+![](/images/btnews/btnews/0401_0500/0411/813fec8e-b8ba-4c8c-b8e8-25b7d8b1d7b1.webp)
 
 
 
@@ -120,7 +120,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000667/
 
 
 
-![](/images/btnews/0401_0500/0411/45ff3a69-8cf5-4079-8d22-28641213eaa3.webp)
+![](/images/btnews/btnews/0401_0500/0411/45ff3a69-8cf5-4079-8d22-28641213eaa3.webp)
 
 
 
@@ -144,7 +144,7 @@ https://kjt.fujian.gov.cn/xxgk/gzdt/mtjj/202202/t20220228_5845718.htm
 
 
 
-![](/images/btnews/0401_0500/0411/97033913-e8bd-4f4c-910e-669fd08b0f9f.webp)
+![](/images/btnews/btnews/0401_0500/0411/97033913-e8bd-4f4c-910e-669fd08b0f9f.webp)
 
 
 
@@ -172,7 +172,7 @@ https://kjt.fujian.gov.cn/xxgk/gzdt/mtjj/202202/t20220228_5845718.htm
 
 
 
-![](/images/btnews/0401_0500/0411/082b45ca-19e1-453d-b821-68acc1f7c160.webp)
+![](/images/btnews/btnews/0401_0500/0411/082b45ca-19e1-453d-b821-68acc1f7c160.webp)
 
 
 
@@ -180,7 +180,7 @@ https://kjt.fujian.gov.cn/xxgk/gzdt/mtjj/202202/t20220228_5845718.htm
 
 
 
-![](/images/btnews/0401_0500/0411/68972dea-a7cd-401e-a077-6bd94eb77471.webp)
+![](/images/btnews/btnews/0401_0500/0411/68972dea-a7cd-401e-a077-6bd94eb77471.webp)
 
 
 
@@ -204,7 +204,7 @@ https://kjt.fujian.gov.cn/xxgk/gzdt/mtjj/202202/t20220228_5845718.htm
 
 
 
-![](/images/btnews/0401_0500/0411/05c6bed7-464b-4a94-9438-e8940c1fbc66.webp)
+![](/images/btnews/btnews/0401_0500/0411/05c6bed7-464b-4a94-9438-e8940c1fbc66.webp)
 
 
 
@@ -238,7 +238,7 @@ https://zhuanlan.zhihu.com/p/474697470
 
 
 
-![](/images/btnews/0401_0500/0411/6fe436c6-66a5-46b0-9b65-e1de6090d251.webp)
+![](/images/btnews/btnews/0401_0500/0411/6fe436c6-66a5-46b0-9b65-e1de6090d251.webp)
 
 
 
@@ -260,7 +260,7 @@ https://zhuanlan.zhihu.com/p/474697470
 
 
 
-![](/images/btnews/0401_0500/0411/bb99b124-d92c-4676-be84-36c9a072e8c4.webp)
+![](/images/btnews/btnews/0401_0500/0411/bb99b124-d92c-4676-be84-36c9a072e8c4.webp)
 
 
 
@@ -276,7 +276,7 @@ https://zhuanlan.zhihu.com/p/474697470
 
 
 
-![](/images/btnews/0401_0500/0411/b24da9ac-c61c-4b40-8858-21134f74ae8e.webp)
+![](/images/btnews/btnews/0401_0500/0411/b24da9ac-c61c-4b40-8858-21134f74ae8e.webp)
 
 
 
@@ -308,7 +308,7 @@ https://zhuanlan.zhihu.com/p/474697470
 
 
 
-![](/images/btnews/0401_0500/0411/1c6fbbe9-b5ae-4e01-9755-87f33ba1f0b3.webp)
+![](/images/btnews/btnews/0401_0500/0411/1c6fbbe9-b5ae-4e01-9755-87f33ba1f0b3.webp)
 
 
 
@@ -316,7 +316,7 @@ https://zhuanlan.zhihu.com/p/474697470
 
 
 
-![](/images/btnews/0401_0500/0411/fbe1526d-17e9-4654-b38d-a85f8cd8927e.webp)
+![](/images/btnews/btnews/0401_0500/0411/fbe1526d-17e9-4654-b38d-a85f8cd8927e.webp)
 
 
 
@@ -340,7 +340,7 @@ mRNA疫苗对当前的疫情有什么帮助呢？
 
 
 
-![](/images/btnews/0401_0500/0411/93f7c324-10a4-451a-8c84-3bc7115b4f87.webp)
+![](/images/btnews/btnews/0401_0500/0411/93f7c324-10a4-451a-8c84-3bc7115b4f87.webp)
 
 
 
@@ -360,7 +360,7 @@ https://sph.hku.hk/zh-HK/News-And-Events/Press-Releases/2022/HKUMed-proposes-for
 
 
 
-![](/images/btnews/0401_0500/0411/7f1dbe3f-f67e-4a3d-9685-4234da51d081.webp)
+![](/images/btnews/btnews/0401_0500/0411/7f1dbe3f-f67e-4a3d-9685-4234da51d081.webp)
 
 
 
@@ -420,7 +420,7 @@ https://www.cdc.gov/coronavirus/2019-ncov/downloads/vaccines/COVID-19-mRNA-infog
 
 
 
-![](/images/btnews/0401_0500/0411/0a109ad3-2573-437a-8271-82b877fc83ad.webp)
+![](/images/btnews/btnews/0401_0500/0411/0a109ad3-2573-437a-8271-82b877fc83ad.webp)
 
 
 
@@ -464,7 +464,7 @@ https://www.nature.com/articles/d41586-021-02483-w
 
 
 
-![](/images/btnews/0401_0500/0411/3140b952-fcf1-473a-ab43-b24f3cfaf2c0.webp)
+![](/images/btnews/btnews/0401_0500/0411/3140b952-fcf1-473a-ab43-b24f3cfaf2c0.webp)
 
 
 
@@ -488,7 +488,7 @@ https://www.nature.com/articles/d41586-021-02483-w
 
 
 
-![](/images/btnews/0401_0500/0411/2fe31c8d-5d42-4098-8224-9989cd8817c0.webp)
+![](/images/btnews/btnews/0401_0500/0411/2fe31c8d-5d42-4098-8224-9989cd8817c0.webp)
 
 
 
@@ -502,7 +502,7 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00462-7/fullt
 
 
 
-![](/images/btnews/0401_0500/0411/15997a9d-affa-4596-a6ac-26eaff12fc5b.webp)
+![](/images/btnews/btnews/0401_0500/0411/15997a9d-affa-4596-a6ac-26eaff12fc5b.webp)
 
 
 
@@ -524,13 +524,13 @@ https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00462-7/fullt
 
 
 
-![](/images/btnews/0401_0500/0411/a47f370d-8a3b-4e16-ba1d-884c11ac3bad.webp)
+![](/images/btnews/btnews/0401_0500/0411/a47f370d-8a3b-4e16-ba1d-884c11ac3bad.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0411/66abd006-cfdc-487e-b373-2b559f01d638.webp)
+![](/images/btnews/btnews/0401_0500/0411/66abd006-cfdc-487e-b373-2b559f01d638.webp)
 
 
 
@@ -548,7 +548,7 @@ https://www.covidvaccine.gov.hk/pdf/5th_wave_statistics.pdf
 
 
 
-![](/images/btnews/0401_0500/0411/6e0b1e43-ab4b-499d-a0bb-2cfe0c37c7a3.webp)
+![](/images/btnews/btnews/0401_0500/0411/6e0b1e43-ab4b-499d-a0bb-2cfe0c37c7a3.webp)
 
 
 
@@ -574,7 +574,7 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/42899f8d-ee7c-4cfa-9ac0-cb9b6ed68a41.webp)
+![](/images/btnews/btnews/0401_0500/0411/42899f8d-ee7c-4cfa-9ac0-cb9b6ed68a41.webp)
 
 
 
@@ -608,7 +608,7 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/a89e8a2d-395a-461a-9427-55a58fa1937c.webp)
+![](/images/btnews/btnews/0401_0500/0411/a89e8a2d-395a-461a-9427-55a58fa1937c.webp)
 
 
 
@@ -626,7 +626,7 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/18f3ea23-4620-46ca-9e5a-2127c2edb350.webp)
+![](/images/btnews/btnews/0401_0500/0411/18f3ea23-4620-46ca-9e5a-2127c2edb350.webp)
 
 
 
@@ -638,11 +638,11 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/317bd466-6f0a-4601-83a0-c2655de82ccb.webp)
+![](/images/btnews/btnews/0401_0500/0411/317bd466-6f0a-4601-83a0-c2655de82ccb.webp)
 
 
 
-![](/images/btnews/0401_0500/0411/bbbbaaa3-2a59-415c-a578-b478fda0119a.webp)
+![](/images/btnews/btnews/0401_0500/0411/bbbbaaa3-2a59-415c-a578-b478fda0119a.webp)
 
 
 
@@ -664,7 +664,7 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/cd1fd1a0-141e-45ef-8f99-041020e44854.webp)
+![](/images/btnews/btnews/0401_0500/0411/cd1fd1a0-141e-45ef-8f99-041020e44854.webp)
 
 
 
@@ -692,7 +692,7 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/c024b26e-5ceb-493e-95e1-d00e1eab2fcf.webp)
+![](/images/btnews/btnews/0401_0500/0411/c024b26e-5ceb-493e-95e1-d00e1eab2fcf.webp)
 
 
 
@@ -716,7 +716,7 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/afe4413f-f5ff-453c-bb8a-67c56c111d5c.webp)
+![](/images/btnews/btnews/0401_0500/0411/afe4413f-f5ff-453c-bb8a-67c56c111d5c.webp)
 
 
 
@@ -724,5 +724,5 @@ https://www.ccpit.org/chile/a/20220128/20220128dsp6.html 
 
 
 
-![](/images/btnews/0401_0500/0411/1b4eb68f-9e12-48d7-a704-6ddc85051028.webp)
+![](/images/btnews/btnews/0401_0500/0411/1b4eb68f-9e12-48d7-a704-6ddc85051028.webp)
 

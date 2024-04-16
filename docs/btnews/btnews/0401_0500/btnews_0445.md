@@ -4,7 +4,7 @@ date: 2022-06-14
 ---
 
 
-![](/images/btnews/0401_0500/0445/0f8be81b-7900-42ed-99aa-62b4f952dbc5.webp)
+![](/images/btnews/btnews/0401_0500/0445/0f8be81b-7900-42ed-99aa-62b4f952dbc5.webp)
 
 
 
@@ -15,7 +15,7 @@ date: 2022-06-14
 
 
 
-![](/images/btnews/0401_0500/0445/a62f7a38-943d-446c-9a21-d4ffdef95d2c.webp)
+![](/images/btnews/btnews/0401_0500/0445/a62f7a38-943d-446c-9a21-d4ffdef95d2c.webp)
 
 
 
@@ -37,7 +37,7 @@ date: 2022-06-14
 
 
 
-![](/images/btnews/0401_0500/0445/5b985050-990d-4e4d-a091-813922b758b2.webp)
+![](/images/btnews/btnews/0401_0500/0445/5b985050-990d-4e4d-a091-813922b758b2.webp)
 
 
 
@@ -54,7 +54,7 @@ date: 2022-06-14
 
 
 
-![](/images/btnews/0401_0500/0445/44e619a6-5db7-4bbe-bebe-312331a70e89.webp)
+![](/images/btnews/btnews/0401_0500/0445/44e619a6-5db7-4bbe-bebe-312331a70e89.webp)
 
 https://www.chinanews.com.cn/sh/2019/01-11/8726887.shtml
 https://baijiahao.baidu.com/s?id=1704531199889131789
@@ -70,7 +70,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/a397a07a-97bc-4335-8549-48f9e34c5dd2.webp)
+![](/images/btnews/btnews/0401_0500/0445/a397a07a-97bc-4335-8549-48f9e34c5dd2.webp)
 
 
 
@@ -84,7 +84,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/bff3fa67-7740-4178-9ae9-ea55fa85d21a.webp)
+![](/images/btnews/btnews/0401_0500/0445/bff3fa67-7740-4178-9ae9-ea55fa85d21a.webp)
 
 
 
@@ -106,7 +106,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/299075fd-3fe3-4b8c-9f2c-01b0f749e1fb.webp)
+![](/images/btnews/btnews/0401_0500/0445/299075fd-3fe3-4b8c-9f2c-01b0f749e1fb.webp)
 
 
 
@@ -114,7 +114,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/383352b8-952d-46e5-adf4-37299240e0fc.webp)
+![](/images/btnews/btnews/0401_0500/0445/383352b8-952d-46e5-adf4-37299240e0fc.webp)
 
 
 
@@ -125,7 +125,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/1473a486-955a-480d-af97-9c376425cee8.webp)
+![](/images/btnews/btnews/0401_0500/0445/1473a486-955a-480d-af97-9c376425cee8.webp)
 
 镶嵌混凝土面板堆石坝剖面图
 
@@ -134,7 +134,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/9354cb14-4636-4ef2-a484-7ffe66ece39e.webp)
+![](/images/btnews/btnews/0401_0500/0445/9354cb14-4636-4ef2-a484-7ffe66ece39e.webp)
 
 填筑场数字地图和导航线路
 
@@ -158,7 +158,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/53cc369d-f9f7-45e8-94ed-0adb760edf3d.webp)
+![](/images/btnews/btnews/0401_0500/0445/53cc369d-f9f7-45e8-94ed-0adb760edf3d.webp)
 
 无人挖掘机和无人卡车完成自主取料装料
 
@@ -170,7 +170,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/bbd416e9-d7a2-4aa7-a88c-fd57b88ba2ed.webp)
+![](/images/btnews/btnews/0401_0500/0445/bbd416e9-d7a2-4aa7-a88c-fd57b88ba2ed.webp)
 
 
 
@@ -178,7 +178,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/3bc8fbdf-467d-44e6-96f7-01cb4ef0d690.webp)
+![](/images/btnews/btnews/0401_0500/0445/3bc8fbdf-467d-44e6-96f7-01cb4ef0d690.webp)
 振动碾压机
 
 
@@ -187,7 +187,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 除此之外，碾压机振动轮两侧安装了激光扫描装置，测量压路机前轮内侧与外侧的相对距离，计算压路机碾压时的变形量。这些信息反馈到计算机，就可以用来控制动力和传动系统，调整输出频率和力度，保证达到最佳碾压效果。
 
-![](/images/btnews/0401_0500/0445/5f9183e7-354f-4736-8f36-289967bb445d.webp)
+![](/images/btnews/btnews/0401_0500/0445/5f9183e7-354f-4736-8f36-289967bb445d.webp)
 
 
 
@@ -195,7 +195,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/e3581b16-7407-4fed-9e5d-14e358967d87.webp)
+![](/images/btnews/btnews/0401_0500/0445/e3581b16-7407-4fed-9e5d-14e358967d87.webp)
 
 
 
@@ -230,7 +230,7 @@ https://baijiahao.baidu.com/s?id=1704531199889131789
 
 
 
-![](/images/btnews/0401_0500/0445/d7114bd6-7eda-4c4e-aa5e-e7340df80e88.webp)
+![](/images/btnews/btnews/0401_0500/0445/d7114bd6-7eda-4c4e-aa5e-e7340df80e88.webp)
 http://www.newenergy.org.cn/cyxx/201907/t20190703_498410.html
 
 
@@ -247,7 +247,7 @@ http://www.newenergy.org.cn/cyxx/201907/t20190703_498410.html
 
 
 
-![](/images/btnews/0401_0500/0445/5527fd1f-85e6-4d0d-b406-5052ae6a8633.webp)
+![](/images/btnews/btnews/0401_0500/0445/5527fd1f-85e6-4d0d-b406-5052ae6a8633.webp)
 
 https://www.thepaper.cn/newsDetail_forward_18478223
 
@@ -259,7 +259,7 @@ https://www.thepaper.cn/newsDetail_forward_18478223
 
 
 
-![](/images/btnews/0401_0500/0445/6fe484bd-e480-48e7-98e4-59a35c8fb3dd.webp)
+![](/images/btnews/btnews/0401_0500/0445/6fe484bd-e480-48e7-98e4-59a35c8fb3dd.webp)
 
 http://news.china.com.cn/2022-06/04/content_78252840.htm
 
@@ -268,7 +268,7 @@ http://news.china.com.cn/2022-06/04/content_78252840.htm
 
 
 
-![](/images/btnews/0401_0500/0445/9e45d21e-b8ba-4ad7-99b4-78d40bbdc8ce.webp)
+![](/images/btnews/btnews/0401_0500/0445/9e45d21e-b8ba-4ad7-99b4-78d40bbdc8ce.webp)
 
 
 
@@ -279,7 +279,7 @@ http://news.china.com.cn/2022-06/04/content_78252840.htm
 
 
 
-![](/images/btnews/0401_0500/0445/279c2cdd-4aa3-473f-b92c-1ea33d530ebe.webp)
+![](/images/btnews/btnews/0401_0500/0445/279c2cdd-4aa3-473f-b92c-1ea33d530ebe.webp)
 
 https://www.guancha.cn/internation/2022_06_08_643616.shtml
 
@@ -288,7 +288,7 @@ https://www.guancha.cn/internation/2022_06_08_643616.shtml
 
 
 
-![](/images/btnews/0401_0500/0445/3c175956-11c6-4b7a-98d6-68977667e19c.webp)
+![](/images/btnews/btnews/0401_0500/0445/3c175956-11c6-4b7a-98d6-68977667e19c.webp)
 
 
 
@@ -306,7 +306,7 @@ https://www.163.com/dy/article/H9BJMLKH0512DU6N.html
 
 
 
-![](/images/btnews/0401_0500/0445/a118fd6b-bcb2-4ffb-af96-498554afbd6a.webp)
+![](/images/btnews/btnews/0401_0500/0445/a118fd6b-bcb2-4ffb-af96-498554afbd6a.webp)
 
 https://m.thepaper.cn/baijiahao_18222136
 
@@ -318,7 +318,7 @@ https://m.thepaper.cn/baijiahao_18222136
 
 
 
-![](/images/btnews/0401_0500/0445/5ed90d11-2905-4bf4-bd97-40d909b7aee3.webp)
+![](/images/btnews/btnews/0401_0500/0445/5ed90d11-2905-4bf4-bd97-40d909b7aee3.webp)
 
 https://www.guancha.cn/internation/2022_06_07_643400.shtml
 
@@ -331,7 +331,7 @@ https://new.qq.com/rain/a/20220529A03O2H00
 
 
 
-![](/images/btnews/0401_0500/0445/6cd1a149-9330-49cf-bdff-a8ff84d6fa1c.webp)
+![](/images/btnews/btnews/0401_0500/0445/6cd1a149-9330-49cf-bdff-a8ff84d6fa1c.webp)
 
 https://www.163.com/dy/article/GU2ANU4J05149JCU.html
 
@@ -349,5 +349,5 @@ https://www.163.com/dy/article/GU2ANU4J05149JCU.html
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0445/2cc88597-f05a-4afe-aa12-8bd1d0a64029.webp)
+![](/images/btnews/btnews/0401_0500/0445/2cc88597-f05a-4afe-aa12-8bd1d0a64029.webp)
 

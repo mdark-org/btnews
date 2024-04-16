@@ -5,7 +5,7 @@ date: 2022-05-13
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0431/e4e6a0d9-75be-437d-9711-08d5a408a32e.webp)
+![](/images/btnews/btnews/0401_0500/0431/e4e6a0d9-75be-437d-9711-08d5a408a32e.webp)
 
 
 
@@ -53,7 +53,7 @@ date: 2022-05-13
 
 
 
-![](/images/btnews/0401_0500/0431/b9365134-f804-4ba1-80df-7d46229ce533.webp)
+![](/images/btnews/btnews/0401_0500/0431/b9365134-f804-4ba1-80df-7d46229ce533.webp)
 
 
 
@@ -118,7 +118,7 @@ date: 2022-05-13
 
 
 
-![](/images/btnews/0401_0500/0431/44c4d8c8-049b-48ee-a619-886f60b33ef1.webp)
+![](/images/btnews/btnews/0401_0500/0431/44c4d8c8-049b-48ee-a619-886f60b33ef1.webp)
 
 
 
@@ -127,7 +127,7 @@ date: 2022-05-13
 
 
 
-![](/images/btnews/0401_0500/0431/8a5d96ab-152c-42ef-a2f6-83fd669da54c.webp)
+![](/images/btnews/btnews/0401_0500/0431/8a5d96ab-152c-42ef-a2f6-83fd669da54c.webp)
 
 http://k.sina.com.cn/article_1302159122_4d9d5f1200100rv0a.html
 
@@ -149,7 +149,7 @@ http://k.sina.com.cn/article_1302159122_4d9d5f1200100rv0a.html
 
 
 
-![](/images/btnews/0401_0500/0431/76f1fa24-883b-4f07-954e-7434b30b9d61.webp)
+![](/images/btnews/btnews/0401_0500/0431/76f1fa24-883b-4f07-954e-7434b30b9d61.webp)
 
 https://www.163.com/dy/article/H73UQDB7053469M5.html
 
@@ -158,9 +158,9 @@ https://www.163.com/dy/article/H73UQDB7053469M5.html
 2019年11月的第40期节目，我们报道了国家药监局批准阿尔茨海默症国产新药“971”的消息。当时我们说，首先研究员耿美玉的试验设计不严谨，只有36周的短试验，其次是数据可疑，从第24周忽然出现的试验组好转迹象，不太合常理，部分曲线还有粘贴复制的嫌疑。
  
 
-![](/images/btnews/0401_0500/0431/fdb25503-3d8e-4439-b338-7b02c63e311d.webp)
+![](/images/btnews/btnews/0401_0500/0431/fdb25503-3d8e-4439-b338-7b02c63e311d.webp)
 
-![](/images/btnews/0401_0500/0431/0b326131-91f9-44fd-aefd-30d299d2f718.webp)
+![](/images/btnews/btnews/0401_0500/0431/0b326131-91f9-44fd-aefd-30d299d2f718.webp)
 
 
 
@@ -168,7 +168,7 @@ https://www.163.com/dy/article/H73UQDB7053469M5.html
 
 
 
-![](/images/btnews/0401_0500/0431/c4a7af20-864c-4c38-bdd3-8a841acf81be.webp)
+![](/images/btnews/btnews/0401_0500/0431/c4a7af20-864c-4c38-bdd3-8a841acf81be.webp)
 
 
 
@@ -177,7 +177,7 @@ https://www.163.com/dy/article/H73UQDB7053469M5.html
 
 
 
-![](/images/btnews/0401_0500/0431/4d893148-d88c-475e-9e6d-3db8fc0fb202.webp)
+![](/images/btnews/btnews/0401_0500/0431/4d893148-d88c-475e-9e6d-3db8fc0fb202.webp)
 
 https://www.jiemian.com/article/7451436.html
 
@@ -187,7 +187,7 @@ https://www.jiemian.com/article/7451436.html
 
 
 
-![](/images/btnews/0401_0500/0431/2368c22a-beb4-4096-befb-5c9f9cdf6281.webp)
+![](/images/btnews/btnews/0401_0500/0431/2368c22a-beb4-4096-befb-5c9f9cdf6281.webp)
 
 https://m.guancha.cn/politics/2022_05_12_639348.shtml
 
@@ -197,7 +197,7 @@ https://m.guancha.cn/politics/2022_05_12_639348.shtml
 
 
 
-![](/images/btnews/0401_0500/0431/3356659c-77ae-416f-bdef-374a06df3e41.webp)
+![](/images/btnews/btnews/0401_0500/0431/3356659c-77ae-416f-bdef-374a06df3e41.webp)
 
 
 
@@ -212,7 +212,7 @@ https://m.guancha.cn/internation/2022_05_12_639393.shtml
 
 
 
-![](/images/btnews/0401_0500/0431/c48946ad-726b-49a1-b52b-52c07bd2e324.webp)
+![](/images/btnews/btnews/0401_0500/0431/c48946ad-726b-49a1-b52b-52c07bd2e324.webp)
 
 https://news.ifeng.com/c/8FugMQ3aiko
 
@@ -222,7 +222,7 @@ https://news.ifeng.com/c/8FugMQ3aiko
 
 
 
-![](/images/btnews/0401_0500/0431/62cd94ff-7728-4001-9b0f-be9acd109bf2.webp)
+![](/images/btnews/btnews/0401_0500/0431/62cd94ff-7728-4001-9b0f-be9acd109bf2.webp)
 
 
 
@@ -241,5 +241,5 @@ https://news.ifeng.com/c/8FugMQ3aiko
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0431/53c4bc05-6e5c-42e0-8c09-b68812721ef7.webp)
+![](/images/btnews/btnews/0401_0500/0431/53c4bc05-6e5c-42e0-8c09-b68812721ef7.webp)
 

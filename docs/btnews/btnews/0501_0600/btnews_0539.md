@@ -4,7 +4,7 @@ date: 2023-01-17
 ---
 
 点击下图观看视频
-![](/images/btnews/0501_0600/0539/ab2d9c44-97ba-41cb-936c-9b623b791b2d.webp)
+![](/images/btnews/btnews/0501_0600/0539/ab2d9c44-97ba-41cb-936c-9b623b791b2d.webp)
 
 
 
@@ -20,17 +20,17 @@ date: 2023-01-17
 
 谈来谈去，辉瑞的Paxlovid坚持不降价，只能在3月31日之前用医保资金原价购买，之后要自费。估计国内患者会主要应用同一原理下略做修改的国产仿制药。其他两种药物同意降价，可以长期得到医保订单。我们在9个月之前的421期节目介绍过Paxlovid，5个月前的474期节目介绍过阿兹夫定，这里就不多说了。有观众在我们的资讯列表评论区问，清肺排毒颗粒是不是6天研制出来的，我稍微查了点资料。
 
-![](/images/btnews/0501_0600/0539/2b9d3ade-cd8f-4bd7-a01a-0c7d5a07f301.webp)
+![](/images/btnews/btnews/0501_0600/0539/2b9d3ade-cd8f-4bd7-a01a-0c7d5a07f301.webp)
 
 https://www.guancha.cn/politics/2023_01_08_674845.shtml
  
 
-![](/images/btnews/0501_0600/0539/c59d6922-09d4-47a7-9cce-8547c9095ce0.webp)
+![](/images/btnews/btnews/0501_0600/0539/c59d6922-09d4-47a7-9cce-8547c9095ce0.webp)
 
 
 首先我做个概略性的回答，这位观众说得对，清肺排毒颗粒的权威地位的确是王局、王志勇副局长定下来的。至于说6天研制清肺排毒颗粒的说法，不确切，但也不能说错。
 
-![](/images/btnews/0501_0600/0539/68d48f36-257e-49c8-8606-537964afc02a.webp)
+![](/images/btnews/btnews/0501_0600/0539/68d48f36-257e-49c8-8606-537964afc02a.webp)
 
 https://mp.weixin.qq.com/s?__biz=MzA3ODQwNzYzMg==&mid=2650420448&idx=1&sn=b9c7adc37f47b4d2cfa9499f1fd2bf9a&chksm=874da65fb03a2f49c2726b1ddc4c91fb3b501251dd3ac6c15eb5cd1c16506302f9f960e154f3&scene=27
 
@@ -42,7 +42,7 @@ https://mp.weixin.qq.com/s?__biz=MzA3ODQwNzYzMg==&mid=2650420448&idx=1&sn=b9c7ad
 
 
 
-![](/images/btnews/0501_0600/0539/c11cbf74-4e89-4291-baac-bd54e9b8f799.webp)
+![](/images/btnews/btnews/0501_0600/0539/c11cbf74-4e89-4291-baac-bd54e9b8f799.webp)
 
 https://mp.weixin.qq.com/s?__biz=MzIzOTY5ODE5Nw==&mid=2247517762&idx=1&sn=216888dfff4f586360c3085412ea4ca5&chksm=e924ee38de53672ed4e7b9d032320435de7b423d8c4f54b0cc65ed4f9b4609daa90c564d3a05&scene=27
 
@@ -52,7 +52,7 @@ https://mp.weixin.qq.com/s?__biz=MzIzOTY5ODE5Nw==&mid=2247517762&idx=1&sn=216888
 
 从这篇文章和相关文件看，清肺排毒颗粒和清肺排毒汤是一回事。中医药管理局的文章还还附上了清肺排毒汤的处方。而这种汤药的配方的确是在6天之内确定的，得到了官方认证。如果我们认为配方一致就是同一种药，说6天研制清肺排毒颗粒不能算错。****
 
-![](/images/btnews/0501_0600/0539/7609d249-789d-49f7-a020-a16dcec02149.webp)
+![](/images/btnews/btnews/0501_0600/0539/7609d249-789d-49f7-a020-a16dcec02149.webp)
 
 http://www.kepu.gov.cn/www/page/kepu/famousContent?famousId=ef7a47fd7bac4eb98144308e9c6d525f&id=39b25c10f58f443fade173a686448ceb
 
@@ -71,14 +71,14 @@ http://www.kepu.gov.cn/www/page/kepu/famousContent?famousId=ef7a47fd7bac4eb98144
 
 1月26日，研读“清肺排毒汤”处方后，国家中医药管理局副局长王志勇彻夜未眠。
 
-![](/images/btnews/0501_0600/0539/49cf9edb-0f0f-4def-94c7-fb24a0f7584a.webp)
+![](/images/btnews/btnews/0501_0600/0539/49cf9edb-0f0f-4def-94c7-fb24a0f7584a.webp)
 
 王志勇现在依然是中医药管理局的副局长，如果媒体说错了，他肯定会纠正的。所以我们应该承认这篇报道的说法——清肺排毒配方的研发时间最长不超过6天，而且基本上是葛又文一个人执行研发工作。
 
 
 我们回顾一下疫情早期的时间表，王志勇下达任务的2020年1月20日，钟南山以权威身份说了三个字——“人传人”，彻底推翻了武汉市之前所有的官方结论。之后到了1月23日，武汉市才在上级要求下，犹犹豫豫地封城。
 
-![](/images/btnews/0501_0600/0539/e22da33f-028c-4a60-ace7-98978f2e9d4d.webp)
+![](/images/btnews/btnews/0501_0600/0539/e22da33f-028c-4a60-ace7-98978f2e9d4d.webp)
 
 
 
@@ -103,7 +103,7 @@ http://www.kepu.gov.cn/www/page/kepu/famousContent?famousId=ef7a47fd7bac4eb98144
 我不懂中医，但是看到“细辛”这个重要的配料，还是要分享一点公开信息。
 细辛是马兜铃科的植物，马兜铃科植物基本都有毒。马兜铃是著名的有毒中药，包含的马兜铃酸是中国几个省份肝癌的重要原因。细辛也含有一定马兜铃酸，但更重要的毒性来自黄樟醚，同样对肝细胞有明显危害。
 
-![](/images/btnews/0501_0600/0539/03cbb94a-662e-4161-bc3c-4274a0bbad51.webp)
+![](/images/btnews/btnews/0501_0600/0539/03cbb94a-662e-4161-bc3c-4274a0bbad51.webp)
 
 
 
@@ -115,16 +115,16 @@ http://www.kepu.gov.cn/www/page/kepu/famousContent?famousId=ef7a47fd7bac4eb98144
 
 央视后来采访了葛又文，从面相看，就算中医高人驻颜有术，他也最多是40岁出头，很可能只有30多岁，之前的履历近乎空白。
 
-![](/images/btnews/0501_0600/0539/5f32d8dc-4dd1-43e5-a409-f3a7cd558e86.webp)
+![](/images/btnews/btnews/0501_0600/0539/5f32d8dc-4dd1-43e5-a409-f3a7cd558e86.webp)
 
 
 
 好在葛又文这个名字比较独特，几乎不会重名，可以在网上搜到相关内容。北京市中医药管理局公布过《2018年北京市中医医术确有专长人员医师资格考核合格名单》。这张名单上都是没有行医资质的民间中医，没受过正规教育，以传统医学代表的身份来考行医证。葛又文排在第14位，居住地在朝阳区。
 
-![](/images/btnews/0501_0600/0539/6d306993-50d2-49a2-8925-38c45a571cd6.webp)
+![](/images/btnews/btnews/0501_0600/0539/6d306993-50d2-49a2-8925-38c45a571cd6.webp)
 
 
-![](/images/btnews/0501_0600/0539/e57d37e2-6568-4a56-8fda-4ff33b96a6fd.webp)
+![](/images/btnews/btnews/0501_0600/0539/e57d37e2-6568-4a56-8fda-4ff33b96a6fd.webp)
 
 
 
@@ -156,12 +156,12 @@ http://www.kepu.gov.cn/www/page/kepu/famousContent?famousId=ef7a47fd7bac4eb98144
 
 同一篇报道提到的仝小林院士，到了2022年，对自己支持“寒湿疫”的定性做出了解释，静静帮我读一下：
 
-![](/images/btnews/0501_0600/0539/d92b934a-ee76-4cb6-802a-ef3aaa475393.webp)
+![](/images/btnews/btnews/0501_0600/0539/d92b934a-ee76-4cb6-802a-ef3aaa475393.webp)
 
 
 我在不同季节诊治过来自不同国家的新冠肺炎病人，比如丹麦、美国、加拿大、俄罗斯、泰国、伊朗等世界多地的患者，虽然他们来自不同国家，发病于不同的季节，感染不同的变异毒株，但我发现只要紧紧抓住“寒湿”这条主线，再针对化热、化燥等变化，在寒湿疫方基础上加以化裁，都取得了显著疗效；清肺排毒汤在治疗不同国家、不同地域、不同季节、不同变异毒株引起的新冠肺炎时，也取得了显著疗效，这种疗效就是对新冠肺炎“寒湿”属性的有力证据。
 
-![](/images/btnews/0501_0600/0539/415be7f8-823d-4319-9361-ec8391866c59.webp)
+![](/images/btnews/btnews/0501_0600/0539/415be7f8-823d-4319-9361-ec8391866c59.webp)
 
 https://baijiahao.baidu.com/s?id=1724285943578969326
 
@@ -195,7 +195,7 @@ https://baijiahao.baidu.com/s?id=1724285943578969326
 
 刘景源反对用“寒湿疫”概括病毒，其他地区的中医对新冠病毒的定性也有自己的判断。2020年2月29日，就在清肺排毒方剂已经全国推广3个星期之后，广州召开了一场中西医结合主题的新闻通气会，广州卫健委中医药管理处处长陈宇斐，广州新冠肺炎中医药防控工作专家组组长林琳到场参会。请静静读一段当时的新闻稿。
 
-![](/images/btnews/0501_0600/0539/802fe0bb-af6c-4ec3-8f7f-ea0e983d4c6f.webp)
+![](/images/btnews/btnews/0501_0600/0539/802fe0bb-af6c-4ec3-8f7f-ea0e983d4c6f.webp)
 
 https://m.thepaper.cn/baijiahao_6238324
 
@@ -208,13 +208,13 @@ https://m.thepaper.cn/baijiahao_6238324
 
 前面提到的，都是疫情早期各地中医的判断，也许当时各地观点不同，后来经过讨论有所统一，所以我再给大家看看最新的中医专家建议。2023年1月3日国务院联防联控机制新闻发布会，北京中医院院长刘清泉介绍了新冠肺炎的定性。这个刘清泉和刘景源是同一批的“全国老中医药专家学术经验继承指导老师”，名单序号一个是15，一个是16。
 
-![](/images/btnews/0501_0600/0539/ca31f7f0-a7ea-416e-871a-5303716e09d3.webp)
+![](/images/btnews/btnews/0501_0600/0539/ca31f7f0-a7ea-416e-871a-5303716e09d3.webp)
 
 
 
 静静帮我读一下刘清泉院长的发言。
 
-![](/images/btnews/0501_0600/0539/7a6ae440-899d-400e-b500-095d13f86186.webp)
+![](/images/btnews/btnews/0501_0600/0539/7a6ae440-899d-400e-b500-095d13f86186.webp)
 
 
 
@@ -238,7 +238,7 @@ https://m.thepaper.cn/baijiahao_6238324
 
 从网上搜索各地中医药防疫专家组的发言，可以看到，对新冠肺炎的定性起码还有十几种，比如说福建省最权威的90岁老中医杨春波就说是“湿热疫”。吴以岭院士说，新冠肺炎属于“外感温热病”，应该用络病理论指导新冠肺炎治疗。哪怕是我这个外行，也能意识到十几种定性恐怕彼此不能兼容。
 
-![](/images/btnews/0501_0600/0539/f79058d9-0e41-461a-8469-d19e6da6839d.webp)
+![](/images/btnews/btnews/0501_0600/0539/f79058d9-0e41-461a-8469-d19e6da6839d.webp)
 
 https://baijiahao.baidu.com/s?id=1684667994697196080
 
@@ -257,7 +257,7 @@ https://baijiahao.baidu.com/s?id=1684667994697196080
 
 这套方案并不是我拍脑袋独创，而是国家地震局长期采用的一套方案。无论是谁，只要认为自己的地震理论有先进性，都可以根据自己的计算，向国家地震局寄送预测卡，把自己预计的时间、地点、烈度和地震原因写上去。如果有人能连续几次准确预测地震，不用自己宣传，地震局一定会主动上门送聘书。
 
-![](/images/btnews/0501_0600/0539/1c1a1b6c-e456-4da6-8fd5-9d41e87f5b4d.webp)
+![](/images/btnews/btnews/0501_0600/0539/1c1a1b6c-e456-4da6-8fd5-9d41e87f5b4d.webp)
 
 http://www.hinews.cn/news/system/2008/05/13/010235039.shtml?wscckey=1ee783813051b791_1497748201
 
@@ -280,6 +280,6 @@ http://www.hinews.cn/news/system/2008/05/13/010235039.shtml?wscckey=1ee783813051
 
 
 
-![](/images/btnews/0501_0600/0539/f636a384-d69a-4fae-89ff-24199dd5890f.webp)
+![](/images/btnews/btnews/0501_0600/0539/f636a384-d69a-4fae-89ff-24199dd5890f.webp)
 
 

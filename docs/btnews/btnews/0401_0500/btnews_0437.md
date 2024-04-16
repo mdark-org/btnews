@@ -13,14 +13,14 @@ date: 2022-05-27
 
 第一届美国东盟峰会，还是2016年奥巴马当总统的时候。从白宫招待水平和美国媒体的报道热度看，美国这一次对东盟的重视程度有明显提高。
 
-![](/images/btnews/0401_0500/0437/5cd0c725-7f41-4d22-8b82-04e2f5ceb705.webp)
+![](/images/btnews/btnews/0401_0500/0437/5cd0c725-7f41-4d22-8b82-04e2f5ceb705.webp)
 
 https://cn.nytimes.com/asia-pacific/20220513/biden-asian-nations-china/
 
 
 所以，本次峰会前后，网上突然出现了一种说法：美国想把中国排除在世界经济供应链之外，由东南亚国家来替代中国的产业位置。这是美国的真实态度吗？
 
-![](/images/btnews/0401_0500/0437/7836d3cb-4096-487f-a404-39b9ab9a6071.webp)
+![](/images/btnews/btnews/0401_0500/0437/7836d3cb-4096-487f-a404-39b9ab9a6071.webp)
 
 https://finance.sina.com.cn/chanjing/2022-05-13/doc-imcwiwst7271216.shtml
 
@@ -39,24 +39,24 @@ https://finance.sina.com.cn/chanjing/2022-05-13/doc-imcwiwst7271216.shtml
 
 先说短期的外贸压力。睡前消息编辑部在网上查找了一遍，基本可以确认，美国用东盟替换中国的消息是简体中文网络特供内容。源头是一些中文自媒体，又带动了一些敏感的传统媒体回应。
 
-![](/images/btnews/0401_0500/0437/c8a8870f-9f0d-41c8-bb2f-7b584de7f2eb.webp)
+![](/images/btnews/btnews/0401_0500/0437/c8a8870f-9f0d-41c8-bb2f-7b584de7f2eb.webp)
 
 https://3g.163.com/dy/article/H7IH8BK405371WZC.html
 
 
 美国白宫对这次特别峰会内容有详细介绍。峰会开得很高调，但拜登政府只确认了1.5亿美元的新投资，花钱的方向包括清洁能源、森林和气候保护、交通与教育，医疗和公共卫生。其中最大一个项目是海事合作。我们找不到任何能解释为“重塑供应链”的项目。
 
-![](/images/btnews/0401_0500/0437/b74c24c0-cca1-4e57-84e1-13b451cc4d94.webp)
+![](/images/btnews/btnews/0401_0500/0437/b74c24c0-cca1-4e57-84e1-13b451cc4d94.webp)
 
 
-![](/images/btnews/0401_0500/0437/85c6073a-053b-4e72-b476-056a0a5cb6a4.webp)
+![](/images/btnews/btnews/0401_0500/0437/85c6073a-053b-4e72-b476-056a0a5cb6a4.webp)
 
 https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/12/fact-sheet-u-s-asean-special-summit-in-washington-dc/
 
 
 从技术角度看，无论是美国还是大多数东盟国家，都没有现成的官方机构，能够直接指导企业，找到最可行的跨国产业链方案。某些报道凭空设想“美国从中国剥离产业链，分别指派给最擅长的东盟国家”，这就像看到一个巨人力气很大，就担心巨人来抢绣花的生意一样，完全没考虑巨人也许根本没有刺绣的能力。今后几年，中国企业不用担心自己的订单被某个美国法案直接转给东南亚竞争企业。
 
-![](/images/btnews/0401_0500/0437/fdfb2922-43ec-42c6-b78e-165673e1ca62.webp)
+![](/images/btnews/btnews/0401_0500/0437/fdfb2922-43ec-42c6-b78e-165673e1ca62.webp)
 
 白宫发布战略：振兴美国制造业和供应链
 https://www.hklaw.com/en/insights/publications/2022/03/white-house-outlines-strategy
@@ -67,7 +67,7 @@ https://www.hklaw.com/en/insights/publications/2022/03/white-house-outlines-stra
 
 美国对来自太平洋西岸的竞争，上一次的胜利经验是20世纪40年代打败日本。当时的日本，海空军发展目标是达到美国70%实力，可以单独对付美国在大西洋之外的全部力量。虽然日本最终没能达到美国7成战斗力，但日本军队的确一度深入中太平洋打击美国基地，在一段时间内取得太平洋战场的战略主动权，同时还能腾出手消灭英国的远东舰队，以微不足道的代价控制了半个印度洋。东南亚夹在印度洋和太平洋之间，完全被日本拿下，变成资源产地。日本能把战争持续到1945年，最主要的原因是控制了东南亚油田。
 
-![](/images/btnews/0401_0500/0437/671f31f1-f9da-46d3-8e8a-d0fe1fc17e7e.webp)
+![](/images/btnews/btnews/0401_0500/0437/671f31f1-f9da-46d3-8e8a-d0fe1fc17e7e.webp)
 
 
 
@@ -79,7 +79,7 @@ https://www.hklaw.com/en/insights/publications/2022/03/white-house-outlines-stra
 
 2022年的今天，中国能投放到大洋的军事力量还差美国一个数量级，再怎么狂想，中国也不可能靠战略突袭拿到大洋制海权。但是中国实体经济发展快，不断缩小和美国的差距，未来可以预期拥有更多的海空军，超越日本提出的美国7成标准。现在是美国担心海军的“现货”优势贬值，未来不能像今天这样独占大洋，所以会考虑用军事和政治上的“现货”压制中国的“期货”，打击中国的整体供应链优势。
 
-![](/images/btnews/0401_0500/0437/18afa426-ed2d-4875-a348-f3635fbd3460.webp)
+![](/images/btnews/btnews/0401_0500/0437/18afa426-ed2d-4875-a348-f3635fbd3460.webp)
 
 
 
@@ -94,12 +94,12 @@ https://www.hklaw.com/en/insights/publications/2022/03/white-house-outlines-stra
 
 大多数产业链不是一个大资本能从头管到尾的。就算资本能全行业纵向渗透，也不可能掌握全部接口的技术信息。如果真的把几十家企业赶出供应链，哪怕照抄之前的产业布局，找几十家同类企业来接班，也要重新确认技术接口，理顺相互之间的技术关系。重新启动生产，起码要半年时间。这别说完成之前的订单赚钱，零售商那边可能根本就不和你这条半死不活的供应链做生意了。
 
-![](/images/btnews/0401_0500/0437/d0522acd-20b5-4ca5-b599-9049b68d8898.webp)
+![](/images/btnews/btnews/0401_0500/0437/d0522acd-20b5-4ca5-b599-9049b68d8898.webp)
 
 https://www.investopedia.com/terms/s/supplychain.asp
  
 
-![](/images/btnews/0401_0500/0437/003b7692-5dfd-400f-9354-b0352985cb21.webp)
+![](/images/btnews/btnews/0401_0500/0437/003b7692-5dfd-400f-9354-b0352985cb21.webp)
 
 https://www.techtarget.com/whatis/definition/supply-chain
 
@@ -112,28 +112,28 @@ https://www.techtarget.com/whatis/definition/supply-chain
 
 2018年4月中美贸易战正式爆发。但2018年的中美贸易数据基本看不出来变化。进出口都继续快速增长，中美贸易总额首次超过6000亿美元。中国对全世界的外贸规模也快速扩大。
 
-![](/images/btnews/0401_0500/0437/47e5881a-a953-49e9-91b5-89162cf1d4d0.webp)
+![](/images/btnews/btnews/0401_0500/0437/47e5881a-a953-49e9-91b5-89162cf1d4d0.webp)
 
 https://baijiahao.baidu.com/s?id=1622894007118594949
 
-![](/images/btnews/0401_0500/0437/95b144df-8fd9-4e7c-8247-9798f53e60ff.webp)
+![](/images/btnews/btnews/0401_0500/0437/95b144df-8fd9-4e7c-8247-9798f53e60ff.webp)
 
 https://baijiahao.baidu.com/s?id=1622606090394330323
 
 
 2019年，特普朗政府继续扩大加征关税范围，中美贸易战进入高峰期。当年如果只看双边贸易数据，关税壁垒的效果很明显，中美贸易额收缩了百分之15。
 
-![](/images/btnews/0401_0500/0437/96c630d6-bc7c-410b-8b96-029f7c3646f5.webp)
+![](/images/btnews/btnews/0401_0500/0437/96c630d6-bc7c-410b-8b96-029f7c3646f5.webp)
 
 https://sputniknews.cn/20200114/1030443429.html
 
 
 但是2019年中国整体外贸额还是创下了历史新纪录，当年增长率也排在全球主要经济体的前列，似乎说明中国在美国之外找到了合适的贸易对象。
 
-![](/images/btnews/0401_0500/0437/a21ec116-3994-4723-9ebe-49371294e22f.webp)
+![](/images/btnews/btnews/0401_0500/0437/a21ec116-3994-4723-9ebe-49371294e22f.webp)
 
 
-![](/images/btnews/0401_0500/0437/6edd17ac-2c92-4b34-92a8-c578dfa5c643.webp)
+![](/images/btnews/btnews/0401_0500/0437/6edd17ac-2c92-4b34-92a8-c578dfa5c643.webp)
 
 https://baijiahao.baidu.com/s?id=1655785474367397451
 
@@ -143,19 +143,19 @@ https://baijiahao.baidu.com/s?id=1655785474367397451
 
 按外贸行业惯例，可以合理推断，多半是出口企业把产品运进中美海关的时候，使用了中转地名义。还有一部分商品，出口国海关也不清楚最终消费国，最终都进了中美两国。2019年中美两国只是在名义上压缩了贸易规模，实际上中国需要美国提供的现金和技术，美国需要中国商品的规模和廉价，都在加深依赖性。
 
-![](/images/btnews/0401_0500/0437/7b9c8b4b-02e4-4f90-b294-7976eaa52aaa.webp)
+![](/images/btnews/btnews/0401_0500/0437/7b9c8b4b-02e4-4f90-b294-7976eaa52aaa.webp)
 
 https://sputniknews.cn/20200114/1030443429.html
  
 
-![](/images/btnews/0401_0500/0437/36014440-af9a-426a-abc7-bab6291ffeb3.webp)
+![](/images/btnews/btnews/0401_0500/0437/36014440-af9a-426a-abc7-bab6291ffeb3.webp)
 
 https://countryreport.mofcom.gov.cn/record/view.asp?news_id=67856
 
 
 2020年新冠疫情开始全面冲击世界经济，同时特朗普输掉了大选，中美双边贸易额显著反弹。2021年，中美贸易额创出历史新高，完全收复了贸易战以来的全部降幅。
 
-![](/images/btnews/0401_0500/0437/2b33b191-508b-40ab-892d-7c5e60b6b2f9.webp)
+![](/images/btnews/btnews/0401_0500/0437/2b33b191-508b-40ab-892d-7c5e60b6b2f9.webp)
 
 https://sputniknews.cn/20220114/2021755645-287-1037091649.html?modal=feedback
 
@@ -165,13 +165,13 @@ https://sputniknews.cn/20220114/2021755645-287-1037091649.html?modal=feedback
 
 美国进口商找了一圈，没有其它可靠的供应来源，最后只能自己掏钱来付关税。后续研究也发现，美国进口商和消费者是贸易战关税的主要承担者。
 
-![](/images/btnews/0401_0500/0437/6b1ac477-7a06-4db4-9a32-0a13d3eb2e78.webp)
+![](/images/btnews/btnews/0401_0500/0437/6b1ac477-7a06-4db4-9a32-0a13d3eb2e78.webp)
 
 特朗普的中国关税——由美国进口商支付，而不是中国
 https://www.reuters.com/article/us-usa-trade-china-tariffs-explainer-idUSKCN1UR5YZ
  
 
-![](/images/btnews/0401_0500/0437/a5df8c57-da61-45bd-a911-4319725d3f19.webp)
+![](/images/btnews/btnews/0401_0500/0437/a5df8c57-da61-45bd-a911-4319725d3f19.webp)
 
 事实，特朗普的关税伤害了美国进口商
 https://anderson-review.ucla.edu/trumps-tariffs-did-in-fact-hurt-u-s-importers/
@@ -179,7 +179,7 @@ https://anderson-review.ucla.edu/trumps-tariffs-did-in-fact-hurt-u-s-importers/
 
 这意味着贸易战没有影响中国的消费品工业以及上游产业，反而推动了美国物价上涨，给印美元制造阻力。最近几天，美国财长耶伦公开承认，她在内部讨论中建议取消部分“没有战略意义的关税”。实际上就是批评贸易战没效果。
 
-![](/images/btnews/0401_0500/0437/28da65c1-098f-4e29-ac82-7b819093a4dd.webp)
+![](/images/btnews/btnews/0401_0500/0437/28da65c1-098f-4e29-ac82-7b819093a4dd.webp)
 
 https://www.cls.cn/detail/1018565
 
@@ -192,30 +192,30 @@ https://www.cls.cn/detail/1018565
 
 这次美国东盟峰会虽然没有直接提到供应链问题，但人无近虑必有远忧，中国的确还没到庆祝贸易战胜利的时候，必须严肃考虑美国利用政治优势，逐步转移供应链的可能性。
 
-![](/images/btnews/0401_0500/0437/e460f9ec-ab72-4c8b-be96-4fe78c3fb571.webp)
+![](/images/btnews/btnews/0401_0500/0437/e460f9ec-ab72-4c8b-be96-4fe78c3fb571.webp)
 
 21年2月拜登政府发布行政令调查供应链安全问题
 https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/
  
 
-![](/images/btnews/0401_0500/0437/bb5dd7d2-862f-4e77-af8d-4298504bdfeb.webp)
+![](/images/btnews/btnews/0401_0500/0437/bb5dd7d2-862f-4e77-af8d-4298504bdfeb.webp)
 
 21年6月白宫发布关键产品供应链安全初步评估报告
 https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities/
  
 
-![](/images/btnews/0401_0500/0437/ddce62f5-d18b-4f21-8a0b-affd0e4b80c1.webp)
+![](/images/btnews/btnews/0401_0500/0437/ddce62f5-d18b-4f21-8a0b-affd0e4b80c1.webp)
 
 https://www.whitehouse.gov/wp-content/uploads/2021/06/100-day-supply-chain-review-report.pdf
  
 
-![](/images/btnews/0401_0500/0437/91245b34-03a0-40ca-9eec-d0bd69da081f.webp)
+![](/images/btnews/btnews/0401_0500/0437/91245b34-03a0-40ca-9eec-d0bd69da081f.webp)
 
 22年2月白宫发布供应链安全全面评估报告
 https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/24/the-biden-harris-plan-to-revitalize-american-manufacturing-and-secure-critical-supply-chains-in-2022/
  
 
-![](/images/btnews/0401_0500/0437/eba4e230-cc38-482d-acf4-6cc8c4344d56.webp)
+![](/images/btnews/btnews/0401_0500/0437/eba4e230-cc38-482d-acf4-6cc8c4344d56.webp)
 
 白宫宣布新的长期供应链弹性新措施
 https://thehill.com/homenews/administration/595570-white-house-announces-new-steps-for-long-term-supply-chain-resilience/
@@ -231,14 +231,14 @@ https://thehill.com/homenews/administration/595570-white-house-announces-new-ste
 
 从去年年中开始，美国就在规划一个与产业竞争有关的重要法案。今年2月和3月份，美众议院和参议院分别投票通过了《2022美国竞争法案》。现在上下院正在协调法案的文本差异，尽管进度不快，但最后通过只是时间问题。
 
-![](/images/btnews/0401_0500/0437/edf47adc-dd11-433a-bb72-dd42b09cd603.webp)
+![](/images/btnews/btnews/0401_0500/0437/edf47adc-dd11-433a-bb72-dd42b09cd603.webp)
 
 
 
 美众议院通过《2022美国竞争法案》
 https://www.aamc.org/advocacy-policy/washington-highlights/house-passes-america-competes-act
  
-![](/images/btnews/0401_0500/0437/8097d8b1-b14b-4d69-88a0-c6dda404eb0e.webp)
+![](/images/btnews/btnews/0401_0500/0437/8097d8b1-b14b-4d69-88a0-c6dda404eb0e.webp)
 
 美参议院通过《2022美国竞争法案》
 https://www.pbs.org/newshour/politics/watch-live-senate-resumes-consideration-of-the-2022-america-competes-act
@@ -247,7 +247,7 @@ https://www.pbs.org/newshour/politics/watch-live-senate-resumes-consideration-of
 通过之后，该法案预计最多可以给美国科技产业提供2000亿美元的资助。就算考虑到通货膨胀，这也是冷战后美国官方对科技产业最大的一笔直接补贴。
 
 
-![](/images/btnews/0401_0500/0437/1838ac25-cd7d-4490-b865-7d96f3cc2b49.webp)
+![](/images/btnews/btnews/0401_0500/0437/1838ac25-cd7d-4490-b865-7d96f3cc2b49.webp)
 
 《2022美国竞争法案》众院版本
 https://www.speaker.gov/sites/speaker.house.gov/files/America%20COMPETES%20Act%20of%202022%20HR%204521.pdf
@@ -255,37 +255,37 @@ https://www.speaker.gov/sites/speaker.house.gov/files/America%20COMPETES%20Act%2
 
 这个法案不仅是美国自己的经济问题，条款中到处都是针对中国的内容。美国公司如果想拿政府的补贴，就要在对应的产业隔离中国机构和企业。中国以后再想消化美国的现有技术，成本肯定会提高。
  
-![](/images/btnews/0401_0500/0437/d681f42c-b1e7-40f4-8129-b85d5823ad9d.webp)
+![](/images/btnews/btnews/0401_0500/0437/d681f42c-b1e7-40f4-8129-b85d5823ad9d.webp)
 
 
 
 限制科技产业，是压制中国产业升级。下一个问题是压制中国产业链的复杂性，这方面美国认识到自己的制造业人口不够，必须拉上盟友一起做。《华尔街日报》为此造了一个新词叫“友岸外包”。
 
-![](/images/btnews/0401_0500/0437/3461caa9-1046-446f-aa09-16bf209ab2fc.webp)
+![](/images/btnews/btnews/0401_0500/0437/3461caa9-1046-446f-aa09-16bf209ab2fc.webp)
 
 https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%8A%E7%9B%9F%E5%8F%8B%E5%AF%BB%E6%B1%82%E9%87%8D%E7%BB%84%E4%BE%9B%E5%BA%94%E9%93%BE-%E4%BB%8E%E7%A6%BB%E5%B2%B8%E5%A4%96%E5%8C%85%E8%BD%AC%E5%90%91-%E5%8F%8B%E5%B2%B8%E5%A4%96%E5%8C%85-11652691308?mod=ig_bidenpolicycn
 
 
 这次与东盟的特别峰会上，美国的确没有当面提出产业链问题，但紧接着拜登5月20号到24号出访日韩，就正式提出了“印太经济框架”——IPEF倡议。日本和韩国立刻宣布正式加入。
 
-![](/images/btnews/0401_0500/0437/a7ac8ec4-fc99-439c-b5de-e14953d03229.webp)
+![](/images/btnews/btnews/0401_0500/0437/a7ac8ec4-fc99-439c-b5de-e14953d03229.webp)
 
 http://www.cankaoxiaoxi.com/kuaixun/20220518/2479529.shtml
  
 
-![](/images/btnews/0401_0500/0437/36b8e50d-a264-41f8-9ba8-db0fef3904a4.webp)
+![](/images/btnews/btnews/0401_0500/0437/36b8e50d-a264-41f8-9ba8-db0fef3904a4.webp)
 
 https://newsdig.tbs.co.jp/articles/-/48185
  
 
-![](/images/btnews/0401_0500/0437/b7f9df51-b49d-4c78-b530-ab890005d027.webp)
+![](/images/btnews/btnews/0401_0500/0437/b7f9df51-b49d-4c78-b530-ab890005d027.webp)
 
 http://m.cyol.com/gb/articles/2022-05/18/content_4qPEjiWZY.html
 
 
 美国的官方说法是，IPEF将成为“高质量贸易关系”的模范，翻译成大白话，就是要建立一个排斥中国的小圈子。从目前透露的内容看，调整跨国供应链布局是小圈子的主要任务之一。
 
-![](/images/btnews/0401_0500/0437/fa7d3c02-6125-40de-b82a-21f12d4c1935.webp)
+![](/images/btnews/btnews/0401_0500/0437/fa7d3c02-6125-40de-b82a-21f12d4c1935.webp)
 
 https://www3.nhk.or.jp/nhkworld/en/news/20220518_23/
 
@@ -295,7 +295,7 @@ https://www3.nhk.or.jp/nhkworld/en/news/20220518_23/
 
 日韩加入IPEF一开始就没有悬念，澳新参加的可能性也极大，下一步需要观察的是亚太其它经济体，尤其是东南亚国家的动向。
 
-![](/images/btnews/0401_0500/0437/55b6ac91-1448-4db4-9a63-c8a418860e14.webp)
+![](/images/btnews/btnews/0401_0500/0437/55b6ac91-1448-4db4-9a63-c8a418860e14.webp)
 
 https://www.nardelloandco.com/ja/insights/china-plus-10/
 
@@ -308,7 +308,7 @@ IPEF，也就是“印太经济框架”，会给成员带来什么好处呢？
 
 2016年，特朗普靠产业衰退区的平民支持，当了美国总统。这些人不仅对中国产业竞争不满，对日本韩国乃至东南亚的产业竞争也不满意。美国如果想复制冷战后期压制苏联的战略，拿出更多的国内市场扶持战略盟友，恐怕只有少数几个金融和科技发达的州会支持。当初特朗普退出TPP时，美国精英界还批评他迎合民粹，但拜登上台后也一再重申，绝不会重返TPP。所以，美国自己用什么东西来交换印太经济框架，是美国潜在盟友最关心的条件。
 
-![](/images/btnews/0401_0500/0437/c3deb139-4419-4cf0-ba59-acd1b99a9d10.webp)
+![](/images/btnews/btnews/0401_0500/0437/c3deb139-4419-4cf0-ba59-acd1b99a9d10.webp)
 
 https://www.sohu.com/a/490427808_115479
 
@@ -319,14 +319,14 @@ https://www.sohu.com/a/490427808_115479
 
 越南的疑问，也是东盟的疑问。1999年以来，中国一直是东盟最大的贸易伙伴。到2020年，中国与东盟的贸易额已经增长到6846亿美元，几乎是美国与东盟贸易额的两倍。
 
-![](/images/btnews/0401_0500/0437/a106ed59-cfc3-461f-82c1-27d68ebd9836.webp)
+![](/images/btnews/btnews/0401_0500/0437/a106ed59-cfc3-461f-82c1-27d68ebd9836.webp)
 
 http://asean.mofcom.gov.cn/article/jmxw/202101/20210103033653.shtml
 
 
 所以，东盟最关心的并不是消灭中国供应链，而是怎样利用中美对抗提升自己的技术能力。对于中国经济来说，最大的直接威胁，也不是美国现在不知道怎么落实的对抗许诺，而是和中国人同样努力的竞争对手。
 
-![](/images/btnews/0401_0500/0437/2f6c3d5e-dc36-49cd-b49a-40558290f1a3.webp)
+![](/images/btnews/btnews/0401_0500/0437/2f6c3d5e-dc36-49cd-b49a-40558290f1a3.webp)
 
 https://www.jiemian.com/article/7488246.html
 
@@ -336,78 +336,78 @@ https://www.jiemian.com/article/7488246.html
 
 406期节目播出之后，越南一季度和4月份的经济数据公布，正好赶上中国经济短期大幅度下滑，“越南出口超过深圳”成了简体中文互联网的热搜新闻。虽然2019年越南出口就曾经超过深圳，但这次经济此消彼长，国内的情绪还是很悲观，担心越南和其他东盟国家和中国竞争。
 
-![](/images/btnews/0401_0500/0437/ab3b55c4-504d-4f96-a3f0-892f622275fc.webp)
+![](/images/btnews/btnews/0401_0500/0437/ab3b55c4-504d-4f96-a3f0-892f622275fc.webp)
 
 https://baijiahao.baidu.com/s?id=1731974702340284080
 
 
 这些消息也许不能改变中美实力对比，但的确给东南亚带来了影响。根据美国官方数据，从2018年到2021年，中国占美国电子产品进口的比例下降了近10个百分点。这部分市场，基本上被东南亚拿走了。其中又有一半多落到了越南。这是最近几年越南出口上升，赶超深圳的主要动力。
 
-![](/images/btnews/0401_0500/0437/bd25b7c7-0fe1-4219-806a-da2851487d9d.webp)
+![](/images/btnews/btnews/0401_0500/0437/bd25b7c7-0fe1-4219-806a-da2851487d9d.webp)
 
 美国电子产品进口来源地区比例
 https://macropolo.org/analysis/supply-chain-diversification-quitting-china-is-hard/
  
 
-![](/images/btnews/0401_0500/0437/7252046d-0ce1-4ca9-b658-5a7e0c4a7e4d.webp)
+![](/images/btnews/btnews/0401_0500/0437/7252046d-0ce1-4ca9-b658-5a7e0c4a7e4d.webp)
 
 美国电子产品进口增长来源地区占比（2018-2021）
 
 
 和造运动鞋一样，越南这些电子产业，也是紧紧依托中日韩产业链运转。大多数核心部件和技术服务业需要进口。所以，虽然越南对美国的出口额上升，但是整个东南亚制造业占全球的比例没有明显变化。倒是中国制造业占全球的比例上升了。这说明电子产业比造运动鞋复杂。运动鞋流水线能快速吸引设备制造商进驻，电子组装厂没那么容易吸引上游产业到越南发展。
 
-![](/images/btnews/0401_0500/0437/692955f0-e4c3-4064-8e7c-f17c0b644828.webp)
+![](/images/btnews/btnews/0401_0500/0437/692955f0-e4c3-4064-8e7c-f17c0b644828.webp)
 
 
 
 现在越南的电子信息类产品出口总额，韩国三星的工厂占了一半以上，营收达到742亿美元。相当于越南当年GDP的20%。但考虑到大多数出口品都要靠进口核心组件运行，这些组装厂的真实GDP非常有限。
 
-![](/images/btnews/0401_0500/0437/f5846b2c-9c43-4516-a1f2-7ed9a8b44de1.webp)
+![](/images/btnews/btnews/0401_0500/0437/f5846b2c-9c43-4516-a1f2-7ed9a8b44de1.webp)
 
 https://www.investgo.cn/article/gb/tjsj/202201/574259.html
 
 
 2021年越南进出口总额6685亿美元，是当年GDP的近两倍。其中出口额3363亿，进口3322亿，顺差只有41亿美元。
 
-![](/images/btnews/0401_0500/0437/868df641-fd7f-47a9-997a-d68a5d44ae70.webp)
+![](/images/btnews/btnews/0401_0500/0437/868df641-fd7f-47a9-997a-d68a5d44ae70.webp)
 
 http://hochiminh.mofcom.gov.cn/article/jmxw/202201/20220103238026.shtml
 
 
 这6000多亿美元的进出口总额，最主要的贸易对象就是中国。按中国海关统计，中国越南贸易额是2300亿美元，越南海关认为是1658亿。差了六百多亿美元，原因恐怕要问越南自己。
 
-![](/images/btnews/0401_0500/0437/43554131-397d-4890-9406-65ca72b9a863.webp)
+![](/images/btnews/btnews/0401_0500/0437/43554131-397d-4890-9406-65ca72b9a863.webp)
 
 http://vn.mofcom.gov.cn/article/jmxw/202201/20220103240106.shtml
 
 
 但无论中越哪一方的统计，都显示越南去年对中国有巨大的逆差，最少也有456亿美元，比2020年又增加100亿。今年1到4月，越南对华贸易逆差又进一步增加，已经超过200亿美元。从中国对越出口商品结构看，大部分是机电和纺织产品。
 
-![](/images/btnews/0401_0500/0437/e68e775e-5a1a-4d88-98cd-cdf532dbc1f2.webp)
+![](/images/btnews/btnews/0401_0500/0437/e68e775e-5a1a-4d88-98cd-cdf532dbc1f2.webp)
 
 
 
 这说明，至少在当前阶段，越南提高对欧美的出口，前提是从中国进口技术产品，对中国经济也有刺激作用。
 
-![](/images/btnews/0401_0500/0437/9c2e6722-38a6-4823-ad82-9f5c451faa33.webp)
+![](/images/btnews/btnews/0401_0500/0437/9c2e6722-38a6-4823-ad82-9f5c451faa33.webp)
 
 越南2020年主要出口对象
 https://www.statista.com/statistics/1088039/vietnam-main-export-trade-partners-by-trade-value/
  
 
-![](/images/btnews/0401_0500/0437/bc5ba98c-b1f3-40c3-b506-2464b0de7f7b.webp)
+![](/images/btnews/btnews/0401_0500/0437/bc5ba98c-b1f3-40c3-b506-2464b0de7f7b.webp)
 
 越南进口来源比例（2020）
 https://www.exportgenius.in/export-import-trade-data/vietnam-import.php
  
 
-![](/images/btnews/0401_0500/0437/598b8d53-1413-4fd1-8a8c-620c6135eed8.webp)
+![](/images/btnews/btnews/0401_0500/0437/598b8d53-1413-4fd1-8a8c-620c6135eed8.webp)
 
 中国对越南出口商品结构（中国海关总署，2020）
 https://www.essra.org.cn/view-1000-1957.aspx
  
 
-![](/images/btnews/0401_0500/0437/08f37bf9-7f19-472a-be5b-2617613783c1.webp)
+![](/images/btnews/btnews/0401_0500/0437/08f37bf9-7f19-472a-be5b-2617613783c1.webp)
 
 http://www.eeo.com.cn/2022/0513/534566.shtml
 
@@ -417,20 +417,20 @@ http://www.eeo.com.cn/2022/0513/534566.shtml
 
 比如说马来西亚是东盟里仅次于新加坡的新兴工业国，它的十大进口和出口对象里，只有新加坡和泰国是东盟成员。
 
-![](/images/btnews/0401_0500/0437/ff012b23-1867-450f-a3ae-91c3400023ce.webp)
+![](/images/btnews/btnews/0401_0500/0437/ff012b23-1867-450f-a3ae-91c3400023ce.webp)
 
 2020年马来西亚主要出口对象（马来西亚统计局）
 
 https://www.matrade.gov.my/en/malaysian-exporters/services-for-exporters/trade-market-information/trade-statistics/28-malaysian-exporters/trade-statistics/5257-top-10-major-export-countries-2021
  
 
-![](/images/btnews/0401_0500/0437/22dde20b-7c8a-4c4b-be80-ee4b6572262b.webp)
+![](/images/btnews/btnews/0401_0500/0437/22dde20b-7c8a-4c4b-be80-ee4b6572262b.webp)
 
 2020年马来西亚主要进口来源（马来西亚统计局）
 https://www.matrade.gov.my/en/malaysian-exporters/services-for-exporters/trade-market-information/trade-statistics/28-malaysian-exporters/trade-statistics/5607-top-10-major-import-countries-2021
  
 
-![](/images/btnews/0401_0500/0437/9349f359-d821-49e1-b28c-42d0d75f75a5.webp)
+![](/images/btnews/btnews/0401_0500/0437/9349f359-d821-49e1-b28c-42d0d75f75a5.webp)
 
 2020年马来西亚对东盟各国出口额
 https://www.miti.gov.my/miti/resources/Media%20Release/Media_Statement_-_Malaysia_External_Trade_Statistics.pdf
@@ -441,7 +441,7 @@ https://www.miti.gov.my/miti/resources/Media%20Release/Media_Statement_-_Malaysi
 
 如果中国产业水平能持续升级，就算越南或者东盟占据更多的出口市场，全世界对中国制造业的依赖性也会提高。如果中国不能升级，美国国务卿就算说服不了越南来挖墙角，也能找其他国家来挖。在这个博弈过程中，越南或者整个东盟的竞争并不是影响中国经济地位的关键因素。
 
-![](/images/btnews/0401_0500/0437/26be2270-2c39-4a60-ba4e-5e7db8da61d2.webp)
+![](/images/btnews/btnews/0401_0500/0437/26be2270-2c39-4a60-ba4e-5e7db8da61d2.webp)
 
 亚洲供应链多元化：退出中国很难
 https://macropolo.org/analysis/supply-chain-diversification-quitting-china-is-hard/
@@ -465,5 +465,5 @@ https://macropolo.org/analysis/supply-chain-diversification-quitting-china-is-ha
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0437/384ecf74-4e27-491f-8333-8714f8f7391f.webp)
+![](/images/btnews/btnews/0401_0500/0437/384ecf74-4e27-491f-8333-8714f8f7391f.webp)
 

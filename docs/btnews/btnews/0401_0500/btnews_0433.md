@@ -5,7 +5,7 @@ date: 2022-05-17
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0433/8e27b8cc-f971-429b-9e10-6eec0045e42c.webp)
+![](/images/btnews/btnews/0401_0500/0433/8e27b8cc-f971-429b-9e10-6eec0045e42c.webp)
 
 
 
@@ -21,7 +21,7 @@ date: 2022-05-17
 
 
 
-![](/images/btnews/0401_0500/0433/d10ab373-8fe1-48ab-ba39-71f77b49cc69.webp)
+![](/images/btnews/btnews/0401_0500/0433/d10ab373-8fe1-48ab-ba39-71f77b49cc69.webp)
 
 https://www.qbitai.com/2022/03/33673.html
 
@@ -33,10 +33,10 @@ https://www.qbitai.com/2022/03/33673.html
 
 
 
-![](/images/btnews/0401_0500/0433/995a9fdb-30d7-4c55-9e6b-027a5b85ce81.webp)
+![](/images/btnews/btnews/0401_0500/0433/995a9fdb-30d7-4c55-9e6b-027a5b85ce81.webp)
 
 
-![](/images/btnews/0401_0500/0433/42b25d05-ffee-4550-b796-d3954a85cded.webp)
+![](/images/btnews/btnews/0401_0500/0433/42b25d05-ffee-4550-b796-d3954a85cded.webp)
 
 
 
@@ -48,7 +48,7 @@ https://www.qbitai.com/2022/03/33673.html
 人体细胞膜和细胞器膜上有TRP分子，构成了非选择性阳离子通道，可以控制离子运动传递信息。其中一种TRP-V1通道，激活之后，作用是提高细胞内钙离子浓度，制造疼痛和对应的生理兴奋反应。外界激活TRP-V1通道的方式包括两种常见的办法，吃辣椒和加热。TRP-V1通道比较敏感的人，吃辣椒的快感就比较强。
  
 
-![](/images/btnews/0401_0500/0433/7789694d-1f6b-496a-a288-6ef15cd743db.webp)
+![](/images/btnews/btnews/0401_0500/0433/7789694d-1f6b-496a-a288-6ef15cd743db.webp)
 
 
 
@@ -63,7 +63,7 @@ https://www.qbitai.com/2022/03/33673.html
 
 
 
-![](/images/btnews/0401_0500/0433/c3816f92-55d3-43c9-8d50-4147b1f04529.webp)
+![](/images/btnews/btnews/0401_0500/0433/c3816f92-55d3-43c9-8d50-4147b1f04529.webp)
 
 
 
@@ -77,7 +77,7 @@ https://www.qbitai.com/2022/03/33673.html
  
 实验结果显示，那些既修改了基因，又注射了纳米光热传感器的小鼠，行为模式变化最明显。用围栏做实验，打开围栏上方的近红外灯之后，原来只在小范围活动的小鼠，立刻开始大幅绕圈，活动范围显著增加。其他三组小鼠就没有类似的表现。
  
-![](/images/btnews/0401_0500/0433/179d08a7-7c92-43ae-afe6-db7017dc1fab.webp)
+![](/images/btnews/btnews/0401_0500/0433/179d08a7-7c92-43ae-afe6-db7017dc1fab.webp)
 
 
 
@@ -90,7 +90,7 @@ https://www.qbitai.com/2022/03/33673.html
 这些实验说明，现阶段如果想用红外光改变哺乳动物的行为，必须是对转基因加注射传感器的生物起效，所以研究团队并没有过高强调研究成果的意义，只是说，应该研究各种波长的近红外照射，尝试调节实验动物情绪，研究动物的社会行为。
  
 
-![](/images/btnews/0401_0500/0433/dadcab9e-6fde-4935-b73f-84de903dd3f3.webp)
+![](/images/btnews/btnews/0401_0500/0433/dadcab9e-6fde-4935-b73f-84de903dd3f3.webp)
 
 
 
@@ -104,7 +104,7 @@ https://www.qbitai.com/2022/03/33673.html
 
 
 
-![](/images/btnews/0401_0500/0433/ea42279a-1e34-45fa-a6a3-e09a3e1a5511.webp)
+![](/images/btnews/btnews/0401_0500/0433/ea42279a-1e34-45fa-a6a3-e09a3e1a5511.webp)
 
 
 
@@ -121,7 +121,7 @@ https://www.qbitai.com/2022/03/33673.html
 
 
 
-![](/images/btnews/0401_0500/0433/8c7863a8-0330-4f23-a9ae-102eff5909bf.webp)
+![](/images/btnews/btnews/0401_0500/0433/8c7863a8-0330-4f23-a9ae-102eff5909bf.webp)
 
 
 
@@ -129,7 +129,7 @@ https://www.qbitai.com/2022/03/33673.html
 
 
 
-![](/images/btnews/0401_0500/0433/fc6889ab-091b-405a-b664-6118a2177611.webp)
+![](/images/btnews/btnews/0401_0500/0433/fc6889ab-091b-405a-b664-6118a2177611.webp)
 
 
 
@@ -146,7 +146,7 @@ https://www.qbitai.com/2022/03/33673.html
 
 
 
-![](/images/btnews/0401_0500/0433/029b916b-8e03-45b2-a0ca-90021628c0ad.webp)
+![](/images/btnews/btnews/0401_0500/0433/029b916b-8e03-45b2-a0ca-90021628c0ad.webp)
 
 https://www.thepaper.cn/newsDetail_forward_18101200
 
@@ -156,7 +156,7 @@ https://www.thepaper.cn/newsDetail_forward_18101200
 
 
 
-![](/images/btnews/0401_0500/0433/20ff71a2-3149-4561-bbe3-7155cb87fc51.webp)
+![](/images/btnews/btnews/0401_0500/0433/20ff71a2-3149-4561-bbe3-7155cb87fc51.webp)
 
 
 
@@ -170,7 +170,7 @@ https://www.thepaper.cn/newsDetail_forward_18101200
 
 
 
-![](/images/btnews/0401_0500/0433/2e97a5da-6e7f-469a-aa28-f7e32e8dcb72.webp)
+![](/images/btnews/btnews/0401_0500/0433/2e97a5da-6e7f-469a-aa28-f7e32e8dcb72.webp)
 
 
 
@@ -178,7 +178,7 @@ https://www.thepaper.cn/newsDetail_forward_18101200
 
 
 
-![](/images/btnews/0401_0500/0433/43c3295c-4dd8-4f48-8914-9f97bf6fc17a.webp)
+![](/images/btnews/btnews/0401_0500/0433/43c3295c-4dd8-4f48-8914-9f97bf6fc17a.webp)
 
 
 
@@ -193,7 +193,7 @@ https://www.thepaper.cn/newsDetail_forward_18101200
 
 
 
-![](/images/btnews/0401_0500/0433/32202d16-ba38-4d76-99fa-e7ac0688ed44.webp)
+![](/images/btnews/btnews/0401_0500/0433/32202d16-ba38-4d76-99fa-e7ac0688ed44.webp)
 
 
  
@@ -204,7 +204,7 @@ https://www.thepaper.cn/newsDetail_forward_18101200
 
 
 
-![](/images/btnews/0401_0500/0433/fbce1e65-5706-4a38-87c3-afb60c2d9a58.webp)
+![](/images/btnews/btnews/0401_0500/0433/fbce1e65-5706-4a38-87c3-afb60c2d9a58.webp)
 
 
 
@@ -221,7 +221,7 @@ https://www.thepaper.cn/newsDetail_forward_18101200
 
 
 
-![](/images/btnews/0401_0500/0433/022a5b6f-b483-401d-8ab3-88bb0271a5b4.webp)
+![](/images/btnews/btnews/0401_0500/0433/022a5b6f-b483-401d-8ab3-88bb0271a5b4.webp)
 
 https://www.thecover.cn/video/9165787
 
@@ -231,7 +231,7 @@ https://www.thecover.cn/video/9165787
 
 
 
-![](/images/btnews/0401_0500/0433/c42175bb-cd99-4390-85c7-252528c7af95.webp)
+![](/images/btnews/btnews/0401_0500/0433/c42175bb-cd99-4390-85c7-252528c7af95.webp)
 
 https://t.ynet.cn/baijia/32644908.html
 
@@ -241,7 +241,7 @@ https://t.ynet.cn/baijia/32644908.html
 
 
 
-![](/images/btnews/0401_0500/0433/c055f00f-c966-4b2c-b7fe-631be5fd05f2.webp)
+![](/images/btnews/btnews/0401_0500/0433/c055f00f-c966-4b2c-b7fe-631be5fd05f2.webp)
 
 https://news.sina.com.cn/o/2022-05-16/doc-imcwipik0186687.shtml
 
@@ -257,7 +257,7 @@ https://news.sina.com.cn/o/2022-05-16/doc-imcwipik0186687.shtml
 
 
 
-![](/images/btnews/0401_0500/0433/1047c6e0-217a-4613-a14b-c36ca00529e6.webp)
+![](/images/btnews/btnews/0401_0500/0433/1047c6e0-217a-4613-a14b-c36ca00529e6.webp)
 
 https://m.huanqiu.com/article/47zVZdwbLJ8
 
@@ -267,7 +267,7 @@ https://m.huanqiu.com/article/47zVZdwbLJ8
 
 
 
-![](/images/btnews/0401_0500/0433/db7e6468-2c4f-4e87-9dca-8ae96ca7a301.webp)
+![](/images/btnews/btnews/0401_0500/0433/db7e6468-2c4f-4e87-9dca-8ae96ca7a301.webp)
 
 https://www.guancha.cn/economy/2022_05_15_639825.shtml
 
@@ -286,7 +286,7 @@ https://www.guancha.cn/economy/2022_05_15_639825.shtml
 
 
 
-![](/images/btnews/0401_0500/0433/43c42c94-0253-4f31-951b-f1a4a10734a3.webp)
+![](/images/btnews/btnews/0401_0500/0433/43c42c94-0253-4f31-951b-f1a4a10734a3.webp)
 
 
 
@@ -295,7 +295,7 @@ https://www.guancha.cn/economy/2022_05_15_639825.shtml
 
 
 
-![](/images/btnews/0401_0500/0433/0382bb0e-787b-4d53-a5ee-124b5f41142f.webp)
+![](/images/btnews/btnews/0401_0500/0433/0382bb0e-787b-4d53-a5ee-124b5f41142f.webp)
 
 https://baijiahao.baidu.com/s?id=1732966352752806555
 
@@ -311,5 +311,5 @@ https://baijiahao.baidu.com/s?id=1732966352752806555
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0433/ff589be3-12bb-4ffe-bb73-05ca8ecacfed.webp)
+![](/images/btnews/btnews/0401_0500/0433/ff589be3-12bb-4ffe-bb73-05ca8ecacfed.webp)
 

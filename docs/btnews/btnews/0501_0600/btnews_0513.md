@@ -5,7 +5,7 @@ date: 2022-11-18
 
 点击下图观看视频
 
-![](/images/btnews/0501_0600/0513/888b5f27-ed7a-46e0-a13a-992e3e773657.webp)
+![](/images/btnews/btnews/0501_0600/0513/888b5f27-ed7a-46e0-a13a-992e3e773657.webp)
 
 
 
@@ -22,25 +22,25 @@ date: 2022-11-18
 
 现在纳贡毕力格经常在整个蒙古族地区巡回演讲，还通过电视和网络媒体直播，拥有很强的媒体影响力。网络信息显示，他曾经向世界卫生组织驻联合国大使介绍蒙医蒙药。自从我们介绍以岭药业编造连花清瘟胶囊和世卫组织关系之后，就一直有蒙古族观众要求我们谈谈纳贡毕力格，督工你怎么看待这个“蒙古大夫”。
 
-![](/images/btnews/0501_0600/0513/908e5880-84b5-4e2d-a3b1-9b423fc7ba89.webp)
+![](/images/btnews/btnews/0501_0600/0513/908e5880-84b5-4e2d-a3b1-9b423fc7ba89.webp)
 
 https://baike.baidu.com/item/%E7%BA%B3%E8%B4%A1%E6%AF%95%E5%8A%9B%E6%A0%BC/22043271
 
 
 
-![](/images/btnews/0501_0600/0513/f398d6c4-1110-44df-aca7-cfdfe4b03130.webp)
+![](/images/btnews/btnews/0501_0600/0513/f398d6c4-1110-44df-aca7-cfdfe4b03130.webp)
 
 http://health.people.com.cn/n1/2016/1013/c407598-28776056.html
 
 
 
-![](/images/btnews/0501_0600/0513/3d9f4727-446c-4201-b1bb-744501d33acb.webp)
+![](/images/btnews/btnews/0501_0600/0513/3d9f4727-446c-4201-b1bb-744501d33acb.webp)
 
 https://max.book118.com/html/2019/0522/5203310212002040.shtm 
 
 
 
-![](/images/btnews/0501_0600/0513/ae6ac06e-d2bf-460d-9660-bbfeba9a6c2f.webp)
+![](/images/btnews/btnews/0501_0600/0513/ae6ac06e-d2bf-460d-9660-bbfeba9a6c2f.webp)
 
 
 
@@ -61,20 +61,20 @@ https://max.book118.com/html/2019/0522/5203310212002040.shtm 
 
 无论哪一种说法是真的，纳贡毕力格都是科班出身的医学博士，持证的国家二级心理咨询师，出身没有任何神秘色彩。他的蒙医心身疗法，很大程度上扎根于自己的科班教育。
 
-![](/images/btnews/0501_0600/0513/0199b42b-949f-4813-934c-b9a8419d072c.webp)
+![](/images/btnews/btnews/0501_0600/0513/0199b42b-949f-4813-934c-b9a8419d072c.webp)
 
 
 
 511期节目，我质疑了中国医学论文的可信性，但相对来说，医学论文的读者是同行，可信度还是高于日常讲座和宣传的。纳贡毕力格做治疗和开讲座的时候，宣称“心身疗法”是蒙医传统理念和西医理念有机融合，但是他自己有一篇论文《蒙医心身互动疗法治疗牛皮癣研究的阶段性成果》，明确解释了蒙医思想体系来源。这是1980年出现的年轻学科，恰好比我的年龄大一岁。麻烦静静帮我读一下纳贡毕力格论文中对蒙医理论起源的说法：
 
-![](/images/btnews/0501_0600/0513/0f69d7ae-09a1-4e47-b93b-185c3f8de423.webp)
+![](/images/btnews/btnews/0501_0600/0513/0f69d7ae-09a1-4e47-b93b-185c3f8de423.webp)
 
 http://www.cnki.com.cn/Article/CJFDTotal-ZMYZ201607001.htm
 
 
 1980年，国医大师苏荣扎布发表的“关于蒙医学整体观思想的初谈”论文中明确“以阴阳学说为基础的蒙医整体观思想是蒙医学理论的要点所在，人与自然的相关性、五行与三根的相关性、三根与七素三秽的相关性是它的基本内涵，三根与七素关系相关联的‘精浊代谢’理论是其精髓也”。
 
-![](/images/btnews/0501_0600/0513/615fe14f-720c-468f-8c05-52b58acbd738.webp)
+![](/images/btnews/btnews/0501_0600/0513/615fe14f-720c-468f-8c05-52b58acbd738.webp)
 
 https://zh.wikipedia.org/zh-cn/%E8%8B%8F%E8%8D%A3%E6%89%8E%E5%B8%83
 
@@ -105,14 +105,14 @@ https://zh.wikipedia.org/zh-cn/%E8%8B%8F%E8%8D%A3%E6%89%8E%E5%B8%83
 3. 健康教育讲座治疗，
 4. 现场现身说法汇报治疗。
 
-![](/images/btnews/0501_0600/0513/d70f1d34-2ceb-4363-8dc7-0e4a2ae166a9.webp)
+![](/images/btnews/btnews/0501_0600/0513/d70f1d34-2ceb-4363-8dc7-0e4a2ae166a9.webp)
 https://www.youtube.com/watch?v=AMqprqKeyW0&t=28s
 所以纳贡毕利格会经常四处巡演，现场做讲座，这也是他治疗方案的一部分。
 
 
 无论是听他描述，还是看现场视频，纳贡毕利格的治疗都像是邪教聚会，或者是20世纪80年代“气功大师”到现场发功。但是，纳贡毕利格运用公认的心理学研究模式，发过一篇论文，标题是《蒙医心身互动疗法的叙事特征》，解释了自己搞现场聚会的理由。
 
-![](/images/btnews/0501_0600/0513/9fd9db6a-f139-4a01-85f2-c128c4da7503.webp)
+![](/images/btnews/btnews/0501_0600/0513/9fd9db6a-f139-4a01-85f2-c128c4da7503.webp)
 https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2022.03.10 
 
 
@@ -121,7 +121,7 @@ https://yizhe.dmu.edu.cn/article/doi/10.12014/j.issn.1002-0772.2022.03.10 
 
 根据中国大百科全书网站的解释，叙事心理学的治疗方法重在调动病人的主观积极性，麻烦静静帮我读一段：
 
-![](/images/btnews/0501_0600/0513/ae2221af-c33a-47c9-99ec-ae8225aed924.webp)
+![](/images/btnews/btnews/0501_0600/0513/ae2221af-c33a-47c9-99ec-ae8225aed924.webp)
 
 
 
@@ -136,7 +136,7 @@ https://www.zgbk.com/ecph/words?SiteID=1&ID=207659&SubID=42908
 
 ②在治疗师的引导和帮助下，来访者对问题叙事进行修改使之积极和富有意义，为未来的行为变化而蓄势。
 
-![](/images/btnews/0501_0600/0513/fbc9bf50-76ea-4598-bbc4-757180c96911.webp)
+![](/images/btnews/btnews/0501_0600/0513/fbc9bf50-76ea-4598-bbc4-757180c96911.webp)
 
 
 
@@ -145,7 +145,7 @@ https://baike.baidu.com/item/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95/7328410
 
 国内也有介绍叙事疗法的教程，《医学和医学教育的叙事革命：后现代“生命文化”视角》，作者是杨晓霖。静静再帮我读一段：
 
-![](/images/btnews/0501_0600/0513/eb1e4e82-5f11-4ebc-a87d-6a3844eccda8.webp)
+![](/images/btnews/btnews/0501_0600/0513/eb1e4e82-5f11-4ebc-a87d-6a3844eccda8.webp)
 
 https://wenku.baidu.com/view/19a01ed980eb6294dd886cb9.html
 
@@ -155,7 +155,7 @@ https://wenku.baidu.com/view/19a01ed980eb6294dd886cb9.html
 
 粗略地说，叙事疗法会促使患者表达自己的人生，增强对生活的信心，也促进患者自愈信心。和传统的江湖骗子邪教团体不一样，纳贡毕利格绝对不会说用了他的蒙医治疗手段，就不用吃药。相反，一旦开始进行【个体治疗】，他明确说“针对某个病人，我要配合一些不同的药物”。
 
-![](/images/btnews/0501_0600/0513/d441c532-1e05-4f2b-8ea6-aeae435c8d9e.webp)
+![](/images/btnews/btnews/0501_0600/0513/d441c532-1e05-4f2b-8ea6-aeae435c8d9e.webp)
 
 https://www.youtube.com/watch?v=AMqprqKeyW0&t=28s
 
@@ -165,7 +165,7 @@ https://www.youtube.com/watch?v=AMqprqKeyW0&t=28s
 
 很多影视文学作品会把“催眠”神秘化，描绘一种失去意识，被催眠师操控的场景，而医学治疗中实际应用的催眠没有这么神秘，只是让患者全身放松的同时注意力集中，在医师的帮助下改变知觉，感觉和情绪。****
 
-![](/images/btnews/0501_0600/0513/051e9c2d-e1a8-40db-932b-d62acdd052bc.webp)
+![](/images/btnews/btnews/0501_0600/0513/051e9c2d-e1a8-40db-932b-d62acdd052bc.webp)
 
 
 https://m.kangainet.com/jiankangzixun/redianzixun/38024.html
@@ -204,9 +204,9 @@ https://m.kangainet.com/jiankangzixun/redianzixun/38024.html
 
 “这时候她才真正相信了蒙医心身医学的威力。” 
 
-![](/images/btnews/0501_0600/0513/ed60ace3-071e-4cfd-b558-b998a7de6b2a.webp)
+![](/images/btnews/btnews/0501_0600/0513/ed60ace3-071e-4cfd-b558-b998a7de6b2a.webp)
 
-![](/images/btnews/0501_0600/0513/aefcc230-69bd-4cf8-a710-556f5b7a8034.webp)
+![](/images/btnews/btnews/0501_0600/0513/aefcc230-69bd-4cf8-a710-556f5b7a8034.webp)
 
 《心灵甘露》正文P204
 
@@ -216,7 +216,7 @@ https://m.kangainet.com/jiankangzixun/redianzixun/38024.html
 
 最后她来到内蒙古国际蒙医医院，接受纳贡毕利格的治疗方法之后35天，没有吃任何药物的情况下，牛皮癣好了99%，抑郁的心态也大为好转。
 
-![](/images/btnews/0501_0600/0513/8afee961-d21d-46ee-8d76-c4fb46962bce.webp)
+![](/images/btnews/btnews/0501_0600/0513/8afee961-d21d-46ee-8d76-c4fb46962bce.webp)
 
 《心灵甘露》正文P37
 接下来是三个癌症案例。
@@ -230,22 +230,22 @@ https://m.kangainet.com/jiankangzixun/redianzixun/38024.html
 
 第三个癌症病例是《健康的钥匙掌握在自己手里》，胰腺癌转移患者，接受了200天治疗之后肿瘤标志物几乎全部消失。
 
-![](/images/btnews/0501_0600/0513/cdeb63d4-11d0-441a-88ac-6b0e30229ce7.webp)
+![](/images/btnews/btnews/0501_0600/0513/cdeb63d4-11d0-441a-88ac-6b0e30229ce7.webp)
 
 《心灵甘露》正文P226
 
-![](/images/btnews/0501_0600/0513/6a86d6d8-d7f6-4539-ae51-b477aeaea2a6.webp)
+![](/images/btnews/btnews/0501_0600/0513/6a86d6d8-d7f6-4539-ae51-b477aeaea2a6.webp)
 
 《心灵甘露》正文P122
 
-![](/images/btnews/0501_0600/0513/3c0dbbb0-f4bf-4d53-8c4d-b7f109d80f08.webp)
+![](/images/btnews/btnews/0501_0600/0513/3c0dbbb0-f4bf-4d53-8c4d-b7f109d80f08.webp)
 
 《心灵甘露》正文P182
 
 
 这两组案例明显超出了叙事疗法和催眠疗法的极限，我们只能先权且当做纳贡毕利格创造的奇迹。
 
-![](/images/btnews/0501_0600/0513/fc2c077a-86ac-4430-af5c-c55c3f07c690.webp)
+![](/images/btnews/btnews/0501_0600/0513/fc2c077a-86ac-4430-af5c-c55c3f07c690.webp)
 【上课过程中】
 https://www.youtube.com/watch?v=AMqprqKeyW0&t=28s
 虽然《心灵甘露》这本书反复宣传不治而愈的案例，但纳贡毕利格还是很小心地避免宣传失控。《心灵甘露》第一篇内容是《患者守则》，静静帮我读一下：
@@ -256,13 +256,13 @@ https://www.youtube.com/watch?v=AMqprqKeyW0&t=28s
 
 后面还有一篇《咨询须知》，纳贡毕利格再次强调，“他将健康教育与心理催眠技术有机结合…本疗法是一种辅助治疗手段，不能取代其他治疗方法”。
 
-![](/images/btnews/0501_0600/0513/7469813d-1c01-4dd4-bbf0-4333adb220b1.webp)
+![](/images/btnews/btnews/0501_0600/0513/7469813d-1c01-4dd4-bbf0-4333adb220b1.webp)
 
 《心灵甘露》《患者守则》P1
 
 
 
-![](/images/btnews/0501_0600/0513/e8999268-73d1-4350-8fe1-d1b857611aad.webp)
+![](/images/btnews/btnews/0501_0600/0513/e8999268-73d1-4350-8fe1-d1b857611aad.webp)
 
 《咨询须知》P1
 
@@ -272,7 +272,7 @@ https://www.youtube.com/watch?v=AMqprqKeyW0&t=28s
 
 “作者从临床研究角度证明了蒙医心身互动疗法治疗躯体及其心理疾病的良好疗效。其中治疗牛皮癣的治愈率为 20% 、好转为 29% 、有效为 46% 、无效为5%，总治愈率高达到95%。”
 
-![](/images/btnews/0501_0600/0513/4a37831d-0714-486c-aedf-081b15a08f0f.webp)
+![](/images/btnews/btnews/0501_0600/0513/4a37831d-0714-486c-aedf-081b15a08f0f.webp)
 
 http://www.cqvip.com/qk/98538x/201607/670087235.html 
  
@@ -281,18 +281,18 @@ http://www.cqvip.com/qk/98538x/201607/670087235.html 
 
 英国团队设计了实验，想知道辅助心理治疗方案能否改善了银屑病的治疗。实验把93名银屑病患者分为两组，一组接受标准药物治疗，另一组在标准药物治疗之外接受辅助心理治疗方案。在6个月的随访中，以银屑病清除率达到75%为标准，接受辅助医疗的患者，64%达标，而标准治疗患者只有为23% 。此外，接受了辅助心理治疗方案的患者，焦虑量表评分平均下降了4分，而参加研究的对照组患者仅平均下降了1分。这说明心理辅助医疗只要严格限制范围，是有客观作用的。
 
-![](/images/btnews/0501_0600/0513/c3c85963-7035-4f07-89b9-f1b97ac8bc32.webp)
+![](/images/btnews/btnews/0501_0600/0513/c3c85963-7035-4f07-89b9-f1b97ac8bc32.webp)
 
 https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2133.2002.04622.x 
 
 
 从纳贡毕利格和他的学生提供的各种资料看，所谓蒙医心身互动疗法，就是经典的现代临床心理学叙事疗法和催眠疗法，强行套了一层蒙医传统文化的外壳，就连创造时间也正好比现代医学的相关论文晚几年，有明显的继承作用。但是，因为套的神秘主义光环太多，蒙医心理疗法的实际效果，不如现代医学的原版心理治疗方案。
 
-![](/images/btnews/0501_0600/0513/4ce74490-e0c7-4675-ab93-13da793cca24.webp)
+![](/images/btnews/btnews/0501_0600/0513/4ce74490-e0c7-4675-ab93-13da793cca24.webp)
 https://en.wikipedia.org/wiki/Psoriasis#Management
 网上也能看到纳贡毕力格心理疗法被过度夸大的反面例子，很多平台上都能找到控诉他的内容。甚至有人反过来利用网络媒体宣传手段对付他，在贴吧开贴记录去纳贡毕利格那里看牛皮癣，直播每天的治疗进度，最终病情反复，不得不转为药浴治疗。
 
-![](/images/btnews/0501_0600/0513/d371f3d6-a596-43d3-8985-dfa7b95138fa.webp)
+![](/images/btnews/btnews/0501_0600/0513/d371f3d6-a596-43d3-8985-dfa7b95138fa.webp)
 
 https://tieba.baidu.com/p/6090764456?pn=2 
 
@@ -305,7 +305,7 @@ https://tieba.baidu.com/p/6090764456?pn=2 
 
 患者被吸引到内蒙古国际蒙医医院以后，先住院治疗一个疗程，期间组织学员参加现场互动交流培训班，患者回家之后，医院还会吸引学员以巩固治疗的名义参加付费现场互动交流活动。还是以牛皮癣为例，在纳贡毕力格医生这里，每个疗程的治疗费用为两三千元，和其他普通三级甲等医院的标准治疗价格区别不大。只是通过神秘主义扩大了患者市场。
 
-![](/images/btnews/0501_0600/0513/6eadd2ec-a332-4030-926b-5359b195c751.webp)
+![](/images/btnews/btnews/0501_0600/0513/6eadd2ec-a332-4030-926b-5359b195c751.webp)
 
 http://www.cqvip.com/qk/98538x/201607/670087235.html
 督工你怎么看待纳贡毕力格医生这种混杂着神秘主义的现代心理疗法？
@@ -315,7 +315,7 @@ http://www.cqvip.com/qk/98538x/201607/670087235.html
 
 
 但是，在中国的现实环境下，纳贡毕利格也许是发现严肃的心理学治疗市场太小，也许是发现了加上传统文化光环可以获取更大的市场，最终他选择了用民族文化糖衣包裹科学方法炮弹的推广方案。这既是他个人的问题，也是社会大环境的问题。
-![](/images/btnews/0501_0600/0513/932fc160-58ff-4144-bee1-dd2cfa46afe2.webp)
+![](/images/btnews/btnews/0501_0600/0513/932fc160-58ff-4144-bee1-dd2cfa46afe2.webp)
 
 
 
@@ -327,7 +327,7 @@ http://www.cqvip.com/qk/98538x/201607/670087235.html
 
 法国商人发现云南人的药材生意之后，为了推销工业品，给云南药品提供了玻璃瓶和硬质纸壳，让云南药材显得更标准，更卫生，也取得了其他省份的信任。
 
-![](/images/btnews/0501_0600/0513/8cc24bbe-81bc-421c-9367-3dae1f6654b7.webp)
+![](/images/btnews/btnews/0501_0600/0513/8cc24bbe-81bc-421c-9367-3dae1f6654b7.webp)
 
 
 同时，云南军阀为了推销鸦片，不断发动扩张战争，产生的大量伤兵需要安慰剂，所以唐继尧从土匪军医中提拔了曲焕章，把传统药品百宝丹的地位提高，用来降低征兵成本。
@@ -344,12 +344,12 @@ http://www.cqvip.com/qk/98538x/201607/670087235.html
 
 471期节目，我们介绍过广西的国际壮医医院搞“滚蛋疗法”，本期节目前面也提到，内蒙古有国际蒙医医院，再加上彝族最近几十年整理的所谓传统医学，这些医学理论和经典中医理论不可能同时正确，最多只能有一种学说的病理解释是真实的，到底是哪一种更真实，这个问题我们留给观众。
 
-![](/images/btnews/0501_0600/0513/d84ab46a-fddd-4e3b-bd0e-54db789ede0e.webp)
+![](/images/btnews/btnews/0501_0600/0513/d84ab46a-fddd-4e3b-bd0e-54db789ede0e.webp)
 
 
 但是，地方官员一定会认为，自己辖区内出现的神秘主义光环是最真实的，因为它可以带来真实的市场和税收。最近，纳贡毕力格医生和内蒙古国际蒙医医院已经被鄂尔多斯市政府列入了康养旅游发展战略，要用蒙医吸引非蒙语区患者前来疗养。所以80年代出现的蒙医，身上的神秘主义光环越来越耀眼，按这个趋势发展下去，早晚有一天历史变成传说,当传说变成神话，治疗方案中的神秘主义光环会反过来绑架其中真实有效的部分。
 
-![](/images/btnews/0501_0600/0513/1efab9a4-fba8-4fde-a7f3-70c55100f4a3.webp)
+![](/images/btnews/btnews/0501_0600/0513/1efab9a4-fba8-4fde-a7f3-70c55100f4a3.webp)
 
 
 
@@ -360,6 +360,6 @@ http://www.cqvip.com/qk/98538x/201607/670087235.html
 
 
 
-![](/images/btnews/0501_0600/0513/fcd1431b-9d25-4a31-a067-a71d3395016e.webp)
+![](/images/btnews/btnews/0501_0600/0513/fcd1431b-9d25-4a31-a067-a71d3395016e.webp)
 
 

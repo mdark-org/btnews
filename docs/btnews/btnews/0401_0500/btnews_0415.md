@@ -5,7 +5,7 @@ date: 2022-04-05
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0415/e561de79-fcd7-4943-bbd8-a4d495abdb63.webp)
+![](/images/btnews/btnews/0401_0500/0415/e561de79-fcd7-4943-bbd8-a4d495abdb63.webp)
 
 
 
@@ -18,10 +18,10 @@ date: 2022-04-05
 
 
 
-![](/images/btnews/0401_0500/0415/16c82c3c-bc98-4133-8599-23078b6b47f5.webp)
+![](/images/btnews/btnews/0401_0500/0415/16c82c3c-bc98-4133-8599-23078b6b47f5.webp)
 
 
-![](/images/btnews/0401_0500/0415/0852968e-c9df-4d59-a8fc-96980c9ac708.webp)
+![](/images/btnews/btnews/0401_0500/0415/0852968e-c9df-4d59-a8fc-96980c9ac708.webp)
 
 https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
@@ -31,7 +31,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/59ba3154-ef72-4f1e-8c83-e15e8077aea7.webp)
+![](/images/btnews/btnews/0401_0500/0415/59ba3154-ef72-4f1e-8c83-e15e8077aea7.webp)
 
 
 
@@ -42,7 +42,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/081c39bf-1a1c-463a-bb11-194b496795a1.webp)
+![](/images/btnews/btnews/0401_0500/0415/081c39bf-1a1c-463a-bb11-194b496795a1.webp)
 
 
 
@@ -74,7 +74,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/e6dba81a-80b0-49ed-8a8b-e0d8aab05862.webp)
+![](/images/btnews/btnews/0401_0500/0415/e6dba81a-80b0-49ed-8a8b-e0d8aab05862.webp)
 
 
 
@@ -88,7 +88,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/90db9941-ae4c-4677-8cf7-089ccccefb45.webp)
+![](/images/btnews/btnews/0401_0500/0415/90db9941-ae4c-4677-8cf7-089ccccefb45.webp)
 
 
 
@@ -96,7 +96,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/47e98277-a919-4aec-a9a1-c0fce259feda.webp)
+![](/images/btnews/btnews/0401_0500/0415/47e98277-a919-4aec-a9a1-c0fce259feda.webp)
 
 
 
@@ -109,7 +109,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 回到这次杭州众筹修地铁事件，我注意到一个细节。就是主张出钱的业主，主要考虑的并不是使用便利，而是提高房产价值。换句话说，他们愿意出钱提高本地区的基础设施，目的是资产增值，尽快变现。越是想离开本地的业主，越有建设需求。这就像快到任期的官员搞工程刷政绩，虽然也是做好事，但容易急功近利，忽略工程后续的维护和使用成本。所以，更好的选择是本地住户稳定出钱，提供可预期的基础建设经费，再通过民主程序监督经费的使用。所以，我希望房产税早点来，尽早结束这种政府和业主都急于变现的地产经营模式。
  
 
-![](/images/btnews/0401_0500/0415/70aa52e7-4d3a-49db-95cc-0b9007e3593e.webp)
+![](/images/btnews/btnews/0401_0500/0415/70aa52e7-4d3a-49db-95cc-0b9007e3593e.webp)
 
 
 
@@ -129,7 +129,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/480776ab-ffe3-427a-8443-0b469d9df7a2.webp)
+![](/images/btnews/btnews/0401_0500/0415/480776ab-ffe3-427a-8443-0b469d9df7a2.webp)
 
 
 
@@ -137,7 +137,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/54847ad5-6566-4364-b17b-7200d8bdcac6.webp)
+![](/images/btnews/btnews/0401_0500/0415/54847ad5-6566-4364-b17b-7200d8bdcac6.webp)
 
 
 
@@ -145,7 +145,7 @@ https://www.163.com/dy/article/GVUFOS810514BQQH.html
 
 
 
-![](/images/btnews/0401_0500/0415/5bf70cf8-f668-4457-9227-f85dd9c87698.webp)
+![](/images/btnews/btnews/0401_0500/0415/5bf70cf8-f668-4457-9227-f85dd9c87698.webp)
 
 https://baijiahao.baidu.com/s?id=1729132372818937192&wfr=spider&for=pc
 
@@ -169,7 +169,7 @@ https://baijiahao.baidu.com/s?id=1729132372818937192&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0415/8b8fbf2a-07a7-41e2-b509-9bdfead0146b.webp)
+![](/images/btnews/btnews/0401_0500/0415/8b8fbf2a-07a7-41e2-b509-9bdfead0146b.webp)
 
 
 
@@ -177,7 +177,7 @@ https://baijiahao.baidu.com/s?id=1729132372818937192&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0415/82b61ac8-1ea3-4331-86a1-230b00edec14.webp)
+![](/images/btnews/btnews/0401_0500/0415/82b61ac8-1ea3-4331-86a1-230b00edec14.webp)
 
 
 
@@ -185,7 +185,7 @@ https://baijiahao.baidu.com/s?id=1729132372818937192&wfr=spider&for=pc
 
 
 
-![](/images/btnews/0401_0500/0415/cecdf377-f076-48d4-a387-a7ae0aab42c9.webp)
+![](/images/btnews/btnews/0401_0500/0415/cecdf377-f076-48d4-a387-a7ae0aab42c9.webp)
 
 https://www.guancha.cn/military-affairs/2022_03_28_632217.shtml
 
@@ -197,10 +197,10 @@ https://www.guancha.cn/military-affairs/2022_03_28_632217.shtml
 
 
 
-![](/images/btnews/0401_0500/0415/ab447cc5-884c-46f2-9a78-3d7e0bbcaafe.webp)
+![](/images/btnews/btnews/0401_0500/0415/ab447cc5-884c-46f2-9a78-3d7e0bbcaafe.webp)
 
 
-![](/images/btnews/0401_0500/0415/dc5b2323-5f1f-4dec-9821-ce7a6d8b0d1a.webp)
+![](/images/btnews/btnews/0401_0500/0415/dc5b2323-5f1f-4dec-9821-ce7a6d8b0d1a.webp)
 
 
 
@@ -208,7 +208,7 @@ https://www.guancha.cn/military-affairs/2022_03_28_632217.shtml
 
 
 
-![](/images/btnews/0401_0500/0415/94f89502-474c-43e5-af5a-b4dd73b295c5.webp)
+![](/images/btnews/btnews/0401_0500/0415/94f89502-474c-43e5-af5a-b4dd73b295c5.webp)
 
 https://www.sohu.com/a/481508045_115479
 
@@ -229,7 +229,7 @@ https://www.sohu.com/a/481508045_115479
 
 
 
-![](/images/btnews/0401_0500/0415/9470ffdb-865a-4f52-a09c-711871433218.webp)
+![](/images/btnews/btnews/0401_0500/0415/9470ffdb-865a-4f52-a09c-711871433218.webp)
 
 https://www.163.com/dy/article/GVK1P0CL0518RQOD.html
 
@@ -239,7 +239,7 @@ https://www.163.com/dy/article/GVK1P0CL0518RQOD.html
 
 
 
-![](/images/btnews/0401_0500/0415/aeb0d10e-f068-4ad2-b1b2-d402e37f006b.webp)
+![](/images/btnews/btnews/0401_0500/0415/aeb0d10e-f068-4ad2-b1b2-d402e37f006b.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17411710
 
@@ -248,10 +248,10 @@ https://www.thepaper.cn/newsDetail_forward_17411710
 
 
 
-![](/images/btnews/0401_0500/0415/e5895c73-dfac-4d25-8286-e146aa4fa3de.webp)
+![](/images/btnews/btnews/0401_0500/0415/e5895c73-dfac-4d25-8286-e146aa4fa3de.webp)
 
 
-![](/images/btnews/0401_0500/0415/a5bb78b6-7865-4964-a072-3fee44f16944.webp)
+![](/images/btnews/btnews/0401_0500/0415/a5bb78b6-7865-4964-a072-3fee44f16944.webp)
 
 
 

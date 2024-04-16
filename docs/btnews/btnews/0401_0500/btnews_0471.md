@@ -4,7 +4,7 @@ date: 2022-08-15
 ---
 
 
-![](/images/btnews/0401_0500/0471/7b584e54-4d99-4fcb-aa01-4e70dc160f1f.webp)
+![](/images/btnews/btnews/0401_0500/0471/7b584e54-4d99-4fcb-aa01-4e70dc160f1f.webp)
 
 
 
@@ -20,7 +20,7 @@ date: 2022-08-15
 督工你怎么评价“滚蛋疗法”？
  
 
-![](/images/btnews/0401_0500/0471/15533e75-61ff-4753-8826-a7098c7b0014.webp)
+![](/images/btnews/btnews/0401_0500/0471/15533e75-61ff-4753-8826-a7098c7b0014.webp)
 
 
 
@@ -28,12 +28,12 @@ date: 2022-08-15
 
 
 
-![](/images/btnews/0401_0500/0471/712c244f-3fb2-4e7e-a7dd-6bcd8a324fd6.webp)
+![](/images/btnews/btnews/0401_0500/0471/712c244f-3fb2-4e7e-a7dd-6bcd8a324fd6.webp)
 
 
-![](/images/btnews/0401_0500/0471/af9300a6-ddb9-42a5-9f58-4110c6b7d1ee.webp)
+![](/images/btnews/btnews/0401_0500/0471/af9300a6-ddb9-42a5-9f58-4110c6b7d1ee.webp)
 
-![](/images/btnews/0401_0500/0471/eb0a58cf-c56d-4339-a955-2aed229edd81.webp)
+![](/images/btnews/btnews/0401_0500/0471/eb0a58cf-c56d-4339-a955-2aed229edd81.webp)
 
 https://weibo.com/ttarticle/p/show?id=2309404601964301517105
 
@@ -47,7 +47,7 @@ https://weibo.com/ttarticle/p/show?id=2309404601964301517105
 
 
 
-![](/images/btnews/0401_0500/0471/225e192a-8c86-4ded-827a-340ce7d57e1d.webp)
+![](/images/btnews/btnews/0401_0500/0471/225e192a-8c86-4ded-827a-340ce7d57e1d.webp)
 
 
 
@@ -80,9 +80,9 @@ http://www.enshi.cn/2005/1022/251717.shtml?from=groupmessage
 2002年，云南文山本地有一篇总结性的论文，介绍壮族原始宗教的“卵崇拜”要素。
  
 
-![](/images/btnews/0401_0500/0471/371aaa5d-9ac9-4a12-b6e7-35e52d4af6ab.webp)
+![](/images/btnews/btnews/0401_0500/0471/371aaa5d-9ac9-4a12-b6e7-35e52d4af6ab.webp)
 
-![](/images/btnews/0401_0500/0471/ea8be422-63dd-41a5-8d24-06050f39476a.webp)
+![](/images/btnews/btnews/0401_0500/0471/ea8be422-63dd-41a5-8d24-06050f39476a.webp)
 
 
 
@@ -91,7 +91,7 @@ http://www.enshi.cn/2005/1022/251717.shtml?from=groupmessage
 
 
 
-![](/images/btnews/0401_0500/0471/438f306b-73bc-4986-ab5c-81dff3aeb40b.webp)
+![](/images/btnews/btnews/0401_0500/0471/438f306b-73bc-4986-ab5c-81dff3aeb40b.webp)
 
 
 
@@ -103,7 +103,7 @@ https://www.zhzyw.com/mzyy/zhy/15971612F7JH9IB779BLKA1.html
 
 这次提到“滚蛋疗法”，起因是广西国际壮医医院的专家支援北海市，我在网上查了一下，这家医院的医生很早之前就把“滚蛋”当做独家医术在展示了。去年9月广西自治区官方的《南国早报》就报道了广西国际壮医医院举办“膏方节”，顺便推广滚蛋疗法的消息。静静帮我读一下原报道：
  
-![](/images/btnews/0401_0500/0471/1dc515cd-4e20-4082-955f-dc28ba77b8fb.webp)
+![](/images/btnews/btnews/0401_0500/0471/1dc515cd-4e20-4082-955f-dc28ba77b8fb.webp)
 https://xw.qq.com/cmsid/20210908A0DS9Y00
 
 
@@ -126,13 +126,13 @@ https://mp.weixin.qq.com/s?src=11&timestamp=1659946583
 
 从公开资料看，壮医医院的15亿投资除了盖楼，最主要的花费既不是传统中医，也不是新发明的传统壮医，而是买设备。比如说急救直升机，256排超高端CT，都花了几千万。整个医院只有实习生拜师仪式能体现一点点南方少数民族特色，但我宁愿相信这是某个广东武馆在收徒弟。
  
-![](/images/btnews/0401_0500/0471/8813741b-7099-41e7-82b2-b14de8816044.webp)
+![](/images/btnews/btnews/0401_0500/0471/8813741b-7099-41e7-82b2-b14de8816044.webp)
 
 
 
 打开广西国际壮医医院的网站主页，看一下科室导航栏目，基本能了解所谓“壮医”元素在整个医院的地位。但如果没有这一点“壮医”元素，恐怕医院就拿不到这么多拨款，所以每次医院有露面机会，都必须把“滚蛋”这一类内容顶在前面。微博上嘲笑“滚蛋疗法”的内容暂时形成了一阵热搜，中国中医药报虽然自己删了微博，但广西国际壮医医院也许还很开心。
  
-![](/images/btnews/0401_0500/0471/2421f170-1734-464a-a5c3-103ec19a806d.webp)
+![](/images/btnews/btnews/0401_0500/0471/2421f170-1734-464a-a5c3-103ec19a806d.webp)
 
 
 
@@ -200,7 +200,7 @@ http://www.nbd.com.cn/articles/2022-08-04/2391084.html 
 
 
 
-![](/images/btnews/0401_0500/0471/163e9061-8825-4da5-ac45-9e0c68de9a85.webp)
+![](/images/btnews/btnews/0401_0500/0471/163e9061-8825-4da5-ac45-9e0c68de9a85.webp)
 https://www.lejucaijing.com/news-6962209291755634314.html
 
 
@@ -218,7 +218,7 @@ https://baijiahao.baidu.com/s?id=1740226536143752665
 
 
 
-![](/images/btnews/0401_0500/0471/9961e053-c170-4231-976b-c53b03063691.webp)
+![](/images/btnews/btnews/0401_0500/0471/9961e053-c170-4231-976b-c53b03063691.webp)
 
 http://www.zgsr.gov.cn/zgsr/tbtt/202208/fa49f260ce494ea58a5ac72f0a8f046a.shtml
 
@@ -231,7 +231,7 @@ http://www.zgsr.gov.cn/zgsr/tbtt/202208/fa49f260ce494ea58a5ac72f0a8f046a.shtml
 
 我再用“全国文明城市工作推进会”做关键词，查询近期资讯，发现8月第二周，全国可能有上百个城市都在开会，动员新一轮文明城市评比活动。不知道各位观众家乡又有什么消息。
  
-![](/images/btnews/0401_0500/0471/01c70540-d72f-42e5-93a5-a1fec65fab7c.webp)
+![](/images/btnews/btnews/0401_0500/0471/01c70540-d72f-42e5-93a5-a1fec65fab7c.webp)
 
 
 

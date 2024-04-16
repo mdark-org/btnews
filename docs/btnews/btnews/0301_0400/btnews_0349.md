@@ -33,7 +33,7 @@ date: 2021-11-05
 
 而上海建平中学西校开学就举办月考，准备测试一下学生的水平，被家长投诉之后，被迫取消了月考和期中考试。
 
-![](/images/btnews/0301_0400/0349/image1.webp)
+![](/images/btnews/btnews/0301_0400/0349/image1.webp)
 
 <https://www.163.com/dy/article/GNG1K5250536SQ16.html>
 

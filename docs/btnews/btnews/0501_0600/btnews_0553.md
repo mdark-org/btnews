@@ -14,11 +14,11 @@ date: 2023-02-19
 
 视频产生影响力之后，首先得到了美国右翼媒体比如福克斯的关注，他们怀疑辉瑞公司制作了加强型新冠病毒。随后中国媒体纷纷跟进，中国新闻网1月29日转载了视频片段。
 
-![](/images/btnews/0501_0600/0553/0df0c922-4a3c-4210-9fdb-3c10b3cb4fc7.webp)
+![](/images/btnews/btnews/0501_0600/0553/0df0c922-4a3c-4210-9fdb-3c10b3cb4fc7.webp)
 http://www.chinanews.com.cn/gj/shipin/cns-d/2023/01-29/news949810.shtml
 1月30日环球网跟进。
 
-![](/images/btnews/0501_0600/0553/8e67a95b-a6e3-4758-8b63-94cb04af7231.webp)
+![](/images/btnews/btnews/0501_0600/0553/8e67a95b-a6e3-4758-8b63-94cb04af7231.webp)
 
 http://k.sina.com.cn/article_1686546714_6486a91a02001tr83.html
 
@@ -33,7 +33,7 @@ http://k.sina.com.cn/article_1686546714_6486a91a02001tr83.html
 
 然后我们回头看辉瑞病毒视频，几乎所有自诩爱国的大V，都转载了这个视频，认为这是给美国和现代医药公司定罪的依据。比如说司马南。
 
-![](/images/btnews/0501_0600/0553/ad87d984-5c46-44ee-9cac-f52a4d1182d8.webp)
+![](/images/btnews/btnews/0501_0600/0553/ad87d984-5c46-44ee-9cac-f52a4d1182d8.webp)
 
 
 
@@ -45,12 +45,12 @@ http://k.sina.com.cn/article_1686546714_6486a91a02001tr83.html
 
 公布视频的组织叫真理计划（project veritas），现在原始的“暗访”视频已经被油管删除了，但是，截止到本期内容制作的时候，“真理计划”的官方推特账号置顶区还有视频。
 
-![](/images/btnews/0501_0600/0553/f816bac0-26d1-40c0-944b-bcbfd9c1afe9.webp)
+![](/images/btnews/btnews/0501_0600/0553/f816bac0-26d1-40c0-944b-bcbfd9c1afe9.webp)
 
 
 大多数拿这个视频渲染反美气氛的媒体，都给中国人看了前一段内容，渲染辉瑞公司制造病毒动机邪恶，后果恐怖。但只要往下再看十几秒，就能看到一租熟悉的汉语拼音“Wuhan”。
 
-![](/images/btnews/0501_0600/0553/2dee4ab6-680d-400a-8164-bb8621d7f673.webp)
+![](/images/btnews/btnews/0501_0600/0553/2dee4ab6-680d-400a-8164-bb8621d7f673.webp)
 
 
 
@@ -68,14 +68,14 @@ http://k.sina.com.cn/article_1686546714_6486a91a02001tr83.html
 
 定向进化，类似于普通的农业育种，是模仿自然选择的过程，诱发基因突变再做选择，引导蛋白质或者核酸向科学家希望的目标发展。
 
-![](/images/btnews/0501_0600/0553/836d4551-737b-4d03-b7f7-c6fa68d4dc13.webp)
+![](/images/btnews/btnews/0501_0600/0553/836d4551-737b-4d03-b7f7-c6fa68d4dc13.webp)
 
 https://en.wikipedia.org/wiki/Directed_evolution 
 
 
 而功能获得性实验，类似于农业上的转基因或者杂交育种，要给原病毒引入一种原本不存在的突变，让原病毒具备一个新的功能。这种引入突变的手段可以是人工制造双重感染，也可以利用基因编辑技术，从另一个毒株上转移一截基因给原始病毒，制造嵌合体。比如说，乙型流感病毒本来只能感染人类和海豹，实验室引入一种突变，让乙型流感病毒能够感染兔子，这就是“功能获得性实验”。
 
-![](/images/btnews/0501_0600/0553/9bf86a62-8c10-4d8e-b1cc-460ce4525e50.webp)
+![](/images/btnews/btnews/0501_0600/0553/9bf86a62-8c10-4d8e-b1cc-460ce4525e50.webp)
 
 https://en.wikipedia.org/wiki/Gain-of-function_research#International_policies_and_regulations 
 
@@ -88,7 +88,7 @@ https://en.wikipedia.org/wiki/Gain-of-function_research#International_policies_a
 
 科研人员的思路是，既然自然界其他动物身上的病毒早晚要传给人类，我们应该通过严格的可控研究，提前了解人类和禽类共患病毒的传播效果，探索预防性措施。所以需要主动让一些让病毒获得在人体内传播的能力。
 
-![](/images/btnews/0501_0600/0553/1e5f6721-e61a-41ac-ac2e-44a50622f448.webp)
+![](/images/btnews/btnews/0501_0600/0553/1e5f6721-e61a-41ac-ac2e-44a50622f448.webp)
 
 https://www.iiyi.com/d-09-65028.html
 
@@ -114,7 +114,7 @@ https://crsreports.congress.gov/product/pdf/R/R47114 
 
 会，去年波士顿大学就做过类似的实验。这个实验也在简体中文互联网上有过一段热度，当时自媒体的说法是“波士顿大学把奥密克戎致命性提高了80%”但是很快被忘掉了，同样的情绪化表达挪到辉瑞事件又来了一波热度。
 
-![](/images/btnews/0501_0600/0553/c1f5df57-6725-4f90-981a-38ec9ab8afb7.webp)
+![](/images/btnews/btnews/0501_0600/0553/c1f5df57-6725-4f90-981a-38ec9ab8afb7.webp)
 
 
 
@@ -128,13 +128,13 @@ https://www.163.com/dy/article/HK0LCKH10511DIJU.html
 
 在实验论文预印本发表之后，斯坦福大学全球健康创新中心主任表态，波士顿大学的研究使原始病毒株更具传染性，同时仍保留了大部分高杀伤力，应该算是 “功能获得”实验。
 
-![](/images/btnews/0501_0600/0553/182bd421-0be1-4cd6-a074-c4be9c4ac54b.webp)
+![](/images/btnews/btnews/0501_0600/0553/182bd421-0be1-4cd6-a074-c4be9c4ac54b.webp)
 https://www.bu.edu/neidl/2022/10/fact-check-boston-university-hybrid-covid-virus-kills-80-of-mice-not-people/ 
 
 
 这个实验虽然并未制造严重后果，也不太可能制造严重后果，但还是被生物行业普遍批评。反对者认为，在三级实验室做新冠病毒功能获得实验，有泄露的风险。而仅仅为了验证S蛋白问题就实施活病毒功能获得实验，波士顿大学的操作过于草率。美国国家卫生院声明，他们没有批准这项研究。
 
-![](/images/btnews/0501_0600/0553/993e2e83-f85e-4ec2-9e9e-7a3e59fa1a9d.webp)
+![](/images/btnews/btnews/0501_0600/0553/993e2e83-f85e-4ec2-9e9e-7a3e59fa1a9d.webp)
 
 
 
@@ -144,7 +144,7 @@ https://www.nytimes.com/2022/10/30/opinion/virology-safety.html 
 
 但是，对于其他并没有直接威胁人类的病毒，功能获得性实验已经很普遍了。比如从2014年开始，美国国立卫生研究院（NIH）和武汉病毒研究所合作，研究蝙蝠冠状病毒出现的风险，就属于这一类项目。无论是从实验性质看，还是从病毒名字分析，这些关键词都适合阴谋论者来编故事。
 
-![](/images/btnews/0501_0600/0553/769ecd54-2513-45d1-9134-5bd6083831eb.webp)
+![](/images/btnews/btnews/0501_0600/0553/769ecd54-2513-45d1-9134-5bd6083831eb.webp)
 
 
 https://www.factcheck.org/2021/05/the-wuhan-lab-and-the-gain-of-function-disagreement/ 
@@ -153,7 +153,7 @@ https://www.factcheck.org/2021/05/the-wuhan-lab-and-the-gain-of-function-disagre
 
 新冠疫情爆发初期，特朗普政府引导民粹主义和反智主义，美国出现了一轮反科学舆论，右翼组织普遍说新冠病毒是人造的，还说源头就是武汉病毒研究所泄露了实验材料。所以美国保守派民众开始攻击美国国立卫生研究院。到2020年4月底，美国国立卫生研究院被迫取消了和武汉病毒所的合作项目。
 
-![](/images/btnews/0501_0600/0553/7935038b-8232-4e94-8718-f5567c82bd7e.webp)
+![](/images/btnews/btnews/0501_0600/0553/7935038b-8232-4e94-8718-f5567c82bd7e.webp)
 
 https://www.the-scientist.com/news-opinion/nih-cancels-funding-for-bat-coronavirus-research-project-67486 
 
@@ -167,7 +167,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8490979/ 
 
 到了2021年，新冠病毒是生物武器的说法从美国扩散，被其他国家的保守派和营销号捡起来了。中国自媒体，比如说前面提到的司马南尤其喜欢用这个观点刷流量，证明自己爱国。而这些中国自媒体的论证方法，往往又照抄2020年的美国右翼团体，形成了一条越来越低级的排泄式食物链。这次所谓“辉瑞制造新冠病毒”的视频信息，也是沿着之前的食物链排出来的。
 
-![](/images/btnews/0501_0600/0553/461c5c2b-5f39-4691-8f9e-b32dcbcf7791.webp)
+![](/images/btnews/btnews/0501_0600/0553/461c5c2b-5f39-4691-8f9e-b32dcbcf7791.webp)
 
 
 
@@ -180,10 +180,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8490979/ 
 
 但是，俄国官方媒体抄美国右翼组织的内容，是完整复制，全面攻击美国和其他主要国家的生物学研究合作。中国媒体抄二手谣言，没想到俄国人这么实诚，刚把观点抄过来，就发现俄国人把美国对外的正常生物研究合作也列为罪证，指责所有拿了美国人钱的生物实验室都有问题。这直接导向了之前武汉病毒研究所制造新冠病毒的谣言。所以国内大小媒体又急刹车，绕开乌克兰生物武器的具体信息。这是一个驯化观众半途失败的例子，但也可以说是成功了一半的驯化。
 
-![](/images/btnews/0501_0600/0553/af692816-c08b-4f45-8e57-ec8cdbb54a42.webp)
+![](/images/btnews/btnews/0501_0600/0553/af692816-c08b-4f45-8e57-ec8cdbb54a42.webp)
 
 
-![](/images/btnews/0501_0600/0553/2e73c925-ec1f-4b26-96cd-b99290008d25.webp)
+![](/images/btnews/btnews/0501_0600/0553/2e73c925-ec1f-4b26-96cd-b99290008d25.webp)
 
 
  
@@ -201,13 +201,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8490979/ 
 
 微博上有个认证过的高可信度健康类自媒体“子陵在听歌”，身份是哈佛大学免疫学博士。
 
-![](/images/btnews/0501_0600/0553/3cec9820-b049-4c08-b833-9a854c6d53f0.webp)
+![](/images/btnews/btnews/0501_0600/0553/3cec9820-b049-4c08-b833-9a854c6d53f0.webp)
 
 
 
 他指出，全世界研究新冠病毒血清学的机构，都构建了预测性突变株。这就是真理计划组织声称的“制造新冠突变病毒”。其中还包括睡前消息之前报道过的nature年度人物——北京大学曹云龙团队。
 
-![](/images/btnews/0501_0600/0553/b48ae24c-a61a-4da2-a011-92d6a07a4fa6.webp)
+![](/images/btnews/btnews/0501_0600/0553/b48ae24c-a61a-4da2-a011-92d6a07a4fa6.webp)
 https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00642-9/fulltext 
 
 
@@ -215,7 +215,7 @@ https://www.sciencedirect.com/science/article/pii/S193131282200511X 
 https://www.nature.com/articles/s41586-022-05644-7  
  
 
-![](/images/btnews/0501_0600/0553/836a4ab3-ef08-4b36-8c49-e0285968c138.webp)
+![](/images/btnews/btnews/0501_0600/0553/836a4ab3-ef08-4b36-8c49-e0285968c138.webp)
 
 
 从目前的公开信息看，在企业方面，除了美国辉瑞公司、构建突变株假病毒的，至少还有美国莫德纳公司（Moderna）、德国贝英泰科公司（BioNTec）。这是很常规的工作。
@@ -230,7 +230,7 @@ https://www.nature.com/articles/s41586-022-05644-7  
 我们离开简体中文互联网，到英文互联网上搜索乔丹·沃克的信息，发现这是非常模糊的一个形象。辉瑞公司的其他高层人员，都有非常丰富的公开资料，只有乔丹·沃克近乎隐身。最合理的解释是，乔丹·沃克并不是辉瑞公司的核心人员。当然阴谋论者可以保留自己的观点，说辉瑞公司和美国主流媒体联合起来消灭了乔丹·沃克的互联网信息。
 https://www.pfizer.com/about/people/scientists 
 
-![](/images/btnews/0501_0600/0553/f1b301c2-7179-4c73-b2db-3fab8a5efcc1.webp)
+![](/images/btnews/btnews/0501_0600/0553/f1b301c2-7179-4c73-b2db-3fab8a5efcc1.webp)
 
 
 
@@ -241,7 +241,7 @@ https://www.pfizer.com/about/people/scientists 
 https://www.techarp.com/facts/jordon-trishton-walker-facts/ 
  
 
-![](/images/btnews/0501_0600/0553/fa256d4e-13bf-4402-a7ba-681ebda9d764.webp)
+![](/images/btnews/btnews/0501_0600/0553/fa256d4e-13bf-4402-a7ba-681ebda9d764.webp)
 
 
 
@@ -266,7 +266,7 @@ https://baijiahao.baidu.com/s?id=1757974059616179597
 
 当下的技术还做不到完美犯罪，也许将来的技术可以。所以美国正在考虑建立进一步的监管机制。前面我提到，美国要求政府资助项目必须备案新冠病毒改造实验，但公司可以用自有资金绕过限制，这的确是个漏洞。今年1月27日，美国国家生物安全科学顾问委员会提交了最新的政策研究建议，一般认为这会加强对“功能获得”实验的限制，以后恐怕私人企业自己筹集资金也不能随便改造病毒了。
 
-![](/images/btnews/0501_0600/0553/a3fea970-4e8c-44b5-94b6-9dc6376292f4.webp)
+![](/images/btnews/btnews/0501_0600/0553/a3fea970-4e8c-44b5-94b6-9dc6376292f4.webp)
 
 https://www.nature.com/articles/d41586-023-00257-0 
 
@@ -328,6 +328,6 @@ https://en.wikipedia.org/wiki/Project_Veritas 
 
 
 
-![](/images/btnews/0501_0600/0553/6189782d-d2d4-4256-bcdd-32f3f1b69ead.webp)
+![](/images/btnews/btnews/0501_0600/0553/6189782d-d2d4-4256-bcdd-32f3f1b69ead.webp)
 
 

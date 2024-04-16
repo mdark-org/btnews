@@ -5,7 +5,7 @@ date: 2022-09-26
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0489/cda6b428-a8cc-435c-841a-9994b7305794.webp)
+![](/images/btnews/btnews/0401_0500/0489/cda6b428-a8cc-435c-841a-9994b7305794.webp)
 
 
 
@@ -17,7 +17,7 @@ date: 2022-09-26
 当地时间9月4号，智利全民公投否决了新宪法草案，60%的选民不满意。
 这次修宪是2019年智利社会变革的结果。睡前消息第33期，我们分析过智利社会，指出智利缺乏高质量就业机会，所以社会不稳定。
 
-![](/images/btnews/0401_0500/0489/67293cb2-9253-4675-a3a8-fc09ebac54aa.webp)
+![](/images/btnews/btnews/0401_0500/0489/67293cb2-9253-4675-a3a8-fc09ebac54aa.webp)
 
 
 https://www.bbc.com/news/world-latin-america-62792025
@@ -26,18 +26,18 @@ https://www.jiemian.com/article/8024061.html
 
 2019年末，智利主要城市发生大规模抗议和骚乱，示威主要诉求之一就是重新制定宪法。2020年10月，智利选民以近八成的压倒性优势，要求重新制订宪法。
 
-![](/images/btnews/0401_0500/0489/06ffd9b6-4ea5-4209-9bf2-71c1fe9d2cda.webp)
+![](/images/btnews/btnews/0401_0500/0489/06ffd9b6-4ea5-4209-9bf2-71c1fe9d2cda.webp)
 
 https://zj.zjol.com.cn/news.html?id=1319462
  
 
-![](/images/btnews/0401_0500/0489/b07a02d8-91d4-4fe0-97af-56a824574e46.webp)
+![](/images/btnews/btnews/0401_0500/0489/b07a02d8-91d4-4fe0-97af-56a824574e46.webp)
 
 
 https://chinese.aljazeera.net/news/political/2022/7/3/%E6%99%BA%E5%88%A9%E6%96%B0%E5%AE%AA%E6%B3%95%E5%8E%86%E7%BB%8F%E5%8A%A8%E8%8D%A1%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A
  
 
-![](/images/btnews/0401_0500/0489/63c46497-e73e-43af-b24a-0980b7d40864.webp)
+![](/images/btnews/btnews/0401_0500/0489/63c46497-e73e-43af-b24a-0980b7d40864.webp)
 
 
 
@@ -48,13 +48,13 @@ https://chinese.aljazeera.net/news/political/2022/7/3/%E6%99%BA%E5%88%A9%E6%96%B
 从过去2年智利选民的态度来看，他们很期待新宪法能给社会带来变化，这次为什么会拒绝新宪法呢？
  
 
-![](/images/btnews/0401_0500/0489/4590e6fb-53e7-47e2-9140-75bdb63ef45b.webp)
+![](/images/btnews/btnews/0401_0500/0489/4590e6fb-53e7-47e2-9140-75bdb63ef45b.webp)
 
 https://chinese.aljazeera.net/news/political/2022/7/3/%E6%99%BA%E5%88%A9%E6%96%B0%E5%AE%AA%E6%B3%95%E5%8E%86%E7%BB%8F%E5%8A%A8%E8%8D%A1%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A
 
 
 
-![](/images/btnews/0401_0500/0489/772e252c-1334-4589-9504-325a0e24c9e0.webp)
+![](/images/btnews/btnews/0401_0500/0489/772e252c-1334-4589-9504-325a0e24c9e0.webp)
 
 
 https://www.chileconvencion.cl/wp-content/uploads/2022/07/Texto-Definitivo-CPR-2022-Tapas.pdf
@@ -65,21 +65,21 @@ https://www.chileconvencion.cl/wp-content/uploads/2022/07/Texto-Definitivo-CPR-2
 
 比如说，自从1820年独立，智利一直是单一制共和国。但新宪法草案前言宣布，智利是由几个国家实体（naciones）组成的。
 
-![](/images/btnews/0401_0500/0489/0cb6b9cd-5c0c-4411-aa35-b4aea044ddde.webp)
+![](/images/btnews/btnews/0401_0500/0489/0cb6b9cd-5c0c-4411-aa35-b4aea044ddde.webp)
 
 
 
 
 这个说法不仅仅是一个形容词，后面的草案条款完全变更了政区模式，全面推行地区自治，允许某些行政单位获得特别领土地位，以及设立土著居民自治区。虽然新宪法草案也明确规定，不允许任何地区以自治为跳板独立。但这一组条款显然被智利选民认为太激进了，最好谨慎一点。
 
-![](/images/btnews/0401_0500/0489/e3a3b992-fb7d-407e-895c-f953bf6216a9.webp)
+![](/images/btnews/btnews/0401_0500/0489/e3a3b992-fb7d-407e-895c-f953bf6216a9.webp)
 
 
 
 公投后欢呼新宪法被否决的智利群众
  
 
-![](/images/btnews/0401_0500/0489/19b1212a-c129-473f-8b1f-a6b5f8c97a54.webp)
+![](/images/btnews/btnews/0401_0500/0489/19b1212a-c129-473f-8b1f-a6b5f8c97a54.webp)
 
 
 新宪法中的原著民多民族性激怒了智利社会
@@ -95,7 +95,7 @@ http://www.chinanews.com.cn/gj/2013/08-01/5111528.shtml
 
 但是，在土著居民权利方面，新宪法草案明显走的太远了，不仅正式承认了土著居民是独立的民族，设立单独的自治区域，单独选举国会代表。还用特殊权利补偿土著群体。特殊权利包括语言、习俗、象征物这些精神标志，也包括土著地区的土地、矿藏和水资源开发权利，允许土著居民在主流社会之外建立独立的教育、文化、医疗体系，甚至自己的法律系统。
 
-![](/images/btnews/0401_0500/0489/20285245-9af8-4950-8b13-5e27664dfe47.webp)
+![](/images/btnews/btnews/0401_0500/0489/20285245-9af8-4950-8b13-5e27664dfe47.webp)
 
 
 拉丁美洲和加勒比土著人民发展基金认为智利新宪法是伟大的胜利
@@ -104,7 +104,7 @@ https://www.filac.org/reportes/los-derechos-indigenas-en-el-centro-de-la-polemic
 
 这些条款引发了普遍质疑，反对者认为这不是消除歧视，而是逆向歧视，制造更严重的矛盾。
 
-![](/images/btnews/0401_0500/0489/f3e9eb56-f95c-4627-89d1-fc710ef955e3.webp)
+![](/images/btnews/btnews/0401_0500/0489/f3e9eb56-f95c-4627-89d1-fc710ef955e3.webp)
 
 
 宪法周日投票前夕原著民社区的分裂
@@ -113,19 +113,19 @@ https://es.euronews.com/2022/08/31/chile-division-comunidad-indigena-nueva-const
 
 除了原著民权利，被否决的宪法草案为其它非主流文化也制定了激进条款，比如明确规定国家必须把多性别（LGBT）观念作为主流价值观。比如说承认所有非血缘的家庭关系，允许无限制的堕胎和安乐死。在性别问题上，新宪法规定，所有官方和半官方的机构，重要职务必须有一半留给女性。
 
-![](/images/btnews/0401_0500/0489/8bd052fd-8513-4c59-b80d-8d17682f9cb1.webp)
+![](/images/btnews/btnews/0401_0500/0489/8bd052fd-8513-4c59-b80d-8d17682f9cb1.webp)
 
 
 智利：制宪会议批准将安乐死纳入宪法
  
 
-![](/images/btnews/0401_0500/0489/2b7fe7ca-e5f0-4cbd-b996-6213616ae24e.webp)
+![](/images/btnews/btnews/0401_0500/0489/2b7fe7ca-e5f0-4cbd-b996-6213616ae24e.webp)
 
 
 https://www.clarin.com/mundo/chile-aprobaron-inclusion-acceso-muerte-digna-nueva-constitucion_0_Liw7RB9ufv.html
  
 
-![](/images/btnews/0401_0500/0489/99b026e5-9e9f-40f6-b1d7-1f83f5051836.webp)
+![](/images/btnews/btnews/0401_0500/0489/99b026e5-9e9f-40f6-b1d7-1f83f5051836.webp)
 
 
 今天全世界的女权主义者都想成为智利人
@@ -137,7 +137,7 @@ https://www.eldiarioar.com/opinion/hoy-feministas-mundo-queremos-chilenas_129_92
 
 但新宪法草案走得太远，想强迫全社会立即全面认同这些激进文化观，客观上剥夺了中立派说“无所谓”的权利。所以一部分中立派不得不和保守派联盟，对激进的新宪法投反对票。
 
-![](/images/btnews/0401_0500/0489/b2c457f8-153f-4773-ab4f-bba70fcd3465.webp)
+![](/images/btnews/btnews/0401_0500/0489/b2c457f8-153f-4773-ab4f-bba70fcd3465.webp)
 
 
 
@@ -145,7 +145,7 @@ https://www.eldiarioar.com/opinion/hoy-feministas-mundo-queremos-chilenas_129_92
 https://www.diarioconstitucional.cl/2022/08/14/division-y-privilegios-injustificados-las-implicancias-de-la-plurinacionalidad-en-la-propuesta-constitucional-es-el-titulo-de-una-publicacion-del-instituto-libertad-y-desarrollo/
  
 
-![](/images/btnews/0401_0500/0489/efc17510-b328-4845-8bf7-9776b8e0500d.webp)
+![](/images/btnews/btnews/0401_0500/0489/efc17510-b328-4845-8bf7-9776b8e0500d.webp)
 
 
 “做为一名智利女性我为何反对新宪法”
@@ -158,19 +158,19 @@ https://blogs.elconfidencial.com/mundo/tribuna-internacional/2022-09-02/mujer-vo
 这次中左翼制定宪法，如果能聪明一点，用渐进政策保持中间派的支持，本来可以继续排除教会的影响力。但是，事实证明，过犹不及，天主教反而借着公投稳住了局面。在草案被否决后，有主教忍不住公开庆贺，这也代表了很多智利保守派的态度。
  
 
-![](/images/btnews/0401_0500/0489/85fdb034-2780-4695-9f31-a429319a051d.webp)
+![](/images/btnews/btnews/0401_0500/0489/85fdb034-2780-4695-9f31-a429319a051d.webp)
 
 媒体报道智利天主教主教们批评新宪法
 https://www.eldebate.com/religion/20220727/obispos-chile-frente-propuesta-constitucional.html
  
 
-![](/images/btnews/0401_0500/0489/561a8179-d22a-480c-8ff6-e96cc47e4566.webp)
+![](/images/btnews/btnews/0401_0500/0489/561a8179-d22a-480c-8ff6-e96cc47e4566.webp)
 
 智利天主教主教团声明
 http://www.iglesia.cl/documentos_sac/29082022_958am_630cc614f21c0.pdf?t=Comit%C3%A9%20Permanente:%20Actitudes%20ante%20una%20decisio%CC%81n%20trascendental%20
  
 
-![](/images/btnews/0401_0500/0489/60beea53-c54e-4d04-bb57-80e5ff788e7f.webp)
+![](/images/btnews/btnews/0401_0500/0489/60beea53-c54e-4d04-bb57-80e5ff788e7f.webp)
 
 https://www.religionenlibertad.com/america_latina/289580164/obispos-chile-celebran-no-constitucion-anticristiana.html
 
@@ -192,7 +192,7 @@ https://www.religionenlibertad.com/america_latina/289580164/obispos-chile-celebr
 
 但是，新宪法并没有因为全面福利政策就赢得支持。从民意调查来看，智利人对宪法草案最不满的条款，就是听起来最美好的国民医疗体系，其次是质疑完全免费教育的可行性，第三才是建立分权制的自治区，再接下去又是倾向于平等的养老金制度改革。
 
-![](/images/btnews/0401_0500/0489/acbff35c-c7db-4e73-add8-cbbe97fa842c.webp)
+![](/images/btnews/btnews/0401_0500/0489/acbff35c-c7db-4e73-add8-cbbe97fa842c.webp)
 
 
 准备否决的选民认为，宪法草案中哪些原则最让人担心
@@ -213,13 +213,13 @@ https://www.as-coa.org/articles/poll-tracker-chiles-constitutional-referendum
 
 中国人从智利买樱桃，也买矿石，应该最清楚智利的经济结构。现在智利出口产品的一半是铜矿石及含铜产品；随着新能源产业发展，智利巨大的锂矿储备也有机会卖个高价；此外就是大樱桃代表的特色农业出口。同时，智利粮食自给率只有40%，每年要买几百万吨粮食才能生存。在发展出新产业之前，智利必须稳定地生产矿石和水果，出口这些初级产品才有饭吃。
 
-![](/images/btnews/0401_0500/0489/002dab24-06e0-4e25-b895-4cf7f69986d3.webp)
+![](/images/btnews/btnews/0401_0500/0489/002dab24-06e0-4e25-b895-4cf7f69986d3.webp)
 
 
 
 本次制订的新宪法草案对矿业和特色农业非常不友好，因为中左翼修宪的一个重要概念就是“生态宪法”。多项新条款都大幅增加了矿业和农业投资的禁区和政策不确定性。前面我介绍了新宪法想增加土著保护区，其中包括许多现有矿区、农业区。从历史经验看，增加土著保护区的自主管理权限，必然会明显提高生产成本，导致一部分外来投资退出，对经济绝对不是好消息。
 
-![](/images/btnews/0401_0500/0489/641fb619-660f-439d-b07b-d26ac00b0a94.webp)
+![](/images/btnews/btnews/0401_0500/0489/641fb619-660f-439d-b07b-d26ac00b0a94.webp)
 
 
 
@@ -227,7 +227,7 @@ https://www.as-coa.org/articles/poll-tracker-chiles-constitutional-referendum
 https://www.laprensalatina.com/chiles-new-constitution-promises-transition-to-green-mining/
  
 
-![](/images/btnews/0401_0500/0489/d2f2ecd6-0eea-4c6c-9401-55f4f8456d13.webp)
+![](/images/btnews/btnews/0401_0500/0489/d2f2ecd6-0eea-4c6c-9401-55f4f8456d13.webp)
 
 
 智利宪法将环境和原著民权利置于核心
@@ -236,19 +236,19 @@ https://www.ft.com/content/25a20fc7-ae6e-4fe7-82a4-26635b3e96b8
 
 就在新宪法讨论期间，矿业和农业公司已经表达了自己的态度，普遍放缓了新投资计划，当然也会减少工作机会。所以选民不看好“生态宪法”。
 
-![](/images/btnews/0401_0500/0489/9073dd98-694c-4c18-b20c-54a04cdd4cc1.webp)
+![](/images/btnews/btnews/0401_0500/0489/9073dd98-694c-4c18-b20c-54a04cdd4cc1.webp)
 
 智利新宪法将影响产矿业
 https://skillings.net/chile-mining-nationalization-chiles-new-constitution-set-to-impact-mining/
  
 
-![](/images/btnews/0401_0500/0489/cbb0ce19-4aaf-408f-bf8c-827f3294d11e.webp)
+![](/images/btnews/btnews/0401_0500/0489/cbb0ce19-4aaf-408f-bf8c-827f3294d11e.webp)
 
 穆迪警告智利宪法可能打击矿业投资
 https://www.mining.com/web/moodys-warns-chile-constitution-uncertainty-could-hit-mining-investment/
  
 
-![](/images/btnews/0401_0500/0489/a8bf0166-afb1-442f-acec-60f1440874f1.webp)
+![](/images/btnews/btnews/0401_0500/0489/a8bf0166-afb1-442f-acec-60f1440874f1.webp)
 
 生产商担心新宪法影响鲑鱼养殖
 https://www.seafoodsource.com/news/aquaculture/salmonchile-questions-ambiguities-in-new-constitution-which-may-impact-industry
@@ -262,14 +262,14 @@ https://www.seafoodsource.com/news/aquaculture/salmonchile-questions-ambiguities
 
 新总统博里奇今年36岁，是智利有史以来最年轻的国家元首，也是当前世界第二年轻的国家元首。他3月初上台后，因为本身和内阁成员的几次施政失误，支持率迅速下降。
 
-![](/images/btnews/0401_0500/0489/b7124627-43a6-4678-a364-48cde1d9f8c4.webp)
+![](/images/btnews/btnews/0401_0500/0489/b7124627-43a6-4678-a364-48cde1d9f8c4.webp)
 
 没有蜜月期：在放大镜下总统博里奇执政前一百天
 https://www.radioudec.cl/sin-luna-de-miel-los-primeros-cien-dias-de-gobierno-del-presidente-boric-en-la-lupa/
 
 
 
-![](/images/btnews/0401_0500/0489/ebe2b698-5e44-4d28-81fa-75da919e359a.webp)
+![](/images/btnews/btnews/0401_0500/0489/ebe2b698-5e44-4d28-81fa-75da919e359a.webp)
 
 
 博里奇总统收获了32.8%的支持率
@@ -278,19 +278,19 @@ https://chile.activasite.com/estudios/pulso-ciudadano-54/
 
 比如说，智利前驻华大使施密特今年7月就以资深技术官僚的身份批评智利新政府，说这些没有经验的年轻人不知道如何使用权力。其中一个具体表现是智利政府没有派人去接替驻中国和驻巴西大使，职位空缺了好几个月。中国是智利的最大外贸国，巴西是南美洲最强的国家，也是智利在本大陆最主要的贸易伙伴。这两个国家不认真选派大使，说明智利新政府并不重视发展经济，宁可把精力用来写新宪法。
 
-![](/images/btnews/0401_0500/0489/b72d1d2b-8582-40a9-bc64-2b7ae16a84f7.webp)
+![](/images/btnews/btnews/0401_0500/0489/b72d1d2b-8582-40a9-bc64-2b7ae16a84f7.webp)
 
 https://dfmas.df.cl/df-mas/hablemos-de/ex-embajador-de-chile-en-china-la-canciller-urrejola-deberia-tomar-un
 
 
 最近半年世界经济形势的确不好，但是因为大国通货膨胀和战争影响了原料供应，能出口原料的资源国经济增长都不错。智利本来应该也能分到不少红利，但现实是智利经济发展继续放缓，乐观估计也只能增长1.5%。在选民看来，左翼政府连送上门的短期红利都抓不住，恐怕也不适合替智利制订一部影响几代人的新宪法。
 
-![](/images/btnews/0401_0500/0489/717f26c3-272a-4c45-ad74-6a528aa3a297.webp)
+![](/images/btnews/btnews/0401_0500/0489/717f26c3-272a-4c45-ad74-6a528aa3a297.webp)
 
 https://www.ccpit.org/chile/a/20220529/20220529binp.html
  
 
-![](/images/btnews/0401_0500/0489/5790b83b-f47e-4c86-b668-c93750917873.webp)
+![](/images/btnews/btnews/0401_0500/0489/5790b83b-f47e-4c86-b668-c93750917873.webp)
 
 智利对加布里埃尔·博里克的宪法说“不”
 https://www.elmundo.es/internacional/2022/09/05/6315346cfdddff696e8b45ba.html
@@ -314,18 +314,18 @@ https://baijiahao.baidu.com/s?id=1731335280558089359
 
 另外，去年301期节目我们介绍过瑞士的公投制度，过去170年搞了700次公投，决定了很多重大问题。最近十年，瑞士人多次通过选票否决了提高福利标准的法案。比如说无条件的国民基本工资，强制的六周带薪假，都被公投否决了。
 
-![](/images/btnews/0401_0500/0489/3b2fa3c9-9ef0-47e0-8ebc-32718820610f.webp)
+![](/images/btnews/btnews/0401_0500/0489/3b2fa3c9-9ef0-47e0-8ebc-32718820610f.webp)
 
 https://www.bilibili.com/video/BV1954y1n7Kw?spm_id_from=333.337.search-card.all.click&vd_source=87ddbf3f4d24095b069ff1cc30a0be69
  
 
-![](/images/btnews/0401_0500/0489/c459ef6f-3a80-4ba0-8778-07e30a71c68b.webp)
+![](/images/btnews/btnews/0401_0500/0489/c459ef6f-3a80-4ba0-8778-07e30a71c68b.webp)
 
 
 http://world.people.com.cn/n1/2016/0606/c1002-28412662.html
  
 
-![](/images/btnews/0401_0500/0489/12849757-89dc-4c10-b73d-5009dfa2865e.webp)
+![](/images/btnews/btnews/0401_0500/0489/12849757-89dc-4c10-b73d-5009dfa2865e.webp)
 
 https://www.chinanews.com.cn/cj/2012/03-13/3740323.shtml
 
@@ -335,13 +335,13 @@ https://www.chinanews.com.cn/cj/2012/03-13/3740323.shtml
 
 但是从全世界来看，确实是借债发补贴的政府在增加。比如说刚上任的英国首相特拉斯，赢得选举就是靠承诺大幅减税和提高补贴。上台后，特拉斯也的确制订了空前的撒钱补贴计划。
 
-![](/images/btnews/0401_0500/0489/6a4bebbc-7eb5-44cb-9179-6d6a5d940168.webp)
+![](/images/btnews/btnews/0401_0500/0489/6a4bebbc-7eb5-44cb-9179-6d6a5d940168.webp)
 
 利兹特拉斯承诺减税 300 亿英镑以赢得保守党右翼人士的支持
 https://www.ft.com/content/233b692e-39be-4175-90e3-1253418203b0
  
 
-![](/images/btnews/0401_0500/0489/0e92304a-9d64-4b85-b9c7-269089ebed84.webp)
+![](/images/btnews/btnews/0401_0500/0489/0e92304a-9d64-4b85-b9c7-269089ebed84.webp)
 
 https://www.sohu.com/a/583007876_130887
 
@@ -349,12 +349,12 @@ https://www.sohu.com/a/583007876_130887
 至于说美国的财政和债务问题，中国人天天能在媒体上看到，熟悉程度可能要超过对中国本身的了解。过去两年，美国国债比例提升了20%，一部分是用来应对疫情和战争带来的经济缺口，另一部分也是在撒钱发福利。比如说最近拜登政府连续通过了多个财政支出法案，计划一次性免除3900亿美元的学费贷款。
  
 
-![](/images/btnews/0401_0500/0489/b8fa5c8f-8718-4764-8267-f1cb06cc6ab9.webp)
+![](/images/btnews/btnews/0401_0500/0489/b8fa5c8f-8718-4764-8267-f1cb06cc6ab9.webp)
 
 https://tradingeconomics.com/united-states/government-debt-to-gdp
  
 
-![](/images/btnews/0401_0500/0489/6e72f635-a8bd-4ba8-8e44-3c3484081271.webp)
+![](/images/btnews/btnews/0401_0500/0489/6e72f635-a8bd-4ba8-8e44-3c3484081271.webp)
 
 
 
@@ -363,7 +363,7 @@ https://www.cnbc.com/2022/08/16/ed-dept-cancels-3point9-billion-in-student-debt-
 
 从全社会的视角来看，再怎么设计财政方案，也只是调整记账方式，最终福利还是人民自己买单。印钱导致美欧社会进入了70年代以来最强的高通胀时代；借债发福利更是给下一代人埋地雷。但政治效果立竿见影，拜登目前的支持率已经从最低的35%左右反弹到了45%。可以预计美国接下来还会发债印钱换取社会稳定。
 
-![](/images/btnews/0401_0500/0489/fee1053d-185e-4e58-90b7-5ee26db1c54f.webp)
+![](/images/btnews/btnews/0401_0500/0489/fee1053d-185e-4e58-90b7-5ee26db1c54f.webp)
 
 
 
@@ -371,7 +371,7 @@ https://www.cnbc.com/2022/08/16/ed-dept-cancels-3point9-billion-in-student-debt-
 
 
 
-![](/images/btnews/0401_0500/0489/68ecbe4b-0dc6-4033-ba97-6640ff9bc81f.webp)
+![](/images/btnews/btnews/0401_0500/0489/68ecbe4b-0dc6-4033-ba97-6640ff9bc81f.webp)
 
 
 
@@ -419,7 +419,7 @@ https://www.axios.com/2022/09/15/bidens-approval-rating-rebounds-midterm
 
 智利这次修宪是21世纪多次“企鹅革命”的后续发展，而智利人民否定了脱离现实的宪法，也是“企鹅革命”成果的一部分，不能说智利左翼之前的工作没有意义。冷静的人民将来可以支持社会更踏实的进步。
 
-![](/images/btnews/0401_0500/0489/fdb2ac6f-dd76-46f7-8198-be906b459778.webp)
+![](/images/btnews/btnews/0401_0500/0489/fdb2ac6f-dd76-46f7-8198-be906b459778.webp)
 
 
 
@@ -436,7 +436,7 @@ https://www.axios.com/2022/09/15/bidens-approval-rating-rebounds-midterm
 
 说到社会共识，我想起之前中国各个自媒体平台都喜欢给用户推送感情类内容，经常会强行分享两性交往经验。我注意到，有经验的作者都会提醒新手。“表白”——尤其是当众“表白”是感情水到渠成的结果，而不是能快速巩固关系的工具。如果对方只是略有好感，还在犹豫不决，千万不要设计隆重的仪式真情表白，更不要当场要求对方做选择。因为在犹豫不决的时候，大多数人往往会选择保持现状，避免风险。十次强行表白，有九次会被拒绝。
 
-![](/images/btnews/0401_0500/0489/b66839c8-2d20-4df6-972b-c7951bf59cbe.webp)
+![](/images/btnews/btnews/0401_0500/0489/b66839c8-2d20-4df6-972b-c7951bf59cbe.webp)
 
 
 
@@ -444,7 +444,7 @@ https://www.axios.com/2022/09/15/bidens-approval-rating-rebounds-midterm
 
 最近的智利左翼制宪代表，政治水平就像一个从来没和异性交往过的中学生，没有耐心约会交往，培养感情，稍微抓住一个机会，就把自己的幼稚梦想全部抛出去，逼着群众跟自己一起“进步”，被事实打脸一点都不奇怪。这用20世纪的概念来形容，就是典型的“左派幼稚病”，希望中国年轻人能认真研究智利的当代史。
 
-![](/images/btnews/0401_0500/0489/20ccd49c-cc8d-483f-b027-d41b6dd2b8a2.webp)
+![](/images/btnews/btnews/0401_0500/0489/20ccd49c-cc8d-483f-b027-d41b6dd2b8a2.webp)
 
 
 
@@ -452,6 +452,6 @@ https://www.axios.com/2022/09/15/bidens-approval-rating-rebounds-midterm
 
 
 
-![](/images/btnews/0401_0500/0489/1f14213a-a1ba-47d2-b536-b0562e955117.webp)
+![](/images/btnews/btnews/0401_0500/0489/1f14213a-a1ba-47d2-b536-b0562e955117.webp)
 
 

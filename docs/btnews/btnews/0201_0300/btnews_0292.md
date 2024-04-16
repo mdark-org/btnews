@@ -21,13 +21,13 @@ date: 2021-06-25
 
 **美国官方上个月正式承认，军队确实发现过一些疑似不明飞行物，并解密了一些资料。**
 
-![](/images/btnews/0201_0300/0292/image1.webp)
+![](/images/btnews/btnews/0201_0300/0292/image1.webp)
 
 [
 美国又现UFO 五角大楼证实视频是真的-新华网
 ](http://www.xinhuanet.com/mil/2021-05/19/c_1211161624.htm)
 
-![](/images/btnews/0201_0300/0292/image2.webp)
+![](/images/btnews/btnews/0201_0300/0292/image2.webp)
 
 2004 年美国海军在圣地亚哥海岸附近发现不明空中现象
 
@@ -41,22 +41,22 @@ https://www.youtube.com/watch?v=ZBtMbBPzqHY
 
 **为了和民间的UFO传说区别，美军内部称它们为“不明空中现象”，军方一直在进行调查。今天是25号，按照之前预告的周期，美国军队会在24小时内给国会提交一份“不明空中现象”报告。**
 
-![](/images/btnews/0201_0300/0292/image3.webp)
+![](/images/btnews/btnews/0201_0300/0292/image3.webp)
 
 美国国防部2020年9月下令成立不明空中现象工作组
 
-![](/images/btnews/0201_0300/0292/image4.webp)
+![](/images/btnews/btnews/0201_0300/0292/image4.webp)
 
 **几乎美国官方宣告“不明空中现象”的同时，香港南华早报6月4号报道，中国研究人员表示，中国空军也有遇到过类似情况，官方称为“不明天气状况”（unidentified
 aerial phenomena）。**
 
-![](/images/btnews/0201_0300/0292/image5.webp)
+![](/images/btnews/btnews/0201_0300/0292/image5.webp)
 
 [China military uses AI to track rapidly increasing UFOs \| South China Morning Post](https://www.scmp.com/news/china/science/article/3136078/china-military-uses-ai-track-rapidly-increasing-ufos)
 
 **而且，官方研究人员宣布，中国也要对类似现象进行严肃的调查，近年还引入了新开发的AI技术，用人工智能来分析这些不明空中现象。**
 
-![](/images/btnews/0201_0300/0292/image6.webp)
+![](/images/btnews/btnews/0201_0300/0292/image6.webp)
 
 **督工，过去UFO事件一直被认为是民间话题，中、美官方为什么要对这种事情公开表态。**
 
@@ -64,7 +64,7 @@ aerial phenomena）。**
 
 现在中美官方同时开始关注不明飞行物，理由是一样的，都是因为中国科技实力提升太快。美国整理以往的不明飞行物资料，是需要分析历史资料，帮助筛选可能出现的中国新型飞行器。而中国严肃对待不明飞行物，是因为过去防空水平太差，区分不了高科技飞行器和自然现象，现在科技水平上来了，要赶紧补课。
 
-![](/images/btnews/0201_0300/0292/image7.webp)
+![](/images/btnews/btnews/0201_0300/0292/image7.webp)
 
 就目前比较严肃的讨论看，经过事后调查和分析，绝大多数“不明空中现象”大多数只是普通飞行器，或者是天气现象。但确实有极少数事件难以找到权威可信的解释，最合理也最有意义的解释，就是别国空中入侵。
 
@@ -72,21 +72,21 @@ aerial phenomena）。**
 
 为了隔绝有敌意的飞行器，1950年美国联合加拿大建立了世界上第一个本国领空之外的防空识别区，北美防空识别区。
 
-![](/images/btnews/0201_0300/0292/image8.webp)
+![](/images/btnews/btnews/0201_0300/0292/image8.webp)
 
 同时开始建立覆盖全国的雷达网络。到1965年，美国基本实现对全部国土24小时不间断的监控。
 
-![](/images/btnews/0201_0300/0292/image9.webp)
+![](/images/btnews/btnews/0201_0300/0292/image9.webp)
 
 美国二战后第一代国内远程雷达
 
 除此之外，美国的气象雷达网，以及空军的战略预警系统，也是独立成网的。和主雷达网可以交叉验证。
 
-![](/images/btnews/0201_0300/0292/image10.webp)
+![](/images/btnews/btnews/0201_0300/0292/image10.webp)
 
-![](/images/btnews/0201_0300/0292/image11.webp)
+![](/images/btnews/btnews/0201_0300/0292/image11.webp)
 
-![](/images/btnews/0201_0300/0292/image12.webp)
+![](/images/btnews/btnews/0201_0300/0292/image12.webp)
 
 [
 	 NEXRAD Radar Operations Center, WSR-88D
@@ -94,7 +94,7 @@ aerial phenomena）。**
 
 在这样的监控水平下，美国还是担心自己的天空被别人偷偷摸进来。原因一方面是美国人自己喜欢去别国上空偷窥，另一方面也因为美国仇家太多，每个工业化国家都可能是它的潜在对手。
 
-新中国作为最近几十年才拥有高科技工业的大国，对外来飞行器的担心不是猜想，而是现实。七十年代以前，入侵飞行器基本上是靠技术优势强行飞越。![](/images/btnews/0201_0300/0292/image13.webp)
+新中国作为最近几十年才拥有高科技工业的大国，对外来飞行器的担心不是猜想，而是现实。七十年代以前，入侵飞行器基本上是靠技术优势强行飞越。![](/images/btnews/btnews/0201_0300/0292/image13.webp)
 
 中国50-60年代击落的U-2飞机残骸
 
@@ -102,7 +102,7 @@ aerial phenomena）。**
 
 现有的公开资料显示，直到上世纪末，中国的空情网络还缺乏自动化指挥体系，基本依靠人工语音、作图的方式汇总情报，比国际先进水平落后了二三十年，装备至少差了两代。不仅强国会利用技术代差来获取情报，就连印度都不断尝试用进口的高速侦察机来挑衅。
 
-![](/images/btnews/0201_0300/0292/image14.webp)
+![](/images/btnews/btnews/0201_0300/0292/image14.webp)
 
 蒙古国用图上作业指挥防空演习
 
@@ -110,23 +110,23 @@ aerial phenomena）。**
 
 21世纪以后，伴随着整个国家工业规模扩大，中国电子信息产业高速发展，空中情报开始依托国产技术升级。2010年左右，新一代的雷达和指挥系统全面普及。
 
-![](/images/btnews/0201_0300/0292/image15.webp)
+![](/images/btnews/btnews/0201_0300/0292/image15.webp)
 
-![](/images/btnews/0201_0300/0292/image16.webp)
+![](/images/btnews/btnews/0201_0300/0292/image16.webp)
 
 [地址不存在](http://military.china.com.cn/txt/2009-05/18/content_17792890.htm)
 
-![](/images/btnews/0201_0300/0292/image17.webp)
+![](/images/btnews/btnews/0201_0300/0292/image17.webp)
 
 [广州战区三军建成我国首个战区版C4ISR系统](https://mil.huanqiu.com/article/9CaKrnJlCCs)
 
 最近几年，除了大陆重要区域，连南海外岛都建设了新型雷达对包括隐形飞机在内的各种飞行器进行监视预警。
 
-![](/images/btnews/0201_0300/0292/image18.webp)
+![](/images/btnews/btnews/0201_0300/0292/image18.webp)
 
-![](/images/btnews/0201_0300/0292/image19.webp)
+![](/images/btnews/btnews/0201_0300/0292/image19.webp)
 
-![](/images/btnews/0201_0300/0292/image20.webp)
+![](/images/btnews/btnews/0201_0300/0292/image20.webp)
 
 我军南海岛礁新型体制远程雷达
 
@@ -134,57 +134,57 @@ aerial phenomena）。**
 
 但是，设备更新了，人员素质和管理水平还需要提升，大单位的组织化训练也需要时间。可能直到最近几年，中国对本土空域的掌控能力才基本追上发达国家。
 
-![](/images/btnews/0201_0300/0292/image21.webp)
+![](/images/btnews/btnews/0201_0300/0292/image21.webp)
 
 [¿Õ¾üÀ×´ïÄ³²¿´òÔìÐÂÐÍ¿ÕÇé±£ÕÏÏµÍ³ ÌåÏµ×÷Õ½¿ÕÇéÐÅÏ¢±£ÕÏÓÅÖÊ¸ßÐ§\_ÐÂÀË¾üÊÂ_ÐÂÀËÍø](http://mil.news.sina.com.cn/2010-11-16/0700619224.html)
 
-![](/images/btnews/0201_0300/0292/image22.webp)
+![](/images/btnews/btnews/0201_0300/0292/image22.webp)
 
 [¼Ã¿ÕÄ³À×´ïÍÅÎ§ÈÆÖØÄÑµã¿ÆÄ¿ºÍ¸´ÔÓ¿ÕÇé´¦ÖÃÑµÁ·-ÖÐÐÂÍø](http://www.chinanews.com/gn/2012/05-14/3887488.shtml)
 
 在这个过程中，中国的“不明天气状况”事件发生频率一年比一年低。对于无需保密的大范围事件，官方甚至会直接给出解释。比如2019年6月2日晚，中国多地都观察到了“不明飞行物”。战略火箭部队和海军的官方微博号很快就公布了答案。
 
-![](/images/btnews/0201_0300/0292/image23.webp)
+![](/images/btnews/btnews/0201_0300/0292/image23.webp)
 
-![](/images/btnews/0201_0300/0292/image24.webp)
+![](/images/btnews/btnews/0201_0300/0292/image24.webp)
 
-![](/images/btnews/0201_0300/0292/image25.webp)
+![](/images/btnews/btnews/0201_0300/0292/image25.webp)
 
 不过，一旦建立了现代空中情报体系，信息不足的问题就立刻转化为信息太多，超过了人力分析的上限。所以，必须设立标准，筛除那些没有意义或者意义不大的信息，只关注最重要的雷达目标。而敌人也必然会反复试探这个标准，尝试让侦察飞机混入会被筛除的杂乱信号。
 
-![](/images/btnews/0201_0300/0292/image26.webp)
+![](/images/btnews/btnews/0201_0300/0292/image26.webp)
 
 [¡°Êý¾Ý±ã¼ã¡±ÌáÉý¿ÕÇéÖÊÁ¿--¾üÊÂ--ÈËÃñÍø ](http://military.people.com.cn/n1/2019/0507/c1011-31071699.html)
 
-![](/images/btnews/0201_0300/0292/image27.webp)
+![](/images/btnews/btnews/0201_0300/0292/image27.webp)
 
 [空情保障靠数据决策 - 中国日报网](https://cn.chinadaily.com.cn/a/202004/14/WS5e967385a310c00b73c77290.html)
 
-![](/images/btnews/0201_0300/0292/image28.webp)
+![](/images/btnews/btnews/0201_0300/0292/image28.webp)
 
 [空情研判，“经验派”败给“数据控”](https://m.yunnan.cn/system/2020/02/28/030602012.shtml)
 
 最近几年，中国本土航空工业发展很快，空域控制的主要目标必然要从防空转向民用，全面开放空域已经是必然趋势。
 
-![](/images/btnews/0201_0300/0292/image29.webp)
+![](/images/btnews/btnews/0201_0300/0292/image29.webp)
 
 [å½å¡é¢åå¬åå°åãå³äºä¿è¿éç¨èªç©ºä¸åå±çæå¯¼æè§ã\_æ»å¨æ°é»\_ä¸­å½æ¿åºç½](http://www.gov.cn/xinwen/2016-05/17/content_5074151.htm)
 
-![](/images/btnews/0201_0300/0292/image30.webp)
+![](/images/btnews/btnews/0201_0300/0292/image30.webp)
 
 [**https://www.163.com/dy/article/GD5S7DRI0514D7B7.html**](https://www.163.com/dy/article/GD5S7DRI0514D7B7.html)
 
 同时，近年无人机快速崛起，打破了所有人的预料。中国目前在主流飞行器方面还落后于发达国家，但无人机方面商业成绩非常好。为了支持这个潜力无限的产业，我们也必须对本国民用飞行器充分开放领空。这意味着中国空情管理数据会快速爆炸，增加几百倍都不奇怪。
 
-![](/images/btnews/0201_0300/0292/image31.webp)
+![](/images/btnews/btnews/0201_0300/0292/image31.webp)
 
 [极飞 P80 2021 款农业无人飞机 - 极飞科技](https://www.xa.com/p80-2021?bd_bxst=f-9HN0DKAO_w00DYUcC00rD00fDzgPnKDdZSZ00000jKC0fs000000JYtev81VeczeElnDmzwHKDrjDYnjbvwH9jrRRsnDRYnRNjwDnsPW-AwR7DxjD1rjT4PHD1njc4nHTvra0vnDNjfYm3P1b4wHfvPjPanWK7wbPawbcknjIAPHDsnOoX3PD)
 
-![](/images/btnews/0201_0300/0292/image32.webp)
+![](/images/btnews/btnews/0201_0300/0292/image32.webp)
 
-![](/images/btnews/0201_0300/0292/image33.webp)
+![](/images/btnews/btnews/0201_0300/0292/image33.webp)
 
-![](/images/btnews/0201_0300/0292/image34.webp)
+![](/images/btnews/btnews/0201_0300/0292/image34.webp)
 
 [
         顶级专家齐聚广州 研讨C4ISR领域最新进展-中国科技网
@@ -192,11 +192,11 @@ aerial phenomena）。**
 
 2020年中国AI论文引用已经排在全球第一，在这个背景下，利用AI补课，处理指挥系统积累的数据，筛选可疑的雷达信号，处理不明飞行物数据，已经是必然的选择。
 
-![](/images/btnews/0201_0300/0292/image35.webp)
+![](/images/btnews/btnews/0201_0300/0292/image35.webp)
 
 [报告显示中国AI论文数全球第一 \| 互联网数据资讯网-199IT \| 中文互联网数据研究资讯中心-199IT](http://www.199it.com/archives/881288.html)
 
-![](/images/btnews/0201_0300/0292/image36.webp)
+![](/images/btnews/btnews/0201_0300/0292/image36.webp)
 
 <https://www.163.com/dy/article/G48R31G8051480KF.html>
 
@@ -204,7 +204,7 @@ aerial phenomena）。**
 
 5月12日，财政部与海关总署发布了一则公告，从6月12日起，针对部分成品油征收进口环节税。界面新闻此前采访商务部石油流通专家尹强，他说这是2001年以来最严厉的成品油偷税漏税整治行动。督工，这份公告对中国有什么影响？
 
-![](/images/btnews/0201_0300/0292/image37.webp)
+![](/images/btnews/btnews/0201_0300/0292/image37.webp)
 
 [å³äºå¯¹é¨åæåæ²¹å¾æ¶è¿å£ç¯èæ¶è´¹ç¨çå¬å](http://gss.mof.gov.cn/gzdt/zhengcefabu/202105/t20210514_3702362.htm)
 
@@ -254,7 +254,7 @@ aerial phenomena）。**
 之前很多期节目，我聊过读书和个人发展的相关话题，
 有的时候还会在办公室的图书室录一些视频，很多观众因此希望我们分享一下读书的感受。
 
-![](/images/btnews/0201_0300/0292/image38.webp)
+![](/images/btnews/btnews/0201_0300/0292/image38.webp)
 
 所以，我我尝试把书评、影评和游戏试玩结合起来，不定期更新文化产品评测栏目。今天我先分享我上周读的书《登月第一人》，尼尔-阿姆斯特朗传记。
 
@@ -293,18 +293,18 @@ aerial phenomena）。**
 
 今天的文化产品评测到此结束，如果大家喜欢，我和同事会不定期轮流分享，以后独立出来做一个小栏目。
 
-![](/images/btnews/0201_0300/0292/image38.webp)
+![](/images/btnews/btnews/0201_0300/0292/image38.webp)
 
 最后我分享两条图片简讯。首先是青岛的三文鱼养殖场首次收获。
 
 [
 		开创全球温暖海域三文鱼养殖先河！“深蓝一号”首次收鱼-国际在线](http://sd.cri.cn/20210623/7a3c6c05-3298-209c-e442-52a64bffe2ba.html)
 
-![](/images/btnews/0201_0300/0292/image39.webp)
+![](/images/btnews/btnews/0201_0300/0292/image39.webp)
 
 三文鱼虽然是深海冷水鱼，但黄海下面恰好有一个低于水面温度的冷水团，我们可以做一个大笼子，沉到深水区去养殖，养肥了再用水泵吸上来。中国未来要持续改善食谱，野生鱼是不够吃的，必须指望工业化养殖。
 
-![](/images/btnews/0201_0300/0292/image40.webp)
+![](/images/btnews/btnews/0201_0300/0292/image40.webp)
 
 另外一张图是从山上开下来的船。
 
@@ -314,34 +314,34 @@ aerial phenomena）。**
 
 贵阳市在乌江水系修了一个构皮滩大坝，蓄水拓宽航道，同时在旁边的山崖修了三级垂直升船机，500吨的货船可以轻松上下。这个水利枢纽修好以后，贵阳市的货船可以向北一路进入长江。
 
-![](/images/btnews/0201_0300/0292/image41.webp)
+![](/images/btnews/btnews/0201_0300/0292/image41.webp)
 
-![](/images/btnews/0201_0300/0292/image42.webp)
+![](/images/btnews/btnews/0201_0300/0292/image42.webp)
 
-![](/images/btnews/0201_0300/0292/image43.webp)
+![](/images/btnews/btnews/0201_0300/0292/image43.webp)
 
-![](/images/btnews/0201_0300/0292/image44.webp)
+![](/images/btnews/btnews/0201_0300/0292/image44.webp)
 
-![](/images/btnews/0201_0300/0292/image45.webp)
+![](/images/btnews/btnews/0201_0300/0292/image45.webp)
 
-![](/images/btnews/0201_0300/0292/image46.webp)
+![](/images/btnews/btnews/0201_0300/0292/image46.webp)
 
 2019年9月15日19.5期节目，我们介绍广西大藤峡水流枢纽的时候提到，珠江水系上修了一系列船闸，可以让千吨船一路开到云南富宁港。
 
-![](/images/btnews/0201_0300/0292/image47.webp)
+![](/images/btnews/btnews/0201_0300/0292/image47.webp)
 
-![](/images/btnews/0201_0300/0292/image48.webp)
+![](/images/btnews/btnews/0201_0300/0292/image48.webp)
 
 这条航线中间是要经过贵州的。红水河和北盘江水系深入贵州，也可以到达距离贵阳很近的地方。贵州一半是长江水系，一半是珠江水系，分水岭就是贵阳附近的苗岭。现在贵州的船向北可以进长江，向南可以进珠江，四舍五入也是个沿海省份了，希望贵州能好好利用这些水利设施，搞点实业。
 
-![](/images/btnews/0201_0300/0292/image49.webp)
+![](/images/btnews/btnews/0201_0300/0292/image49.webp)
 
-![](/images/btnews/0201_0300/0292/image50.webp)
+![](/images/btnews/btnews/0201_0300/0292/image50.webp)
 
 <https://www.163.com/dy/article/G4BJS8S50541SCZC.html>
 
 另外，除了考虑工业物流之外，构皮滩大坝的青山绿水和上下垂直航道也是难得一见的景色，如果正对着大坝建一个度假村，我还真考虑每年夏天去好好住几天，看看货船从山上开下来的奇迹。如果能安排货船从贵阳一直开到武汉，那我就更想去了。这才是贵州真正应该开发旅游的地方。
 
-![](/images/btnews/0201_0300/0292/image43.webp)
+![](/images/btnews/btnews/0201_0300/0292/image43.webp)
 
 好，292期睡前消息到此结束，感谢各位收看，我们周日再见！

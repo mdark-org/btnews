@@ -14,7 +14,7 @@ date: 2022-01-07
 
 
 
-![](/images/btnews/0301_0400/0376/6894d641-ec36-44b9-bf58-ca0e21dddbe9.webp)
+![](/images/btnews/btnews/0301_0400/0376/6894d641-ec36-44b9-bf58-ca0e21dddbe9.webp)
 
 
 
@@ -34,7 +34,7 @@ date: 2022-01-07
 
 
 
-![](/images/btnews/0301_0400/0376/5874af22-a842-493f-bd2c-3935c4bd0a22.webp)
+![](/images/btnews/btnews/0301_0400/0376/5874af22-a842-493f-bd2c-3935c4bd0a22.webp)
 
 
 
@@ -44,7 +44,7 @@ date: 2022-01-07
 
 
 
-![](/images/btnews/0301_0400/0376/c5227db9-8098-47e9-9338-7aea7cc43b44.webp)
+![](/images/btnews/btnews/0301_0400/0376/c5227db9-8098-47e9-9338-7aea7cc43b44.webp)
 
 
 
@@ -56,7 +56,7 @@ date: 2022-01-07
 
 
 
-![](/images/btnews/0301_0400/0376/ee6dcf97-43cf-4ca4-8739-52f38a7681a2.webp)
+![](/images/btnews/btnews/0301_0400/0376/ee6dcf97-43cf-4ca4-8739-52f38a7681a2.webp)
 
 
 
@@ -76,7 +76,7 @@ https://bdnews24.com/bangladesh/2021/12/08/court-sentences-20-to-death-5-to-life
 
 
 
-![](/images/btnews/0301_0400/0376/5ed7ed59-3f6a-4253-bb31-7db2e994e312.webp)
+![](/images/btnews/btnews/0301_0400/0376/5ed7ed59-3f6a-4253-bb31-7db2e994e312.webp)
 
 **2021年12月8日，警察护送被定罪的大学生离开达卡的法庭。法新社**
 
@@ -102,7 +102,7 @@ https://bdnews24.com/bangladesh/2021/12/08/court-sentences-20-to-death-5-to-life
 
 
 
-![](/images/btnews/0301_0400/0376/61fb46be-b3ee-44a3-9078-731df21d75b0.webp)
+![](/images/btnews/btnews/0301_0400/0376/61fb46be-b3ee-44a3-9078-731df21d75b0.webp)
 
 
 
@@ -112,7 +112,7 @@ https://bdnews24.com/bangladesh/2021/12/08/court-sentences-20-to-death-5-to-life
 
 
 
-![](/images/btnews/0301_0400/0376/d8769f15-a375-4337-a899-6a31e8d51699.webp)
+![](/images/btnews/btnews/0301_0400/0376/d8769f15-a375-4337-a899-6a31e8d51699.webp)
 
 
 
@@ -136,7 +136,7 @@ https://www.tbsnews.net/opinion/how-will-feni-river-water-withdrawal-impact-bang
 
 
 
-![](/images/btnews/0301_0400/0376/4aef91e2-c28f-4de1-95f1-109d7a8e29b7.webp)
+![](/images/btnews/btnews/0301_0400/0376/4aef91e2-c28f-4de1-95f1-109d7a8e29b7.webp)
 
 
 
@@ -172,13 +172,13 @@ https://www.tbsnews.net/opinion/how-will-feni-river-water-withdrawal-impact-bang
 
 
 
-![](/images/btnews/0301_0400/0376/d94d7e0c-43d5-4858-99f7-09036e9e4bcb.webp)
+![](/images/btnews/btnews/0301_0400/0376/d94d7e0c-43d5-4858-99f7-09036e9e4bcb.webp)
 
 **孟加拉两大党领袖:现总理哈西娜夫人（左）和前总理齐亚夫人（右）**
 
 
 
-![](/images/btnews/0301_0400/0376/4fb9a239-bfaa-4f43-be1d-2d6e98735f37.webp)
+![](/images/btnews/btnews/0301_0400/0376/4fb9a239-bfaa-4f43-be1d-2d6e98735f37.webp)
 
 
 
@@ -188,7 +188,7 @@ https://www.tbsnews.net/opinion/how-will-feni-river-water-withdrawal-impact-bang
 
 
 
-![](/images/btnews/0301_0400/0376/8101bd21-db87-4752-8975-0448fd354e2f.webp)
+![](/images/btnews/btnews/0301_0400/0376/8101bd21-db87-4752-8975-0448fd354e2f.webp)
 
 
 
@@ -218,7 +218,7 @@ http://news.sina.com.cn/o/2013-06-05/150027320083.shtml
 
 
 
-![](/images/btnews/0301_0400/0376/1b37c8b3-55e1-4f02-a414-6282ac6dc1d7.webp)
+![](/images/btnews/btnews/0301_0400/0376/1b37c8b3-55e1-4f02-a414-6282ac6dc1d7.webp)
 
 
 
@@ -234,7 +234,7 @@ http://news.sina.com.cn/o/2013-06-05/150027320083.shtml
 
 
 
-![](/images/btnews/0301_0400/0376/280701d4-9ea4-4754-a752-52ed02504644.webp)
+![](/images/btnews/btnews/0301_0400/0376/280701d4-9ea4-4754-a752-52ed02504644.webp)
 
 
 
@@ -254,7 +254,7 @@ http://news.sina.com.cn/o/2013-06-05/150027320083.shtml
 
 
 
-![](/images/btnews/0301_0400/0376/2d88c481-681f-45ad-bb87-3c107044dbfd.webp)
+![](/images/btnews/btnews/0301_0400/0376/2d88c481-681f-45ad-bb87-3c107044dbfd.webp)
 
 **英国QS世界大学排名：亚洲区孟加拉国各大学排名**
 > [孟加拉工程技术大学 | QS亚洲大学排名 | 梦奇大学排名搜索](http://daxue.menggy.com/73/QS%E4%BA%9A%E6%B4%B2%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D/3670/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6)
@@ -266,13 +266,13 @@ http://news.sina.com.cn/o/2013-06-05/150027320083.shtml
 
 
 
-![](/images/btnews/0301_0400/0376/002b1c04-a3f5-40aa-82c4-7abef3af81b7.webp)
+![](/images/btnews/btnews/0301_0400/0376/002b1c04-a3f5-40aa-82c4-7abef3af81b7.webp)
 
 **英国QS世界大学排名：孟加拉国各大学排名**http://daxue.menggy.com/142/QS%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D/3670/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6
 
 
 
-![](/images/btnews/0301_0400/0376/1908593b-fb56-4620-bd2f-05a2546c83de.webp)
+![](/images/btnews/btnews/0301_0400/0376/1908593b-fb56-4620-bd2f-05a2546c83de.webp)
 
 
 
@@ -288,7 +288,7 @@ http://news.sina.com.cn/o/2013-06-05/150027320083.shtml
 
 
 
-![](/images/btnews/0301_0400/0376/49793fc3-b4b9-43c6-84db-8a560d3ed753.webp)
+![](/images/btnews/btnews/0301_0400/0376/49793fc3-b4b9-43c6-84db-8a560d3ed753.webp)
 
 
 
@@ -308,7 +308,7 @@ https://www.bbc.com/news/world-asia-49986893
 
 
 
-![](/images/btnews/0301_0400/0376/ac503cb8-bf19-43cc-8528-4e8de56f977a.webp)
+![](/images/btnews/btnews/0301_0400/0376/ac503cb8-bf19-43cc-8528-4e8de56f977a.webp)
 
 
 > [Court sentences 20 to death, 5 to life in prison for murder of BUET student Abrar Fahad](https://bdnews24.com/bangladesh/2021/12/08/court-sentences-20-to-death-5-to-life-in-prison-for-murder-of-buet-student-abrar-fahad)
@@ -326,7 +326,7 @@ https://www.bbc.com/news/world-asia-49986893
 
 
 
-![](/images/btnews/0301_0400/0376/ed5a69fa-cf96-4bad-a7df-f0c6cb0b158c.webp)
+![](/images/btnews/btnews/0301_0400/0376/ed5a69fa-cf96-4bad-a7df-f0c6cb0b158c.webp)
 
 
 > [孟加拉国执政党赢得国民议会选举_达卡](https://www.sohu.com/a/285767117_114988)
@@ -350,7 +350,7 @@ https://www.bbc.com/news/world-asia-49986893
 
 
 
-![](/images/btnews/0301_0400/0376/6e13313d-3cd5-4969-b30a-fcd83264a80e.webp)
+![](/images/btnews/btnews/0301_0400/0376/6e13313d-3cd5-4969-b30a-fcd83264a80e.webp)
 
 
 
@@ -360,7 +360,7 @@ https://www.bbc.com/news/world-asia-49986893
 
 
 
-![](/images/btnews/0301_0400/0376/94dabd85-8c3f-4c01-a767-37a4dd609990.webp)
+![](/images/btnews/btnews/0301_0400/0376/94dabd85-8c3f-4c01-a767-37a4dd609990.webp)
 
 http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
@@ -376,7 +376,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/676d40e5-ce45-40ac-a72b-67988d61da23.webp)
+![](/images/btnews/btnews/0301_0400/0376/676d40e5-ce45-40ac-a72b-67988d61da23.webp)
 
 
 
@@ -398,7 +398,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/19f6e322-f282-4e66-91ca-8fecc8059d2c.webp)
+![](/images/btnews/btnews/0301_0400/0376/19f6e322-f282-4e66-91ca-8fecc8059d2c.webp)
 
 
 
@@ -414,7 +414,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/8feba849-e70a-490e-8380-3cf7a4f9990f.webp)
+![](/images/btnews/btnews/0301_0400/0376/8feba849-e70a-490e-8380-3cf7a4f9990f.webp)
 
 
 > [Partition of Bengal, 1905: All about the divide and rule that spurred protests - India Today](https://www.indiatoday.in/education-today/gk-current-affairs/story/partition-of-bengal-1905-divide-and-rule-protests-1368958-2018-10-16)
@@ -432,7 +432,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/0e596f19-7920-4b6d-8467-7efb0bb7087a.webp)
+![](/images/btnews/btnews/0301_0400/0376/0e596f19-7920-4b6d-8467-7efb0bb7087a.webp)
 
 
 > [The impact of partition: A life sketch | The Financial Express](https://thefinancialexpress.com.bd/views/the-impact-of-partition-a-life-sketch-1504886167)
@@ -450,7 +450,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/891fb053-7f41-455a-807a-164f094cb613.webp)
+![](/images/btnews/btnews/0301_0400/0376/891fb053-7f41-455a-807a-164f094cb613.webp)
 
 
 
@@ -460,7 +460,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/eb3ffe02-0116-4110-8775-e21270786a31.webp)
+![](/images/btnews/btnews/0301_0400/0376/eb3ffe02-0116-4110-8775-e21270786a31.webp)
 
 **1964年印度农民在沤黄麻**
 
@@ -480,7 +480,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/17f33bbd-6e09-4643-93f8-af8580d78a8b.webp)
+![](/images/btnews/btnews/0301_0400/0376/17f33bbd-6e09-4643-93f8-af8580d78a8b.webp)
 
 
 
@@ -496,7 +496,7 @@ http://www.news.cn/world/2021-11/25/c_1128099413.htm
 
 
 
-![](/images/btnews/0301_0400/0376/435d3609-4928-482c-bdcb-7643de7bfd19.webp)
+![](/images/btnews/btnews/0301_0400/0376/435d3609-4928-482c-bdcb-7643de7bfd19.webp)
 
 **1969年人民联盟领导人拉赫曼在集会上发表演说**
 
@@ -516,7 +516,7 @@ https://www.dawn.com/news/1359141
 
 
 
-![](/images/btnews/0301_0400/0376/0fc69e4a-a49a-4922-ac9e-ec504985f2c1.webp)
+![](/images/btnews/btnews/0301_0400/0376/0fc69e4a-a49a-4922-ac9e-ec504985f2c1.webp)
 
 
 
@@ -542,7 +542,7 @@ https://www.dawn.com/news/1359141
 
 
 
-![](/images/btnews/0301_0400/0376/1e2efb90-f6c1-40ec-a6bb-aca45bc1ad20.webp)
+![](/images/btnews/btnews/0301_0400/0376/1e2efb90-f6c1-40ec-a6bb-aca45bc1ad20.webp)
 
 
 > [Special report: The Breakup of Pakistan 1969-1971 - DAWN.COM](https://www.dawn.com/news/1359141)
@@ -554,11 +554,11 @@ https://www.dawn.com/news/1359141
 
 
 
-![](/images/btnews/0301_0400/0376/afd5cc46-bf46-4707-b135-23673d4208f2.webp)
+![](/images/btnews/btnews/0301_0400/0376/afd5cc46-bf46-4707-b135-23673d4208f2.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/9fc18c27-85ff-4eca-84bf-62de3790c481.webp)
+![](/images/btnews/btnews/0301_0400/0376/9fc18c27-85ff-4eca-84bf-62de3790c481.webp)
 
 https://kknews.cc/world/56yov8k.html
 
@@ -574,7 +574,7 @@ https://kknews.cc/world/56yov8k.html
 
 
 
-![](/images/btnews/0301_0400/0376/010564cd-57e4-40e2-83da-75832279dc58.webp)
+![](/images/btnews/btnews/0301_0400/0376/010564cd-57e4-40e2-83da-75832279dc58.webp)
 
 
 
@@ -588,7 +588,7 @@ https://kknews.cc/world/56yov8k.html
 
 
 
-![](/images/btnews/0301_0400/0376/bd71bf1e-074d-463c-9c9f-0e9ff7e1040c.webp)
+![](/images/btnews/btnews/0301_0400/0376/bd71bf1e-074d-463c-9c9f-0e9ff7e1040c.webp)
 
 
 
@@ -604,7 +604,7 @@ https://kknews.cc/world/56yov8k.html
 
 
 
-![](/images/btnews/0301_0400/0376/72458f6d-9804-494e-804e-e5ae0d6fc499.webp)
+![](/images/btnews/btnews/0301_0400/0376/72458f6d-9804-494e-804e-e5ae0d6fc499.webp)
 
 
 
@@ -626,7 +626,7 @@ https://kknews.cc/world/56yov8k.html
 
 
 
-![](/images/btnews/0301_0400/0376/ab3160bb-3cba-476b-be4c-b0ebe8c695fd.webp)
+![](/images/btnews/btnews/0301_0400/0376/ab3160bb-3cba-476b-be4c-b0ebe8c695fd.webp)
 
 
 > [孟加拉国 / 孟加拉地形图、海拔、地势](https://zh-cn.topographic-map.com/maps/ehta/%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD/)
@@ -634,7 +634,7 @@ https://kknews.cc/world/56yov8k.html
 
 
 
-![](/images/btnews/0301_0400/0376/d85f6275-225a-4b94-aad6-ddf86ef35caa.webp)
+![](/images/btnews/btnews/0301_0400/0376/d85f6275-225a-4b94-aad6-ddf86ef35caa.webp)
 
 
 
@@ -646,7 +646,7 @@ https://www.jiemian.com/article/1588955.html
 
 
 
-![](/images/btnews/0301_0400/0376/cd111673-416e-46af-bbbe-ad349e054b46.webp)
+![](/images/btnews/btnews/0301_0400/0376/cd111673-416e-46af-bbbe-ad349e054b46.webp)
 
 
 
@@ -654,7 +654,7 @@ https://www.jiemian.com/article/1588955.html
 
 
 
-![](/images/btnews/0301_0400/0376/3f2d2a29-ced6-4863-a4f7-27fa2a6c7849.webp)
+![](/images/btnews/btnews/0301_0400/0376/3f2d2a29-ced6-4863-a4f7-27fa2a6c7849.webp)
 
 
 > [none](https://weather.com/en-IN/india/news/news/2021-05-26-cyclone-yaas-history-bay-of-bengal-storms-80-cyclone-related-deaths)
@@ -672,11 +672,11 @@ https://www.jiemian.com/article/1588955.html
 
 
 
-![](/images/btnews/0301_0400/0376/5663da20-7270-4989-b6e6-ef04d1ebfb7c.webp)
+![](/images/btnews/btnews/0301_0400/0376/5663da20-7270-4989-b6e6-ef04d1ebfb7c.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/b7bc9d6f-8810-482c-99b2-5012081d525d.webp)
+![](/images/btnews/btnews/0301_0400/0376/b7bc9d6f-8810-482c-99b2-5012081d525d.webp)
 
 
 
@@ -692,7 +692,7 @@ https://www.jiemian.com/article/1588955.html
 
 
 
-![](/images/btnews/0301_0400/0376/76d83b23-9eac-45d1-b5f2-4af0fec30187.webp)
+![](/images/btnews/btnews/0301_0400/0376/76d83b23-9eac-45d1-b5f2-4af0fec30187.webp)
 
 
 > [�ϼ�����������������12��ǰ�쵼��_��������_������](http://news.sina.com.cn/w/2007-02-04/163912226292.shtml)
@@ -700,7 +700,7 @@ https://www.jiemian.com/article/1588955.html
 
 
 
-![](/images/btnews/0301_0400/0376/aab4c8f1-b284-4282-8289-811f9565db1e.webp)
+![](/images/btnews/btnews/0301_0400/0376/aab4c8f1-b284-4282-8289-811f9565db1e.webp)
 
 
 
@@ -712,7 +712,7 @@ https://www.gmw.cn/01gmrb/2007-04/23/content_595992.htm
 
 
 
-![](/images/btnews/0301_0400/0376/c06f18a4-ab1b-4ece-9339-2936a9341ce9.webp)
+![](/images/btnews/btnews/0301_0400/0376/c06f18a4-ab1b-4ece-9339-2936a9341ce9.webp)
 
 
 
@@ -732,7 +732,7 @@ https://www.gmw.cn/01gmrb/2007-04/23/content_595992.htm
 
 
 
-![](/images/btnews/0301_0400/0376/29830e76-6274-44ec-80e8-c7b9f5dd772b.webp)
+![](/images/btnews/btnews/0301_0400/0376/29830e76-6274-44ec-80e8-c7b9f5dd772b.webp)
 
 
 
@@ -746,7 +746,7 @@ https://www.gmw.cn/01gmrb/2007-04/23/content_595992.htm
 
 
 
-![](/images/btnews/0301_0400/0376/cb825efd-0f89-4ac9-8730-dfc3d275d28f.webp)
+![](/images/btnews/btnews/0301_0400/0376/cb825efd-0f89-4ac9-8730-dfc3d275d28f.webp)
 
 http://www.xinhuanet.com/world/2015-11/23/c_128455988.htm
 
@@ -756,7 +756,7 @@ http://www.xinhuanet.com/world/2015-11/23/c_128455988.htm
 
 
 
-![](/images/btnews/0301_0400/0376/86d07c58-c689-45ba-9ed0-678eacffd5b8.webp)
+![](/images/btnews/btnews/0301_0400/0376/86d07c58-c689-45ba-9ed0-678eacffd5b8.webp)
 
 
 > [孟加拉处死杀害国父凶手 | 国际 | 東方網 馬來西亞東方日報Telegram_logo](https://www.orientaldaily.com.my/news/international/2020/04/13/335626)
@@ -774,7 +774,7 @@ http://www.xinhuanet.com/world/2015-11/23/c_128455988.htm
 
 
 
-![](/images/btnews/0301_0400/0376/98735483-84e5-4fb2-b192-d63c27d3b872.webp)
+![](/images/btnews/btnews/0301_0400/0376/98735483-84e5-4fb2-b192-d63c27d3b872.webp)
 
 
 > [�ϼ�����ǹ�������¼��������������_��������_������](http://news.sina.com.cn/w/2009-02-27/151317302884.shtml)
@@ -786,7 +786,7 @@ http://www.xinhuanet.com/world/2015-11/23/c_128455988.htm
 
 
 
-![](/images/btnews/0301_0400/0376/062627eb-ee1b-4f7a-a385-dff1de6f8da4.webp)
+![](/images/btnews/btnews/0301_0400/0376/062627eb-ee1b-4f7a-a385-dff1de6f8da4.webp)
 
 
 
@@ -802,7 +802,7 @@ https://www.theguardian.com/world/2009/feb/25/bangladesh-mutiny-soldiers
 
 
 
-![](/images/btnews/0301_0400/0376/8b8599ab-0e3a-4e99-ab0f-62a54d13fea3.webp)
+![](/images/btnews/btnews/0301_0400/0376/8b8599ab-0e3a-4e99-ab0f-62a54d13fea3.webp)
 
 
 > [ 不满宪法被修改 孟加拉国反对党绝食抗议](http://www.chinadaily.com.cn/hqgj/2011-07/13/content_12896161.htm)
@@ -810,13 +810,13 @@ https://www.theguardian.com/world/2009/feb/25/bangladesh-mutiny-soldiers
 
 
 
-![](/images/btnews/0301_0400/0376/760e882a-e2d5-408b-869e-0a494cc60e6e.webp)
+![](/images/btnews/btnews/0301_0400/0376/760e882a-e2d5-408b-869e-0a494cc60e6e.webp)
 
 http://news.cri.cn/gb/27824/2011/06/13/2625s3275036.htm
 
 
 
-![](/images/btnews/0301_0400/0376/466afe29-90a5-42d6-a0ea-a8843df7dc37.webp)
+![](/images/btnews/btnews/0301_0400/0376/466afe29-90a5-42d6-a0ea-a8843df7dc37.webp)
 
 
 
@@ -828,11 +828,11 @@ http://news.cri.cn/gb/27824/2011/06/13/2625s3275036.htm
 
 
 
-![](/images/btnews/0301_0400/0376/017b9d4f-e938-42d4-943e-db08a20a4c3a.webp)
+![](/images/btnews/btnews/0301_0400/0376/017b9d4f-e938-42d4-943e-db08a20a4c3a.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/ef737caf-a7c9-41c6-8ddc-b1acc21ad070.webp)
+![](/images/btnews/btnews/0301_0400/0376/ef737caf-a7c9-41c6-8ddc-b1acc21ad070.webp)
 
 
 
@@ -852,7 +852,7 @@ http://news.cri.cn/gb/27824/2011/06/13/2625s3275036.htm
 
 
 
-![](/images/btnews/0301_0400/0376/0ad776e4-dbc4-49c6-934e-0d83feec0e0d.webp)
+![](/images/btnews/btnews/0301_0400/0376/0ad776e4-dbc4-49c6-934e-0d83feec0e0d.webp)
 
 
 
@@ -862,11 +862,11 @@ http://news.cri.cn/gb/27824/2011/06/13/2625s3275036.htm
 
 
 
-![](/images/btnews/0301_0400/0376/ad17e0ee-ff72-4e2e-8d16-f597069957b9.webp)
+![](/images/btnews/btnews/0301_0400/0376/ad17e0ee-ff72-4e2e-8d16-f597069957b9.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/1ce43020-1538-4c35-bd0c-0a841d98b03a.webp)
+![](/images/btnews/btnews/0301_0400/0376/1ce43020-1538-4c35-bd0c-0a841d98b03a.webp)
 
 
 
@@ -878,7 +878,7 @@ https://www.kylc.com/stats/global/yearly_per_country/g_gdp_per_capita/ind-pak-bg
 
 
 
-![](/images/btnews/0301_0400/0376/84c838ea-f06f-4d28-92b6-f55fe7d7e37a.webp)
+![](/images/btnews/btnews/0301_0400/0376/84c838ea-f06f-4d28-92b6-f55fe7d7e37a.webp)
 
 
 > [404 Not Found](http://www.ccpit.org/Contents/Channel_4301/2021/0815/1360176/content_1360176.htm)
@@ -896,11 +896,11 @@ https://www.kylc.com/stats/global/yearly_per_country/g_gdp_per_capita/ind-pak-bg
 
 
 
-![](/images/btnews/0301_0400/0376/bb83a4ef-35e5-4b27-8d95-ede4467389c2.webp)
+![](/images/btnews/btnews/0301_0400/0376/bb83a4ef-35e5-4b27-8d95-ede4467389c2.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/8dca865f-20f6-4149-a247-055990a02fe9.webp)
+![](/images/btnews/btnews/0301_0400/0376/8dca865f-20f6-4149-a247-055990a02fe9.webp)
 
 
 > [   
@@ -920,15 +920,15 @@ https://www.kylc.com/stats/global/yearly_per_country/g_gdp_per_capita/ind-pak-bg
 
 
 
-![](/images/btnews/0301_0400/0376/d77c4e38-1606-4896-8bc0-d888f40a3c9c.webp)
+![](/images/btnews/btnews/0301_0400/0376/d77c4e38-1606-4896-8bc0-d888f40a3c9c.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/a1c9603d-bcd4-4061-ab37-93c8514bc706.webp)
+![](/images/btnews/btnews/0301_0400/0376/a1c9603d-bcd4-4061-ab37-93c8514bc706.webp)
 
 
 
-![](/images/btnews/0301_0400/0376/c8e56d00-ccf3-467f-a9e3-77a85a1615b4.webp)
+![](/images/btnews/btnews/0301_0400/0376/c8e56d00-ccf3-467f-a9e3-77a85a1615b4.webp)
 
 **孟加拉国：服装出口和总出口**
 
@@ -954,7 +954,7 @@ https://www.kylc.com/stats/global/yearly_per_country/g_gdp_per_capita/ind-pak-bg
 
 
 
-![](/images/btnews/0301_0400/0376/73290e3d-b8e6-402f-915c-ef5560e7b081.webp)
+![](/images/btnews/btnews/0301_0400/0376/73290e3d-b8e6-402f-915c-ef5560e7b081.webp)
 
 
 
@@ -976,7 +976,7 @@ https://www.kylc.com/stats/global/yearly_per_country/g_gdp_per_capita/ind-pak-bg
 
 
 
-![](/images/btnews/0301_0400/0376/4fe102ce-4970-4c9b-85bf-571874238d29.webp)
+![](/images/btnews/btnews/0301_0400/0376/4fe102ce-4970-4c9b-85bf-571874238d29.webp)
 
 
 > [�ϼ�������������ź���--����--������ ](http://world.people.com.cn/n1/2020/1210/c1002-31962408.html)
@@ -988,13 +988,13 @@ https://www.kylc.com/stats/global/yearly_per_country/g_gdp_per_capita/ind-pak-bg
 
 
 
-![](/images/btnews/0301_0400/0376/6e1360d6-302b-4033-b085-c8ef33014ec1.webp)
+![](/images/btnews/btnews/0301_0400/0376/6e1360d6-302b-4033-b085-c8ef33014ec1.webp)
 
 https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81
 
 
 
-![](/images/btnews/0301_0400/0376/0e57ac6e-713a-4e85-b41d-c5ca5ccb3c42.webp)
+![](/images/btnews/btnews/0301_0400/0376/0e57ac6e-713a-4e85-b41d-c5ca5ccb3c42.webp)
 
 **帕德玛恒河大桥位置（蓝点）**
 
@@ -1010,7 +1010,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/188841fe-9a2d-4481-a4e7-c697a9944ca7.webp)
+![](/images/btnews/btnews/0301_0400/0376/188841fe-9a2d-4481-a4e7-c697a9944ca7.webp)
 
 **孟加拉正在兴建的部分大型基建项目（资料：每日星报）**
 
@@ -1032,7 +1032,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/a23d9773-c593-4f36-b553-61658cd30845.webp)
+![](/images/btnews/btnews/0301_0400/0376/a23d9773-c593-4f36-b553-61658cd30845.webp)
 
 
 > [Page not found - DATABD.CO](https://databd.co/profiles/economy/profile-the-megaprojects-in-bangladesh/)
@@ -1056,7 +1056,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/a7d18592-47d6-4d25-aa8b-d29fd6356cab.webp)
+![](/images/btnews/btnews/0301_0400/0376/a7d18592-47d6-4d25-aa8b-d29fd6356cab.webp)
 
 
 
@@ -1076,7 +1076,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/45a9e3ab-315e-46d6-bb64-7ead1b387358.webp)
+![](/images/btnews/btnews/0301_0400/0376/45a9e3ab-315e-46d6-bb64-7ead1b387358.webp)
 
 
 
@@ -1096,7 +1096,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/5f66752f-977e-41ce-b9eb-57b2b360020a.webp)
+![](/images/btnews/btnews/0301_0400/0376/5f66752f-977e-41ce-b9eb-57b2b360020a.webp)
 
 
 
@@ -1158,7 +1158,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/83ab8f42-73f3-41cc-a29a-45f071fce05c.webp)
+![](/images/btnews/btnews/0301_0400/0376/83ab8f42-73f3-41cc-a29a-45f071fce05c.webp)
 
 
 
@@ -1178,7 +1178,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/fb95248a-7f35-45b0-ace8-c5f520287cd1.webp)
+![](/images/btnews/btnews/0301_0400/0376/fb95248a-7f35-45b0-ace8-c5f520287cd1.webp)
 
 
 
@@ -1196,7 +1196,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/22f6f1bf-6263-4c82-bb84-2b0c9a4b1f53.webp)
+![](/images/btnews/btnews/0301_0400/0376/22f6f1bf-6263-4c82-bb84-2b0c9a4b1f53.webp)
 
 
 
@@ -1218,7 +1218,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/85d1d1df-60d5-4f23-a118-6352778600ef.webp)
+![](/images/btnews/btnews/0301_0400/0376/85d1d1df-60d5-4f23-a118-6352778600ef.webp)
 
 
 
@@ -1246,7 +1246,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/9193db25-9ac2-46df-a37c-841ddbb7e707.webp)
+![](/images/btnews/btnews/0301_0400/0376/9193db25-9ac2-46df-a37c-841ddbb7e707.webp)
 
 
 
@@ -1268,13 +1268,13 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/eca37155-1d8b-4647-bf76-dd95b6870c49.webp)
+![](/images/btnews/btnews/0301_0400/0376/eca37155-1d8b-4647-bf76-dd95b6870c49.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0376/b583e536-0a7d-4881-9ade-54971c549f69.webp)
+![](/images/btnews/btnews/0301_0400/0376/b583e536-0a7d-4881-9ade-54971c549f69.webp)
 
 
 
@@ -1302,7 +1302,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/9cddac09-6c47-4e8c-834b-6c1c1ceea7a5.webp)
+![](/images/btnews/btnews/0301_0400/0376/9cddac09-6c47-4e8c-834b-6c1c1ceea7a5.webp)
 
 
 
@@ -1318,7 +1318,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/efd64802-9485-4512-b24e-b3063d217cda.webp)
+![](/images/btnews/btnews/0301_0400/0376/efd64802-9485-4512-b24e-b3063d217cda.webp)
 
 
 
@@ -1338,7 +1338,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/8b12bcfb-57a9-474b-b28a-7c3faf598d73.webp)
+![](/images/btnews/btnews/0301_0400/0376/8b12bcfb-57a9-474b-b28a-7c3faf598d73.webp)
 
 
 
@@ -1366,19 +1366,19 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/e15a4c29-1bc2-4450-ad7d-316145e120b1.webp)
+![](/images/btnews/btnews/0301_0400/0376/e15a4c29-1bc2-4450-ad7d-316145e120b1.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0376/97a9e019-2b29-425b-8381-1e055fe2ed00.webp)
+![](/images/btnews/btnews/0301_0400/0376/97a9e019-2b29-425b-8381-1e055fe2ed00.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0376/8d1dfcd7-8d99-41c1-8216-20489e42ca37.webp)
+![](/images/btnews/btnews/0301_0400/0376/8d1dfcd7-8d99-41c1-8216-20489e42ca37.webp)
 
 
 
@@ -1412,7 +1412,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/d12ef857-286b-464f-9358-5e9fa4f8a1bc.webp)
+![](/images/btnews/btnews/0301_0400/0376/d12ef857-286b-464f-9358-5e9fa4f8a1bc.webp)
 
 
 
@@ -1424,7 +1424,7 @@ https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A6%E0%A7%8D%E0%A6%AE%E0%A6%BE_%E0%
 
 
 
-![](/images/btnews/0301_0400/0376/d359880d-adba-495b-bbbe-7f9281bfe7f0.webp)
+![](/images/btnews/btnews/0301_0400/0376/d359880d-adba-495b-bbbe-7f9281bfe7f0.webp)
 
 
 

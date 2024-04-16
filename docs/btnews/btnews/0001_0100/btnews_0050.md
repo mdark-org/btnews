@@ -8,7 +8,7 @@ date: 2019-12-03
 第一期节目的播放量马上就逼近100万了
 ，现在回顾一下，最热的内容是加拿大政府卖大麻亏钱的故事。
 
-![](/images/btnews/0001_0100/0050/image1.webp)
+![](/images/btnews/btnews/0001_0100/0050/image1.webp)
 
 现在让静静介绍一下加拿大政府贩毒的最新进展。
 
@@ -34,7 +34,7 @@ date: 2019-12-03
 
 [Cannabis Canada: Aurora CEO sees 'carnage' for Canadian pot sector, eyes U.S. market re-entry - BNN Bloomberg](https://www.bnnbloomberg.ca/cannabis-canada-aurora-ceo-sees-carnage-for-canadian-pot-sector-eyes-u-s-market-re-entry-1.1355408)
 
-![](/images/btnews/0001_0100/0050/image2.webp)
+![](/images/btnews/btnews/0001_0100/0050/image2.webp)
 
 <https://mjbizdaily.com/no-longer-a-shortage-canadian-cannabis-industry-group-declares/>
 
@@ -60,13 +60,13 @@ date: 2019-12-03
 
 最后还要说一下外部因素。从人口地理上说，加拿大是不存在的，只有贴着美国边境的一条郊区。
 
-![](/images/btnews/0001_0100/0050/image3.webp)
+![](/images/btnews/btnews/0001_0100/0050/image3.webp)
 
 美国很多州不管大麻，已经有10个州对大麻完全开放，这张图中深绿色的地区，很多紧靠着加拿大。所以加拿大管得了自己管不了别人，这个官营生意做不成。
 
 [A Portrait of Canadian Youth: March 2019 Updates](https://www150.statcan.gc.ca/n1/pub/11-631-x/11-631-x2019003-eng.htm)
 
-![](/images/btnews/0001_0100/0050/image4.webp)
+![](/images/btnews/btnews/0001_0100/0050/image4.webp)
 
 <https://cannabisreportworld.com/united-states-of-weed/>
 
@@ -84,27 +84,27 @@ date: 2019-12-03
 
   ](https://www.fool.com/investing/2019/11/29/another-day-another-marijuana-production-cut-in-ca.aspx)
 
-![](/images/btnews/0001_0100/0050/image5.webp)
+![](/images/btnews/btnews/0001_0100/0050/image5.webp)
 
 不过，我估计这一招也没有好结果。黑市大麻贵，原因是要跟着合法大麻的价格走。反正成本那么低，政府降价，私人也可以降价。但是，官营大麻，目的除了赚钱，至少当初还许诺要减少犯罪，避免吸大麻的人升级到更厉害的毒品。现在政府亲自打价格战，导致潜在的吸大麻人口迅速增加，无论最后是不是能赚钱，都证明国营毒品是个错误想法。
 
 9月末，有一位观众在第一期视频下面留言，用瑞士的经验提出了一个另类思路，说加拿大搞国营毒品不是错，错在居然想赚钱。
 
-![](/images/btnews/0001_0100/0050/image6.webp)
+![](/images/btnews/btnews/0001_0100/0050/image6.webp)
 
 既然大麻和其他毒品的成本都很低，如果加拿大政府像瑞士那样彻底免费供应，让毒贩子都饿死，没有动力扩大吸毒人口。是不是效果更好呢？
 
 大麻是软性毒品，也是其他毒品的带路人。就算不引入其他毒品，大麻自己的浓缩提炼物致幻效果也更强，更容易成瘾。比如说用大麻提取油做成烟弹，做成口腔喷雾，做成大麻蜡，都比大麻本身更受欢迎。
 
-![](/images/btnews/0001_0100/0050/image7.webp)
+![](/images/btnews/btnews/0001_0100/0050/image7.webp)
 
-![](/images/btnews/0001_0100/0050/image8.webp)
+![](/images/btnews/btnews/0001_0100/0050/image8.webp)
 
-![](/images/btnews/0001_0100/0050/image9.webp)
+![](/images/btnews/btnews/0001_0100/0050/image9.webp)
 
 大麻中的强效致幻物质，主要是四氢大麻酚（THC）。做成提取物后，可以直接升级成强效毒品。如果政府免费供应大麻，或许可以打击私人大麻农场，但也会刺激贩毒集团产业升级的。所以不可行
 
-![](/images/btnews/0001_0100/0050/image10.webp)
+![](/images/btnews/btnews/0001_0100/0050/image10.webp)
 
 《2019年世界毒品问题报告》14页，联合国毒品和犯罪问题办公室
 
@@ -113,17 +113,17 @@ date: 2019-12-03
 现在加拿大国营毒品公司库存积压，也在努力开发大麻衍生品，他们努力的方向是降低大麻含量，生产
 “软”毒品，比如含大麻的糖、饮料、甜点等。去加拿大旅游的人要小心了，不要随便吃糖，避免回国的时候被海关拦下来。
 
-![](/images/btnews/0001_0100/0050/image11.webp)
+![](/images/btnews/btnews/0001_0100/0050/image11.webp)
 
-![](/images/btnews/0001_0100/0050/image12.webp)
+![](/images/btnews/btnews/0001_0100/0050/image12.webp)
 
-![](/images/btnews/0001_0100/0050/image13.webp)
+![](/images/btnews/btnews/0001_0100/0050/image13.webp)
 
 [](https://newfrontierdata.com/marijuana-insights/growth-of-the-canadian-legal-cannabis-industry/)
 
 中国外交部已经反复提醒大家这一点了。
 
-![](/images/btnews/0001_0100/0050/image14.webp)
+![](/images/btnews/btnews/0001_0100/0050/image14.webp)
 
 7月19日睡前消息第3期，督工你提到了国内禁烟和烟草专卖问题。有的国家把烟草和大麻都归类为软性毒品，为什么加拿大国营大麻亏损，中国烟草专营就能赚钱呢？
 
@@ -141,11 +141,11 @@ date: 2019-12-03
 
 过去中国政府把烟草行业当成税务局，应该说是有一定合理性的。1981年，中国决定实行烟草专卖制度，那一年中国人均预期寿命67.8岁，大多数劳动者是干体力活，60岁就会失去劳动能力。所以，无论是看人均寿命，还是劳动者的工作能力，烟草的影响都不大，反而可以缓解相当一部分体力劳动者的疲劳。我小时候生活在矿区，对矿工下班后吸烟休息的场景记忆深刻。
 
-![](/images/btnews/0001_0100/0050/image15.webp)
+![](/images/btnews/btnews/0001_0100/0050/image15.webp)
 
 八十年代甚至有烟草公司企图和药厂合作，制造能治病的香烟。
 
-![](/images/btnews/0001_0100/0050/image16.webp)
+![](/images/btnews/btnews/0001_0100/0050/image16.webp)
 
 但现在21世纪已经20年了，中国人均预期寿命延长到76岁。世界卫生组织估计，到2025年，我国每年肺癌死亡人数可能会达到100万。如果吸烟率不下降，到2050年，中国每年与烟草相关的死亡人数将增至300万。放纵吸烟不符合人道主义精神。
 
@@ -157,11 +157,11 @@ date: 2019-12-03
 	WHO China \| World Health Organization
 ](http://www.wpro.who.int/china/mediacentre/factsheets/tobacco/zh/)
 
-![](/images/btnews/0001_0100/0050/image17.webp)
+![](/images/btnews/btnews/0001_0100/0050/image17.webp)
 
 考虑到退休年龄将来必然提高，中国交税的劳动力数量也会因为肺癌而减少，烟草专卖在财政上算可能也要亏本。政府不会做亏钱又不人道的事情。
 
-![](/images/btnews/0001_0100/0050/image18.webp)
+![](/images/btnews/btnews/0001_0100/0050/image18.webp)
 
 [卷烟产量连续三年降，中国人为何越来越不爱抽烟了？\_澎湃号·湃客_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_2663237)
 
@@ -177,11 +177,11 @@ date: 2019-12-03
 
 只有华为，在贸易战激化之前，两方面同时惹麻烦，闪存虚假宣传激怒了用户；8年奋斗条款和34岁下岗事件让整个IT行业产生恐慌。而华为的对策是不认错也不解释，派出中国数量最多的水军去骂人。以至于别的公司和单位的马甲叫水军，华为的公关马甲叫海军。我过去在知乎有个帖子，还保存了华为海军的战绩：
 
-![](/images/btnews/0001_0100/0050/image19.webp)
+![](/images/btnews/btnews/0001_0100/0050/image19.webp)
 
-![](/images/btnews/0001_0100/0050/image20.webp)
+![](/images/btnews/btnews/0001_0100/0050/image20.webp)
 
-![](/images/btnews/0001_0100/0050/image21.webp)
+![](/images/btnews/btnews/0001_0100/0050/image21.webp)
 
 华为的网络形象之所以在过去一年快速提升，不是因为这家公司忽然学好了，而是因为特朗普制裁，让加拿大扣住孟晚舟，在更大范围内激发了中国人的共情心，用中美矛盾掩盖了华为之前的问题。
 
@@ -189,7 +189,7 @@ date: 2019-12-03
 
 当然，我也不是觉得华为是一个坏公司，我的手机是华为的，之前华为公司的雇佣制度引发争议，我多少还替他说过几句话。
 
-![](/images/btnews/0001_0100/0050/image22.webp)
+![](/images/btnews/btnews/0001_0100/0050/image22.webp)
 
 我只是觉得，一家血统纯正的资本主义企业，正常经营给国家交税就可以了，追求利润的行为就不该套上道德光环，否则别人看着虚伪，它自己做生意也别扭。
 
@@ -221,21 +221,21 @@ date: 2019-12-03
 
 另外还有一个很荒诞的情况，就是在某些方面，嫌疑人生活的看守所，比罪犯生活的监狱条件更差，权利更少。各地监狱的建设目标是白天像工厂，晚上像宿舍，大力发扬人道主义精神；而看守所却仍然普遍停留在几十年前的大通铺时代。监狱里面的罪犯可以和外面通信交流，申冤举报，看守所里面的人什么权利都没有。这不是对待普通公民的合理方式。
 
-![](/images/btnews/0001_0100/0050/image23.webp)上海南汇监狱监房
+![](/images/btnews/btnews/0001_0100/0050/image23.webp)上海南汇监狱监房
 
-![](/images/btnews/0001_0100/0050/image24.webp)
+![](/images/btnews/btnews/0001_0100/0050/image24.webp)
 
 江苏常熟市看守所监室
 
-![](/images/btnews/0001_0100/0050/image25.webp)
+![](/images/btnews/btnews/0001_0100/0050/image25.webp)
 
 广西女子监狱监房
 
-![](/images/btnews/0001_0100/0050/image26.webp)
+![](/images/btnews/btnews/0001_0100/0050/image26.webp)
 
 福建宁德市看守所监室
 
-![](/images/btnews/0001_0100/0050/image27.webp)
+![](/images/btnews/btnews/0001_0100/0050/image27.webp)
 
 原安徽蒙城县看守所监房
 
@@ -243,7 +243,7 @@ date: 2019-12-03
 
 [院士李宁被捕的第五年 博士学生们依旧为他保留合影C位_腾讯新闻](https://new.qq.com/omn/20191113/20191113A0BBMP00.html)
 
-![](/images/btnews/0001_0100/0050/image28.webp)
+![](/images/btnews/btnews/0001_0100/0050/image28.webp)
 
 这些问题结合到一起，再加上华为法律工作人员的优秀工作，在李洪元事件中制造了最恶劣的结果。
 

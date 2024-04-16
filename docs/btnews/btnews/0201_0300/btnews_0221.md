@@ -35,7 +35,7 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 <u>《乏燃料贮存概况》</u>
 
-![](/images/btnews/0201_0300/0221/image1.webp)
+![](/images/btnews/btnews/0201_0300/0221/image1.webp)
 
 [2020世界核工业现状报告](http://www.china-nea.cn/site/content/37970.html)
 
@@ -57,7 +57,7 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 [哈里·瑞德 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%93%88%E9%87%8C%C2%B7%E7%91%9E%E5%BE%B7)
 
-![](/images/btnews/0201_0300/0221/image2.webp)
+![](/images/btnews/btnews/0201_0300/0221/image2.webp)
 
 美国存放核废物地点
 
@@ -77,9 +77,9 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 <u>《高放废物地质处置及其若干关键科学问题》</u>
 
-![](/images/btnews/0201_0300/0221/image3.webp)
+![](/images/btnews/btnews/0201_0300/0221/image3.webp)
 
-![](/images/btnews/0201_0300/0221/image4.webp)
+![](/images/btnews/btnews/0201_0300/0221/image4.webp)
 
 但这一期间，国家层面上没有宏观规划，经费投入也少，只能算是跟进国际研究，连地下实验室都没有，很多课题都没法开展，政府也缺乏动力。但在1997年，联合国通过了《京都议定书》，在2005年2月生效。有了碳排放指标限制，中国必须考虑提高核能占比，于是在议定书生效半年后，2005年8月1日，国防科工委在北京召开高放废物地质处置研讨会，这也是政府首次正式召开相关会议，项目终于进入快车道。
 
@@ -99,7 +99,7 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 [高放废物地质处置研究开发规划指南 - 百度文库](https://wenku.baidu.com/view/0fff7401bed5b9f3f90f1ce3.html)
 
-![](/images/btnews/0201_0300/0221/image5.webp)
+![](/images/btnews/btnews/0201_0300/0221/image5.webp)
 
 [](https://www.iaea.org/sites/default/files/national_report_of_china_for_the_6th_review_meeting_-_chinese.pdf)
 
@@ -107,7 +107,7 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 [](https://www.iaea.org/sites/default/files/gc/gc64-inf2_ch.pdf)
 
-![](/images/btnews/0201_0300/0221/image6.webp)
+![](/images/btnews/btnews/0201_0300/0221/image6.webp)
 
 [China plans giant underground lab to research nuclear waste \| CNN](https://www.cnn.com/2019/09/06/china/china-nuclear-waste-intl-hnk-trnd/index.html)
 
@@ -119,7 +119,7 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 在未来几十年里，还会有更多的20后、30后加入这个超级工程。从全球深层地质处置项目进度来看，北山这个项目，很可能就是人类史上第一个建成的高放废物地质处置设施。这个工程将足够容纳中国未来100到200年的核废料，在存满废料后永久封堵。估计在这之前人类能解决核聚变或者行星采矿技术，所以这可能是中国唯一的核废料永久性储存地点。
 
-![](/images/btnews/0201_0300/0221/image7.webp)
+![](/images/btnews/btnews/0201_0300/0221/image7.webp)
 
 [深地质处置 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%9C%B0%E8%B4%A8%E5%A4%84%E7%BD%AE)
 
@@ -129,21 +129,21 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 最近十几年，中国核电站数量快速上升，乏燃料运输量上升了五倍，过去靠公路运输的模式已经不能满足需求，必须开启铁路运输线。我国核电站基本都在沿海，这意味着未来的乏燃料运输线，将会先用专用船舶海运到指定港口，在走固定铁路线送到北山。为此，这几年我国一直在开发配套设备，在刚刚过去的2020年11月、12月，先后下线了专用铁路运输车和运输船。而在2019年，相关铁路线规划也有了初步方案。现在包头是我国核装置与核燃料生产基地，这条陆海联运核动脉，将同时完成核物资的全国发放与回收。
 
-![](/images/btnews/0201_0300/0221/image8.webp)
+![](/images/btnews/btnews/0201_0300/0221/image8.webp)
 
-![](/images/btnews/0201_0300/0221/image9.webp)
+![](/images/btnews/btnews/0201_0300/0221/image9.webp)
 
 [ä¸­å½é¦æ¹ç¾å¨çº§ä¹çæè´§åéè·¯è¿è¾è½¦è¾äº¤è½¦ä¸çº¿\_æ°æµªæ°é»](https://news.sina.com.cn/c/2020-11-28/doc-iiznezxs4145489.shtml?qq-pf-to=pcqq.c2c)
 
 <https://new.qq.com/omn/20201210/20201210A05D0D00.html>
 
-![](/images/btnews/0201_0300/0221/image10.webp)
+![](/images/btnews/btnews/0201_0300/0221/image10.webp)
 
-![](/images/btnews/0201_0300/0221/image11.webp)
+![](/images/btnews/btnews/0201_0300/0221/image11.webp)
 
-![](/images/btnews/0201_0300/0221/image12.webp)
+![](/images/btnews/btnews/0201_0300/0221/image12.webp)
 
-![](/images/btnews/0201_0300/0221/image13.webp)
+![](/images/btnews/btnews/0201_0300/0221/image13.webp)
 
 [
 	China's Nuclear Fuel Cycle - World Nuclear Association
@@ -151,13 +151,13 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 选择在北山做后处理也有历史基础。北山就是我国铀浓缩中心，404厂的所在地。很多观众应该看过网上对“404城”的介绍。前面提到，我国现在后处理中间试验厂每年能处理50吨高放废物，这个中试厂，就是1968年给404配建的。404厂还有一个能容纳20万立的中低放射性废物处置场，已经是常规核废物处置中心。2012年，中核工业发布了“龙腾计划”，准备把404厂打造成先进核技术产业园，还在2015年启动了200吨大型商用乏燃料后处理示范工程。以后千吨级的工业规模后处理生产线，应该也是在这里。
 
-![](/images/btnews/0201_0300/0221/image14.webp)
+![](/images/btnews/btnews/0201_0300/0221/image14.webp)
 
 [âADSå¬åç³»ç»âé¶åçè£ç½®ï¼å¯ææIIå·ï¼éè¿ç°åºæµè¯----âä¸­ç§é¢ä¹å£°âçµå­æå¿](http://www.cas.cn/zkyzs/2017/03/95/kyjz/201703/t20170327_4595129.shtml)
 
 [中国启动200吨级大型商用乏燃料后处理示范工程 - 国内前沿   ChinaNet   ](http://www.nuclear.net.cn/portal.php?mod=view&aid=634)
 
-![](/images/btnews/0201_0300/0221/image15.webp)
+![](/images/btnews/btnews/0201_0300/0221/image15.webp)
 
 [Pinpointing China’s new plutonium reprocessing plant - Bulletin of the Atomic Scientists](https://thebulletin.org/2020/05/pinpointing-chinas-new-plutonium-reprocessing-plant/)
 
@@ -179,9 +179,9 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 
 <http://www.cntia.org/dir/news-open.asp?id=368>
 
-![](/images/btnews/0201_0300/0221/image16.webp)
+![](/images/btnews/btnews/0201_0300/0221/image16.webp)
 
-![](/images/btnews/0201_0300/0221/image17.webp)
+![](/images/btnews/btnews/0201_0300/0221/image17.webp)
 
 启明星系列零功率堆
 
@@ -196,35 +196,35 @@ tag: ["俄罗斯","核电","甘肃","航天航空","嘉峪关","核废料"]
 美国air
 recognition网站12月4日报道，俄罗斯开始为战略轰炸机图-160M制造新发动机。
 
-![](/images/btnews/0201_0300/0221/image18.webp)
+![](/images/btnews/btnews/0201_0300/0221/image18.webp)
 
 图-160M是图-160的升级型号，虽然比美国的B2轰炸机还有很大差距，但也是全世界最先进的轰炸机之一。俄罗斯军工厂宣布，这次升级更换了60%的机载设备，战斗力提高了一倍。
 
-![](/images/btnews/0201_0300/0221/image19.webp)
+![](/images/btnews/btnews/0201_0300/0221/image19.webp)
 
 图160驾驶舱
 
 不过，无论换了什么神奇的机载设备，这次改造最重要的变化还是发动机。原来图-160配备NK-32涡扇发动机，现在换成了NK-32-02型。油耗降低10%，最大航程提升1000公里左右，巡航能力和战术选择都增加了。
 
-![](/images/btnews/0201_0300/0221/image20.webp)
+![](/images/btnews/btnews/0201_0300/0221/image20.webp)
 
 俄罗斯库兹涅佐夫航空发动机工厂正在生产的NK-32-02型发动机
 
 图-160M项目2012年就公布了，2015年俄国国防部正式下令生产。按照最初的计划，到2020年结束时，原有的所有图-160就应该基本完成升级改造，现在只改装了第一架原型机，到2023年才能进入年产三架的全速生产模式。但和苏联解体以来的其他项目对比，这已经是俄罗斯执行最顺利的重大航空项目了。
 
-![](/images/btnews/0201_0300/0221/image21.webp)
+![](/images/btnews/btnews/0201_0300/0221/image21.webp)
 
 http://aviationunion.org/news_second.php?new=93
 
-![](/images/btnews/0201_0300/0221/image22.webp)
+![](/images/btnews/btnews/0201_0300/0221/image22.webp)
 
-![](/images/btnews/0201_0300/0221/image23.webp)
+![](/images/btnews/btnews/0201_0300/0221/image23.webp)
 
 苏联亡国以后，俄罗斯航空工业项目不顺，最大原因是资金不足，其次是苏联时代的老问题，电子设备太落后。但图-160M项目拖这么久，既不是因为缺钱，也不是因为电子工业，而是因为苏联和俄罗斯一直自豪的航空发动机计数。
 
 图-160原来使用NK-32型涡扇发动机，这是上世纪80年代，前苏联航空工业的顶峰作品。但苏联解体后，俄罗斯经济严重衰退，NK-32发动机在1993年停产了。
 
-![](/images/btnews/0201_0300/0221/image24.webp)
+![](/images/btnews/btnews/0201_0300/0221/image24.webp)
 
 NK-32涡扇发动机
 
@@ -233,35 +233,35 @@ NK-32涡扇发动机
 
 而且，2000年以前，俄空军处于低谷状态。图-160飞行员每年实际飞行时数只有几十小时。库存的发动机，足够维持机队运作。
 
-![](/images/btnews/0201_0300/0221/image25.webp)
+![](/images/btnews/btnews/0201_0300/0221/image25.webp)
 
 2000年后，俄军逐渐恢复了正常训练，图-160也重新担任战备值班，频繁执行远程任务，发动机寿命消耗大大加快。
 
-![](/images/btnews/0201_0300/0221/image26.webp)
+![](/images/btnews/btnews/0201_0300/0221/image26.webp)
 
 再加上俄罗斯嫌十几架轰炸机不够用，还打算扩编TU-160机队，库存发动机就更不够用了，所以俄罗斯决定重启NK-32生产线。
 
 根据俄罗斯媒体早年的报道，最晚在2006年，俄国航空发动机集团就开始策划生产NK-32发动机，而且还打算升级。
 
-![](/images/btnews/0201_0300/0221/image27.webp)
+![](/images/btnews/btnews/0201_0300/0221/image27.webp)
 
 [NK-32 turbofan engine \| Thai Military and Asian Region](https://thaimilitaryandasianregion.wordpress.com/2016/08/17/russian-will-receive-the-first-delivery-of-the-renewed-nk-32-engines-for-the-tu-160m2-bombers/)
 
 2014年有一篇报道说，俄国正在NK-32基础上，为下一代全新战略轰炸机研制发动机。从配发的照片上看，很可能就是早期的NK-32-02原型机。
 
-![](/images/btnews/0201_0300/0221/image28.webp)
+![](/images/btnews/btnews/0201_0300/0221/image28.webp)
 
 从公开信息看，2015年图-160M全面开工，承包商还预计，新发动机可以在2016年开始全面测试，2018年装上图-160M试飞。
 
-![](/images/btnews/0201_0300/0221/image29.webp)
+![](/images/btnews/btnews/0201_0300/0221/image29.webp)
 
 https://aviation21.ru/pervye-ekzemplyary-modificirovannyx-nk-32-dlya-tu-160m2-nachnut-ispytyvat-uzhe-v-etom-godu/
 
 但实际上，很可能直到2016年底，生产线才转入正常运转，比图-160M总体项目的开工时间，还要晚很多。
 
-![](/images/btnews/0201_0300/0221/image30.webp)
+![](/images/btnews/btnews/0201_0300/0221/image30.webp)
 
-![](/images/btnews/0201_0300/0221/image31.webp)
+![](/images/btnews/btnews/0201_0300/0221/image31.webp)
 
 俄罗斯媒体2016年称NK-32-02发动机开始批量制造
 
@@ -269,19 +269,19 @@ https://aviation21.ru/pao-kuznecov-nachinaet-serijnyj-vypusk-dvigatelej-nk-32-dl
 
 回过头看俄罗斯航空网站的新闻，在初次延误后，生产商把项目时间推迟了两年，再次预计到2018年底能够装机测试。
 
-![](/images/btnews/0201_0300/0221/image32.webp)
+![](/images/btnews/btnews/0201_0300/0221/image32.webp)
 
 俄罗斯媒体宣布2017年NK-32-02发动机进入批量制造
 
 [Завод "Кузнецов" до конца года изготовит пять двигателей НК-32-02 для Ту-160М2 » Авиация России](https://aviation21.ru/zavod-kuznecov-do-konca-goda-izgotovit-pyat-dvigatelej-nk-32-02-dlya-tu-160m2/)
 
-![](/images/btnews/0201_0300/0221/image33.webp)
+![](/images/btnews/btnews/0201_0300/0221/image33.webp)
 
 2017年俄罗斯媒体宣布NK-32-02发动机进入测试
 
 https://www.defenseworld.net/news/20877/Upgraded_NK_32_Engine_Designed_For_Russian_Tu_160_Bombers_Enters_Testing_Phase#.X_RcytgzaUk
 
-![](/images/btnews/0201_0300/0221/image34.webp)
+![](/images/btnews/btnews/0201_0300/0221/image34.webp)
 
 2018年俄罗斯媒体再次宣布NK-32-02发动机即将开始测试
 
@@ -289,34 +289,34 @@ https://aeroo.ru/28195-Lietnye-ispytaniya-dvigatelya-NK-32-02-nachnutsya-do-konc
 
 但最终到了2020年11月，这一目标才实现。
 
-![](/images/btnews/0201_0300/0221/image35.webp)
+![](/images/btnews/btnews/0201_0300/0221/image35.webp)
 
 2020年11月，配备新发动机的图-160M首飞
 
 虽然俄罗斯从来没有公开解释项目推迟原因，但airrecognition网站引述消息说，原来生产NK-32发动机的工厂，在上世纪末的混乱时期里丢失了大部分技术文档。俄罗斯航空业已经造不出合格的NK-32发动机了。直到近年，经过“考古式”搜索，找回了部分失踪的关键历史资料，俄罗斯工厂才突破技术难题。这似乎说明，苏联解体以后，俄罗斯的动荡比外界预想的还严重。
 
-![](/images/btnews/0201_0300/0221/image36.webp)
+![](/images/btnews/btnews/0201_0300/0221/image36.webp)
 
 从最早试图恢复生产时算起，改进NK-32已经耗费了15年时间。并且从航空发动机研发全流程看，刚装机首飞，项目还不能说已经成功。至少还要几年时间才能定型。
 
-![](/images/btnews/0201_0300/0221/image37.webp)
+![](/images/btnews/btnews/0201_0300/0221/image37.webp)
 
 不过，在业内很有影响的美国《航空与空间技术》，还是认为NK-32-02发动机试用是2020年全球航空行业的重大事件之一。
 
-![](/images/btnews/0201_0300/0221/image38.webp)
+![](/images/btnews/btnews/0201_0300/0221/image38.webp)
 
 在解决了最重要的发动机问题后，俄军除了要升级现有的全部图-160，还下了新订单，采购十架全新的图-160M。甚至有消息说，图-160M的采购量可能扩大到50架，总量和它的美国表兄弟，B1轰炸机差不多了。
 
-![](/images/btnews/0201_0300/0221/image39.webp)
+![](/images/btnews/btnews/0201_0300/0221/image39.webp)
 
 不过，考虑大规模增加采购图-160M，似乎说明俄国遇到了另外的问题。今年5月俄军宣布，已经开始制造下一代战略轰炸机
 (PAK-DA未来远程航空兵系统）。按照规划，新轰炸机应该在2027年服役。
 
-![](/images/btnews/0201_0300/0221/image40.webp)
+![](/images/btnews/btnews/0201_0300/0221/image40.webp)
 
 最近俄罗斯财政很困难，已经连续四年削减军费，还要采购那么多图-160M，看来俄罗斯自己也知道下一代战略轰炸机项目多半会停留在图纸上，还是把苏联时代的老型号升级一下比较靠谱。
 
-![](/images/btnews/0201_0300/0221/image41.webp)
+![](/images/btnews/btnews/0201_0300/0221/image41.webp)
 
 另外，大多数分析者都认为，就算俄罗斯下一代战略轰炸机能造一两架样机，发动机多半还是NK-32系列。到2050年，如果俄罗斯和俄罗斯空天军能继续存在，战略轰炸机里面可能还是一颗苏联设计的心脏。
 
@@ -328,11 +328,11 @@ https://aeroo.ru/28195-Lietnye-ispytaniya-dvigatelya-NK-32-02-nachnutsya-do-konc
 
 比如说，中国70年代引入英国“斯贝”涡扇发动机，希望用8年时间实现国产化。1976年开始尝试生产，1980年项目下马。90年代初才重新恢复仿造。真正全面国产化是2003年。实际上，稳定批量生产可能要2010年左右，距离最初引进已经35年了。
 
-![](/images/btnews/0201_0300/0221/image42.webp)
+![](/images/btnews/btnews/0201_0300/0221/image42.webp)
 
 就算中间扣除项目暂停的阶段，斯贝发动机国产化也花了20年时间。这还是英国原厂家提供了完整文档和专门设备，派出专家指导生产的结果。从头开发一款发动机，难度必然更大。
 
-![](/images/btnews/0201_0300/0221/image43.webp)
+![](/images/btnews/btnews/0201_0300/0221/image43.webp)
 
 “斯贝”中国版——“秦岭”涡扇9发动机
 
@@ -346,7 +346,7 @@ https://aeroo.ru/28195-Lietnye-ispytaniya-dvigatelya-NK-32-02-nachnutsya-do-konc
 
 其实到九十年代末，斯贝的技术本身已经落后了，但执行制造工艺仍然是中国航空产业的一次全面考验。2010年有一篇表扬模范人物的报道，就提到了斯贝国产化过程，因为一些看似细枝末节的工艺没吃透，产品不断遇到大麻烦。
 
-![](/images/btnews/0201_0300/0221/image44.webp)
+![](/images/btnews/btnews/0201_0300/0221/image44.webp)
 
 仿造发动机的时代已经结束了，中国接下来必然也要自己开发航空发动机，除了工艺和管理，还有哪些障碍呢？
 
@@ -356,11 +356,11 @@ https://aeroo.ru/28195-Lietnye-ispytaniya-dvigatelya-NK-32-02-nachnutsya-do-konc
 
 咱们中国过去没钱，十三五航发专项启动之前，国内发动机研发每个阶段，往往只有一两台原型机，检验分系统只能一个个轮流来，一台原型机出了问题，所有分项都要放慢进度。俄国NK-32-02发动机拖了那么多年，核心原因也是没钱做原型机，还要指望“考古”发现一些基础资料。现在中国有钱了，也知道怎么干了，就算没有遗产，也一定比俄罗斯快。相信中国的大飞机不会到了2050年还继续用冷战技术。
 
-![](/images/btnews/0201_0300/0221/image45.webp)
+![](/images/btnews/btnews/0201_0300/0221/image45.webp)
 
-![](/images/btnews/0201_0300/0221/image46.webp)
+![](/images/btnews/btnews/0201_0300/0221/image46.webp)
 
-![](/images/btnews/0201_0300/0221/image47.webp)
+![](/images/btnews/btnews/0201_0300/0221/image47.webp)
 
 最后给大家分享几条简讯。
 
@@ -378,18 +378,18 @@ https://aeroo.ru/28195-Lietnye-ispytaniya-dvigatelya-NK-32-02-nachnutsya-do-konc
 
 [ç±æ¸ç«ãç±ç½è´­ãç¨ææºè°æç±ï¼90åçå¥¹ï¼æ¯æ­ç¬è¿æ²³ä¸æå¹´è½»çè·è¹äºº_çè¡å®æ³¢\_ä¸­å½ç½](http://nbjt.china.com.cn/2021-01/05/content_41417428.html)
 
-![](/images/btnews/0201_0300/0221/image48.webp)
+![](/images/btnews/btnews/0201_0300/0221/image48.webp)
 
-![](/images/btnews/0201_0300/0221/image49.webp)
+![](/images/btnews/btnews/0201_0300/0221/image49.webp)
 
 船长夫妻合作，年收入20多万，带着二女儿也学驾驶跑船，这是一个和大货车司机相似，又有所区别的家庭，有兴趣的观众可以去看看报道全文。
 
 216期节目，年终新闻盘点，督工分享了一张照片，一位观众穿睡前消息同款T恤走出高考考场。B站评论区有一位观众自称是这个小伙子，说自己复读了。
 
-![](/images/btnews/0201_0300/0221/image50.webp)
+![](/images/btnews/btnews/0201_0300/0221/image50.webp)
 
 后来，真正的考生给我们的公号发私信，说被人冒充了，自己已经在云南读大学，还发了一张很帅的照片，这里我替他澄清一下。
 
-![](/images/btnews/0201_0300/0221/image51.webp)
+![](/images/btnews/btnews/0201_0300/0221/image51.webp)
 
 好，221期睡前消息到此结束，感谢各位收看。睡前消息节目每周二，周五，周日在各视频平台更新，微信公号上的“睡前消息编辑部”每日提供最新资讯列表，欢迎大家关注。我们周二再见！

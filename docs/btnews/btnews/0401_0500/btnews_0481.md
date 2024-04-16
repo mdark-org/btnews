@@ -4,7 +4,7 @@ date: 2022-09-07
 ---
 
 
-![](/images/btnews/0401_0500/0481/38020404-67d3-4770-8966-950c2c824c3b.webp)
+![](/images/btnews/btnews/0401_0500/0481/38020404-67d3-4770-8966-950c2c824c3b.webp)
 
 
 
@@ -16,7 +16,7 @@ date: 2022-09-07
 
 
 
-![](/images/btnews/0401_0500/0481/e0d490ad-d90b-4d39-bbdf-bddb92b4592a.webp)
+![](/images/btnews/btnews/0401_0500/0481/e0d490ad-d90b-4d39-bbdf-bddb92b4592a.webp)
 
 
 
@@ -31,7 +31,7 @@ date: 2022-09-07
 
 
 
-![](/images/btnews/0401_0500/0481/4becc55c-7d25-482b-b00d-cc20273ba14a.webp)
+![](/images/btnews/btnews/0401_0500/0481/4becc55c-7d25-482b-b00d-cc20273ba14a.webp)
 
 
 苏联解体之前，戈尔巴乔夫是仅有的两个超级大国的领袖。苏联解体之后，他的身份才变成苏联的“末代领导人”。如果我们希望从苏联末期的历史吸取一点指导现实的经验教训，一定要看看当时的人，尤其是当时的中国人怎样评价戈尔巴乔夫改革。如果所有的媒体都以“事后诸葛亮”的态度嘲笑戈尔巴乔夫，说明当代中国并没有理解苏联解体的教训，甚至也不知道怎样识别下一个戈尔巴乔夫。
@@ -50,19 +50,19 @@ date: 2022-09-07
 
 
 
-![](/images/btnews/0401_0500/0481/3e08a64f-49e2-44fa-bc96-de73cd3b2678.webp)
+![](/images/btnews/btnews/0401_0500/0481/3e08a64f-49e2-44fa-bc96-de73cd3b2678.webp)
 
 
 第一篇发表在《宏观经济研究》1985年第3期，标题是《苏联“十二·五“计划草案被否决的原因》。戈尔巴乔夫6月份参加全国科技会议，告诉代表，政治局否定了苏联国家计委提出的“十二五”计划草稿。苏联的国家计委比中国高很多，刚刚当了几个月总书记的戈尔巴乔夫否决五年经济计划，是一件很大的事情。
 
-![](/images/btnews/0401_0500/0481/6151d6a8-4cd5-4a28-9ee9-d2c260153fca.webp)
+![](/images/btnews/btnews/0401_0500/0481/6151d6a8-4cd5-4a28-9ee9-d2c260153fca.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003135072
 紧接着是1985年第2期的《国际观察》，文章标题是《苏共新领导的施政纲领——浅析戈尔巴乔夫在苏共中央三月全会上的讲话》，继续往前追溯戈尔巴乔夫上任以来的变化。静静帮我读几段。
 
 
 
-![](/images/btnews/0401_0500/0481/c950f0bc-b0ac-4e4d-a48f-b2f8c7edea05.webp)
+![](/images/btnews/btnews/0401_0500/0481/c950f0bc-b0ac-4e4d-a48f-b2f8c7edea05.webp)
 
 
 这篇文章的4个小标题是：
@@ -78,7 +78,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003135072
 
 
 
-![](/images/btnews/0401_0500/0481/e7c537f1-fc78-421d-9b10-2c511a851f06.webp)
+![](/images/btnews/btnews/0401_0500/0481/e7c537f1-fc78-421d-9b10-2c511a851f06.webp)
 
 
 
@@ -89,9 +89,9 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003135072
 
 
 
-![](/images/btnews/0401_0500/0481/d4e9ca55-370a-4ca6-82d6-05a41839968c.webp)
+![](/images/btnews/btnews/0401_0500/0481/d4e9ca55-370a-4ca6-82d6-05a41839968c.webp)
 
-![](/images/btnews/0401_0500/0481/d616a164-9910-4f8c-a0b9-aa75c1b60624.webp)
+![](/images/btnews/btnews/0401_0500/0481/d616a164-9910-4f8c-a0b9-aa75c1b60624.webp)
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003123801
 论文的最后一个小标题是“戈尔巴乔夫执政一个半月以来的动向”，其中第一句话就做出了清晰总结，说就目前的动向看，他的工作重点是抓国内问题。
 接下来文章把戈尔巴乔夫的工作总结成两点：
@@ -104,7 +104,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003123801
 
 
 
-![](/images/btnews/0401_0500/0481/7f0e5b0e-c5a3-4df0-a27c-32f595253bc7.webp)
+![](/images/btnews/btnews/0401_0500/0481/7f0e5b0e-c5a3-4df0-a27c-32f595253bc7.webp)
 
 
 文章接下来赞赏了戈尔巴乔夫1个半月来的宣传策略，指出苏联的报纸在宣传中不再突出具体领导人的贡献了，同时要求党报大量刊登群众批评来信，重点是批评官僚主义，抱怨住房和生活服务问题，态度明显有所进步。
@@ -117,7 +117,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003123801
 
 
 
-![](/images/btnews/0401_0500/0481/ef3965d0-07ab-443b-b4ca-4bb770dbc862.webp)
+![](/images/btnews/btnews/0401_0500/0481/ef3965d0-07ab-443b-b4ca-4bb770dbc862.webp)
 
 80年代没有互联网，中国学者从公开领域获取外国资料的能力很弱，所以往往要引用西方国家对苏联的研究成果。1985年底，一批从欧美和日本转载过来的资料发表在中国刊物上。比如说《新疆财经》杂志1985年第四期直接转载美国《基督教箴言报》，谈戈尔巴乔夫的经济政策。
 http://www.nssd.cn/articles/article_detail.aspx?id=662410192
@@ -130,7 +130,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=662410192
 
 
 
-![](/images/btnews/0401_0500/0481/4de4cf86-19cf-4277-be47-febacb2ef24b.webp)
+![](/images/btnews/btnews/0401_0500/0481/4de4cf86-19cf-4277-be47-febacb2ef24b.webp)
 
 到了1986年《国际观察》第一期，唐岩的文章直接宣布《苏联进入了戈尔巴乔夫时期》
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003107337
@@ -143,7 +143,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003107337
 
 
 
-![](/images/btnews/0401_0500/0481/7f40a7a4-5ac2-4889-a8fa-5494e291377b.webp)
+![](/images/btnews/btnews/0401_0500/0481/7f40a7a4-5ac2-4889-a8fa-5494e291377b.webp)
 
 
 
@@ -151,29 +151,29 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003107337
 
 
 
-![](/images/btnews/0401_0500/0481/16636939-2fc5-4342-9f46-9c7ca9dba8c2.webp)
+![](/images/btnews/btnews/0401_0500/0481/16636939-2fc5-4342-9f46-9c7ca9dba8c2.webp)
 
 1986年第一期的《俄罗斯东欧中亚研究》也有一篇论文，标题就是《试析戈尔巴乔夫的干部政策》。和之前论文相似的内我就不介绍了，重点介绍一下最后对戈尔巴乔夫人事安排隐患的分析。请静静帮我读一下：
 
 
 
-![](/images/btnews/0401_0500/0481/0077c822-d8c6-4bdf-a180-594f34025c06.webp)
+![](/images/btnews/btnews/0401_0500/0481/0077c822-d8c6-4bdf-a180-594f34025c06.webp)
 http://www.nssd.cn/articles/article_detail.aspx?id=1002278114
 从接下来几年的历史发展来看，这2条隐患分析可以说算无遗策，水平可能超过了戈尔巴乔夫最好的政策顾问。我因此回头去查了一下作者身份，吴恩远1981年从四川大学历史系毕业，之后去莫斯科大学历史系进修，1986年写这篇论文的时候，他从苏联回国，正在国务院国际问题研究中心工作，1988年吴恩远本科毕业7年后特聘副研究员，2008年行政级别提升到正局级，2009年任社科院俄罗斯东欧中亚研究所所长，是中国研究苏联和俄罗斯问题最权威专家之一。咱们国家的社科评价体系在某些方面还是很有效的。
 
-![](/images/btnews/0401_0500/0481/d75292fe-b684-4614-90cf-0efca350fe3e.webp)
+![](/images/btnews/btnews/0401_0500/0481/d75292fe-b684-4614-90cf-0efca350fe3e.webp)
 
 《俄罗斯东欧中亚研究》1986年第2期再次关注戈尔巴乔夫，不过切入点很有意思，第一次向中国人介绍了未来的重要历史人物，叶利钦。标题是叶利钦这时候的职务《莫斯科市委第一书记》，请静静帮我读一下文章开头：
 
 
 
-![](/images/btnews/0401_0500/0481/0a7e9af4-a5b3-4d94-b502-920781432319.webp)
+![](/images/btnews/btnews/0401_0500/0481/0a7e9af4-a5b3-4d94-b502-920781432319.webp)
 http://www.nssd.cn/articles/article_detail.aspx?id=1002278147
 这篇文章提到，叶利钦此时重点关注的2个问题，和戈尔巴乔夫完全一致，首先是科技进步对经济的影响，其次是要从人事方面推动苏联改革。然后我给大家读一下论文的结尾：
 
 
 
-![](/images/btnews/0401_0500/0481/f061c2bc-1a42-4c13-930f-6644b5bde767.webp)
+![](/images/btnews/btnews/0401_0500/0481/f061c2bc-1a42-4c13-930f-6644b5bde767.webp)
 
 同一期的《俄罗斯东欧中亚研究》还有一篇研究文献《戈尔巴乔夫入主克里姆林宫一周年》，静静帮我读一下外交部分：
 
@@ -181,7 +181,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002278147
 
 
 
-![](/images/btnews/0401_0500/0481/b34614b1-8720-450d-a38a-a8f7b6ab404c.webp)
+![](/images/btnews/btnews/0401_0500/0481/b34614b1-8720-450d-a38a-a8f7b6ab404c.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1002278132
 
@@ -191,13 +191,13 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003107642
 
 
 
-![](/images/btnews/0401_0500/0481/82cc2588-d944-44e0-8096-2d0ee3088f42.webp)
+![](/images/btnews/btnews/0401_0500/0481/82cc2588-d944-44e0-8096-2d0ee3088f42.webp)
 
 《国际观察》的1986年第2期也有一篇文章，标题是《戈尔巴乔夫选拔和培养干部的特点》。主体部分谈苏联的人事安排，和之前的分析区别不大。但是，第一次从苏联方面看到了关于中国的内容，请静静帮我读一下：
 
 
 
-![](/images/btnews/0401_0500/0481/30523077-71af-41eb-be6d-2149dd8f3e9d.webp)
+![](/images/btnews/btnews/0401_0500/0481/30523077-71af-41eb-be6d-2149dd8f3e9d.webp)
 
 “四个现代化”，是工业、农业、国防、和科技现代化，在1975年的四届人大上正式提出。从名字就能看到，“四个现代化”基本内容是物质财富的生产。但是到了1986年出现了明显改变。那一年的中央文件传达说：“搞四个现代化一定要有两手，只有一手是不行的。所谓两手，即一手抓建设，一手抓法制。”
 苏联在1986年开始给干部讲中国的“四个现代化”，说明中苏两国改革在相互参考。
@@ -225,14 +225,14 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002277733
 
 
 
-![](/images/btnews/0401_0500/0481/7934957a-3d41-457a-9d6b-776a8f851f07.webp)
+![](/images/btnews/btnews/0401_0500/0481/7934957a-3d41-457a-9d6b-776a8f851f07.webp)
 
 http://www.nssd.cn/articles/article_detail.aspx?id=1003110480
 
 
 这篇文章结尾还有一段对戈尔巴乔夫经济改革前景的分析，我来读一段：
 
-![](/images/btnews/0401_0500/0481/7a407e61-c564-42dd-8efe-f9cff1aed758.webp)
+![](/images/btnews/btnews/0401_0500/0481/7a407e61-c564-42dd-8efe-f9cff1aed758.webp)
 
 
 
@@ -243,7 +243,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003110480
 
 
 
-![](/images/btnews/0401_0500/0481/d000d137-8e82-456a-aed3-46987e058b2e.webp)
+![](/images/btnews/btnews/0401_0500/0481/d000d137-8e82-456a-aed3-46987e058b2e.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003110482
 
@@ -253,7 +253,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003110482
 
 
 
-![](/images/btnews/0401_0500/0481/8e13a364-cdb2-4e22-a223-23b55a8c4789.webp)
+![](/images/btnews/btnews/0401_0500/0481/8e13a364-cdb2-4e22-a223-23b55a8c4789.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1002710193
 
@@ -269,7 +269,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1002718750
 
 
 
-![](/images/btnews/0401_0500/0481/e1f1a5ca-76df-455e-8440-15c7789bdc96.webp)
+![](/images/btnews/btnews/0401_0500/0481/e1f1a5ca-76df-455e-8440-15c7789bdc96.webp)
 
 
 
@@ -285,7 +285,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003080255
 
 
 
-![](/images/btnews/0401_0500/0481/3ed75e47-eeeb-4b91-9909-94e33b27d604.webp)
+![](/images/btnews/btnews/0401_0500/0481/3ed75e47-eeeb-4b91-9909-94e33b27d604.webp)
 
 
 
@@ -293,20 +293,20 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003080255
 
 
 
-![](/images/btnews/0401_0500/0481/85c56fa5-7e90-41a9-bd1f-62cf262a38ed.webp)
+![](/images/btnews/btnews/0401_0500/0481/85c56fa5-7e90-41a9-bd1f-62cf262a38ed.webp)
 
 
 
 《俄罗斯研究》1987年第6期登载了重头文章《试论戈尔巴乔夫的改革》，作者俞可平后来担任过中央编译局副局长，北大政府管理学院院长，这时候他只有28岁，在北大读博士。
 
-![](/images/btnews/0401_0500/0481/ed6fe112-0ab1-4487-9b4b-8a4d2bd18afe.webp)
+![](/images/btnews/btnews/0401_0500/0481/ed6fe112-0ab1-4487-9b4b-8a4d2bd18afe.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003080587
 
 
 这篇论文第二页提到，戈尔巴乔夫已经意识到原有的权力结构不能支持改革，必须推进民主，改进苏维埃，作为改革的基本条件。请静静帮我读一下结论部分：
 
-![](/images/btnews/0401_0500/0481/bad8a9cf-4574-45f7-ba72-3f3cd1083856.webp)
+![](/images/btnews/btnews/0401_0500/0481/bad8a9cf-4574-45f7-ba72-3f3cd1083856.webp)
 
 
 
@@ -319,7 +319,7 @@ http://www.nssd.cn/articles/article_detail.aspx?id=1003081065
 
 
 
-![](/images/btnews/0401_0500/0481/b4c732a1-d2e5-414b-b62a-31ee32d1fbf7.webp)
+![](/images/btnews/btnews/0401_0500/0481/b4c732a1-d2e5-414b-b62a-31ee32d1fbf7.webp)
 
 
 
@@ -341,14 +341,14 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002922334
 
 
 
-![](/images/btnews/0401_0500/0481/a655600a-b0d7-4199-8dbd-d6300dd1029d.webp)
+![](/images/btnews/btnews/0401_0500/0481/a655600a-b0d7-4199-8dbd-d6300dd1029d.webp)
 
 http://www.nssd.cn/articles/Article_Read.aspx?id=1003052746
 投资无效，消费品就不够用，苏联又要维护改革期间的社会稳定，必定靠增加外债和出售黄金来买外国消费品，作者建议中国注意苏联新增的市场，准备争夺日用品市场，请静静帮我读一下原文：
 
 
 
-![](/images/btnews/0401_0500/0481/fdefc774-069e-4aa9-ac0f-59831879c33a.webp)
+![](/images/btnews/btnews/0401_0500/0481/fdefc774-069e-4aa9-ac0f-59831879c33a.webp)
 
 
 
@@ -356,7 +356,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003052746
 
 
 
-![](/images/btnews/0401_0500/0481/9012799f-aa97-47bb-a8dc-3e429b58b763.webp)
+![](/images/btnews/btnews/0401_0500/0481/9012799f-aa97-47bb-a8dc-3e429b58b763.webp)
 
 
 
@@ -371,7 +371,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1003052746
 
 
 
-![](/images/btnews/0401_0500/0481/4b4d96a8-0864-434b-b450-5b4cb1289734.webp)
+![](/images/btnews/btnews/0401_0500/0481/4b4d96a8-0864-434b-b450-5b4cb1289734.webp)
 
 
 
@@ -400,7 +400,7 @@ http://www.nssd.cn/articles/Article_Read.aspx?id=1002676377
 
 
 
-![](/images/btnews/0401_0500/0481/7efb4924-59b8-4664-9f32-4a1a5c3b6284.webp)
+![](/images/btnews/btnews/0401_0500/0481/7efb4924-59b8-4664-9f32-4a1a5c3b6284.webp)
 
 
 

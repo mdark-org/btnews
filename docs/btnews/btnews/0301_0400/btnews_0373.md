@@ -20,7 +20,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/77a6a312-53af-4931-b7d5-7c6a1db7cadf.webp)
+![](/images/btnews/btnews/0301_0400/0373/77a6a312-53af-4931-b7d5-7c6a1db7cadf.webp)
 
 
 
@@ -32,7 +32,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/e725ec7f-209f-4598-8c4c-40eef549abed.webp)
+![](/images/btnews/btnews/0301_0400/0373/e725ec7f-209f-4598-8c4c-40eef549abed.webp)
 
 
 
@@ -40,7 +40,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/00deaa73-0ed8-4a1b-a1f5-3122f1e291ff.webp)
+![](/images/btnews/btnews/0301_0400/0373/00deaa73-0ed8-4a1b-a1f5-3122f1e291ff.webp)
 
 
 
@@ -58,7 +58,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/484f2c72-27e8-486c-b476-d9751faa6a2b.webp)
+![](/images/btnews/btnews/0301_0400/0373/484f2c72-27e8-486c-b476-d9751faa6a2b.webp)
 
 
 
@@ -76,11 +76,11 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/bed856e6-866c-4206-94bc-235a40deb9c9.webp)
+![](/images/btnews/btnews/0301_0400/0373/bed856e6-866c-4206-94bc-235a40deb9c9.webp)
 
 
 
-![](/images/btnews/0301_0400/0373/8ba7a18c-f4cb-4ccd-a5b8-3d2750b8898b.webp)
+![](/images/btnews/btnews/0301_0400/0373/8ba7a18c-f4cb-4ccd-a5b8-3d2750b8898b.webp)
 
 
 
@@ -98,7 +98,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/581efe19-c15f-4930-af65-4a71bc6701b6.webp)
+![](/images/btnews/btnews/0301_0400/0373/581efe19-c15f-4930-af65-4a71bc6701b6.webp)
 
 
 
@@ -106,7 +106,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/f5b28fa8-860a-4423-bd61-b2ae67cd1e56.webp)
+![](/images/btnews/btnews/0301_0400/0373/f5b28fa8-860a-4423-bd61-b2ae67cd1e56.webp)
 
 
 
@@ -126,7 +126,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/3eacbeed-4422-45da-b9aa-2167dd2f5b90.webp)
+![](/images/btnews/btnews/0301_0400/0373/3eacbeed-4422-45da-b9aa-2167dd2f5b90.webp)
 
 
 
@@ -142,7 +142,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/fabb55e0-3359-489a-ba3d-a3dd71813c3c.webp)
+![](/images/btnews/btnews/0301_0400/0373/fabb55e0-3359-489a-ba3d-a3dd71813c3c.webp)
 
 
 
@@ -156,7 +156,7 @@ date: 2021-12-31
 
 
 
-![](/images/btnews/0301_0400/0373/59f0b46c-0f97-417e-acc7-b8ebc2587bf6.webp)
+![](/images/btnews/btnews/0301_0400/0373/59f0b46c-0f97-417e-acc7-b8ebc2587bf6.webp)
 
 
 
@@ -182,7 +182,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/29fac279-2720-4514-8d49-392b905dc647.webp)
+![](/images/btnews/btnews/0301_0400/0373/29fac279-2720-4514-8d49-392b905dc647.webp)
 
 
 
@@ -200,7 +200,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/91cfcb69-c99e-4408-93fc-caa807cdc9a8.webp)
+![](/images/btnews/btnews/0301_0400/0373/91cfcb69-c99e-4408-93fc-caa807cdc9a8.webp)
 
 
 
@@ -224,7 +224,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/de3c3701-097e-4e73-a2e4-aa27bfc8f162.webp)
+![](/images/btnews/btnews/0301_0400/0373/de3c3701-097e-4e73-a2e4-aa27bfc8f162.webp)
 
 
 
@@ -242,7 +242,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/5896336b-3290-48b6-a2e9-7835873a29c4.webp)
+![](/images/btnews/btnews/0301_0400/0373/5896336b-3290-48b6-a2e9-7835873a29c4.webp)
 
 
 
@@ -252,7 +252,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 过去18年，中国经历了非典和新冠两次大疫情，不是看做偶然现象，而是中国乃至全世界城市化的必然结果。这18年期间，中国和全世界的城市化率都翻越了50%的门槛，人与人之间的平均距离从几十米降低到几米，公交出行成为普通中国人日常生活的一部分，明显提高了细菌病毒传播效率。所以，就算新冠肺炎流行结束，我们也要时刻准备应对下一次疫情。最好每一次封城都能积累经验，检讨教训，避免手忙脚乱玩人海战术。西安这次重新发明了很多管理制度，希望下次大城市全面防疫的时候不要再第三次搞原创发明。
 
-![](/images/btnews/0301_0400/0373/6d6a5188-786d-4dd6-9c16-d0cf02366a81.webp)
+![](/images/btnews/btnews/0301_0400/0373/6d6a5188-786d-4dd6-9c16-d0cf02366a81.webp)
 
 
 
@@ -272,13 +272,13 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/4cae5f0d-22ad-4064-a2ef-7c738def2eab.webp)
+![](/images/btnews/btnews/0301_0400/0373/4cae5f0d-22ad-4064-a2ef-7c738def2eab.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0373/39ededac-96d2-4e50-8167-977563894acb.webp)
+![](/images/btnews/btnews/0301_0400/0373/39ededac-96d2-4e50-8167-977563894acb.webp)
 
 
 
@@ -302,7 +302,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/2493299f-8c9d-4e71-9b8a-72f5cb2ff309.webp)
+![](/images/btnews/btnews/0301_0400/0373/2493299f-8c9d-4e71-9b8a-72f5cb2ff309.webp)
 
 
 
@@ -320,7 +320,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/5dcf31ee-31a2-4da0-9478-98434a5f70fd.webp)
+![](/images/btnews/btnews/0301_0400/0373/5dcf31ee-31a2-4da0-9478-98434a5f70fd.webp)
 
 
 
@@ -338,7 +338,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/a4d6174c-bab3-4f9a-b75f-818cdf52491e.webp)
+![](/images/btnews/btnews/0301_0400/0373/a4d6174c-bab3-4f9a-b75f-818cdf52491e.webp)
 
 
 
@@ -360,7 +360,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/77f2e8f2-30e6-4cc0-9b87-548fcd90c4c8.webp)
+![](/images/btnews/btnews/0301_0400/0373/77f2e8f2-30e6-4cc0-9b87-548fcd90c4c8.webp)
 
 
 
@@ -372,7 +372,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/6ae34a2b-5b73-45a2-86d6-d91668ab2474.webp)
+![](/images/btnews/btnews/0301_0400/0373/6ae34a2b-5b73-45a2-86d6-d91668ab2474.webp)
 
 
 
@@ -396,7 +396,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/9b66b773-f675-41e0-8b06-aba7a9fb5bc0.webp)
+![](/images/btnews/btnews/0301_0400/0373/9b66b773-f675-41e0-8b06-aba7a9fb5bc0.webp)
 
 
 
@@ -428,7 +428,7 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/e450e633-0f13-4730-91b1-a628d56a247e.webp)
+![](/images/btnews/btnews/0301_0400/0373/e450e633-0f13-4730-91b1-a628d56a247e.webp)
 
 
 
@@ -436,5 +436,5 @@ http://www.myzaker.com/article/61cb97bd8e9f0923b36e519b
 
 
 
-![](/images/btnews/0301_0400/0373/6e882ab6-dfaa-451c-b01e-3c27b92922f6.webp)
+![](/images/btnews/btnews/0301_0400/0373/6e882ab6-dfaa-451c-b01e-3c27b92922f6.webp)
 

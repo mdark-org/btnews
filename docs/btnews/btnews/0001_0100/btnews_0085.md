@@ -7,26 +7,26 @@ date: 2020-03-06
 
 去年我们连续关注了马斯克的星链卫星计划，现在马斯克有300颗星链在轨运行，每个月发射几十颗卫星已经司空见惯，但是马斯克又造了一件视觉效果很强的新闻。28日，SpaceX公司对星舰原型机SN1进行压力测试。加压到一半，原型机发生整体大爆炸。督工，这次大爆炸对马斯克的航天计划有影响吗？
 
-![](/images/btnews/0001_0100/0085/image1.webp)
+![](/images/btnews/btnews/0001_0100/0085/image1.webp)
 
 几乎没影响，甚至可以说爆炸也在马斯克的预计之中。现在马斯克的星链卫星已经定型了，以流水线方式制造，但星舰飞船还没有。马斯克还在不断升级产品型号，甚至整体结构还在反复测试。为了知道每种结构的极限承受能力，必然要进行破坏性测试。
 
 去年8月，同样在这个试验场，Space
 X测试了星舰原型机“星虫号”的悬浮能力，飞船在150米的高度悬停1分钟，顺利降落。
 
-![](/images/btnews/0001_0100/0085/image2.webp)
+![](/images/btnews/btnews/0001_0100/0085/image2.webp)
 
 可以看到，虽然星虫号和SN1都是星舰原型机，但是外形区别很大。这是因为马斯克的星舰系列本来就有很多型号，分别执行不同的任务。
 
-![](/images/btnews/0001_0100/0085/image3.webp)
+![](/images/btnews/btnews/0001_0100/0085/image3.webp)
 
 上次测试悬停的型号，是用于近地空间往返的出租车飞船，不断起降就像蚂蚱一样，所以名字是星虫。比较大号的是超重型火箭，可以离开地球轨道去其他星球。我们一般说的星舰是超重型火箭的上面级，有的用来载人载货，有的用来给其他的飞船加油。
 
-![](/images/btnews/0001_0100/0085/image4.webp)
+![](/images/btnews/btnews/0001_0100/0085/image4.webp)
 
-![](/images/btnews/0001_0100/0085/image5.webp)
+![](/images/btnews/btnews/0001_0100/0085/image5.webp)
 
-![](/images/btnews/0001_0100/0085/image6.webp)
+![](/images/btnews/btnews/0001_0100/0085/image6.webp)
 
 [SpaceX Starship's Orbital Refilling is 'Very Important' - Elon Musk Explains - Space Showcase](https://videos.space.com/m/SSoUYjkw/spacex-starships-orbital-refilling-is-very-important-elon-musk-explains?list=9wzCTV4g)
 
@@ -34,7 +34,7 @@ X测试了星舰原型机“星虫号”的悬浮能力，飞船在150米的高�
 
 那个悬停的“星虫”号，头顶是裸露在外的。这东西本来有顶部的锥形外壳，后来试验场地遇到飓风，顶部被吹飞了。要是换成传统航天部门，肯定会叫停试验。但是马斯克认为，空中悬停系统和顶部没关系，所以还是继续测试。这就是马斯克航天工厂的风格，炸个火箭根本不是大事。去年11月20日，Space另一次压力测试，炸掉了Mk1型号的顶盖。
 
-![](/images/btnews/0001_0100/0085/image7.webp)
+![](/images/btnews/btnews/0001_0100/0085/image7.webp)
 
 反复炸火箭，马斯克到底想测试什么？
 
@@ -44,7 +44,7 @@ X测试了星舰原型机“星虫号”的悬浮能力，飞船在150米的高�
 
 为了装足够多的燃料，马斯克最初想用碳纤维复合材料造火箭，每吨13万美元。所以他果断换成每吨2500美元的不锈钢，再给钢壳加一层隔热瓦，避免升温。
 
-![](/images/btnews/0001_0100/0085/image8.webp)
+![](/images/btnews/btnews/0001_0100/0085/image8.webp)
 
 龙飞船CRS-18任务中的隔热瓦测试
 
@@ -54,13 +54,13 @@ X测试了星舰原型机“星虫号”的悬浮能力，飞船在150米的高�
 
 当然用焊接钢板火箭并不稀奇。早在20世纪5、60年代，美国宇宙神系列火箭就用过焊接钢板，而且比现在的星舰火箭更薄。
 
-![](/images/btnews/0001_0100/0085/image9.webp)
+![](/images/btnews/btnews/0001_0100/0085/image9.webp)
 
-![](/images/btnews/0001_0100/0085/image10.webp)
+![](/images/btnews/btnews/0001_0100/0085/image10.webp)
 
 宇宙神II
 
-![](/images/btnews/0001_0100/0085/image11.webp)
+![](/images/btnews/btnews/0001_0100/0085/image11.webp)
 
 半人马座
 
@@ -68,41 +68,41 @@ X测试了星舰原型机“星虫号”的悬浮能力，飞船在150米的高�
 
 但是，宇宙神系列是拿来和苏联抢时间的军用装备，允许一定的失败率，而且内部设置了很多横箍和纵向梁，不仅仅靠外壳维持强度。这既增加了重量，也增加了造价。
 
-![](/images/btnews/0001_0100/0085/image12.webp)
+![](/images/btnews/btnews/0001_0100/0085/image12.webp)
 
-![](/images/btnews/0001_0100/0085/image13.webp)
+![](/images/btnews/btnews/0001_0100/0085/image13.webp)
 
 宇宙神系列量产型不锈钢桶
 
-![](/images/btnews/0001_0100/0085/image14.webp)
+![](/images/btnews/btnews/0001_0100/0085/image14.webp)
 
-![](/images/btnews/0001_0100/0085/image15.webp)
+![](/images/btnews/btnews/0001_0100/0085/image15.webp)
 
 宇宙神2E
 
 马斯克火箭就简单粗暴了，直接把钢板卷起来焊上，不做加强结构，和我们家门口的下水道管没有本质区别，而且直径9米，是宇宙神火箭的3倍。所以马斯克需要知道它在爆炸之前能承受多大压力。现在的加压试验都是充液氮的，就是为了减少爆炸之后的危害。
 
-![](/images/btnews/0001_0100/0085/image16.webp)
+![](/images/btnews/btnews/0001_0100/0085/image16.webp)
 
-![](/images/btnews/0001_0100/0085/image17.webp)
+![](/images/btnews/btnews/0001_0100/0085/image17.webp)
 
 马斯克真的要把一个下水道发射上天吗？
 
 现在马斯克自己也不知道，但肯定比我们常见的火箭更接近下水道。马斯克的星舰项目，一上来就按不同的开发路线和阶段，划分为Mk1到Mk8八个型号。德州团队和佛罗里达团队各自负责单双号型号测试。马斯克希望Mk3型号可以发射上天，到Mk4、Mk5基本定型。现在测试的Mk1和Mk2都是非常粗糙的测试版，为了制造特定外形，是很多小钢板拼起来的，焊缝特别多，还不如我们家门口的下水道管，非常容易炸。
 
-![](/images/btnews/0001_0100/0085/image18.webp)
+![](/images/btnews/btnews/0001_0100/0085/image18.webp)
 
 用于压力测试的Mk1下部，焊缝密布
 
 [SpaceX's fourth Starship prototype has begun to take shape in Florida](https://www.teslarati.com/spacex-fourth-starship-prototype-florida-progress/)
 
-![](/images/btnews/0001_0100/0085/image19.webp)
+![](/images/btnews/btnews/0001_0100/0085/image19.webp)
 
-![](/images/btnews/0001_0100/0085/image20.webp)
+![](/images/btnews/btnews/0001_0100/0085/image20.webp)
 
 佛州团队支援箭体
 
-![](/images/btnews/0001_0100/0085/image21.webp)
+![](/images/btnews/btnews/0001_0100/0085/image21.webp)
 
 佛州团队工厂
 
@@ -110,17 +110,17 @@ X测试了星舰原型机“星虫号”的悬浮能力，飞船在150米的高�
 
 为了减少焊缝，SpaceX两个星舰团队接下来终于发展到下水道水平，每层钢桶用一块钢板卷弯焊接。Mk1是从下往上一层层焊接，SN1是先拼分段，最后再把上下两个分段总装。这两个方案能不能上天，我们拭目以待。
 
-![](/images/btnews/0001_0100/0085/image22.webp)
+![](/images/btnews/btnews/0001_0100/0085/image22.webp)
 
 [SpaceX beginning final assembly of Starship SN1 ahead of roll to the pad - NASASpaceFlight.com](https://www.nasaspaceflight.com/2020/02/spacex-final-assembly-starship-sn1-roll-pad/)
 
-![](/images/btnews/0001_0100/0085/image23.webp)
+![](/images/btnews/btnews/0001_0100/0085/image23.webp)
 
 Mk1鼻锥与SN1分段
 
 作为一个前工程师，我非常欣赏马斯克的粗暴技术风格。任何东西如果想成为大众消费品，技术上不一定最先进，但必须使用廉价材料，标准模块，进行流水线生产，否则就只能是科研工具和富人的玩具。在爱迪生之前，也有人造出过电灯，在福特之前，也有人造过汽车厂，可能比福特的T型车还好，但这两个美国人最终让大多数人都用得起电灯和汽车。所以，看着马斯克一个接一个的炸火箭，我们应该佩服这个新来的美国人，他是现在这个世界上最代表未来的人，我们中国也应该建立一套能支持创业者连续炸火箭的体制。
 
-![](/images/btnews/0001_0100/0085/image24.webp)
+![](/images/btnews/btnews/0001_0100/0085/image24.webp)
 
 下面这个新闻似乎和马斯克的风格有点像。上周，美国海军公开了他们第一艘通用无人艇的测试视频，视频中，驾驶员远程操控的工具是一个游戏手柄。美国海军为什么会选用这么廉价的产品？
 
@@ -128,74 +128,74 @@ Mk1鼻锥与SN1分段
 
 这个视频的拍摄地点是诺福克海军基地，美国的大西洋舰队司令部。这里同时也是一个繁忙的商业港口。
 
-![](/images/btnews/0001_0100/0085/image25.webp)
+![](/images/btnews/btnews/0001_0100/0085/image25.webp)
 
-![](/images/btnews/0001_0100/0085/image26.webp)
+![](/images/btnews/btnews/0001_0100/0085/image26.webp)
 
 为了避免恐怖分子用商船掩护发动恐怖袭击，诺福克军港每天需要大量巡逻艇巡视海面。为了避免巡逻艇成为恐怖分子目标，美国海军想到了无人艇。反正无非就是警告和开枪两个任务，无人艇装上机枪和大喇叭也能干。这种任务用ps4的手柄也能满足需求，之前美国人还用过更便宜的东西，比如微软的xbox360游戏手柄，淘宝50块就能买一个。
 
-![](/images/btnews/0001_0100/0085/image27.webp)
+![](/images/btnews/btnews/0001_0100/0085/image27.webp)
 
-![](/images/btnews/0001_0100/0085/image28.webp)
+![](/images/btnews/btnews/0001_0100/0085/image28.webp)
 
 美国现在主流的攻击核潜艇是弗吉尼亚级。和冷战时期的高档海狼潜艇相比，这个型号最主要的设计理念就是省钱。2017年，外媒报道，弗吉尼亚级核潜艇的潜望镜是xbox360手柄控制的，你几乎看不出来这个美国军人是在玩游戏，还是开潜艇。
 
-![](/images/btnews/0001_0100/0085/image29.webp)
+![](/images/btnews/btnews/0001_0100/0085/image29.webp)
 
-![](/images/btnews/0001_0100/0085/image30.webp)
+![](/images/btnews/btnews/0001_0100/0085/image30.webp)
 
 弗吉尼亚级潜艇的潜望镜并不是光学系统，而是两个装有高清摄像头的桅杆，和之前的光学潜望镜控制不太一样。2015年，海军花1亿美金请洛克希德公司来改进核潜艇的图像系统。
 
-![](/images/btnews/0001_0100/0085/image31.webp)
+![](/images/btnews/btnews/0001_0100/0085/image31.webp)
 
 结果洛克希德公司换掉了4万美元的控制器，换成十几美元的游戏手柄，操作反而更方便了，水手不用培训就能用。现在杜鲁门号航母上也能看到水手用xbox手柄。
 
-![](/images/btnews/0001_0100/0085/image32.webp)
+![](/images/btnews/btnews/0001_0100/0085/image32.webp)
 
 2014年，美军庞塞号登陆舰装上了波音公司的激光武器系统，发射最高功率50千瓦的激光，用来应付无人机和快艇。
 
-![](/images/btnews/0001_0100/0085/image33.webp)
+![](/images/btnews/btnews/0001_0100/0085/image33.webp)
 
-![](/images/btnews/0001_0100/0085/image34.webp)
+![](/images/btnews/btnews/0001_0100/0085/image34.webp)
 
-![](/images/btnews/0001_0100/0085/image35.webp)
+![](/images/btnews/btnews/0001_0100/0085/image35.webp)
 
 波音公司表示，之所以用改装游戏手柄来控制激光炮，是因为士兵们熟悉游戏手柄的操作。现在波音公司给陆军的大型激光炮，也用游戏手柄。
 
-![](/images/btnews/0001_0100/0085/image36.webp)
+![](/images/btnews/btnews/0001_0100/0085/image36.webp)
 
-![](/images/btnews/0001_0100/0085/image37.webp)
+![](/images/btnews/btnews/0001_0100/0085/image37.webp)
 
 上次雷神公司也给陆军开发激光武器，还发过演示视频，打掉了大疆无人机，士兵手里的东西虽然涂上了军绿色，但一眼就能看出来，还是xbox的手柄。
 
-![](/images/btnews/0001_0100/0085/image38.webp)
+![](/images/btnews/btnews/0001_0100/0085/image38.webp)
 
-![](/images/btnews/0001_0100/0085/image39.webp)
+![](/images/btnews/btnews/0001_0100/0085/image39.webp)
 
-![](/images/btnews/0001_0100/0085/image40.webp)
+![](/images/btnews/btnews/0001_0100/0085/image40.webp)
 
 更早的例子也有，2007年，美军公开一组照片，其中一张照片是一个士兵用xbox360的手柄控制XM1216小型地面无人车。
 
-![](/images/btnews/0001_0100/0085/image41.webp)
+![](/images/btnews/btnews/0001_0100/0085/image41.webp)
 
 玩过彩虹六号的观众应该熟悉这种小车，可以放到人很难通过的环境搞侦察，比如下水道。
 
-![](/images/btnews/0001_0100/0085/image42.webp)
+![](/images/btnews/btnews/0001_0100/0085/image42.webp)
 
-![](/images/btnews/0001_0100/0085/image43.webp)
+![](/images/btnews/btnews/0001_0100/0085/image43.webp)
 
 美军在野外扎营，营地围栏上要安装炮台，
 360度旋转，搭载12.7毫米机枪或者狙击步枪，加上摄像头和红外传感器，士兵在工事里面玩游戏，顺便就站岗。
 
-![](/images/btnews/0001_0100/0085/image44.webp)
+![](/images/btnews/btnews/0001_0100/0085/image44.webp)
 
 美国陆军之前还测试过，游戏手柄远程驾驶悍马，似乎是罗技的产品。可以说，在美国军队，手柄远程控制已经是大趋势了。
 
-![](/images/btnews/0001_0100/0085/image45.webp)
+![](/images/btnews/btnews/0001_0100/0085/image45.webp)
 
-![](/images/btnews/0001_0100/0085/image46.webp)
+![](/images/btnews/btnews/0001_0100/0085/image46.webp)
 
-![](/images/btnews/0001_0100/0085/image47.webp)
+![](/images/btnews/btnews/0001_0100/0085/image47.webp)
 
 （插一段八位机，赤色要塞开武装吉普车的视频）
 
@@ -205,17 +205,17 @@ Mk1鼻锥与SN1分段
 
 以色列是美国最好的盟友和学生，去年八月，以色列国防部展示了正在研发中的战车。两名驾驶员坐在装甲后面，外面的360度摄像头直接连接到车内的环绕式屏幕组，驾驶员手里握着的也是xbox的手柄。
 
-![](/images/btnews/0001_0100/0085/image48.webp)
+![](/images/btnews/btnews/0001_0100/0085/image48.webp)
 
-![](/images/btnews/0001_0100/0085/image49.webp)
+![](/images/btnews/btnews/0001_0100/0085/image49.webp)
 
-![](/images/btnews/0001_0100/0085/image50.webp)
+![](/images/btnews/btnews/0001_0100/0085/image50.webp)
 
 在战场的另一边，叙利亚反对派的装甲车虽然很土，但操控方式和以色列人是一样的，这真是个世界潮流了。
 
-![](/images/btnews/0001_0100/0085/image51.webp)
+![](/images/btnews/btnews/0001_0100/0085/image51.webp)
 
-![](/images/btnews/0001_0100/0085/image52.webp)
+![](/images/btnews/btnews/0001_0100/0085/image52.webp)
 
 为什么高科技武器要用廉价手柄来控制呢？那些军事大国造不出更好的东西吗？
 
@@ -226,15 +226,15 @@ Mk1鼻锥与SN1分段
 2008年的时候，美国在费城一个商业中心里建一个陆军体验中心，花了1200万美元,装修风格和网吧差不多，里面摆了60台电脑，19台xbox
 360游戏机来让参观者体验当兵的感觉，据说招募效率是传统征兵点的五倍。
 
-![](/images/btnews/0001_0100/0085/image53.webp)
+![](/images/btnews/btnews/0001_0100/0085/image53.webp)
 
-![](/images/btnews/0001_0100/0085/image54.webp)
+![](/images/btnews/btnews/0001_0100/0085/image54.webp)
 
 或许将来有一天，军队会直接招募一批宅男来参军，上手更快还能更省钱。
 
-![](/images/btnews/0001_0100/0085/image55.webp)
+![](/images/btnews/btnews/0001_0100/0085/image55.webp)
 
-![](/images/btnews/0001_0100/0085/image56.webp)
+![](/images/btnews/btnews/0001_0100/0085/image56.webp)
 
 过去一周，娱乐圈最大的话题就是肖战粉丝引发的“227事件”。事情牵涉到去年热播剧《陈情令》的男主演肖战和王一博，静静你是90后，给大家讲讲前因后果。
 
@@ -250,7 +250,7 @@ Mk1鼻锥与SN1分段
 
 经过不断的竞争和淘汰，现在很多明星的饭圈已经是个高度组织化、层级分明的团体。他们组队刷热搜、控评，显得声势浩大。不少明星的粉丝通过做公益，支持国家抗疫，曾经把“饭圈女孩驰援武汉”的词条送上了热搜。当时这种行动力和透明度受到了很多媒体的肯定。
 
-![](/images/btnews/0001_0100/0085/image57.webp)
+![](/images/btnews/btnews/0001_0100/0085/image57.webp)
 
 粉丝所有行动的出发点，都是所谓的“为了偶像好”。做公益，是为了让路人觉得这种正能量和自己的偶像有关。这一次肖战的粉丝到处发举报，目的也是为了维护偶像的形象。
 
@@ -258,27 +258,27 @@ Mk1鼻锥与SN1分段
 
 如何和这些粉丝相处，值得偶像和他们的团队值得好好反思。因为有实力的艺人可以靠作品说话，不需要玩粉圈这一套。演员胡歌拒绝了粉丝集资应援，王凯反对粉丝接机，还解散了后援会。但是对于量产的偶像来说，他们就是靠卖人设吸引粉丝，也不敢得罪粉丝，反而会默许甚至放纵粉丝乱来，并不利用自己偶像的号召力进行约束。
 
-![](/images/btnews/0001_0100/0085/image58.webp)
+![](/images/btnews/btnews/0001_0100/0085/image58.webp)
 
 在这一次事件之前，肖战的粉丝还举报过另一个演员王一博，把科学家颜宁教授和作家郑渊洁送上热搜，肖战本人和团队一直无动于衷。所以这一次，虽然肖战工作室的回应看起来很正常，但是大家依然质疑，是因为影响到了肖战的商业代言，团队才不得不出面回应。
 
-![](/images/btnews/0001_0100/0085/image59.webp)
+![](/images/btnews/btnews/0001_0100/0085/image59.webp)
 
-![](/images/btnews/0001_0100/0085/image60.webp)
+![](/images/btnews/btnews/0001_0100/0085/image60.webp)
 
 静静你认为肖战和他的经纪人知道这些粉丝的作为吗？
 
 一般来说，流量明星的团队都会跟粉头有直接接触，会对艺人的网络舆论进行监控，肖战团队必然了解这些情况。如果事情发酵了这么久，他们到3月1日才知情，这个团队可以说是失职的。
 
-![](/images/btnews/0001_0100/0085/image61.webp)
+![](/images/btnews/btnews/0001_0100/0085/image61.webp)
 
 这次肖战的饭圈引发普通网民的公愤，反向“出圈”，连我这种平时不关心娱乐圈的人都知道了，静静给我讲讲事情闹大的具体过程好不好？
 
-![](/images/btnews/0001_0100/0085/image62.webp)
+![](/images/btnews/btnews/0001_0100/0085/image62.webp)
 
 粉圈把举报当成工具的风气其实有一段时间了。比如2018年，部分王菊粉丝就举报《创造101》节目，理由是“杨超越违背核心价值观”。
 
-![](/images/btnews/0001_0100/0085/image63.webp)
+![](/images/btnews/btnews/0001_0100/0085/image63.webp)
 
 从过程看，肖战的粉丝先是向有关部门举报了几个同人创作平台，在各大手机应用商店刷一星恶评；还举报B站，多部与肖战相关的作品现在都是“已失效视频”，部分其他作品也受到波及；
 
@@ -288,9 +288,9 @@ Mk1鼻锥与SN1分段
 
 但实际上，行业通行的评分区间是1-5分，评分不可能低于一分。另一方面，各大应用市场的下架理由包括违法、侵权、低俗、刷量等，但与用户评分无关。肖战饭圈这样刷低分，实际上是在向圈外展示自己的条件反射水平很低，让很多平时不关心娱乐圈的人知道这件事，最终负向出圈，被全网谴责。
 
-![](/images/btnews/0001_0100/0085/image64.webp)
+![](/images/btnews/btnews/0001_0100/0085/image64.webp)
 
-![](/images/btnews/0001_0100/0085/image65.webp)
+![](/images/btnews/btnews/0001_0100/0085/image65.webp)
 
 前春晚导演哈文微博
 
@@ -302,7 +302,7 @@ Mk1鼻锥与SN1分段
 
 最后我们看看观众的质疑。第八十期节目，督工你说可以容许用钱买优质教育，但是一定要明码标价，直接拍卖比学区房制度好。这一期内容引发了很大争议，督工你也连续回应过。这几天我发现知乎有第八十期的相关问题，有一个回答引用我们第一期的内容来反驳，说你明明反对过毒品公开化，这个时候又支持明码标价卖教育，自相矛盾。督工你怎么看？
 
-![](/images/btnews/0001_0100/0085/image66.webp)
+![](/images/btnews/btnews/0001_0100/0085/image66.webp)
 
 这位回答者是我们的好观众，我会优先回答这种质疑。
 

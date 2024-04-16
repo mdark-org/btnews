@@ -4,7 +4,7 @@ date: 2022-08-02
 ---
 
 
-![](/images/btnews/0401_0500/0466/00687e0a-0f70-4442-aa4f-4c15b4d7ff93.webp)
+![](/images/btnews/btnews/0401_0500/0466/00687e0a-0f70-4442-aa4f-4c15b4d7ff93.webp)
 
 
 
@@ -18,7 +18,7 @@ date: 2022-08-02
 
 
 
-![](/images/btnews/0401_0500/0466/6258d3fd-52f3-4bc4-b773-cd08b6673433.webp)
+![](/images/btnews/btnews/0401_0500/0466/6258d3fd-52f3-4bc4-b773-cd08b6673433.webp)
 
 https://m.thepaper.cn/baijiahao_19214476
 
@@ -39,7 +39,7 @@ https://m.thepaper.cn/baijiahao_19214476
 
 
 
-![](/images/btnews/0401_0500/0466/78692b6b-ffbc-4df3-a058-5e2dfe8ad628.webp)
+![](/images/btnews/btnews/0401_0500/0466/78692b6b-ffbc-4df3-a058-5e2dfe8ad628.webp)
 
 https://lhnews.zjol.com.cn/lhnews/system/2022/07/22/033746860.shtml
 
@@ -48,7 +48,7 @@ https://lhnews.zjol.com.cn/lhnews/system/2022/07/22/033746860.shtml
 
 
 
-![](/images/btnews/0401_0500/0466/87607557-77e2-43c9-b1fc-34a779db6e2c.webp)
+![](/images/btnews/btnews/0401_0500/0466/87607557-77e2-43c9-b1fc-34a779db6e2c.webp)
 
 https://www.163.com/dy/article/HB1CB0TB0550TZ1A.html
 
@@ -67,7 +67,7 @@ https://www.163.com/dy/article/HB1CB0TB0550TZ1A.html
 
 现在换到政府，也是一样的道理，单位领导用民主评议和匿名举报来确定普通公务员是否躺平，这只有两种可能：或者领导是不知道自己的下属在干什么，明显失职；或者是领导想做老好人，让无记名的信息替自己完成惩罚指标，明显缺乏担当。
  
-![](/images/btnews/0401_0500/0466/ef400bd0-65a8-4abf-a0f2-b0d8982bccd2.webp)
+![](/images/btnews/btnews/0401_0500/0466/ef400bd0-65a8-4abf-a0f2-b0d8982bccd2.webp)
 
 无论是哪一种可能性，都说明单位领导不适合当领导，说明当地组织部门自己才是最“躺平”的单位。我们作为政府的老板，必须早点开除不负责任的主管。
 
@@ -97,7 +97,7 @@ https://www.163.com/dy/article/HB1CB0TB0550TZ1A.html
 
 
 
-![](/images/btnews/0401_0500/0466/87b8a738-6cc7-4cab-bdd0-96fcd1500d2f.webp)
+![](/images/btnews/btnews/0401_0500/0466/87b8a738-6cc7-4cab-bdd0-96fcd1500d2f.webp)
 
 https://www.sohu.com/a/456634526_120811294
 
@@ -109,7 +109,7 @@ https://www.sohu.com/a/456634526_120811294
 
 
 
-![](/images/btnews/0401_0500/0466/27b6b98d-cbac-44a2-88be-1120db2cae45.webp)
+![](/images/btnews/btnews/0401_0500/0466/27b6b98d-cbac-44a2-88be-1120db2cae45.webp)
 
 
 
@@ -140,7 +140,7 @@ https://www.sohu.com/a/456634526_120811294
 
 
 
-![](/images/btnews/0401_0500/0466/e9550fce-1958-44bb-9bb4-139fde3111e3.webp)
+![](/images/btnews/btnews/0401_0500/0466/e9550fce-1958-44bb-9bb4-139fde3111e3.webp)
 
 
 
@@ -155,13 +155,13 @@ https://www.sohu.com/a/456634526_120811294
 
 最近几年，地方政府在经济方面逐渐积累了一些经验教训，已经逐渐学会和企业打交道了。但在对待宗教方面，很多地方政府还是缺乏自信，总觉得自己就是个管钱的世俗政府，在道德和意识形态上还是要依赖一些古老的东西，比如说传统封建文化，或者是宗教。疫情之后，把和尚道士拉出来做心理辅导的地方，已经不是一处两处了。
  
-![](/images/btnews/0401_0500/0466/67a8ea43-3039-4e27-91f8-2c0e0d66a4bf.webp)
+![](/images/btnews/btnews/0401_0500/0466/67a8ea43-3039-4e27-91f8-2c0e0d66a4bf.webp)
 
 当然，这些表现现在还不算严重，最多也就是前面举的那些例子，地方政府替宗教机构维护道德高度，或者是政府掏钱，和宗教机构合伙经营。前些年辽宁锦州有个“歪脖老母”景区，当地政府通过鼓吹神秘主义赚了不少好处，广告越过山海关，打到了河北境内。
 
 
 
-![](/images/btnews/0401_0500/0466/1c12744b-6615-4fec-ab99-d190136386e1.webp)
+![](/images/btnews/btnews/0401_0500/0466/1c12744b-6615-4fec-ab99-d190136386e1.webp)
 
 
 
@@ -169,14 +169,14 @@ https://www.sohu.com/a/456634526_120811294
 
 
 
-![](/images/btnews/0401_0500/0466/1308a6f6-1248-4f20-a939-354b905ca68c.webp)
+![](/images/btnews/btnews/0401_0500/0466/1308a6f6-1248-4f20-a939-354b905ca68c.webp)
 
 https://www.huxiu.com/article/623041.html
 
 
 很多人可能觉得政府干预宗教机构、给宗教机构出钱，也是保持控制力的表现。但是，义务和权利是对等的，给宗教增加额外的道德义务，最终会增加宗教组织的影响力。政府如果要求宗教组织用祈祷行为支持自己，维护社会秩序，平息一部分人的情绪，就必然会发现信徒越来越虔诚，在乎宗教组织立场的人越来越多。最终宗教组织可以用撤回支持的方式和政府谈判，要求拥有干预现实生活的权力。东欧的教会几十年前就曾经先和政府妥协，再干预现实政治，这种危险的可能性，必须从根源上就消灭。
  
-![](/images/btnews/0401_0500/0466/0a0b0ed7-6bb7-4665-b7f2-944e6123399a.webp)
+![](/images/btnews/btnews/0401_0500/0466/0a0b0ed7-6bb7-4665-b7f2-944e6123399a.webp)
 
 所以，对吴啊萍事件，以及后面的夏日祭风水事件，我希望政府能坚持唯物主义原则，不要因为一时方便，就让司法机构违背宗教自由原则，否则长期一定有宗教绑架政策的危险。
  
@@ -184,9 +184,9 @@ https://www.huxiu.com/article/623041.html
 
 
 
-![](/images/btnews/0401_0500/0466/166f4020-4161-45aa-9282-2f9e9cf675a3.webp)
+![](/images/btnews/btnews/0401_0500/0466/166f4020-4161-45aa-9282-2f9e9cf675a3.webp)
 
-![](/images/btnews/0401_0500/0466/9f65b61a-f464-4363-b55c-73b4100f6937.webp)
+![](/images/btnews/btnews/0401_0500/0466/9f65b61a-f464-4363-b55c-73b4100f6937.webp)
 
 
 
@@ -201,7 +201,7 @@ https://www.huxiu.com/article/623041.html
 在信息公示期间，邵阳学院官网列出了一张表格，给出了毕业返校博士的姓名和来源。
  
 
-![](/images/btnews/0401_0500/0466/00f2abdb-6c8d-4921-8b45-a6b887ac94c3.webp)
+![](/images/btnews/btnews/0401_0500/0466/00f2abdb-6c8d-4921-8b45-a6b887ac94c3.webp)
 
 
 
@@ -215,7 +215,7 @@ https://www.huxiu.com/article/623041.html
 
 
 
-![](/images/btnews/0401_0500/0466/8ea62c99-f90f-4554-8e59-f9b84de400cd.webp)
+![](/images/btnews/btnews/0401_0500/0466/8ea62c99-f90f-4554-8e59-f9b84de400cd.webp)
 
 从批发博士的行为看，亚当森大学似乎是个虚构的“克莱登大学”，专门出售假文凭。但稍微查一下，可以发现亚当森大学还真有很高的历史地位。
  
@@ -226,7 +226,7 @@ https://www.huxiu.com/article/623041.html
 
 
 
-![](/images/btnews/0401_0500/0466/355ab67f-8933-4a6d-9669-6c90d049a51b.webp)
+![](/images/btnews/btnews/0401_0500/0466/355ab67f-8933-4a6d-9669-6c90d049a51b.webp)
 
 
 
@@ -237,9 +237,9 @@ https://www.huxiu.com/article/623041.html
  
 
 
-![](/images/btnews/0401_0500/0466/90d32668-ed27-42d8-a7fc-d61388e11067.webp)
+![](/images/btnews/btnews/0401_0500/0466/90d32668-ed27-42d8-a7fc-d61388e11067.webp)
 
-![](/images/btnews/0401_0500/0466/ef49bb42-2a23-47d8-9066-d113401bc4b0.webp)
+![](/images/btnews/btnews/0401_0500/0466/ef49bb42-2a23-47d8-9066-d113401bc4b0.webp)
 
 
 
@@ -250,14 +250,14 @@ https://www.huxiu.com/article/623041.html
 
 比如说，这几十个博士，排名第一的是李恒春女士，现在去经济与管理学院当教师。
  
-![](/images/btnews/0401_0500/0466/965dd850-6d3c-49cc-97aa-dd48876800cc.webp)
+![](/images/btnews/btnews/0401_0500/0466/965dd850-6d3c-49cc-97aa-dd48876800cc.webp)
 
 
 
 但是知网上只找到一篇和她有关的论文，“液压挖掘机工作装置有限元分析”，发在邵阳学院自然科学学报上，影响因子0.4。看来李恒春之前对机械强度问题很有经验，通过在菲律宾学习哲学，转行到了经济管理学院。
  
 
-![](/images/btnews/0401_0500/0466/32129896-b039-4a81-a651-cf43d452b6c2.webp)
+![](/images/btnews/btnews/0401_0500/0466/32129896-b039-4a81-a651-cf43d452b6c2.webp)
 
 
 
@@ -270,9 +270,9 @@ https://www.huxiu.com/article/623041.html
 刚才说过，从1964年开始，学校的经营权归属天主教圣文森修会。从官方网站看，祈祷仪式是亚当森大学教学的一部分，学校还有自己的圣歌，这是一个典型的教会大学。
  
 
-![](/images/btnews/0401_0500/0466/e91a3c47-c111-46d5-baf5-de3f100289b1.webp)
+![](/images/btnews/btnews/0401_0500/0466/e91a3c47-c111-46d5-baf5-de3f100289b1.webp)
 
-![](/images/btnews/0401_0500/0466/f6a2bec6-241b-48b0-8c62-018af00e3ee3.webp)
+![](/images/btnews/btnews/0401_0500/0466/f6a2bec6-241b-48b0-8c62-018af00e3ee3.webp)
 
 
 
@@ -282,9 +282,9 @@ https://www.huxiu.com/article/623041.html
 网上可以看到亚当森大学的哲学课程，第一课是“在当今世界寻找上帝”，后面的核心课程也是给基督教论证合理性，教他们说服其他人信教。很难想象，这些课程对提高邵阳学院的学术水平有什么帮助。
  
 
-![](/images/btnews/0401_0500/0466/500bd0a5-ace9-448e-93cb-aa178cd99590.webp)
+![](/images/btnews/btnews/0401_0500/0466/500bd0a5-ace9-448e-93cb-aa178cd99590.webp)
 
-![](/images/btnews/0401_0500/0466/a7cfc8c1-a2e3-45ec-9670-af7dc66908d3.webp)
+![](/images/btnews/btnews/0401_0500/0466/a7cfc8c1-a2e3-45ec-9670-af7dc66908d3.webp)
 
 
 
@@ -297,7 +297,7 @@ https://www.huxiu.com/article/623041.html
 当然实际花在菲律宾的钱应该没有那么多。网上有人分享经验，菲律宾对中国已经有了成熟的博士产业链，只需要交20到30万元，不用去菲律宾上学，也不用写论文，到时间点就毕业。组织批发业务的中国人，还能拿很高的回扣。
  
 
-![](/images/btnews/0401_0500/0466/7e3aa6b4-29a5-4a32-b026-52210f02e0a4.webp)
+![](/images/btnews/btnews/0401_0500/0466/7e3aa6b4-29a5-4a32-b026-52210f02e0a4.webp)
 
 
 
@@ -309,7 +309,7 @@ https://www.huxiu.com/article/623041.html
 在7月25日，又有媒体报道说，河北邢台学院2021年公开选聘名单共13人，全是韩国高校博士，而且这批博士之前也都是邢台学院在职教师。有了邢台和邵阳的例子，全国的学校应该普遍检查批发博士的质量。
  
 
-![](/images/btnews/0401_0500/0466/e2a69dc5-979f-4eaf-a349-9e608ce73c1b.webp)
+![](/images/btnews/btnews/0401_0500/0466/e2a69dc5-979f-4eaf-a349-9e608ce73c1b.webp)
 
 
 
@@ -319,7 +319,7 @@ https://www.huxiu.com/article/623041.html
 
 
 
-![](/images/btnews/0401_0500/0466/47750f77-9221-46e4-944d-66afe6f08291.webp)
+![](/images/btnews/btnews/0401_0500/0466/47750f77-9221-46e4-944d-66afe6f08291.webp)
 
 
 
@@ -328,7 +328,7 @@ https://www.huxiu.com/article/623041.html
 
 所以，群众需要的不是人民银行表态说银行安全，群众根本不在乎商业银行安全不安全。群众只希望人民银行给一套明确判别标准，想知道存款符合什么样的标准，就一定有存款保险保底；以及超越了哪一条标准，银行存款就得不到保障。
  
-![](/images/btnews/0401_0500/0466/f095ec1a-6de6-42fe-b576-82d4c535790c.webp)
+![](/images/btnews/btnews/0401_0500/0466/f095ec1a-6de6-42fe-b576-82d4c535790c.webp)
 
 人民银行也许会担心，把辨别标准公布之后，一部分脆弱的金融机构会被挤兑破产。但过去几年，地方小银行用高利息吸取了太多的分散存款。如果没有明确的标准，随着房地产制造越来越多的坏账，普通储户可能会对所有小银行都产生怀疑，发动全面挤兑，到时候所有的中小银行都活不成，整个中国的经济秩序都要动荡。既然人民银行也认为有风险的金融机构比例很低，还不如早点教人民一套判别标准，抛弃那些违法搞理财的金融机构，最起码不要继续给他们送钱了。
 
@@ -337,7 +337,7 @@ https://www.huxiu.com/article/623041.html
 
 
 
-![](/images/btnews/0401_0500/0466/e2de97d4-71b9-4f3b-97e9-83d31c1edbee.webp)
+![](/images/btnews/btnews/0401_0500/0466/e2de97d4-71b9-4f3b-97e9-83d31c1edbee.webp)
 
 https://cj.sina.com.cn/articles/view/5866256779/p15da7f98b027010djq
 

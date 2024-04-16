@@ -24,7 +24,7 @@ date: 2022-03-30
 
 
 
-![](/images/btnews/0401_0500/0412/89a4f852-5895-4e44-8b6c-8e22851e96d3.webp)
+![](/images/btnews/btnews/0401_0500/0412/89a4f852-5895-4e44-8b6c-8e22851e96d3.webp)
 
 
 
@@ -38,7 +38,7 @@ date: 2022-03-30
 
 
 
-![](/images/btnews/0401_0500/0412/46a86bf8-058d-4dc5-947f-36639b2f85b3.webp)
+![](/images/btnews/btnews/0401_0500/0412/46a86bf8-058d-4dc5-947f-36639b2f85b3.webp)
 
 
 
@@ -50,7 +50,7 @@ date: 2022-03-30
 
 
 
-![](/images/btnews/0401_0500/0412/dfef987d-10fc-4f79-bbb1-8c8b9b15ce43.webp)
+![](/images/btnews/btnews/0401_0500/0412/dfef987d-10fc-4f79-bbb1-8c8b9b15ce43.webp)
 
 
 
@@ -64,7 +64,7 @@ https://www.infobae.com/cn/2022/03/19/pope-francis-promulgates-a-new-vatican-con
 
 
 
-![](/images/btnews/0401_0500/0412/42cc229a-e819-49a6-bd0a-bd30576262c0.webp)
+![](/images/btnews/btnews/0401_0500/0412/42cc229a-e819-49a6-bd0a-bd30576262c0.webp)
 
 
 
@@ -86,7 +86,7 @@ https://www.infobae.com/cn/2022/03/19/pope-francis-promulgates-a-new-vatican-con
 
 
 
-![](/images/btnews/0401_0500/0412/c0354616-0c5e-4dc1-81ab-422a932250d9.webp)
+![](/images/btnews/btnews/0401_0500/0412/c0354616-0c5e-4dc1-81ab-422a932250d9.webp)
 
 
 
@@ -100,7 +100,7 @@ https://www.infobae.com/cn/2022/03/19/pope-francis-promulgates-a-new-vatican-con
 
 
 
-![](/images/btnews/0401_0500/0412/3e7b6727-fb0a-4493-9d45-f7f10144574b.webp)
+![](/images/btnews/btnews/0401_0500/0412/3e7b6727-fb0a-4493-9d45-f7f10144574b.webp)
 
 
 
@@ -120,13 +120,13 @@ https://www.infobae.com/cn/2022/03/19/pope-francis-promulgates-a-new-vatican-con
 
 
 
-![](/images/btnews/0401_0500/0412/9d01993a-fe9b-46c4-9537-90793375365d.webp)
+![](/images/btnews/btnews/0401_0500/0412/9d01993a-fe9b-46c4-9537-90793375365d.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0412/b5f15a8f-38fa-40ad-bf17-e273340e426e.webp)
+![](/images/btnews/btnews/0401_0500/0412/b5f15a8f-38fa-40ad-bf17-e273340e426e.webp)
 
 
 
@@ -140,7 +140,7 @@ https://www.infobae.com/cn/2022/03/19/pope-francis-promulgates-a-new-vatican-con
 
 
 
-![](/images/btnews/0401_0500/0412/92cd2c9d-7298-44c2-a3cc-d998137e7497.webp)
+![](/images/btnews/btnews/0401_0500/0412/92cd2c9d-7298-44c2-a3cc-d998137e7497.webp)
 
 
 
@@ -159,7 +159,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/541762c9-90a4-4ea6-b0de-5b28d0efcbc2.webp)
+![](/images/btnews/btnews/0401_0500/0412/541762c9-90a4-4ea6-b0de-5b28d0efcbc2.webp)
 
 
 
@@ -177,7 +177,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/cb906f09-801c-4855-b373-09e2ef0a75f0.webp)
+![](/images/btnews/btnews/0401_0500/0412/cb906f09-801c-4855-b373-09e2ef0a75f0.webp)
 
 
 
@@ -191,7 +191,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/3d668542-5ce3-4813-9b80-8096c670c4a3.webp)
+![](/images/btnews/btnews/0401_0500/0412/3d668542-5ce3-4813-9b80-8096c670c4a3.webp)
 
 
 
@@ -213,7 +213,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/52782c3e-5ff4-49a3-99c4-76f8211539a7.webp)
+![](/images/btnews/btnews/0401_0500/0412/52782c3e-5ff4-49a3-99c4-76f8211539a7.webp)
 
 
 
@@ -225,7 +225,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/14445011-a686-426a-9cc5-438dea863fd2.webp)
+![](/images/btnews/btnews/0401_0500/0412/14445011-a686-426a-9cc5-438dea863fd2.webp)
 
 
 
@@ -235,7 +235,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/25d42c06-59c9-40e1-911f-f9042719190a.webp)
+![](/images/btnews/btnews/0401_0500/0412/25d42c06-59c9-40e1-911f-f9042719190a.webp)
 
 
 
@@ -247,13 +247,13 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/e279e3cc-d686-4ebe-a2a5-3b6be4df1683.webp)
+![](/images/btnews/btnews/0401_0500/0412/e279e3cc-d686-4ebe-a2a5-3b6be4df1683.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0412/3e5d3555-6ed0-4693-bb69-446d75a7e06d.webp)
+![](/images/btnews/btnews/0401_0500/0412/3e5d3555-6ed0-4693-bb69-446d75a7e06d.webp)
 
 
 
@@ -273,7 +273,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/dcaa5af4-6b46-4bbc-a497-0f4d20bfacb8.webp)
+![](/images/btnews/btnews/0401_0500/0412/dcaa5af4-6b46-4bbc-a497-0f4d20bfacb8.webp)
 
 
 
@@ -289,7 +289,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/de12a75a-5109-4bdb-a64e-2b5f8a3cd3ad.webp)
+![](/images/btnews/btnews/0401_0500/0412/de12a75a-5109-4bdb-a64e-2b5f8a3cd3ad.webp)
 
 
 
@@ -299,7 +299,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/97f126b5-328d-4fed-abb5-e84a321ed6bd.webp)
+![](/images/btnews/btnews/0401_0500/0412/97f126b5-328d-4fed-abb5-e84a321ed6bd.webp)
 
 
 
@@ -309,7 +309,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/cbb0080b-91bb-4842-88dd-85dd8b6e5498.webp)
+![](/images/btnews/btnews/0401_0500/0412/cbb0080b-91bb-4842-88dd-85dd8b6e5498.webp)
 
 
 
@@ -331,7 +331,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/e090f4d7-b28c-4368-a3ac-15040d910190.webp)
+![](/images/btnews/btnews/0401_0500/0412/e090f4d7-b28c-4368-a3ac-15040d910190.webp)
 
 
 
@@ -351,7 +351,7 @@ Servetus-Stake | Ex-Church of Christ Blog](https://exchurchofchrist.wordpress.co
 
 
 
-![](/images/btnews/0401_0500/0412/c7d2b13a-4fa7-4c41-99da-3efac276b3e3.webp)
+![](/images/btnews/btnews/0401_0500/0412/c7d2b13a-4fa7-4c41-99da-3efac276b3e3.webp)
 
 
 
@@ -366,7 +366,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/f944fcb9-8911-47aa-91d0-7a7ddf5d9ba0.webp)
+![](/images/btnews/btnews/0401_0500/0412/f944fcb9-8911-47aa-91d0-7a7ddf5d9ba0.webp)
 
 
 
@@ -380,7 +380,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/b84bef86-2ba3-4ec0-995a-c66014c2ef00.webp)
+![](/images/btnews/btnews/0401_0500/0412/b84bef86-2ba3-4ec0-995a-c66014c2ef00.webp)
 
 
 
@@ -398,7 +398,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/3a86cf11-9961-4682-a0c4-a0f73b22f23a.webp)
+![](/images/btnews/btnews/0401_0500/0412/3a86cf11-9961-4682-a0c4-a0f73b22f23a.webp)
 
 
 
@@ -412,7 +412,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/d512a705-f52f-4d78-a34f-574fe6c5daf7.webp)
+![](/images/btnews/btnews/0401_0500/0412/d512a705-f52f-4d78-a34f-574fe6c5daf7.webp)
 
 
 
@@ -426,7 +426,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/e9dfa679-304f-486d-8346-e05caf6d09bc.webp)
+![](/images/btnews/btnews/0401_0500/0412/e9dfa679-304f-486d-8346-e05caf6d09bc.webp)
 
 
 
@@ -438,7 +438,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/ec6fadf3-fa56-4e01-a1de-5ae4175e2b2f.webp)
+![](/images/btnews/btnews/0401_0500/0412/ec6fadf3-fa56-4e01-a1de-5ae4175e2b2f.webp)
 
 
 
@@ -460,7 +460,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
  
 
-![](/images/btnews/0401_0500/0412/77527b46-6726-4080-a8b9-ef80cb7104a9.webp)
+![](/images/btnews/btnews/0401_0500/0412/77527b46-6726-4080-a8b9-ef80cb7104a9.webp)
 
 
 
@@ -490,7 +490,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/3f443d2a-997b-46b3-9fad-d154cda625c3.webp)
+![](/images/btnews/btnews/0401_0500/0412/3f443d2a-997b-46b3-9fad-d154cda625c3.webp)
 
 
 
@@ -516,7 +516,7 @@ CDF head: 'Pope Francis has close ties with liberation theology'    ](https://ww
 
 
 
-![](/images/btnews/0401_0500/0412/5d366cd0-676e-4e42-a1e3-b95ca058c875.webp)
+![](/images/btnews/btnews/0401_0500/0412/5d366cd0-676e-4e42-a1e3-b95ca058c875.webp)
 
 
 
@@ -529,13 +529,13 @@ Catholicism in decline in Ireland    ](https://www.thetablet.co.uk/news/6995/cat
 
 
 
-![](/images/btnews/0401_0500/0412/293ea22a-66b7-4ea6-8e29-8ec0ce3c6c74.webp)
+![](/images/btnews/btnews/0401_0500/0412/293ea22a-66b7-4ea6-8e29-8ec0ce3c6c74.webp)
 
 
 
 
 
-![](/images/btnews/0401_0500/0412/b4b36a79-a1f1-4a79-b853-0fd918cf1352.webp)
+![](/images/btnews/btnews/0401_0500/0412/b4b36a79-a1f1-4a79-b853-0fd918cf1352.webp)
 
 
 
@@ -555,7 +555,7 @@ Catholicism in decline in Ireland    ](https://www.thetablet.co.uk/news/6995/cat
 
 
 
-![](/images/btnews/0401_0500/0412/b6e07202-5d25-452e-9dbe-fa9932f128a8.webp)
+![](/images/btnews/btnews/0401_0500/0412/b6e07202-5d25-452e-9dbe-fa9932f128a8.webp)
 
 
 
@@ -587,7 +587,7 @@ Catholicism in decline in Ireland    ](https://www.thetablet.co.uk/news/6995/cat
 
 
 
-![](/images/btnews/0401_0500/0412/b90c8b27-cc63-4924-b9ac-d48774b39e88.webp)
+![](/images/btnews/btnews/0401_0500/0412/b90c8b27-cc63-4924-b9ac-d48774b39e88.webp)
 
 
 
@@ -597,7 +597,7 @@ Catholicism in decline in Ireland    ](https://www.thetablet.co.uk/news/6995/cat
 
 
 
-![](/images/btnews/0401_0500/0412/93bcda69-b416-46fd-a99a-bc556e4727e2.webp)
+![](/images/btnews/btnews/0401_0500/0412/93bcda69-b416-46fd-a99a-bc556e4727e2.webp)
 
 
 
@@ -629,7 +629,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/646127ef-1d77-408c-8c64-08124558a036.webp)
+![](/images/btnews/btnews/0401_0500/0412/646127ef-1d77-408c-8c64-08124558a036.webp)
 
 
 
@@ -653,11 +653,11 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/90022398-303b-4dab-9318-0b6c60c134de.webp)
+![](/images/btnews/btnews/0401_0500/0412/90022398-303b-4dab-9318-0b6c60c134de.webp)
 
 
 
-![](/images/btnews/0401_0500/0412/f4522101-154f-4666-a336-ad9c312a2db9.webp)
+![](/images/btnews/btnews/0401_0500/0412/f4522101-154f-4666-a336-ad9c312a2db9.webp)
 
 
 
@@ -673,7 +673,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/b07bed5a-3487-463e-acc7-18a88cb73a47.webp)
+![](/images/btnews/btnews/0401_0500/0412/b07bed5a-3487-463e-acc7-18a88cb73a47.webp)
 
 
 
@@ -689,11 +689,11 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/39edcc84-3f8f-44e2-aba4-462021342f28.webp)
+![](/images/btnews/btnews/0401_0500/0412/39edcc84-3f8f-44e2-aba4-462021342f28.webp)
 
 
 
-![](/images/btnews/0401_0500/0412/f312a1b5-260f-4f8e-a96d-d086ec430b0e.webp)
+![](/images/btnews/btnews/0401_0500/0412/f312a1b5-260f-4f8e-a96d-d086ec430b0e.webp)
 
 
 
@@ -729,11 +729,11 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/5138368a-44ac-447f-aca1-baa7b000ef62.webp)
+![](/images/btnews/btnews/0401_0500/0412/5138368a-44ac-447f-aca1-baa7b000ef62.webp)
 
 
 
-![](/images/btnews/0401_0500/0412/bcfb98c3-4dee-4875-83fb-5f1ba805abe8.webp)
+![](/images/btnews/btnews/0401_0500/0412/bcfb98c3-4dee-4875-83fb-5f1ba805abe8.webp)
 
 
 
@@ -757,11 +757,11 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/74fa9c9b-2991-4a8d-a36f-a667a42b99cb.webp)
+![](/images/btnews/btnews/0401_0500/0412/74fa9c9b-2991-4a8d-a36f-a667a42b99cb.webp)
 
 
 
-![](/images/btnews/0401_0500/0412/3e594a80-fce5-4a39-b20a-884960697e1e.webp)
+![](/images/btnews/btnews/0401_0500/0412/3e594a80-fce5-4a39-b20a-884960697e1e.webp)
 
 
 
@@ -791,7 +791,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/2a1d420c-6fae-44f9-9b14-a841c7cb3663.webp)
+![](/images/btnews/btnews/0401_0500/0412/2a1d420c-6fae-44f9-9b14-a841c7cb3663.webp)
 
 
 
@@ -829,7 +829,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/e756cac3-27fa-4a82-accb-cff7b553f245.webp)
+![](/images/btnews/btnews/0401_0500/0412/e756cac3-27fa-4a82-accb-cff7b553f245.webp)
 
 
 
@@ -849,7 +849,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/25ceee16-9c14-41a8-9859-f8c02cc88f88.webp)
+![](/images/btnews/btnews/0401_0500/0412/25ceee16-9c14-41a8-9859-f8c02cc88f88.webp)
 
 
 
@@ -867,7 +867,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/6f897edf-b5e9-4822-a35c-41ac0f53b457.webp)
+![](/images/btnews/btnews/0401_0500/0412/6f897edf-b5e9-4822-a35c-41ac0f53b457.webp)
 
 
 
@@ -895,7 +895,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/9b6c350d-3de4-45b6-80bc-f39ddbe0b485.webp)
+![](/images/btnews/btnews/0401_0500/0412/9b6c350d-3de4-45b6-80bc-f39ddbe0b485.webp)
 
 
 
@@ -911,7 +911,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/94972c40-12c7-4281-99d1-2d891b844376.webp)
+![](/images/btnews/btnews/0401_0500/0412/94972c40-12c7-4281-99d1-2d891b844376.webp)
 
 
 
@@ -939,7 +939,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/f8ab20b9-45b2-4e7e-83b0-3960217db97c.webp)
+![](/images/btnews/btnews/0401_0500/0412/f8ab20b9-45b2-4e7e-83b0-3960217db97c.webp)
 
 
 
@@ -969,7 +969,7 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/a38e7de3-8b0d-4275-8958-e0760d78528e.webp)
+![](/images/btnews/btnews/0401_0500/0412/a38e7de3-8b0d-4275-8958-e0760d78528e.webp)
 
 
 
@@ -977,5 +977,5 @@ https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2022/03/19/01
 
 
 
-![](/images/btnews/0401_0500/0412/479cbbe6-0057-48be-8527-8a2aaf1e43ee.webp)
+![](/images/btnews/btnews/0401_0500/0412/479cbbe6-0057-48be-8527-8a2aaf1e43ee.webp)
 

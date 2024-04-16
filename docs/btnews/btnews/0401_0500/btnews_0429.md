@@ -5,7 +5,7 @@ date: 2022-05-08
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0429/f8fcf3fa-c83f-499a-8429-167015bd8269.webp)
+![](/images/btnews/btnews/0401_0500/0429/f8fcf3fa-c83f-499a-8429-167015bd8269.webp)
 
 
 
@@ -22,9 +22,9 @@ date: 2022-05-08
 
 
 
-![](/images/btnews/0401_0500/0429/a261806e-7ec3-41e1-892f-5af28087c055.webp)
+![](/images/btnews/btnews/0401_0500/0429/a261806e-7ec3-41e1-892f-5af28087c055.webp)
 
-![](/images/btnews/0401_0500/0429/2086da88-07dc-4ae1-987a-99cb12bfae35.webp)
+![](/images/btnews/btnews/0401_0500/0429/2086da88-07dc-4ae1-987a-99cb12bfae35.webp)
 
 http://public.zhengzhou.gov.cn/D0102X/163866.jhtml
 
@@ -37,7 +37,7 @@ http://public.zhengzhou.gov.cn/D0102X/163866.jhtml
 
 
 
-![](/images/btnews/0401_0500/0429/8965e635-6bb2-4a11-9f7e-1355cba7946b.webp)
+![](/images/btnews/btnews/0401_0500/0429/8965e635-6bb2-4a11-9f7e-1355cba7946b.webp)
 
 
 
@@ -45,11 +45,11 @@ http://public.zhengzhou.gov.cn/D0102X/163866.jhtml
  
 
 
-![](/images/btnews/0401_0500/0429/e095ee32-aef5-467a-a368-4d687f396171.webp)
+![](/images/btnews/btnews/0401_0500/0429/e095ee32-aef5-467a-a368-4d687f396171.webp)
 
-![](/images/btnews/0401_0500/0429/6826590b-44d6-45c9-98b4-fed4e0a4eb03.webp)
+![](/images/btnews/btnews/0401_0500/0429/6826590b-44d6-45c9-98b4-fed4e0a4eb03.webp)
 
-![](/images/btnews/0401_0500/0429/358a2905-34fd-4d14-af43-7f931c905951.webp)
+![](/images/btnews/btnews/0401_0500/0429/358a2905-34fd-4d14-af43-7f931c905951.webp)
 
 https://new.qq.com/omn/20220113/20220113A09GN000.html 
 
@@ -61,7 +61,7 @@ https://new.qq.com/omn/20220113/20220113A09GN000.html 
 
 
 
-![](/images/btnews/0401_0500/0429/c9ba580a-952d-4fa7-81c1-90b842ba99dd.webp)
+![](/images/btnews/btnews/0401_0500/0429/c9ba580a-952d-4fa7-81c1-90b842ba99dd.webp)
 
 http://public.zhengzhou.gov.cn/D1101X/4353762.jhtml
 
@@ -73,7 +73,7 @@ http://public.zhengzhou.gov.cn/D1101X/4353762.jhtml
 
 
 
-![](/images/btnews/0401_0500/0429/f4de1ba5-e088-4bbc-91e4-dbcb91f542a6.webp)
+![](/images/btnews/btnews/0401_0500/0429/f4de1ba5-e088-4bbc-91e4-dbcb91f542a6.webp)
 
 
 
@@ -84,7 +84,7 @@ http://public.zhengzhou.gov.cn/D1101X/4353762.jhtml
 
 
 
-![](/images/btnews/0401_0500/0429/2ac18bde-9f31-487d-ad84-d31da52f1255.webp)
+![](/images/btnews/btnews/0401_0500/0429/2ac18bde-9f31-487d-ad84-d31da52f1255.webp)
 
 
 
@@ -93,7 +93,7 @@ http://public.zhengzhou.gov.cn/D1101X/4353762.jhtml
 
 人口增长缓慢的背景是经济增长速度下滑。根据统计公报，2021年郑州经济增长率多年来首次低于全国平均水平，按不变价格只增长了4.7%，而全国平均是8.1%。郑州市财政总收入1929亿，，一般公共预算收入1223亿，相对被疫情严重打击的2020年，分别只增长了1.1%和0.3%。扣除通货膨胀，实际上已经下跌了。
  
-![](/images/btnews/0401_0500/0429/999ba0c0-7a78-4d4b-8c92-5a12ab2d57ca.webp)
+![](/images/btnews/btnews/0401_0500/0429/999ba0c0-7a78-4d4b-8c92-5a12ab2d57ca.webp)
 
 
 
@@ -101,7 +101,7 @@ http://public.zhengzhou.gov.cn/D1101X/4353762.jhtml
 
 
 
-![](/images/btnews/0401_0500/0429/8f60312f-a26e-4556-a6c0-97dd0a67ab16.webp)
+![](/images/btnews/btnews/0401_0500/0429/8f60312f-a26e-4556-a6c0-97dd0a67ab16.webp)
 
 http://www.henan.gov.cn/2022/03-15/2414591.html
 
@@ -113,7 +113,7 @@ http://www.henan.gov.cn/2022/03-15/2414591.html
 
 
 
-![](/images/btnews/0401_0500/0429/7d826fba-9469-4582-a857-b48a95d5f84a.webp)
+![](/images/btnews/btnews/0401_0500/0429/7d826fba-9469-4582-a857-b48a95d5f84a.webp)
 
 https://baijiahao.baidu.com/s?id=1625130206877262093
 
@@ -122,7 +122,7 @@ https://baijiahao.baidu.com/s?id=1625130206877262093
 就在2020年，郑州的雄心还是尽快赶超青岛，冲击北方第三城甚至第二城，成为中部地区的核心都市。现在为什么又要回头拯救自己的房地产了？
  
 
-![](/images/btnews/0401_0500/0429/08b9e8ca-a2d1-4328-90a4-8252a48f872b.webp)
+![](/images/btnews/btnews/0401_0500/0429/08b9e8ca-a2d1-4328-90a4-8252a48f872b.webp)
 
 https://m.thepaper.cn/newsDetail_forward_6947280
  
@@ -133,7 +133,7 @@ https://m.thepaper.cn/newsDetail_forward_6947280
 
 
 
-![](/images/btnews/0401_0500/0429/1fd293c7-3d42-4ad4-8785-e09d386a3422.webp)
+![](/images/btnews/btnews/0401_0500/0429/1fd293c7-3d42-4ad4-8785-e09d386a3422.webp)
 
 https://baijiahao.baidu.com/s?id=1678990988507201207
 
@@ -145,7 +145,7 @@ https://baijiahao.baidu.com/s?id=1678990988507201207
 现在郑州最重要的支柱企业是富士康，郑州厂区是它全球最大最重要的工厂，也是全国出口金额最大的企业，直接和间接给郑州带来了几十万个工作岗位。支撑起了郑州电子信息产业的一半产值。这是郑州引入大型企业的典型样板，规模庞大，用工极多，产值数字很好看。
  
 
-![](/images/btnews/0401_0500/0429/0e0b7662-4882-4ae8-b132-25d003e8bee7.webp)
+![](/images/btnews/btnews/0401_0500/0429/0e0b7662-4882-4ae8-b132-25d003e8bee7.webp)
 
 
 
@@ -155,14 +155,14 @@ https://baijiahao.baidu.com/s?id=1678990988507201207
 从地理角度看，郑州所在的中原地区可能是中国主要人口居住区内，大城市密度最低的地区。周边的主要竞争者，比如武汉、西安、济南，实际车程都在五百公里左右，北京上海就更远了，过去受基础设施限制，周边大城市对中原地区的辐射影响还都比较有限，中原地区的确需要一个大城市满足自己的需求。
  
 
-![](/images/btnews/0401_0500/0429/2bc913e6-9779-420b-b051-f1a0a054fc8a.webp)
+![](/images/btnews/btnews/0401_0500/0429/2bc913e6-9779-420b-b051-f1a0a054fc8a.webp)
 中国部分地区人口密度（3D化）
  
 郑州是河南省省会，行政级别在中原地区最高，并且郑州交通区位好，先天就具备成为地区核心城市的有利条件。所以近十年借着劳动密集型产业，郑州很顺利就占据了中原核心城市的生态位，吃到了一大波红利。
 
 
 
-![](/images/btnews/0401_0500/0429/59e5ba5e-ca9e-4ffd-828d-1f48294391b4.webp)
+![](/images/btnews/btnews/0401_0500/0429/59e5ba5e-ca9e-4ffd-828d-1f48294391b4.webp)
 
 
 
@@ -177,7 +177,7 @@ https://baijiahao.baidu.com/s?id=1672992670344073833
 
 
 
-![](/images/btnews/0401_0500/0429/cfa09361-b879-4220-8184-fb098dec6a09.webp)
+![](/images/btnews/btnews/0401_0500/0429/cfa09361-b879-4220-8184-fb098dec6a09.webp)
 
 https://new.qq.com/omn/20210306/20210306A07LN000.html
 
@@ -193,7 +193,7 @@ https://new.qq.com/omn/20210306/20210306A07LN000.html
 
 
 
-![](/images/btnews/0401_0500/0429/499d3029-c782-4ca6-ba61-b54ec9b3a930.webp)
+![](/images/btnews/btnews/0401_0500/0429/499d3029-c782-4ca6-ba61-b54ec9b3a930.webp)
   洛阳第一拖拉机厂（1974年摄）
 
 
@@ -201,10 +201,10 @@ https://new.qq.com/omn/20210306/20210306A07LN000.html
 
 
 
-![](/images/btnews/0401_0500/0429/8287a45c-62f4-4ca4-b9a5-6b22df8f5789.webp)
+![](/images/btnews/btnews/0401_0500/0429/8287a45c-62f4-4ca4-b9a5-6b22df8f5789.webp)
 
 
-![](/images/btnews/0401_0500/0429/fd9dbd42-36b1-4606-97ad-f0bb95189290.webp)
+![](/images/btnews/btnews/0401_0500/0429/fd9dbd42-36b1-4606-97ad-f0bb95189290.webp)
 
 https://m.thepaper.cn/baijiahao_16705592
 
@@ -217,7 +217,7 @@ https://m.thepaper.cn/baijiahao_16705592
 
 
 
-![](/images/btnews/0401_0500/0429/2afa94be-04c7-4a80-bfae-3b698ee33170.webp)
+![](/images/btnews/btnews/0401_0500/0429/2afa94be-04c7-4a80-bfae-3b698ee33170.webp)
 
 
 
@@ -225,7 +225,7 @@ https://m.thepaper.cn/baijiahao_16705592
 
 
 
-![](/images/btnews/0401_0500/0429/cf8e8c71-6412-416a-b4c0-18bfb7099831.webp)
+![](/images/btnews/btnews/0401_0500/0429/cf8e8c71-6412-416a-b4c0-18bfb7099831.webp)
 
 https://www.thepaper.cn/newsDetail_forward_17519608
  
@@ -239,7 +239,7 @@ https://www.thepaper.cn/newsDetail_forward_17519608
 
 
 
-![](/images/btnews/0401_0500/0429/ed79b5db-bcf4-41d6-ba21-4d6cc8dc05e4.webp)
+![](/images/btnews/btnews/0401_0500/0429/ed79b5db-bcf4-41d6-ba21-4d6cc8dc05e4.webp)
 
 http://economy.caijing.com.cn/20220421/4855153.shtml
 
@@ -249,7 +249,7 @@ http://economy.caijing.com.cn/20220421/4855153.shtml
 
 
 
-![](/images/btnews/0401_0500/0429/438252fb-18f1-475b-aebe-f9f248d1d073.webp)
+![](/images/btnews/btnews/0401_0500/0429/438252fb-18f1-475b-aebe-f9f248d1d073.webp)
 
 https://xw.qq.com/amphtml/20220507A08NTZ00
 
@@ -265,7 +265,7 @@ https://xw.qq.com/amphtml/20220507A08NTZ00
 
 
 
-![](/images/btnews/0401_0500/0429/19045796-521d-48d2-86b2-c358e983be5c.webp)
+![](/images/btnews/btnews/0401_0500/0429/19045796-521d-48d2-86b2-c358e983be5c.webp)
 
 https://www.jiemian.com/article/7433330.html
 
@@ -275,7 +275,7 @@ https://www.jiemian.com/article/7433330.html
 
 
 
-![](/images/btnews/0401_0500/0429/0c54093f-f44d-4311-bcb1-854f17cbbdb0.webp)
+![](/images/btnews/btnews/0401_0500/0429/0c54093f-f44d-4311-bcb1-854f17cbbdb0.webp)
 
 https://www.sohu.com/a/532273498_656058
 
@@ -285,7 +285,7 @@ https://www.sohu.com/a/532273498_656058
 
 
 
-![](/images/btnews/0401_0500/0429/491d2231-7151-4cb2-a97b-0271dbe8cd6c.webp)
+![](/images/btnews/btnews/0401_0500/0429/491d2231-7151-4cb2-a97b-0271dbe8cd6c.webp)
 
 
 
@@ -314,10 +314,10 @@ https://www.sohu.com/a/532273498_656058
 
 
 
-![](/images/btnews/0401_0500/0429/d88f11ef-7cfd-4399-9c7a-de4cb5dee884.webp)
+![](/images/btnews/btnews/0401_0500/0429/d88f11ef-7cfd-4399-9c7a-de4cb5dee884.webp)
 
 
-![](/images/btnews/0401_0500/0429/16386178-dcd1-4e3c-802b-ff0c8d2fe3ad.webp)
+![](/images/btnews/btnews/0401_0500/0429/16386178-dcd1-4e3c-802b-ff0c8d2fe3ad.webp)
 
 
 
@@ -340,5 +340,5 @@ https://www.sohu.com/a/532273498_656058
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0429/e3f2f382-549e-494a-9f8a-2dc3b9ff63ab.webp)
+![](/images/btnews/btnews/0401_0500/0429/e3f2f382-549e-494a-9f8a-2dc3b9ff63ab.webp)
 

@@ -9,7 +9,7 @@ tag: ["巴西","上海船舶研究设计院","旋翼帆"]
 
 5月份，巴西淡水河谷公司的船队到中国接收一艘32.5万吨的货轮，上海船舶研究设计院给货轮设计了五根圆柱，预计能提高8%的驱动效率。这几根柱子看起来结构很简单，是怎么给几十万吨的轮船提供辅助动力的？
 
-![](/images/btnews/0201_0300/0293/image1.webp)
+![](/images/btnews/btnews/0201_0300/0293/image1.webp)
 
 圆柱体的正式名字是旋翼帆，英文名称是rotor，。这个词一般直译成转子。在这里如果要给rotor做一个准确的中文翻译，可以称为转筒帆。
 
@@ -17,7 +17,7 @@ tag: ["巴西","上海船舶研究设计院","旋翼帆"]
 
 中学课本介绍过伯努利定律，流体运动速度增加时，压强一般会降低，如果能在一个物体两侧制造出不同的流体速度，就会出现压强差。比如说，在两张纸中间吹气，气流不仅不会把纸推开，反而会因为低气压让两张纸相互靠拢。
 
-![](/images/btnews/0201_0300/0293/image2.webp)
+![](/images/btnews/btnews/0201_0300/0293/image2.webp)
 
 1672年，牛顿在剑桥看网球比赛，发现有人能打出弧线球，很快意识到空气流速差异会产生压力差，让球侧向移动。后来德国物理学家马格努斯在1852年正式提出了这个原理。（今天我在办公室录节目，可以让休假的马督工演示一下马格努斯效应弧线球技术）。
 
@@ -45,13 +45,13 @@ tag: ["巴西","上海船舶研究设计院","旋翼帆"]
 
 下一个方案，就是我们前面介绍的旋翼帆或者说转筒帆，占用很少的甲板空间，恶劣天气危害不大，而且只要不是完全逆风就有一定作用，开发潜力比较大。18世纪微积分与流体力学开始成熟，人类已经能设计转筒帆，但是机械设备不够精密，造不出可用的设备。到了1925年，应用最新的工业加工能力，有人做出了转筒帆船的验证船，但当时各国都在努力开发新型的发动机，对这点新增动力不感兴趣。
 
-![](/images/btnews/0201_0300/0293/image3.webp)
+![](/images/btnews/btnews/0201_0300/0293/image3.webp)
 
 <u>[Popular Science - Google Books](https://books.google.com/books?id=wicDAAAAMBAJ&pg=PA27)，《科学月刊》，1925年9月，第27页</u>
 
 [Popular Science - Google ブックス](https://books.google.co.jp/books?id=wicDAAAAMBAJ&pg=PA27&redir_esc=y#v=onepage&q&f=false)
 
-![](/images/btnews/0201_0300/0293/image4.webp)
+![](/images/btnews/btnews/0201_0300/0293/image4.webp)
 
 <u>Alcyone号涡轮帆船</u>
 
@@ -61,13 +61,13 @@ tag: ["巴西","上海船舶研究设计院","旋翼帆"]
 
 [Turbovoile — Wikipédia](https://fr.wikipedia.org/wiki/Turbovoile)
 
-![](/images/btnews/0201_0300/0293/image5.webp)
+![](/images/btnews/btnews/0201_0300/0293/image5.webp)
 
-![](/images/btnews/0201_0300/0293/image6.webp)
+![](/images/btnews/btnews/0201_0300/0293/image6.webp)
 
-![](/images/btnews/0201_0300/0293/image7.webp)
+![](/images/btnews/btnews/0201_0300/0293/image7.webp)
 
-![](/images/btnews/0201_0300/0293/image8.webp)<u>1983年3月10日[New Scientist - Google Books](https://books.google.com/books?id=9lqwg3iZyH0C&pg=PA656)新科学家[New Scientist - Google Books](https://books.google.com/books?id=9lqwg3iZyH0C&pg=PA656)，第656-659页</u>
+![](/images/btnews/btnews/0201_0300/0293/image8.webp)<u>1983年3月10日[New Scientist - Google Books](https://books.google.com/books?id=9lqwg3iZyH0C&pg=PA656)新科学家[New Scientist - Google Books](https://books.google.com/books?id=9lqwg3iZyH0C&pg=PA656)，第656-659页</u>
 
 [New Scientist - Google ブックス](https://books.google.co.jp/books?id=9lqwg3iZyH0C&pg=PA656&redir_esc=y#v=onepage&q&f=false)
 
@@ -77,7 +77,7 @@ tag: ["巴西","上海船舶研究设计院","旋翼帆"]
 
 [Rotor Sail Technology Advantages \| Norsepower](https://www.norsepower.com/key-advantages/)
 
-![](/images/btnews/0201_0300/0293/image9.webp)
+![](/images/btnews/btnews/0201_0300/0293/image9.webp)
 
 <http://sdari.cssc.net.cn/component_news/news_detail.php?id=506>
 

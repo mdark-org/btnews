@@ -62,9 +62,9 @@ date: 2020-10-23
 
 曹山前面有郑保华的榜样，身边还有很多同行，信心应该还是很足的。最近几年，全国的地方政府都热衷于造芯片。今年3月份，集微网统计过，从2016年到2020年初，全国27省一共上马了301个省级半导体重大项目，总投资规模3万亿，至少有38个项目已经暂停。这里面最惨的是是河北省，30%的项目已经停下来了。
 
-![](/images/btnews/0101_0200/0184/image1.webp)
+![](/images/btnews/btnews/0101_0200/0184/image1.webp)
 
-![](/images/btnews/0101_0200/0184/image2.webp)
+![](/images/btnews/btnews/0101_0200/0184/image2.webp)
 
 [
         【集微发布】五年立项3万亿元 项目搁浅率12.5%！全国半导体重大项目统计    ](https://www.laoyaoba.com/html/share/news?source=app_android_v2&news_id=745836)

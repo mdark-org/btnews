@@ -22,7 +22,7 @@ date: 2022-02-20
 
 
 
-![](/images/btnews/0301_0400/0396/e6dd8a16-e5e9-48fe-87fc-aed099221652.webp)
+![](/images/btnews/btnews/0301_0400/0396/e6dd8a16-e5e9-48fe-87fc-aed099221652.webp)
 
 
 
@@ -34,7 +34,7 @@ date: 2022-02-20
 
 
 
-![](/images/btnews/0301_0400/0396/be6f3ad9-4ddc-47ad-baca-2ce5759ebcdc.webp)
+![](/images/btnews/btnews/0301_0400/0396/be6f3ad9-4ddc-47ad-baca-2ce5759ebcdc.webp)
 
 
 
@@ -48,7 +48,7 @@ date: 2022-02-20
 
 
 
-![](/images/btnews/0301_0400/0396/af9d4109-4afd-41e7-a6e9-458b79a59716.webp)
+![](/images/btnews/btnews/0301_0400/0396/af9d4109-4afd-41e7-a6e9-458b79a59716.webp)
 
 
 
@@ -64,7 +64,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/f7c87251-5e93-4d12-abe7-e10a13f38d3b.webp)
+![](/images/btnews/btnews/0301_0400/0396/f7c87251-5e93-4d12-abe7-e10a13f38d3b.webp)
 
 
 
@@ -78,7 +78,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/3dab5172-db3c-4723-9b0a-60e38f0f28ad.webp)
+![](/images/btnews/btnews/0301_0400/0396/3dab5172-db3c-4723-9b0a-60e38f0f28ad.webp)
 
 
 
@@ -90,7 +90,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/a9975451-20b9-4a55-b019-e84911e1cc0b.webp)
+![](/images/btnews/btnews/0301_0400/0396/a9975451-20b9-4a55-b019-e84911e1cc0b.webp)
 
 
 
@@ -122,7 +122,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/96f32b50-21f8-48a9-b7aa-8761d2d74968.webp)
+![](/images/btnews/btnews/0301_0400/0396/96f32b50-21f8-48a9-b7aa-8761d2d74968.webp)
 
 
 
@@ -134,7 +134,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/e0d52bcd-8b21-431f-8fbf-6bc288d81802.webp)
+![](/images/btnews/btnews/0301_0400/0396/e0d52bcd-8b21-431f-8fbf-6bc288d81802.webp)
 
 
 
@@ -150,7 +150,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/346cafad-5554-4006-a20c-add3f4646b14.webp)
+![](/images/btnews/btnews/0301_0400/0396/346cafad-5554-4006-a20c-add3f4646b14.webp)
 
 
 
@@ -168,7 +168,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/c229b515-37d2-4433-88e0-0ca61f91fd46.webp)
+![](/images/btnews/btnews/0301_0400/0396/c229b515-37d2-4433-88e0-0ca61f91fd46.webp)
 
 
 
@@ -180,7 +180,7 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/f75bd1eb-5eb2-40d2-bace-ea3dc5d56b3c.webp)
+![](/images/btnews/btnews/0301_0400/0396/f75bd1eb-5eb2-40d2-bace-ea3dc5d56b3c.webp)
 
 
 
@@ -188,13 +188,13 @@ https://www.douyin.com/video/6960996341757512990
 
 
 
-![](/images/btnews/0301_0400/0396/eb38a62e-fae1-4b3b-ba47-a8ca9b7bf10c.webp)
+![](/images/btnews/btnews/0301_0400/0396/eb38a62e-fae1-4b3b-ba47-a8ca9b7bf10c.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/35e06645-0279-4c23-b109-af1de92cbdfc.webp)
+![](/images/btnews/btnews/0301_0400/0396/35e06645-0279-4c23-b109-af1de92cbdfc.webp)
 
 
 
@@ -214,7 +214,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/c2192fe1-c771-4e29-a7c6-0ab4eeffaa6f.webp)
+![](/images/btnews/btnews/0301_0400/0396/c2192fe1-c771-4e29-a7c6-0ab4eeffaa6f.webp)
 
 
 
@@ -228,7 +228,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/46a4080a-136b-434a-b312-4c43748e9355.webp)
+![](/images/btnews/btnews/0301_0400/0396/46a4080a-136b-434a-b312-4c43748e9355.webp)
 
 
 
@@ -244,7 +244,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/3fe568e9-c569-492b-bb3d-336b1d3217e8.webp)
+![](/images/btnews/btnews/0301_0400/0396/3fe568e9-c569-492b-bb3d-336b1d3217e8.webp)
 
 
 
@@ -264,7 +264,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/030c560a-2714-492f-902e-700d63421991.webp)
+![](/images/btnews/btnews/0301_0400/0396/030c560a-2714-492f-902e-700d63421991.webp)
 
 
 
@@ -278,7 +278,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/5928a2d8-8444-41e0-b7f3-dc7d3da779c9.webp)
+![](/images/btnews/btnews/0301_0400/0396/5928a2d8-8444-41e0-b7f3-dc7d3da779c9.webp)
 
 
 
@@ -290,13 +290,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/7411a0ae-dc74-494d-adb6-5069160eefcd.webp)
+![](/images/btnews/btnews/0301_0400/0396/7411a0ae-dc74-494d-adb6-5069160eefcd.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/50e12f8f-c027-4c47-8d13-65bcf7887dd7.webp)
+![](/images/btnews/btnews/0301_0400/0396/50e12f8f-c027-4c47-8d13-65bcf7887dd7.webp)
 
 
 
@@ -312,7 +312,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/70dbd63c-b757-433e-979e-5ab0d151cdad.webp)
+![](/images/btnews/btnews/0301_0400/0396/70dbd63c-b757-433e-979e-5ab0d151cdad.webp)
 
 
 
@@ -328,13 +328,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/4253e53a-a2bd-4b8f-a62d-5afb0088233b.webp)
+![](/images/btnews/btnews/0301_0400/0396/4253e53a-a2bd-4b8f-a62d-5afb0088233b.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/7d7bf98d-ff88-484c-ba0d-802300197806.webp)
+![](/images/btnews/btnews/0301_0400/0396/7d7bf98d-ff88-484c-ba0d-802300197806.webp)
 
 
 
@@ -352,7 +352,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/aa555790-d21f-494f-8f69-b977529947d9.webp)
+![](/images/btnews/btnews/0301_0400/0396/aa555790-d21f-494f-8f69-b977529947d9.webp)
 
 
 
@@ -382,13 +382,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/63d2f195-23f1-4e27-97fc-379088b66a1c.webp)
+![](/images/btnews/btnews/0301_0400/0396/63d2f195-23f1-4e27-97fc-379088b66a1c.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/286137b9-453e-496a-87a2-3d0ea40fc924.webp)
+![](/images/btnews/btnews/0301_0400/0396/286137b9-453e-496a-87a2-3d0ea40fc924.webp)
 
 
 
@@ -406,7 +406,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/19b745e1-a052-4886-a5c4-4339e13825b1.webp)
+![](/images/btnews/btnews/0301_0400/0396/19b745e1-a052-4886-a5c4-4339e13825b1.webp)
 
 
 
@@ -422,19 +422,19 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/5f2cea59-335d-48ef-8039-a0adcbcd9912.webp)
+![](/images/btnews/btnews/0301_0400/0396/5f2cea59-335d-48ef-8039-a0adcbcd9912.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/2dce53cc-e1f8-42ac-9bed-a26bee243e05.webp)
+![](/images/btnews/btnews/0301_0400/0396/2dce53cc-e1f8-42ac-9bed-a26bee243e05.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/eaee9580-1b2f-4509-a82c-5d627aea8421.webp)
+![](/images/btnews/btnews/0301_0400/0396/eaee9580-1b2f-4509-a82c-5d627aea8421.webp)
 
 
 
@@ -450,13 +450,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/952c3003-fa70-4dc7-8e58-899d4aba7bb3.webp)
+![](/images/btnews/btnews/0301_0400/0396/952c3003-fa70-4dc7-8e58-899d4aba7bb3.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/abaa6980-f1f0-43fb-8dff-58d10f51fcb7.webp)
+![](/images/btnews/btnews/0301_0400/0396/abaa6980-f1f0-43fb-8dff-58d10f51fcb7.webp)
 
 
 
@@ -468,7 +468,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/a29c6667-7bed-495b-9c19-78c444ccd7d1.webp)
+![](/images/btnews/btnews/0301_0400/0396/a29c6667-7bed-495b-9c19-78c444ccd7d1.webp)
 
 
 
@@ -484,7 +484,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/18d0b183-f5f7-4090-b4f6-2ce4d248c1db.webp)
+![](/images/btnews/btnews/0301_0400/0396/18d0b183-f5f7-4090-b4f6-2ce4d248c1db.webp)
 
 
 
@@ -496,7 +496,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
  
 
-![](/images/btnews/0301_0400/0396/40e425c7-fa6a-4ff9-bb16-3e71eaa7dcec.webp)
+![](/images/btnews/btnews/0301_0400/0396/40e425c7-fa6a-4ff9-bb16-3e71eaa7dcec.webp)
 
 
 
@@ -512,13 +512,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/78eb442f-f9dd-4489-b722-7990e96190c6.webp)
+![](/images/btnews/btnews/0301_0400/0396/78eb442f-f9dd-4489-b722-7990e96190c6.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/31b0b731-2ad8-4d17-9a47-663f58bb1dd2.webp)
+![](/images/btnews/btnews/0301_0400/0396/31b0b731-2ad8-4d17-9a47-663f58bb1dd2.webp)
 
 
 
@@ -542,7 +542,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/bd78204e-822e-430d-a995-a130f3bd6cf3.webp)
+![](/images/btnews/btnews/0301_0400/0396/bd78204e-822e-430d-a995-a130f3bd6cf3.webp)
 
 
 
@@ -554,7 +554,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/d8acc6e8-57d7-4c30-9f1d-5434432f3062.webp)
+![](/images/btnews/btnews/0301_0400/0396/d8acc6e8-57d7-4c30-9f1d-5434432f3062.webp)
 
 
 
@@ -570,7 +570,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/0b434340-56ee-420a-98ee-997949569634.webp)
+![](/images/btnews/btnews/0301_0400/0396/0b434340-56ee-420a-98ee-997949569634.webp)
 
 
 
@@ -586,13 +586,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/4caa559f-414a-47cf-ae9a-068e43d4dbec.webp)
+![](/images/btnews/btnews/0301_0400/0396/4caa559f-414a-47cf-ae9a-068e43d4dbec.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/3637967f-bf80-4ba4-9d28-baa7470e9360.webp)
+![](/images/btnews/btnews/0301_0400/0396/3637967f-bf80-4ba4-9d28-baa7470e9360.webp)
 
 
 
@@ -614,19 +614,19 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/13e8df78-046b-4482-ba40-68f459547662.webp)
+![](/images/btnews/btnews/0301_0400/0396/13e8df78-046b-4482-ba40-68f459547662.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/da3a6e46-33da-421f-a796-963cebb0d31a.webp)
+![](/images/btnews/btnews/0301_0400/0396/da3a6e46-33da-421f-a796-963cebb0d31a.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/f44dc601-570d-4d22-9367-238b045deb61.webp)
+![](/images/btnews/btnews/0301_0400/0396/f44dc601-570d-4d22-9367-238b045deb61.webp)
 
 
 
@@ -642,7 +642,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/7232d6bb-1e34-4a47-9f77-41486022be3d.webp)
+![](/images/btnews/btnews/0301_0400/0396/7232d6bb-1e34-4a47-9f77-41486022be3d.webp)
 
 
 
@@ -658,7 +658,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/31b33c82-3c17-4df2-b35e-d5afc4dd2e3a.webp)
+![](/images/btnews/btnews/0301_0400/0396/31b33c82-3c17-4df2-b35e-d5afc4dd2e3a.webp)
 
 
 
@@ -686,7 +686,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/0dd9ff96-752a-42da-9e47-3ac1dc1a7c17.webp)
+![](/images/btnews/btnews/0301_0400/0396/0dd9ff96-752a-42da-9e47-3ac1dc1a7c17.webp)
 
 
 
@@ -702,7 +702,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/b8e45413-ca29-45b2-a65c-a7d5d968dd4c.webp)
+![](/images/btnews/btnews/0301_0400/0396/b8e45413-ca29-45b2-a65c-a7d5d968dd4c.webp)
 
 
 
@@ -724,31 +724,31 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/a233968d-e736-45bc-8348-99b38d1e5da8.webp)
+![](/images/btnews/btnews/0301_0400/0396/a233968d-e736-45bc-8348-99b38d1e5da8.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/132b42a3-61fa-4495-862f-f95241f3b490.webp)
+![](/images/btnews/btnews/0301_0400/0396/132b42a3-61fa-4495-862f-f95241f3b490.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/4f45cee1-a35a-43f7-9a26-ac9fb3cebe72.webp)
+![](/images/btnews/btnews/0301_0400/0396/4f45cee1-a35a-43f7-9a26-ac9fb3cebe72.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/c4039675-064b-4668-97cc-a05a0647697f.webp)
+![](/images/btnews/btnews/0301_0400/0396/c4039675-064b-4668-97cc-a05a0647697f.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/1fd67a68-a59e-4f49-a996-90d01d9d000d.webp)
+![](/images/btnews/btnews/0301_0400/0396/1fd67a68-a59e-4f49-a996-90d01d9d000d.webp)
 
 
 
@@ -776,7 +776,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/12622e73-a555-4996-8b61-ec3768fbc477.webp)
+![](/images/btnews/btnews/0301_0400/0396/12622e73-a555-4996-8b61-ec3768fbc477.webp)
 
 
 
@@ -788,7 +788,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/14fba814-8dee-482c-8638-ccab71d4c093.webp)
+![](/images/btnews/btnews/0301_0400/0396/14fba814-8dee-482c-8638-ccab71d4c093.webp)
 
 
 
@@ -804,7 +804,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/050b3495-320b-4640-818b-e96100a3ace0.webp)
+![](/images/btnews/btnews/0301_0400/0396/050b3495-320b-4640-818b-e96100a3ace0.webp)
 
 
 
@@ -820,13 +820,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/bd005a25-31d2-426d-8106-2760609b447c.webp)
+![](/images/btnews/btnews/0301_0400/0396/bd005a25-31d2-426d-8106-2760609b447c.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/ad805afb-2fc3-41ea-978a-952dbcc19faf.webp)
+![](/images/btnews/btnews/0301_0400/0396/ad805afb-2fc3-41ea-978a-952dbcc19faf.webp)
 
 
 
@@ -838,7 +838,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/d31e9868-32dc-463c-bc62-476ecf197b1c.webp)
+![](/images/btnews/btnews/0301_0400/0396/d31e9868-32dc-463c-bc62-476ecf197b1c.webp)
 
 
 
@@ -856,13 +856,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/a33506d6-c519-41ca-953a-d97f619a9f0e.webp)
+![](/images/btnews/btnews/0301_0400/0396/a33506d6-c519-41ca-953a-d97f619a9f0e.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/d71266aa-2cc9-48e9-9119-b2ff1c6f63e5.webp)
+![](/images/btnews/btnews/0301_0400/0396/d71266aa-2cc9-48e9-9119-b2ff1c6f63e5.webp)
 
 
 
@@ -884,7 +884,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/4e44458d-b268-46f8-b19a-f79749c95b4e.webp)
+![](/images/btnews/btnews/0301_0400/0396/4e44458d-b268-46f8-b19a-f79749c95b4e.webp)
 
 
 
@@ -896,7 +896,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/d6a65e42-510c-4885-8988-2fd50364c9f4.webp)
+![](/images/btnews/btnews/0301_0400/0396/d6a65e42-510c-4885-8988-2fd50364c9f4.webp)
 
 
 
@@ -912,7 +912,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/b360bb71-f902-40d5-891c-42f93995e1e9.webp)
+![](/images/btnews/btnews/0301_0400/0396/b360bb71-f902-40d5-891c-42f93995e1e9.webp)
 
 
 
@@ -932,7 +932,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/2af36844-c021-4bd6-a6d8-5c599c9db636.webp)
+![](/images/btnews/btnews/0301_0400/0396/2af36844-c021-4bd6-a6d8-5c599c9db636.webp)
 
 
 
@@ -950,7 +950,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/cb2abce8-592d-43ce-8465-309952d6e90d.webp)
+![](/images/btnews/btnews/0301_0400/0396/cb2abce8-592d-43ce-8465-309952d6e90d.webp)
 
 
 
@@ -964,7 +964,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/59ea5aac-f583-4a45-91fb-6ca737c92720.webp)
+![](/images/btnews/btnews/0301_0400/0396/59ea5aac-f583-4a45-91fb-6ca737c92720.webp)
 
 
 
@@ -992,13 +992,13 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/42094759-13c6-4241-bf6e-964f9b8e0b61.webp)
+![](/images/btnews/btnews/0301_0400/0396/42094759-13c6-4241-bf6e-964f9b8e0b61.webp)
 
 
 
 
 
-![](/images/btnews/0301_0400/0396/975cb464-8b33-4281-b1cf-f0d1895a4ef3.webp)
+![](/images/btnews/btnews/0301_0400/0396/975cb464-8b33-4281-b1cf-f0d1895a4ef3.webp)
 
 
 
@@ -1034,7 +1034,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/1ee3f932-46a8-49cf-b285-1f92a072ccec.webp)
+![](/images/btnews/btnews/0301_0400/0396/1ee3f932-46a8-49cf-b285-1f92a072ccec.webp)
 
 
 
@@ -1042,7 +1042,7 @@ The 2021 AMI for the New York City region is $107,400 for a three-person family 
 
 
 
-![](/images/btnews/0301_0400/0396/2d3e0326-caed-4acf-a52d-436d757bdc67.webp)
+![](/images/btnews/btnews/0301_0400/0396/2d3e0326-caed-4acf-a52d-436d757bdc67.webp)
 
 
 

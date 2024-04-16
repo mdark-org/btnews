@@ -25,23 +25,23 @@ tag: ["美国","阿富汗","拜登","电子烟","局部战争","社会"]
 
 **去年这个时间，第87期睡前消息，我们提到美国和塔利班签署和平协议。协议规定美军应该在2021年5月以前，从阿富汗完全撤军。**
 
-![](/images/btnews/0201_0300/0252/image1.webp)
+![](/images/btnews/btnews/0201_0300/0252/image1.webp)
 
 **但是，上周3月18号，美国总统拜登在接受采访时表示，按期从阿富汗撤军困难很大。昨天，美国国防部长奥斯汀忽然从印度飞到阿富汗，仍然拒绝公布撤军时间，说这件事要让拜登自己决定。**
 
-![](/images/btnews/0201_0300/0252/image2.webp)
+![](/images/btnews/btnews/0201_0300/0252/image2.webp)
 
 **督工，为什么美国换了个民主党总统以后，撤军反而没有时间表了？**
 
 在去年节目里我们就说过，美军已经完成了战略收缩。当时还有一万多人在阿富汗，大多数已经集中到喀布尔和几个大型军事基地，随时可以坐上飞机走人。
 
-![](/images/btnews/0201_0300/0252/image3.webp)
+![](/images/btnews/btnews/0201_0300/0252/image3.webp)
 
 **美军在阿富汗现有基地位置**
 
 过去一年，美军也确实在不断撤出。按美军自己的说法，目前在阿富汗只剩下2500人。但是3月15号纽约时报发新闻，认为美军目前在阿富汗的兵力还超过3500人。多出来的一千人，大多数隶属于特种部队，作战活动还不少，不象马上就要撤离的样子。
 
-![](/images/btnews/0201_0300/0252/image4.webp)
+![](/images/btnews/btnews/0201_0300/0252/image4.webp)
 
 另外，阿富汗还有6000多名美国军事承包商，大多数是直接参战的雇佣兵。这些人在阿富汗人眼里也是美军。这些人加上3500正规军，差不多一万人了。
 
@@ -49,23 +49,23 @@ tag: ["美国","阿富汗","拜登","电子烟","局部战争","社会"]
 
 美国讨论撤军问题，考虑的主要是北约盟国的感受，而不是阿富汗当地的局势。现在阿富汗是个什么情况？
 
-![](/images/btnews/0201_0300/0252/image5.webp)
+![](/images/btnews/btnews/0201_0300/0252/image5.webp)
 
-![](/images/btnews/0201_0300/0252/image6.webp)
+![](/images/btnews/btnews/0201_0300/0252/image6.webp)
 
 美国又不急于从阿富汗全面撤军，是因为阿富汗如今的局势，和媒体制造的想象不同，并不是天天激战，反而进入了一个不算和平也不算战争的的稳定期。
 
-![](/images/btnews/0201_0300/0252/image7.webp)
+![](/images/btnews/btnews/0201_0300/0252/image7.webp)
 
-![](/images/btnews/0201_0300/0252/image8.webp)
+![](/images/btnews/btnews/0201_0300/0252/image8.webp)
 
-![](/images/btnews/0201_0300/0252/image9.webp)
+![](/images/btnews/btnews/0201_0300/0252/image9.webp)
 
 号称根据真实事件改编的阿富汗战争电影《前哨》（The Outpost）
 
 从公开数据看，美军和外国军队在阿富汗的死亡人数，从2013年开始就迅速下降，到2015年后每年只有十几二十几个人。美军之外的军队，已经有5年不死人了。
 
-![](/images/btnews/0201_0300/0252/image10.webp)
+![](/images/btnews/btnews/0201_0300/0252/image10.webp)
 
 2001-2020年美军、英军和其它外国军队在阿富汗阵亡人数
 
@@ -73,13 +73,13 @@ https://www.statista.com/statistics/262894/western-coalition-soldiers-killed-in-
 
 另一方面。在渡过驻军和战争高峰后，美国花在阿富汗的财政支出也大幅下降。2011年美国为了阿富汗战争，仅仅是军事支出就超过1000亿美元。到2019年已经下降到500亿左右。
 
-![](/images/btnews/0201_0300/0252/image11.webp)2001-2019年美国在阿富汗战争中的支出
+![](/images/btnews/btnews/0201_0300/0252/image11.webp)2001-2019年美国在阿富汗战争中的支出
 
 [The Annual Cost Of The War In Afghanistan Since 2001 \[Infographic\]](https://www.forbes.com/sites/niallmccarthy/2019/09/12/the-annual-cost-of-the-war-in-afghanistan-since-2001-infographic/?sh=22a64ee81971)
 
 同期，对阿富汗政府的直接援助金额也下降，在通货膨胀的同时，总量反而从2011年的67亿美元变成2019年的42亿。
 
-![](/images/btnews/0201_0300/0252/image12.webp)
+![](/images/btnews/btnews/0201_0300/0252/image12.webp)
 
 伤亡降低95%，财政支出减少了一半以上，国内要求撤军的压力就没有原来那么大了。
 
@@ -87,21 +87,21 @@ https://www.statista.com/statistics/262894/western-coalition-soldiers-killed-in-
 
 阿富汗内政部长几天前就公开说过这个观点，美军如果走的太快，他认为自己支撑不住。
 
-![](/images/btnews/0201_0300/0252/image13.webp)
+![](/images/btnews/btnews/0201_0300/0252/image13.webp)
 
 如果只看地图，他的说法有点道理，2019年末塔利班活跃地区已经覆盖了阿富汗大部分领土。1989年苏联从阿富汗撤军的时候，虽然戈尔巴乔夫还是继续提供一部分援助和军事古文，但是纳吉布拉政权迅速崩溃，到1992年反苏武装就夺取了政权。
 
-![](/images/btnews/0201_0300/0252/image14.webp)
+![](/images/btnews/btnews/0201_0300/0252/image14.webp)
 
 不过，现在看塔利班的战斗力，不能只看地图。前几年的高强度战争，不仅让美国意识到全面统治阿富汗的代价，也同样打击了作为全国性组织的塔利班。
 
 美国的火力反应速度比当年的苏联要高几倍，塔利班承受了人员和装备的巨大损失，还不得不把部队拆散成了无数小分队。客观上放弃了大部队作战的能力。另外，为了保证每个小部队都能在山区生存，塔利班按地区和部族，尽量让游击队成员的籍贯是本地人，本地的部族。这导致各个分支迅速和地方势力结合，不愿意联合作战，反而产生了不少矛盾。美军抓住塔利班这个弱点，着重打击塔利班跨地区的组织，先打死了创始人奥马尔，2016年又打死了第二任领袖，塔利班甚至没有大规模报复行为。
 
-![](/images/btnews/0201_0300/0252/image15.webp)
+![](/images/btnews/btnews/0201_0300/0252/image15.webp)
 
 塔利班第二任领袖曼苏尔
 
-![](/images/btnews/0201_0300/0252/image16.webp)
+![](/images/btnews/btnews/0201_0300/0252/image16.webp)
 
 据称伏击曼苏尔的现场
 
@@ -115,26 +115,26 @@ https://www.statista.com/statistics/262894/western-coalition-soldiers-killed-in-
 
 2011年美国在阿富汗驻军超过10万人，一直在高强度作战，全年也只花了1070亿美元。2015年后，美国在阿富汗长期只驻扎了一万多人，加上军事承包商也不到2万，但每年的战争支出始终保持在500亿美元之上。就算考虑到通货膨胀问题，也是当年1/5的驻军花掉了十年前2/5的经费。
 
-![](/images/btnews/0201_0300/0252/image17.webp)
+![](/images/btnews/btnews/0201_0300/0252/image17.webp)
 
 2001-2019年驻阿富汗美军人数
 
 [Afghanistan: What has the conflict cost the US and its allies? - BBC News](https://www.bbc.com/news/world-47391821)
 
-![](/images/btnews/0201_0300/0252/image18.webp)
+![](/images/btnews/btnews/0201_0300/0252/image18.webp)
 
 阿富汗战争2001-2019年美军军费和驻军人数
 
 这些支出里有一部分是维持基地的固定费用，不管驻军多少，差别都不大。还有一些钱是给阿富汗军队。但即使考虑到这些原因，最近几年美军在阿富汗的经费也必然有很多奇怪的项目。
 
-![](/images/btnews/0201_0300/0252/image19.webp)
+![](/images/btnews/btnews/0201_0300/0252/image19.webp)
 
 [US goes full year without combat death in Afghanistan \| The Hill](https://thehill.com/policy/defense/537871-us-goes-year-without-combat-death-in-afghanistan)
 
 今
 年3月初，美国阿富汗重建特别监察长报告说，他们审查了从2008年以来美国资助的阿富汗建筑项目。78亿美元拨款，只有12亿美元用于预期目的，现在只剩下3.4亿美元的资产仍然维护良好，可以投入使用。但是并没有人为此负责。
 
-![](/images/btnews/0201_0300/0252/image20.webp)
+![](/images/btnews/btnews/0201_0300/0252/image20.webp)
 
 现在美军内部很多军官希望继续驻军阿富汗，既不是为了反恐，也不是为了在地理上给中国俄国找麻烦，只是世界上像阿富汗这样安全又能发财的地方实在不多了。毕竟美军每年训练伤亡都要上百人。
 
@@ -142,17 +142,17 @@ https://www.statista.com/statistics/262894/western-coalition-soldiers-killed-in-
 
 现在对于阿富汗政府来说，最大的担心就是美国不花钱，这比美国撤军更可怕。
 
-![](/images/btnews/0201_0300/0252/image21.webp)
+![](/images/btnews/btnews/0201_0300/0252/image21.webp)
 
 根据官方数据，从2001到2019年，美国向阿富汗政府提供了1300多亿美元的直接援助。
 
-![](/images/btnews/0201_0300/0252/image22.webp)
+![](/images/btnews/btnews/0201_0300/0252/image22.webp)
 
 <https://www.sigar.mil/pdf/quarterlyreports/2019-10-30qr-section3-funding.pdf>
 
 2019年阿富汗政府得到了42亿美元外国援助。而阿富汗2020年的预算总额是55亿美元。多年来，阿富汗政府75%-80%的预算都直接依赖外国援助。剩下的本地税收，也主要是服务业给外国人提供服务赚钱才能交上来。
 
-![](/images/btnews/0201_0300/0252/image23.webp)
+![](/images/btnews/btnews/0201_0300/0252/image23.webp)
 
 阿富汗议会批准2020年度预算
 
@@ -160,33 +160,33 @@ https://www.aa.com.tr/en/asia-pacific/afghan-parliament-approves-55b-annual-budg
 
 要理解这笔钱的意义，可以把美国援助金额，和阿富汗GDP曲线放到一张图对比。可以发现，有那么几年，不算其他国家的援助，美国给的钱就超过了阿富汗当年GDP。
 
-![](/images/btnews/0201_0300/0252/image24.webp)
+![](/images/btnews/btnews/0201_0300/0252/image24.webp)
 
 2002-2015年美国援助金额与阿富汗GDP额
 
 [<u>https://www.sigar.mil/pdf/lessonslearned/SIGAR-16-58-LL.pdf</u>](https://www.sigar.mil/pdf/lessonslearned/SIGAR-16-58-LL.pdf)
 
-![](/images/btnews/0201_0300/0252/image25.webp)
+![](/images/btnews/btnews/0201_0300/0252/image25.webp)
 
 美国援助金额占阿富汗GDP比例
 
 援助比GDP还多，说明外国援助的现金有相当一部分根本没有花在阿富汗，在账面上转一圈，就以咨询费、承包费、采购费的形式回流到欧美。但就算是这样，剩余的资金对于阿富汗农业社会来说，也是了不得的一笔刺激。
 
-![](/images/btnews/0201_0300/0252/image26.webp)
+![](/images/btnews/btnews/0201_0300/0252/image26.webp)
 
 依靠这笔经费，现在驻阿富汗的西方军队、国际机构雇员、本土高级官员，以及为他们服务的少数技术阶层，在首都喀布尔的一小块市区，制造出了一个微缩版的现代消费主义社会。如果不往远处走，这一部分喀布尔看上去非常繁荣安全，可以帮助中国人理解100年前的上海。
 
-![](/images/btnews/0201_0300/0252/image27.webp)
+![](/images/btnews/btnews/0201_0300/0252/image27.webp)
 
-![](/images/btnews/0201_0300/0252/image28.webp)
+![](/images/btnews/btnews/0201_0300/0252/image28.webp)
 
-![](/images/btnews/0201_0300/0252/image29.webp)
+![](/images/btnews/btnews/0201_0300/0252/image29.webp)
 
 喀布尔市的高档商业区和住宅
 
 但是从统计数字看，2001年外国援助到来之前，阿富汗3500万人，GDP只有25亿美元。在外国援助和驻军消费刺激下，2012年的GDP已经有200亿美元。之后，随着驻军数量下降，援助逐步减少，又开始缓慢衰退。从上面的喀布尔照片来看，大多数投资都是为消费产业服务的，没有用来改善本地生产能力。如果美国彻底撤军，阿富汗的GDP又会倒退到不如中国一个县的水平上。
 
-![](/images/btnews/0201_0300/0252/image30.webp)
+![](/images/btnews/btnews/0201_0300/0252/image30.webp)
 
 阿富汗历年GDP
 
@@ -194,21 +194,21 @@ https://tradingeconomics.com/afghanistan/gdp
 
 当然美国和西方国家都许诺过，撤军以后也会继续对阿富汗提供财政和技术支持，但是参考苏联时代的经验，阿富汗政府肯定可以预期援助会大量缩水。更何况驻军本身的消费也是繁荣的重要因素。所以，阿富汗政府会想尽一切办法留住美军，最近一些貌似激烈的战斗，完全可能是阿富汗政府军和游击队的表演赛。毕竟让阿富汗gdp退回到中国一个县的水平，塔利班武装就算夺取了全国政权，日子也不会比现在好过。
 
-![](/images/btnews/0201_0300/0252/image31.webp)
+![](/images/btnews/btnews/0201_0300/0252/image31.webp)
 
 [Foreign aid to Afghanistan could reach \$12 billion over four years, some with conditions \| Reuters](https://www.reuters.com/article/afghanistan-diplomacy-aid-int-idUSKBN2842S2)
 
-![](/images/btnews/0201_0300/0252/image32.webp)
+![](/images/btnews/btnews/0201_0300/0252/image32.webp)
 
 无论阿富汗政府怎么想，撤军的主动权还是在美国手里。美国高层不考虑尽快止损吗？
 
-![](/images/btnews/0201_0300/0252/image33.webp)阿富汗战争美国付出了什么代价
+![](/images/btnews/btnews/0201_0300/0252/image33.webp)阿富汗战争美国付出了什么代价
 
 https://www.bbc.com/news/world-47391821
 
 作为商人的特朗普是这么想的，但是作为世界帝国的领袖，拜登还要考虑美国的软实力，不能在意识形态方面做的太难看。
 
-![](/images/btnews/0201_0300/0252/image34.webp)
+![](/images/btnews/btnews/0201_0300/0252/image34.webp)
 
 [US goes full year without combat death in Afghanistan \| The Hill](https://thehill.com/policy/defense/537871-us-goes-year-without-combat-death-in-afghanistan)
 
@@ -220,7 +220,7 @@ https://www.bbc.com/news/world-47391821
 
 美国已经在阿富汗花了差不多2万亿美元，如果最后为了省下每年上百亿美元，就被全世界嘲讽，那是双重的亏本，拜登政府尤其不希望这种事发生在自己任期内。所以，维持现状的代价也许不轻松，但美国宁愿再拖一阵，等到国际上发生更大的动荡，能转移视线之后，再考虑从阿富汗悄悄撤出。
 
-![](/images/btnews/0201_0300/0252/image35.webp)
+![](/images/btnews/btnews/0201_0300/0252/image35.webp)
 
 https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-category/
 
@@ -228,11 +228,11 @@ https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-ca
 
 阿富汗本身是一块干旱的山地，从经济地理的角度说，作为终点的阿富汗毫无价值。但是从交通角度说，阿富汗对周边的文明有一些影响。从南北交通来看，阿富汗是中亚进出南亚次大陆的传统通道。喀布尔本身就控制了通过兴都库什山的关键山口。中亚征服者如果想去占领印度，就必须从阿富汗经过。
 
-![](/images/btnews/0201_0300/0252/image36.webp)
+![](/images/btnews/btnews/0201_0300/0252/image36.webp)
 
 同时，沿着兴都库什山南北两侧，还有几条东西的商路，沟通欧亚大陆内部。唐玄奘去印度的路线，就同时利用了阿富汗南北和东西两个方向的交通作用。
 
-![](/images/btnews/0201_0300/0252/image37.webp)
+![](/images/btnews/btnews/0201_0300/0252/image37.webp)
 
 在古代，因为气候干旱，阿富汗山地居民也很难靠种地放牧维持生活。如果想稍微改善一下生活，阿富汗人只有两种选择，或者给东西向经过的商人打工，赚点过路费；或者和北面的中亚征服者合作，一起去印度抢劫。
 
@@ -240,9 +240,9 @@ https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-ca
 
 幸亏古代的印度文明军事能力一直不强，所以每隔几代人，就会有中亚军阀或者波斯王子冲出阿富汗开伯尔山口，进入印度平原。所以阿富汗人的日子还勉强能过。跟着他们打赢了就在印度当新一代贵族，打输了起码把空间腾出来，让自己的后代能种地放羊。最后一次成功的征服发生在1750年前后，德里都被阿富汗人占领了。这时候距离英国工业革命不到两代人。
 
-![](/images/btnews/0201_0300/0252/image38.webp)
+![](/images/btnews/btnews/0201_0300/0252/image38.webp)
 
-![](/images/btnews/0201_0300/0252/image39.webp)
+![](/images/btnews/btnews/0201_0300/0252/image39.webp)
 
 但是到了最近几个世纪，欧洲殖民者从海上打进印度，颠覆了印度的历史规律。欧洲殖民者带来了先进的枪炮和军事纪律，不仅能挡住中亚山地民族的进攻，甚至还能带着印度人一度打进阿富汗。从此，阿富汗失去了所有定期从外界获取资源的渠道，只能不断内部洗牌，争夺极少数绿洲和有水的山谷。政治上四分五裂，文化上极度保守。完全是因为苏联和美国军队带来了工业物资，大多数阿富汗山区才出现了新一轮变化。
 
@@ -250,7 +250,7 @@ https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-ca
 
 但是，过去地方部族的保守文化只需要管理几百万人口，现在的阿富汗人口一路向4000万飙升。我们可以对比一下，内蒙古有110万平方公里，自然条件比阿富汗好得多，人口也只有2500万。阿富汗如果真的要用一个县的GDP去养活一个省的人口，必然出现非常惨烈的内部斗争。在阿富汗的现实面前，任何人都没资格说“内卷”。
 
-![](/images/btnews/0201_0300/0252/image40.webp)
+![](/images/btnews/btnews/0201_0300/0252/image40.webp)
 
 自古以来，阿富汗就号称“帝国坟场”，但核心原因不是阿富汗人能打，而是这里毫无征服价值，所以各大帝国不愿意把阿富汗纳入核心领土，无论是打胜仗还是吃了亏，都会快速离开。现在美国人似乎重复了历史规律，但阿富汗人，无论属于哪个军阀派别，都不会因为名义上的胜利而庆祝。
 
@@ -280,11 +280,11 @@ https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-ca
 
 最后一个消息和今年报志愿有点关系。自从中国有发电厂开始，煤炭发电就是绝对的主力。最近几年，虽然水电站和新能源发电都有明显增长，但火力发电厂的规模也在扩大，去年火电的装机容量增长4.7%，占所有发电总量的71%。
 
-![](/images/btnews/0201_0300/0252/image41.webp)
+![](/images/btnews/btnews/0201_0300/0252/image41.webp)
 
 上周，3月18日，北京举办中国碳达峰碳中和成果发布暨研讨会，国家电网公司董事长前刘振亚和现任的国电副总经理张智刚都出席了，国家能源局监管总监和环境部的气候变化司副司长也到场。会上明确提出了一个目标，2060年淘汰全部煤电厂。
 
-![](/images/btnews/0201_0300/0252/image42.webp)
+![](/images/btnews/btnews/0201_0300/0252/image42.webp)
 
 [首份碳达峰碳中和系统方案出炉：2060年中国将淘汰煤电](https://www.guancha.cn/internation/2021_03_20_584744.shtml)
 
@@ -292,6 +292,6 @@ https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-ca
 
 <https://www.ncepu.edu.cn/xkjs/zdxk/index.htm>
 
-![](/images/btnews/0201_0300/0252/image43.webp)
+![](/images/btnews/btnews/0201_0300/0252/image43.webp)
 
 好，252期睡前消息到到此结束，感谢各位收看，我们周五再见！

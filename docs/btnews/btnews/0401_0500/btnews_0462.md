@@ -6,7 +6,7 @@ date: 2022-07-24
 点击下图观看视频
 
 
-![](/images/btnews/0401_0500/0462/bcc04371-5d12-4f2e-91c0-028bb17c30c6.webp)
+![](/images/btnews/btnews/0401_0500/0462/bcc04371-5d12-4f2e-91c0-028bb17c30c6.webp)
 
 
 
@@ -20,7 +20,7 @@ date: 2022-07-24
 
 从目前消息看，中美监管谈判在关键的技术问题上又僵持住了。
 
-![](/images/btnews/0401_0500/0462/9b232212-ea5b-4f14-a548-daa5815ddfe2.webp)
+![](/images/btnews/btnews/0401_0500/0462/9b232212-ea5b-4f14-a548-daa5815ddfe2.webp)
 
 
 https://www.bastillepost.com/hongkong/article/10994387-%EF%BB%BF%E5%BD%AD%E5%8D%9A%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%AF%A9%E8%A8%88%E7%9B%A3%E7%AE%A1%E8%AB%87%E5%88%A4%E5%AD%98%E5%88%86%E6%AD%A7
@@ -28,7 +28,7 @@ https://www.bastillepost.com/hongkong/article/10994387-%EF%BB%BF%E5%BD%AD%E5%8D%
 
 7月14号，美国证券交易委员会(SEC)主席根斯勒公开表示，他怀疑中美能不能就审计监管问题达成协议。
 
-![](/images/btnews/0401_0500/0462/155e8f7f-6ccb-4413-9272-37e275c91a71.webp)
+![](/images/btnews/btnews/0401_0500/0462/155e8f7f-6ccb-4413-9272-37e275c91a71.webp)
 
 
 https://cn.wsj.com/articles/sec%E4%B8%BB%E5%B8%AD%E6%A0%B9%E6%96%AF%E5%8B%92%E5%AF%B9%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%AE%A1%E8%AE%A1%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%89%8D%E6%99%AF%E8%A1%A8%E7%A4%BA%E6%80%80%E7%96%91-11657755907
@@ -36,13 +36,13 @@ https://cn.wsj.com/articles/sec%E4%B8%BB%E5%B8%AD%E6%A0%B9%E6%96%AF%E5%8B%92%E5%
 
 根斯勒不久前还表态，支持一项《加速执行外国公司问责法》的提案，这项提案要求把中概股强制退市的截止期从三年缩短到两年，从2023年开始就可以强制中概股退市。因此，现在大多数分析认为根斯勒属于强硬派，而他又是中美监管谈判的关键人物。他的表态导致市场产生了悲观猜测。
 
-![](/images/btnews/0401_0500/0462/fbb89f3e-d275-486d-88a0-658626aa6445.webp)
+![](/images/btnews/btnews/0401_0500/0462/fbb89f3e-d275-486d-88a0-658626aa6445.webp)
 
 
 https://www.morganlewis.com/pubs/2022/03/sec-begins-identifying-public-companies-under-the-holding-foreign-companies-accountable-act
  
 
-![](/images/btnews/0401_0500/0462/7d0bfbee-eaf8-4cb4-8b55-53a41a755f73.webp)
+![](/images/btnews/btnews/0401_0500/0462/7d0bfbee-eaf8-4cb4-8b55-53a41a755f73.webp)
 
 
 
@@ -57,7 +57,7 @@ https://www.morganlewis.com/pubs/2022/03/sec-begins-identifying-public-companies
 
 所谓“中概股”，就是到大陆之外的证券交易中心公开发行股票的企业。除了香港地区以外，中国大陆企业海外上市的地点高度集中在美国，媒体说到“中概股”，基本上就是指在美上市的中国企业群体。
 
-![](/images/btnews/0401_0500/0462/5ad33a77-1f16-4f88-8a0c-f2ff9cb61261.webp)
+![](/images/btnews/btnews/0401_0500/0462/5ad33a77-1f16-4f88-8a0c-f2ff9cb61261.webp)
 
 
 
@@ -78,7 +78,7 @@ https://www.morganlewis.com/pubs/2022/03/sec-begins-identifying-public-companies
 
 2012年SEC为了施加压力，公开起诉了多家国际会计师事务所的中国分部。当时，媒体就盛传如果谈判不成功，“中概股”可能会集体从美国退市。
 
-![](/images/btnews/0401_0500/0462/35678898-6298-4c7e-aa8c-48c9bcb8f3d7.webp)
+![](/images/btnews/btnews/0401_0500/0462/35678898-6298-4c7e-aa8c-48c9bcb8f3d7.webp)
 
 
 http://news.sina.com.cn/o/2012-12-06/023925740437.shtml
@@ -86,7 +86,7 @@ http://news.sina.com.cn/o/2012-12-06/023925740437.shtml
 
 经过初步谈判，2013年5月，中国证监会、财政部与美国公众公司会计监督委员会签署了合作备忘录，暂时达成了一些谅解。但一直到今天，都没有解决监管规则的根本矛盾。
 
-![](/images/btnews/0401_0500/0462/63e31073-8b2b-4a25-8c52-410534c0ddd8.webp)
+![](/images/btnews/btnews/0401_0500/0462/63e31073-8b2b-4a25-8c52-410534c0ddd8.webp)
 
 
 
@@ -95,7 +95,7 @@ https://www.bdo.com.cn/en-gb/%E8%B5%84%E8%AE%AF/%E5%9B%9B%E5%A4%A7%E5%BA%95%E7%A
 
 
 
-![](/images/btnews/0401_0500/0462/deca580f-0392-4ba0-bdd2-90430b4455e3.webp)
+![](/images/btnews/btnews/0401_0500/0462/deca580f-0392-4ba0-bdd2-90430b4455e3.webp)
 
 
 http://tech.sina.com.cn/i/2014-02-06/19269142852.shtml
@@ -106,17 +106,17 @@ http://tech.sina.com.cn/i/2014-02-06/19269142852.shtml
 
 中国法律并不反对审计底稿出境，因为商业活动本来就要涉及到信息交换，不许交换商业文件，就没法做生意。但是，因为部分上市企业可能拥有对国家安全有重要意义的数据。中国认为，应该基于个案，逐一审核批准后，才能允许“底稿出境”。美国方面认为，既然是你主动来美国上市的，那就应该无条件把底稿拿过来看。
 
-![](/images/btnews/0401_0500/0462/0da79a7f-9058-4cd4-99ee-e606fbe41a4c.webp)
+![](/images/btnews/btnews/0401_0500/0462/0da79a7f-9058-4cd4-99ee-e606fbe41a4c.webp)
 
 
 https://www.thepaper.cn/newsDetail_forward_19133553
 
 
  
-![](/images/btnews/0401_0500/0462/90a69b77-153d-4b17-a96b-82a2c5f78cf5.webp)
+![](/images/btnews/btnews/0401_0500/0462/90a69b77-153d-4b17-a96b-82a2c5f78cf5.webp)
 
 
-![](/images/btnews/0401_0500/0462/81f430d0-8a1a-4277-b35b-eb7b20409be6.webp)
+![](/images/btnews/btnews/0401_0500/0462/81f430d0-8a1a-4277-b35b-eb7b20409be6.webp)
 
 
 
@@ -126,7 +126,7 @@ https://www.thepaper.cn/newsDetail_forward_19133553
 
 该法案生效前后，中概股集体暴跌。这很可能给了美方很大信心，认为终于抓到了优势项目。从已知消息看，在之后近一年多的谈判中，中方做出了妥协姿态。但中方越是妥协，美方态度就越强硬，要求必须全盘接受它的主张。所以双方很难达成最终协议。
 
-![](/images/btnews/0401_0500/0462/4ae0490c-570f-4315-b3f7-cd8d3160e942.webp)
+![](/images/btnews/btnews/0401_0500/0462/4ae0490c-570f-4315-b3f7-cd8d3160e942.webp)
 
 https://www.davispolk.com/insights/client-update/sec-finalizes-rules-may-delist-china-based-companies
 
@@ -134,7 +134,7 @@ https://www.davispolk.com/insights/client-update/sec-finalizes-rules-may-delist-
 
 不出意外的话，SEC和根勒斯最近的表态又是新一轮谈判施压手段，希望中国为自己看重的中概股问题放弃更多东西。
 
-![](/images/btnews/0401_0500/0462/65c14cae-a446-4ad2-8d88-12a6c680f9b5.webp)
+![](/images/btnews/btnews/0401_0500/0462/65c14cae-a446-4ad2-8d88-12a6c680f9b5.webp)
 
 
 https://www.jdsupra.com/legalnews/is-time-running-out-under-the-hfcaa-8196693/
@@ -145,13 +145,13 @@ https://www.jdsupra.com/legalnews/is-time-running-out-under-the-hfcaa-8196693/
 
 就算中概股真的被迫全面退市，美国付出的代价未必就比中国小。平时上市企业主动退市必须收购所有公开上市股份，被称为“私有化”。为此免不了要接受股东开出的更高价格。中国互联网在美上市第一股的新浪，2021年私有化退市就立刻激发了股价上涨，提高了收购成本。
 
-![](/images/btnews/0401_0500/0462/b74a628d-d8cf-4f3c-8e99-b80593f20025.webp)
+![](/images/btnews/btnews/0401_0500/0462/b74a628d-d8cf-4f3c-8e99-b80593f20025.webp)
 
 
 https://company.stcn.com/gsxw/202009/t20200928_2397127.html
  
 
-![](/images/btnews/0401_0500/0462/81d5ef21-c00a-4ac3-9b7e-1e4a15c20721.webp)
+![](/images/btnews/btnews/0401_0500/0462/81d5ef21-c00a-4ac3-9b7e-1e4a15c20721.webp)
 
 
 https://www.cs.com.cn/ssgs/gsxw/202103/t20210324_6149660.html
@@ -174,7 +174,7 @@ https://www.cs.com.cn/ssgs/gsxw/202103/t20210324_6149660.html
 
 中国政府看得很清楚，中概股去美国，并不是看中美国，而是看中了全世界的资金，美国只是一个最便利的窗口。腾讯、美团就选择了另一个窗口香港获取融资。
 
-![](/images/btnews/0401_0500/0462/cbcf8d8e-c043-40ef-b4ca-b30fc8ef2400.webp)
+![](/images/btnews/btnews/0401_0500/0462/cbcf8d8e-c043-40ef-b4ca-b30fc8ef2400.webp)
 
 
 https://www.163.com/news/article/6V8US5TN00014JB5.html
@@ -188,13 +188,13 @@ https://www.163.com/news/article/6V8US5TN00014JB5.html
 
 从历史上看，新兴产业早期风险都比较大，很容易破产。互联网产业更是很晚才出现盈利期普遍很晚， 而且缺乏实体资产，按传统估值模式，很多明星企业一文不值。所以，互联网企业国内融资很难。京东在美国上市前后都是年年亏损，阿里集团也有很长的亏损周期，京东物流更是连续连续亏损了14年，市场给它2000亿估值。如果都按国内规矩，三年盈利才上A股，这些企业只能做假账了。
 
-![](/images/btnews/0401_0500/0462/6fde026d-3e1d-47b1-a10e-a0503be2cff7.webp)
+![](/images/btnews/btnews/0401_0500/0462/6fde026d-3e1d-47b1-a10e-a0503be2cff7.webp)
 
 
 http://www.sohu.com/a/377430169_545836
  
 
-![](/images/btnews/0401_0500/0462/681f3e0c-0d68-4de7-a4f0-82a4f837c859.webp)
+![](/images/btnews/btnews/0401_0500/0462/681f3e0c-0d68-4de7-a4f0-82a4f837c859.webp)
 
 
 
@@ -222,7 +222,7 @@ http://www.sohu.com/a/377430169_545836
 
 有A股经验的观众都知道，在巨型公司上市前后，A股的整体股价都会受到扰动，而2014年阿里集团IPO，一次性就融资250亿美元，短时间吸走那么多资金，很可能造成市场出现流动性问题。A股作为是全球市值第二的股市了，都解决不了新兴大企业融资问题，其它股市必然更吃力。
 
-![](/images/btnews/0401_0500/0462/15f6bc67-32fd-4341-a52d-36912a313019.webp)
+![](/images/btnews/btnews/0401_0500/0462/15f6bc67-32fd-4341-a52d-36912a313019.webp)
 
 
 
@@ -230,7 +230,7 @@ http://www.sohu.com/a/377430169_545836
 没有足够流动性，即使能够维持住高股价，也没有多少意义，反而可能造成市场扭曲。尼日利亚首富丹格特的企业在尼日利亚股市占了一半市值，但他的估值出了尼日利亚恐怕就没有几家银行会承认。
  
 
-![](/images/btnews/0401_0500/0462/ab0801e9-170a-4e40-ae8a-f0d7080a9379.webp)
+![](/images/btnews/btnews/0401_0500/0462/ab0801e9-170a-4e40-ae8a-f0d7080a9379.webp)
 
 
 
@@ -243,14 +243,14 @@ http://www.sohu.com/a/377430169_545836
 
 2021年邮政银行发了一个“单一来源采购公示”，很无奈地表示，使用的甲骨文数据库根本无法替换。
 
-![](/images/btnews/0401_0500/0462/1d547232-bef1-4d24-b32c-2e80672df544.webp)
+![](/images/btnews/btnews/0401_0500/0462/1d547232-bef1-4d24-b32c-2e80672df544.webp)
 
 
 
 
 改变尴尬局面的中国企业，出现在之前政府部门完全没有想到的新领域，阿里云、华为云通过处理企业数据的锻炼，现在完全可以与外国供应商比质量、比服务，更敢于比安全。这些进步，动力恰恰是从美国融到的廉价资金。
 
-![](/images/btnews/0401_0500/0462/6b2bd91c-7ee8-4120-ae29-624982fdc5ae.webp)
+![](/images/btnews/btnews/0401_0500/0462/6b2bd91c-7ee8-4120-ae29-624982fdc5ae.webp)
 
 
 
@@ -260,11 +260,11 @@ http://www.sohu.com/a/377430169_545836
 
 在中国IT企业打出希望之前，阿里云曾经连续亏损了12年，直到去年才实现了首次年度盈利。这种“丧心病狂”的烧钱方式，必须靠美股近乎无限的融资能力才能实现。
 
-![](/images/btnews/0401_0500/0462/db51a414-6e3c-4a99-bdc5-8b639aec0e92.webp)
+![](/images/btnews/btnews/0401_0500/0462/db51a414-6e3c-4a99-bdc5-8b639aec0e92.webp)
 
 
 
-![](/images/btnews/0401_0500/0462/3c6bd2ae-5c19-4142-baea-b8bbd619688a.webp)
+![](/images/btnews/btnews/0401_0500/0462/3c6bd2ae-5c19-4142-baea-b8bbd619688a.webp)
 
 https://www.cs.com.cn/ssgs/gsxw/202205/t20220526_6272476.html
 
@@ -307,7 +307,7 @@ https://www.cs.com.cn/ssgs/gsxw/202205/t20220526_6272476.html
 
 但由于自身特点，已经有一个单方市场滥用监管权，随意提高合规成本，双重上市就有比较优势了。如果在双重上市时做好安排，企业在不同交易所流通的股份是可以互相转换的。即使上市时没有，通过修改章程也可以重新安排。这明显增加了中国企业的融资选项。
 
-![](/images/btnews/0401_0500/0462/57a416c6-cd25-412d-b7be-7c5b64379bc7.webp)
+![](/images/btnews/btnews/0401_0500/0462/57a416c6-cd25-412d-b7be-7c5b64379bc7.webp)
 
 
 https://m.yicai.com/news/101480802.html
@@ -315,14 +315,14 @@ https://m.yicai.com/news/101480802.html
 
 作为少数国际金融中心之一，香港金融业的资本是极为可观的。依靠大陆提供的经济支持，香港股市进入21世纪后，是唯一在国际IPO业务上，还能与美股有一定抗衡的竞争对手。
 
-![](/images/btnews/0401_0500/0462/cd73f9f1-a461-44aa-90ae-d8e2e7110608.webp)
+![](/images/btnews/btnews/0401_0500/0462/cd73f9f1-a461-44aa-90ae-d8e2e7110608.webp)
 
 https://baijiahao.baidu.com/s?id=1737053155974729647
 
 
 
 
-![](/images/btnews/0401_0500/0462/f1016267-d6e9-4301-a395-2ee5db9c5c7c.webp)
+![](/images/btnews/btnews/0401_0500/0462/f1016267-d6e9-4301-a395-2ee5db9c5c7c.webp)
 
 https://baijiahao.baidu.com/s?id=1637288222499892850
 
@@ -330,7 +330,7 @@ https://baijiahao.baidu.com/s?id=1637288222499892850
 
 去年11月，港交所发布新规则，简化降低了双重上市和二次下市的资格，为中概股全面回归做好了法律准备。
 
-![](/images/btnews/0401_0500/0462/67dd25a9-b7a6-4c63-b5f6-12593892e550.webp)
+![](/images/btnews/btnews/0401_0500/0462/67dd25a9-b7a6-4c63-b5f6-12593892e550.webp)
 
 
 https://www.hkex.com.hk/News/Regulatory-Announcements/2021/211119news?sc_lang=zh-HK
@@ -338,13 +338,13 @@ https://www.hkex.com.hk/News/Regulatory-Announcements/2021/211119news?sc_lang=zh
 
 去年理想汽车、小鹏汽车就以美国香港双重上市方式上市。近期，又有知乎、贝壳几家中概股完成了双重上市。
 
-![](/images/btnews/0401_0500/0462/7ccf4e3f-77de-45a3-bd57-ca90686bfaf5.webp)
+![](/images/btnews/btnews/0401_0500/0462/7ccf4e3f-77de-45a3-bd57-ca90686bfaf5.webp)
 
 
 https://finance.sina.com.cn/stock/hkstock/ggipo/2022-04-18/doc-imcwiwst2511193.shtml
  
 
-![](/images/btnews/0401_0500/0462/8d2f0e95-a4a7-4142-8193-5a8d02e17319.webp)
+![](/images/btnews/btnews/0401_0500/0462/8d2f0e95-a4a7-4142-8193-5a8d02e17319.webp)
 
 
 https://finance.sina.com.cn/stock/hkstock/ggscyd/2022-05-11/doc-imcwiwst6772885.shtml
@@ -358,10 +358,10 @@ https://finance.sina.com.cn/stock/hkstock/ggscyd/2022-05-11/doc-imcwiwst6772885.
 
 如果中概股在美退市同时，就能无缝切换到其它地点上市，并且也是流动性很强的大型交易所，那损失就是可控的。反而美股因为中国公司的全面退出，最重要的全球化招牌会失去一大块拼板。
 
-![](/images/btnews/0401_0500/0462/ef922e52-981a-427f-8c92-6222da919e0f.webp)
+![](/images/btnews/btnews/0401_0500/0462/ef922e52-981a-427f-8c92-6222da919e0f.webp)
 
 
-![](/images/btnews/0401_0500/0462/97827ab0-d188-4ee4-b558-cc5204454b29.webp)
+![](/images/btnews/btnews/0401_0500/0462/97827ab0-d188-4ee4-b558-cc5204454b29.webp)
 
  
 前面我们提到，美股确实是当今全球效率最高、对科技股估值最准确的直接融资市场，所以只要有可能，绝大多数中概股还是会“赖”在美股不走。但归根到底，股市的真正根基还是上市企业身。资本是冲着优秀企业来的，而不是爱某个股市本身。
@@ -375,7 +375,7 @@ https://finance.sina.com.cn/stock/hkstock/ggscyd/2022-05-11/doc-imcwiwst6772885.
 
 不过中国监管部门和中概股们越多造一些筹码，预备好转移阵地，在当面谈判和背后意志比拼时，都能处于更加有利的位置，甚至可以给美国政客提供一个下台阶。从这个角度分析，不仅是香港股市，国家还可以考虑，内地股市也支持中概股们以双重上市、二次上市的方式“回归”。
 
-![](/images/btnews/0401_0500/0462/7200c947-1122-4ac7-bc22-21f4fa901942.webp)
+![](/images/btnews/btnews/0401_0500/0462/7200c947-1122-4ac7-bc22-21f4fa901942.webp)
 
 
 
@@ -398,11 +398,11 @@ https://finance.sina.com.cn/stock/hkstock/ggscyd/2022-05-11/doc-imcwiwst6772885.
 
 
 
-![](/images/btnews/0401_0500/0462/9d2e0b78-287e-4344-b9bc-50cab9efe2c4.webp)
+![](/images/btnews/btnews/0401_0500/0462/9d2e0b78-287e-4344-b9bc-50cab9efe2c4.webp)
 原评论区故障本期的评论区放在了微博 
 请点击下面图片进入留言板
-![](/images/btnews/0401_0500/0462/a48c9828-d0a2-49a1-ae21-d9580ac3538f.webp)
+![](/images/btnews/btnews/0401_0500/0462/a48c9828-d0a2-49a1-ae21-d9580ac3538f.webp)
 
 
-![](/images/btnews/0401_0500/0462/70675e92-13c9-47d2-88f1-e7fd5edd9985.webp)
+![](/images/btnews/btnews/0401_0500/0462/70675e92-13c9-47d2-88f1-e7fd5edd9985.webp)
 

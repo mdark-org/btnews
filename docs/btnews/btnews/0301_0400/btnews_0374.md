@@ -6,7 +6,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/c9d63ccb-c185-499f-b85f-ab095a1395db.webp)
+![](/images/btnews/btnews/0301_0400/0374/c9d63ccb-c185-499f-b85f-ab095a1395db.webp)
 
 
 
@@ -22,7 +22,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/fc709db6-d443-4243-b926-0e4d6db3f5ec.webp)
+![](/images/btnews/btnews/0301_0400/0374/fc709db6-d443-4243-b926-0e4d6db3f5ec.webp)
 
 
 
@@ -56,7 +56,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/82fe93ed-d1a7-4366-aef0-2f7866114b98.webp)
+![](/images/btnews/btnews/0301_0400/0374/82fe93ed-d1a7-4366-aef0-2f7866114b98.webp)
 
 
 
@@ -72,7 +72,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/90d94746-1019-4341-a6ca-0b736e3802cc.webp)
+![](/images/btnews/btnews/0301_0400/0374/90d94746-1019-4341-a6ca-0b736e3802cc.webp)
 
 
 
@@ -184,7 +184,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/1c31de66-6050-4b87-b51b-83c9e5cae35c.webp)
+![](/images/btnews/btnews/0301_0400/0374/1c31de66-6050-4b87-b51b-83c9e5cae35c.webp)
 
 
 
@@ -260,7 +260,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/71f03bec-ca46-4f7b-8ae6-aec068818ce4.webp)
+![](/images/btnews/btnews/0301_0400/0374/71f03bec-ca46-4f7b-8ae6-aec068818ce4.webp)
 
 
 
@@ -578,7 +578,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/61d91af7-db8a-4c19-a2c0-a83d9aa4b172.webp)
+![](/images/btnews/btnews/0301_0400/0374/61d91af7-db8a-4c19-a2c0-a83d9aa4b172.webp)
 
 
 
@@ -628,7 +628,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/a44c47e4-64cc-43d2-abed-cb27f8b1ff3d.webp)
+![](/images/btnews/btnews/0301_0400/0374/a44c47e4-64cc-43d2-abed-cb27f8b1ff3d.webp)
 
 
 
@@ -692,7 +692,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/01fd9d4f-ff82-4153-9682-055fe0ba686d.webp)
+![](/images/btnews/btnews/0301_0400/0374/01fd9d4f-ff82-4153-9682-055fe0ba686d.webp)
 
 
 
@@ -712,7 +712,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/36a90f42-5e04-4a23-a1d6-aae5304266a5.webp)
+![](/images/btnews/btnews/0301_0400/0374/36a90f42-5e04-4a23-a1d6-aae5304266a5.webp)
 
 
 
@@ -720,7 +720,7 @@ date: 2022-01-03
 
 
 
-![](/images/btnews/0301_0400/0374/ce517fef-a56f-42d6-8598-d12244368809.webp)
+![](/images/btnews/btnews/0301_0400/0374/ce517fef-a56f-42d6-8598-d12244368809.webp)
 
 
 

@@ -5,7 +5,7 @@ date: 2022-04-12
 
 点击下图观看视频
 
-![](/images/btnews/0401_0500/0418/986fecd1-e60d-4d48-94da-2bc291674b25.webp)
+![](/images/btnews/btnews/0401_0500/0418/986fecd1-e60d-4d48-94da-2bc291674b25.webp)
 
 
 
@@ -32,7 +32,7 @@ date: 2022-04-12
 404期节目我们提到，本次大选，西南方向的全罗道和东南方向的庆尚道尖锐对立，一边坚定支持李在明，一边坚定支持尹锡悦，支持率地图和行政边界几乎完全吻合。这就是封建文化残余的典型例子。
  
 
-![](/images/btnews/0401_0500/0418/430175b9-1637-436b-8a7a-d944849db522.webp)
+![](/images/btnews/btnews/0401_0500/0418/430175b9-1637-436b-8a7a-d944849db522.webp)
 
 
 
@@ -47,7 +47,7 @@ https://baijiahao.baidu.com/s?id=1703161956609054485
 
 
 
-![](/images/btnews/0401_0500/0418/819c735e-24a9-4627-b577-e248ec1eaecb.webp)
+![](/images/btnews/btnews/0401_0500/0418/819c735e-24a9-4627-b577-e248ec1eaecb.webp)
 
 https://www.sohu.com/a/190836928_355430
 
@@ -72,7 +72,7 @@ https://www.sohu.com/a/190836928_355430
 
 
 
-![](/images/btnews/0401_0500/0418/c065a53e-8986-4d36-a79f-09541ceb690e.webp)
+![](/images/btnews/btnews/0401_0500/0418/c065a53e-8986-4d36-a79f-09541ceb690e.webp)
 
 
 
@@ -106,7 +106,7 @@ https://www.sohu.com/a/190836928_355430
 去年韩国爆出一个丑闻，首尔警察厅调查性犯罪的警察私下里聊天，交流对同部门女性的性骚扰言论，甚至还谈论强奸案件。
  
 
-![](/images/btnews/0401_0500/0418/e6669343-5f04-44ba-938e-a1a4df4f147d.webp)
+![](/images/btnews/btnews/0401_0500/0418/e6669343-5f04-44ba-938e-a1a4df4f147d.webp)
 
 
 
@@ -114,7 +114,7 @@ https://www.sohu.com/a/190836928_355430
 
  
 
-![](/images/btnews/0401_0500/0418/c520b081-1d84-4d7b-b041-520ce0fe6395.webp)
+![](/images/btnews/btnews/0401_0500/0418/c520b081-1d84-4d7b-b041-520ce0fe6395.webp)
 
 
 
@@ -124,7 +124,7 @@ https://www.sohu.com/a/190836928_355430
 
 
 
-![](/images/btnews/0401_0500/0418/b41c6e3d-41f5-4eb9-9297-18c1d3609bd6.webp)
+![](/images/btnews/btnews/0401_0500/0418/b41c6e3d-41f5-4eb9-9297-18c1d3609bd6.webp)
 
 
 
@@ -165,14 +165,14 @@ https://www.chinairn.com/news/20190924/174653275.shtml
 比如韩国一个现在已经被关闭的女权社区Megalia（me'ɡeɪliə），以侮辱男性的标识作为自己的标志。成员到处发帖，侮辱历史人物，甚至喊口号要求流产男性婴儿、杀死或者阉割男性。这些韩国女权主义者自己也知道口号没有任何现实可行性，但不喊极端口号，在同一个生态位上就会被别人淘汰。Megalia社区被关闭之后，它的后继者，口号喊的还要更极端。
  
 
-![](/images/btnews/0401_0500/0418/dee16182-8848-4595-9399-75e1591bbbde.webp)
+![](/images/btnews/btnews/0401_0500/0418/dee16182-8848-4595-9399-75e1591bbbde.webp)
 
 
 
 在舆论阵营的的另一面，韩国反女权派别的水平还不如Megalia。最起码女权团体知道自己的口号主要是象征性意义；反女权社区真的会把自己的下作行动带到现实社会。比如说韩国女运动员在东京奥运会拿到了两块金牌，但是因为留短发就被大量韩国传统男权网民集体攻击，痛骂她们给韩国丢脸。
  
 
-![](/images/btnews/0401_0500/0418/03e913d2-259c-4334-9786-6e8906406ded.webp)
+![](/images/btnews/btnews/0401_0500/0418/03e913d2-259c-4334-9786-6e8906406ded.webp)
 
 
 
@@ -210,7 +210,7 @@ https://www.chinairn.com/news/20190924/174653275.shtml
 
 
 
-![](/images/btnews/0401_0500/0418/9cbd58eb-ffb3-4f00-b7b2-310b05327ab7.webp)
+![](/images/btnews/btnews/0401_0500/0418/9cbd58eb-ffb3-4f00-b7b2-310b05327ab7.webp)
 
 
 
@@ -224,10 +224,10 @@ https://www.chinairn.com/news/20190924/174653275.shtml
 
 
 
-![](/images/btnews/0401_0500/0418/603018cf-4609-437e-af85-0a67af9e7ae5.webp)
+![](/images/btnews/btnews/0401_0500/0418/603018cf-4609-437e-af85-0a67af9e7ae5.webp)
 
 
-![](/images/btnews/0401_0500/0418/1c84c37e-46ac-4b89-812a-92618e397316.webp)
+![](/images/btnews/btnews/0401_0500/0418/1c84c37e-46ac-4b89-812a-92618e397316.webp)
 
 
 
@@ -256,7 +256,7 @@ https://www.chinairn.com/news/20190924/174653275.shtml
 
 
 
-![](/images/btnews/0401_0500/0418/b9fc9d0d-67e7-4582-b205-63e0958cd61f.webp)
+![](/images/btnews/btnews/0401_0500/0418/b9fc9d0d-67e7-4582-b205-63e0958cd61f.webp)
 
 https://baijiahao.baidu.com/s?id=1729519980275893182
 

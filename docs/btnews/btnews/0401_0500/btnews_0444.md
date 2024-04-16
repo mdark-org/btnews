@@ -4,7 +4,7 @@ date: 2022-06-12
 ---
 
 
-![](/images/btnews/0401_0500/0444/3972e7e3-3ee4-4d04-bcf2-a52a5198aeb4.webp)
+![](/images/btnews/btnews/0401_0500/0444/3972e7e3-3ee4-4d04-bcf2-a52a5198aeb4.webp)
 
 
 
@@ -46,17 +46,17 @@ https://www.163.com/dy/article/H93R9NA50534A4SC.html
 
 
 
-![](/images/btnews/0401_0500/0444/0d9d8737-c439-4a9a-bad5-84e417bb45d7.webp)
+![](/images/btnews/btnews/0401_0500/0444/0d9d8737-c439-4a9a-bad5-84e417bb45d7.webp)
 
 
 《新华字典》逐步升级到《辞海》，说明普通人在深入现代社会的过程中，要不断获得更丰富的百科全书。这对应到21世纪的情况，就是想认真做内容的人必须掌握搜索能力。我这个水平的用好百度就可以；我的同事要用维基百科和更强的搜索引擎；发表严肃论文的学者必须用专业搜索，还要买一些收费的数据库。而这一切的起点，都是《新华字典》。
 
 
 
-![](/images/btnews/0401_0500/0444/f537a058-7e00-4101-abc6-cd2407167b2d.webp)
+![](/images/btnews/btnews/0401_0500/0444/f537a058-7e00-4101-abc6-cd2407167b2d.webp)
 
 
-![](/images/btnews/0401_0500/0444/76315c1f-f4fe-4613-81c4-eed0643499ae.webp)
+![](/images/btnews/btnews/0401_0500/0444/76315c1f-f4fe-4613-81c4-eed0643499ae.webp)
 
 
 
@@ -79,7 +79,7 @@ https://www.163.com/dy/article/H93R9NA50534A4SC.html
 
 
 
-![](/images/btnews/0401_0500/0444/a025807d-69df-4beb-ab49-27978b316e2b.webp)
+![](/images/btnews/btnews/0401_0500/0444/a025807d-69df-4beb-ab49-27978b316e2b.webp)
 
 
 
@@ -87,7 +87,7 @@ https://www.163.com/dy/article/H93R9NA50534A4SC.html
 
 
 
-![](/images/btnews/0401_0500/0444/204e300f-3cb4-4c93-9299-792342824c0a.webp)
+![](/images/btnews/btnews/0401_0500/0444/204e300f-3cb4-4c93-9299-792342824c0a.webp)
 
 
 回头看《新华字典》的定义，我到人民网找到了最权威的解释，2019年10月26日人民日报采访《新华字典》第十版主编程荣的文章。
@@ -110,7 +110,7 @@ https://baijiahao.baidu.com/s?id=1648427088144679437
 
 
 
-![](/images/btnews/0401_0500/0444/175d2628-0f98-4000-8982-324977966b79.webp)
+![](/images/btnews/btnews/0401_0500/0444/175d2628-0f98-4000-8982-324977966b79.webp)
 
 
 
@@ -130,7 +130,7 @@ https://baijiahao.baidu.com/s?id=1648427088144679437
 
 
 
-![](/images/btnews/0401_0500/0444/889c4eb6-50ed-4675-afb0-f8e48479ce32.webp)
+![](/images/btnews/btnews/0401_0500/0444/889c4eb6-50ed-4675-afb0-f8e48479ce32.webp)
 
 
 
@@ -150,7 +150,7 @@ https://baijiahao.baidu.com/s?id=1648427088144679437
 
 
 
-![](/images/btnews/0401_0500/0444/f1a93e72-72ef-4f1d-8de5-9704c49959eb.webp)
+![](/images/btnews/btnews/0401_0500/0444/f1a93e72-72ef-4f1d-8de5-9704c49959eb.webp)
 https://view.inews.qq.com/a/20220603A0A2ML00
 
 
@@ -158,7 +158,7 @@ https://view.inews.qq.com/a/20220603A0A2ML00
 
 
 
-![](/images/btnews/0401_0500/0444/bc513f26-3e1b-4f1d-9c22-5b25faa72c0b.webp)
+![](/images/btnews/btnews/0401_0500/0444/bc513f26-3e1b-4f1d-9c22-5b25faa72c0b.webp)
 
 https://news.ifeng.com/c/8Gayy3WlV6i
 
@@ -180,7 +180,7 @@ https://news.ifeng.com/c/8Gayy3WlV6i
 
 
 
-![](/images/btnews/0401_0500/0444/b947ea73-949f-44c6-9113-1bb9c33b1d72.webp)
+![](/images/btnews/btnews/0401_0500/0444/b947ea73-949f-44c6-9113-1bb9c33b1d72.webp)
 
 
 
@@ -221,7 +221,7 @@ https://baijiahao.baidu.com/s?id=1615408801844394454
 
 
 
-![](/images/btnews/0401_0500/0444/725af62b-b791-4694-a271-f1ecbf32e61b.webp)
+![](/images/btnews/btnews/0401_0500/0444/725af62b-b791-4694-a271-f1ecbf32e61b.webp)
 https://www.spp.gov.cn/zdgz/201811/t20181103_397452.shtml
 
 
@@ -329,5 +329,5 @@ http://www.gx.chinanews.com.cn/kjwt/2022-06-02/detail-ihayxecq9566784.shtml
 
 视频版【睡前消息】每周2,5,7发布在B站
 
-![](/images/btnews/0401_0500/0444/54c143ab-4275-4684-ba12-e253b5e4833a.webp)
+![](/images/btnews/btnews/0401_0500/0444/54c143ab-4275-4684-ba12-e253b5e4833a.webp)
 

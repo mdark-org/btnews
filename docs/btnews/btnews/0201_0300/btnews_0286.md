@@ -40,7 +40,7 @@ date: 2021-06-11
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1690449949642060609&wfr=spider&for=pc)
 
-![](/images/btnews/0201_0300/0286/image1.webp)
+![](/images/btnews/btnews/0201_0300/0286/image1.webp)
 
 [2021年各省一季度用了多少电？\_中国数据_聚汇数据](http://data.gotohui.com/list/157443.html)
 
@@ -48,11 +48,11 @@ date: 2021-06-11
 
 广东所属的南方电网在结构上问题比较大，覆盖范围只有广东、广西、云南、贵州四个省，加上只相当于一个地级市的海南。从工业资源分布来看，南方电网的制造业中心和经济中心在广东，水电分布在珠江中上游流域，火电资源集中在云贵地区的煤矿电厂。所以在南方电网的主要工作就是西电东送，每年要从西向东送两千多亿度电。
 
-![](/images/btnews/0201_0300/0286/image2.webp)
+![](/images/btnews/btnews/0201_0300/0286/image2.webp)
 
-![](/images/btnews/0201_0300/0286/image3.webp)
+![](/images/btnews/btnews/0201_0300/0286/image3.webp)
 
-![](/images/btnews/0201_0300/0286/image4.webp)
+![](/images/btnews/btnews/0201_0300/0286/image4.webp)
 
 电网虽然是国企，但终究是企业，只管送电，管不了各个省的发电用电。所以一旦出现省与省之间抢电的问题，电网也只能输送各省愿意外送的电力。
 
@@ -78,9 +78,9 @@ date: 2021-06-11
 
 [05月31日秦皇岛动力煤为900元-化工网](http://news.chemnet.com/detail-3733236.html)
 
-![](/images/btnews/0201_0300/0286/image5.webp)
+![](/images/btnews/btnews/0201_0300/0286/image5.webp)
 
-![](/images/btnews/0201_0300/0286/image6.webp)
+![](/images/btnews/btnews/0201_0300/0286/image6.webp)
 
 [](http://news.10jqka.com.cn/20210604/c629958384.shtml)
 
@@ -104,7 +104,7 @@ date: 2021-06-11
 
 国内煤炭市场供应紧张，导致很多发电企业只能用劣质煤应急发电。劣质煤热值低，排放量大，已经制订了碳排放指标的地方，普遍出现超额排放。南方很多省份，包括广东，也会因此限制企业从电网买电。
 
-![](/images/btnews/0201_0300/0286/image7.webp)
+![](/images/btnews/btnews/0201_0300/0286/image7.webp)
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1698536429479790372&wfr=spider&for=pc)
 
@@ -144,19 +144,19 @@ date: 2021-06-11
 
 [两大电网互联！闽粤联网工程开工-腾讯新闻](https://xw.qq.com/cmsid/20210423A08ST800)
 
-![](/images/btnews/0201_0300/0286/image8.webp)
+![](/images/btnews/btnews/0201_0300/0286/image8.webp)
 
-![](/images/btnews/0201_0300/0286/image9.webp)
+![](/images/btnews/btnews/0201_0300/0286/image9.webp)
 
-![](/images/btnews/0201_0300/0286/image10.webp)
+![](/images/btnews/btnews/0201_0300/0286/image10.webp)
 
-![](/images/btnews/0201_0300/0286/image11.webp)
+![](/images/btnews/btnews/0201_0300/0286/image11.webp)
 
-![](/images/btnews/0201_0300/0286/image12.webp)
+![](/images/btnews/btnews/0201_0300/0286/image12.webp)
 
 从广东缺电的问题来看，沿海省份要保持经济增长，离不开内陆腹地的支持。腹地越是广阔，经济后劲就越大。中国人均GDP最高的台湾省，高度依赖于本土水电，今年台风少，已经出现了频繁的停电问题，打击了作为经济支柱的电子工业。前天台中火电厂煤仓出现严重火灾，很可能是一个转折点，给今年台湾经济造成严重破坏。
 
-![](/images/btnews/0201_0300/0286/image13.webp)
+![](/images/btnews/btnews/0201_0300/0286/image13.webp)
 
 相比之下，而海南岛早就在海口附近建设了跨海电力通道，和整个南方电网连通，就很少停电问题。
 
@@ -214,6 +214,6 @@ date: 2021-06-11
 
 至于其他地区的观众，我咨询了这部电影的制作团队，他们建议大家可以联合起来，找影院排片，30人左右就差不多。电影柳青的官方微博提供了一些支持，各位可以关注一下。
 
-![](/images/btnews/0201_0300/0286/image14.webp)
+![](/images/btnews/btnews/0201_0300/0286/image14.webp)
 
 好，286期睡前消息到此结束，感谢各位收看，这里预祝各位端午节假期愉快。我们周日再见！
