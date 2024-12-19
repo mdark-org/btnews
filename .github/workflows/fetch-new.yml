@@ -77,7 +77,7 @@ jobs:
             add-paths: |
               docs/**/*.md
               images/**/*.webp
-            base: content
+            base: master
             body: |
               new ${{steps.fetch.outputs.category}} ${{ steps.fetch.outputs.title }}
               ${{ steps.fetch.outputs.msg }}
