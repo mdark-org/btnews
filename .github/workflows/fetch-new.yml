@@ -42,7 +42,7 @@ jobs:
       steps:
         - uses: actions/checkout@v4
           with:
-            ref: 'content'
+            ref: 'master'
         - name: setup node
           uses: actions/setup-node@v3
           with:
