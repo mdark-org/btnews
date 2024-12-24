@@ -1,9 +1,8 @@
 ---
-title: 【睡前消息0843】考研退潮 都去考公了？
+title: 【睡前消息843】考研退潮 都去考公了？
 description: 考研人数连续两年下降，比顶峰少了86万，与其同时公务员考试报名人数继续提升。两件事有直接联系吗？
-tag: []
+tag: [公务员,考公,考研,就业]
 date: 2024-12-20
-category: main
 ytid: F5K36McN4IQ
 bvid: BV1dik1YPERM
 ---
