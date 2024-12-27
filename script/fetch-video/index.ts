@@ -64,9 +64,11 @@ function getPathAndIndexByTitle(title:string) {
   const end = (Math.ceil(intIdx/100) * 100).toString().padStart(4, '0')
   const current = intIdx.toString().padStart(4, '0')
 
-  const p =   `docs/btnews/${category}/${start}_${end}/${category}_${current}.md`
+  const p =   `docs/btnews/${category}/${start}_${end}`
+  const fp = `${p}/${category}_${current}.md`
   return {
     p,
+    fp,
     index: intIdx,
     category
   }
@@ -86,14 +88,15 @@ async function main() {
   const cid = detail.data.cid
   const avid = detail.data.aid
   const pubtime =  detail.data.pubdate // timestamp 10
-  const {p, category, index} = getPathAndIndexByTitle(title)
+  const {p, category, index,fp} = getPathAndIndexByTitle(title)
   // const index 889
   let exist = false
   if(fs.existsSync(p)) {
     exist = true
   }
   ghac.setOutput('exist', exist);
-  ghac.setOutput('filepath', p);
+  ghac.setOutput('path', p);
+  ghac.setOutput('filepath', fp);
   ghac.setOutput('index', index);
   ghac.setOutput('title', title);
   ghac.setOutput('avid', avid);

@@ -22,6 +22,7 @@ jobs:
     outputs:
       exist: ${{ steps.get-video.outputs.exist }}
       filepath: ${{ steps.get-video.outputs.filepath }}
+      path: ${{ steps.get-video.outputs.path }}
       index: ${{ steps.get-video.outputs.index }}
       date: ${{ steps.get-video.outputs.date }}
       avid: ${{ steps.get-video.outputs.avid }}
@@ -192,6 +193,7 @@ jobs:
           ---
           ' >> tmp.md
           ls -l tmp1
+          mkdir -p ${{ needs.prepare-video-meta.outputs.path }}
           cat tmp1/output.md >> tmp.md
           mv tmp.md ${{ needs.prepare-video-meta.outputs.filepath }}
       - name: Upload res.md
