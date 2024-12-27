@@ -54,20 +54,19 @@ jobs:
           ls -l /usr/local/bin
           ls -l
           tar -xvzf lux_0.24.1_Linux_arm64.tar.gz -C /usr/local/bin
-          mkdir -p /usr/local/ffmpeg
-          tar -xvJf 	ffmpeg-release-arm64-static.tar.xz -C /usr/local/
-          mv /usr/local/ffmpeg-7.0.2-arm64-static/* /usr/local/ffmpeg
-          echo "hello"
-          ls -l /usr/local/ffmpeg
+          mkdir -p $PWD/ffmpeg
+          tar -xvJf ffmpeg-release-arm64-static.tar.xz -C $PWD
+          mv $PWD/ffmpeg-7.0.2-arm64-static/* $PWD/ffmpeg
+          ls -l $PWD/ffmpeg
           export PATH=/usr/local/bin:$PATH
-          export PATH=/usr/local/ffmpeg:$PATH
-          chmod +x /usr/local/ffmpeg/ffmpeg
-          ls -l /usr/local/ffmpeg
+          export PATH=$PWD/ffmpeg:$PATH
+          chmod +x $PWD/ffmpeg/ffmpeg
+          ls -l $PWD/ffmpeg
           mkdir -p test
       - name: download audio
         run: |
           export PATH=/usr/local/bin:$PATH
-          export PATH=/usr/local/ffmpeg:$PATH
+          export PATH=$PWD/ffmpeg:$PATH
           echo $PATH
           ffmpeg -version
           lux -O=output -o=test ${{env.url}}
@@ -75,7 +74,7 @@ jobs:
       - name: convert to mp3
         run: |
           export PATH=/usr/local/bin:$PATH
-          export PATH=/usr/local/ffmpeg:$PATH
+          export PATH=$PWD/ffmpeg:$PATH
           echo $PATH
           ls -l
           ls -l test
