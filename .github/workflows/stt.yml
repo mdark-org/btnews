@@ -19,6 +19,12 @@ jobs:
 # fetch audio by input & auto schedule
   prepare-video-meta:
     runs-on: ubuntu-latest
+    strategy:
+# - os: linux arch: arm64
+      matrix:
+        include:
+          - os: linux
+            arch: amd64
     outputs:
       exist: ${{ steps.get-video.outputs.exist }}
       filepath: ${{ steps.get-video.outputs.filepath }}
@@ -48,15 +54,17 @@ jobs:
       category: ${{ needs.prepare-video-meta.outputs.category }}
     steps:
       - name: install lux & ffmpeg
+        # https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
+        # https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
         run: |
-          wget https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_arm64.tar.gz
-          wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-arm64-static.tar.xz
+          wget https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
+          wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
           ls -l /usr/local/bin
           ls -l
-          tar -xvzf lux_0.24.1_Linux_arm64.tar.gz -C /usr/local/bin
+          tar -xvzf lux_0.24.1_Linux_x86_64.tar.gz -C /usr/local/bin
           mkdir -p $PWD/ffmpeg
-          tar -xvJf ffmpeg-release-arm64-static.tar.xz -C $PWD
-          mv $PWD/ffmpeg-7.0.2-arm64-static/* $PWD/ffmpeg
+          tar -xvJf ffmpeg-release-amd64-static.tar.xz -C $PWD
+          mv $PWD/ffmpeg-7.0.2-amd64-static/* $PWD/ffmpeg
           ls -l $PWD/ffmpeg
           export PATH=/usr/local/bin:$PATH
           export PATH=$PWD/ffmpeg:$PATH
