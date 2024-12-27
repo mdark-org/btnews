@@ -196,13 +196,6 @@ jobs:
           mkdir -p ${{ needs.prepare-video-meta.outputs.path }}
           cat tmp1/output.md >> tmp.md
           mv tmp.md ${{ needs.prepare-video-meta.outputs.filepath }}
-      - name: Upload res.md
-        uses: actions/upload-artifact@v4
-        with:
-          name: tmp.md
-          path: tmp.md
-          if-no-files-found: error
-          retention-days: 1
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v5
