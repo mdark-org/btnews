@@ -91,7 +91,7 @@ async function main() {
   const {p, category, index,fp} = getPathAndIndexByTitle(title)
   // const index 889
   let exist = false
-  if(fs.existsSync(p)) {
+  if(fs.existsSync(fp)) {
     exist = true
   }
   ghac.setOutput('exist', exist);
