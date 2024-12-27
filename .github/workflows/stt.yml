@@ -175,12 +175,12 @@ jobs:
     needs: [stt, prepare-video-meta]
     steps:
       - name: mkdir
-        run: mkdir -p /tmp1
+        run: mkdir -p tmp1
       - name: Download output.md
         uses: actions/download-artifact@v4
         with:
           name: output.md
-          path: /tmp1
+          path: tmp1
       - name: createHead
         run: |
           echo '---
@@ -191,8 +191,8 @@ jobs:
           bvid: ${{needs.prepare-video-meta.outputs.bvid }}
           ---
           ' >> tmp.md
-          ls -l /tmp1
-          cat /tmp1/output.md >> tmp.md
+          ls -l tmp1
+          cat tmp1/output.md >> tmp.md
           mv tmp.md ${{ needs.prepare-video-meta.outputs.filepath }}
       - name: Upload res.md
         uses: actions/upload-artifact@v4
