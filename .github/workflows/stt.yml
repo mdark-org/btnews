@@ -102,6 +102,13 @@ jobs:
       - name: verify shasum
         run: | 
           shasum test/output.mp4
+      - name: Upload output.mp4
+        uses: actions/upload-artifact@v4
+        with:
+          name: output.mp4
+          path: test/output.mp4
+          if-no-files-found: error
+          retention-days: 1
       - name: convert to mp3
         run: |
           export PATH=/usr/local/bin:$PATH
