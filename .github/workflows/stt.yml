@@ -81,7 +81,7 @@ jobs:
           export PATH=$PWD/ffmpeg:$PATH
           echo $PATH
           ffmpeg -version
-          BBDown --file-pattern test/output.mp4 ${{env.url}}
+          BBDown --debug --file-pattern test/output.mp4 ${{env.url}}
           ls -l
 #          lux -O=output -o=test ${{env.url}}
 
