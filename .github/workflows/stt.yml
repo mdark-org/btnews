@@ -19,12 +19,6 @@ jobs:
 # fetch audio by input & auto schedule
   prepare-video-meta:
     runs-on: ubuntu-latest
-    strategy:
-# - os: linux arch: arm64
-      matrix:
-        include:
-          - os: linux
-            arch: amd64
     outputs:
       exist: ${{ steps.get-video.outputs.exist }}
       filepath: ${{ steps.get-video.outputs.filepath }}
@@ -48,6 +42,11 @@ jobs:
   fetch-audio:
     runs-on: ubuntu-latest
     needs: [prepare-video-meta]
+    strategy:
+      matrix:
+        include:
+          - os: linux
+            arch: arm64
     if: ${{ needs.prepare-video-meta.outputs.exist == 'false' }}
     env:
       url: https://www.bilibili.com/video/${{needs.prepare-video-meta.outputs.bvid }}
@@ -57,10 +56,10 @@ jobs:
       - name: install ffmpeg
         # https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
         run: |
-          wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
+          wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-${{ matrix.include.arch }}-static.tar.xz
           mkdir -p $PWD/ffmpeg
-          tar -xvJf ffmpeg-release-amd64-static.tar.xz -C $PWD
-          mv $PWD/ffmpeg-7.0.2-amd64-static/* $PWD/ffmpeg
+          tar -xvJf ffmpeg-release-${{ matrix.include.arch }}-static.tar.xz -C $PWD
+          mv $PWD/ffmpeg-7.0.2-${{ matrix.include.arch }}-static/* $PWD/ffmpeg
       - name: install downloader
         # https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
         # https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
