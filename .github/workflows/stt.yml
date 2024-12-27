@@ -41,7 +41,7 @@ jobs:
   fetch-audio:
     runs-on: ubuntu-latest
     needs: [prepare-video-meta]
-    if: needs.prepare-video-meta.outputs.exist == false
+    if: ${{ needs.prepare-video-meta.outputs.exist == 'false' }}
     env:
       url: https://www.bilibili.com/video/${{needs.prepare-video-meta.outputs.bvid }}
       title: ${{ needs.prepare-video-meta.outputs.title }}
@@ -89,7 +89,7 @@ jobs:
           retention-days: 1
   stt:
     runs-on: ubuntu-latest
-    if: needs.prepare-video-meta.outputs.exist == false
+    if: ${{ needs.prepare-video-meta.outputs.exist == 'false' }}
     needs:
       - fetch-audio
     steps:
@@ -133,7 +133,7 @@ jobs:
           if-no-files-found: error
           retention-days: 1
   create-pr:
-    if: needs.prepare-video-meta.outputs.exist == false
+    if: ${{ needs.prepare-video-meta.outputs.exist == 'false' }}
     runs-on: ubuntu-latest
     needs: [stt, prepare-video-meta]
     steps:
