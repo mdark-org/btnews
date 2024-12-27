@@ -31,6 +31,7 @@ jobs:
       index: ${{ steps.get-video.outputs.index }}
       date: ${{ steps.get-video.outputs.date }}
       bvid: ${{ steps.get-video.outputs.bvid }}
+      cid: ${{ steps.get-video.outputs.cid }}
       title: ${{ steps.get-video.outputs.title }}
       description: ${{ steps.get-video.outputs.tidescriptiontle }}
       category: ${{ steps.get-video.outputs.category }}
@@ -77,21 +78,17 @@ jobs:
 #          BBDown --debug --file-pattern test/output.mp4 ${{env.url}}
 #          ls -l
 #      download with curl
-      - name: get detail
-        id: get-video-info
-        run: |
-          curl https://api.bilibili.com/x/web-interface/view?bvid=${{ steps.get-video.outputs.bvid }} | jq -r '.data.cid' | xargs -I {} echo "CID={}"  >> "$GITHUB_OUTPUT"
       - name: get stream
         id: get-stream
         run: |
-          echo 'cid:${{ steps.get-video-info.outputs.CID }}'
-          curl 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ github.event.inputs.bvid }}&cid=${{ steps.get-video-info.outputs.CID }}' \
+          echo 'cid:${{ steps.get-video.outputs.cid }}'
+          curl -i 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ github.event.inputs.bvid }}&cid=${{ steps.get-video.outputs.cid }}' \
             -H 'referer: https://www.bilibili.com/' \
             -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' | jq -r '.data.durl[0].url' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
       - name: get video
         run: |
           mkdir -p test
-          curl '${{steps.get-stream.outputs.STREAM_URL}}' \
+          curl -i '${{steps.get-stream.outputs.STREAM_URL}}' \
             -H 'referer: https://www.bilibili.com/' \
             -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test/output.mp4
 

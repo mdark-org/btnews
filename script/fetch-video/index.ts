@@ -81,6 +81,7 @@ async function main() {
   const detail = await fetch(`https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`).then(res => res.json())
   const title = detail.data.title
   const description = detail.data.desc
+  const cid = detail.data.cid
   const pubtime =  detail.data.pubdate // timestamp 10
   const {p, category, index} = getPathAndIndexByTitle(title)
   // const index 889
@@ -93,6 +94,7 @@ async function main() {
   ghac.setOutput('index', index);
   ghac.setOutput('title', title);
   ghac.setOutput('bvid', bvid);
+  ghac.setOutput('cid', cid);
   ghac.setOutput('date', pubtime);
   ghac.setOutput('description', description);
   ghac.setOutput('category', category);
