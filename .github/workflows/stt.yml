@@ -1,0 +1,189 @@
+name: stt
+on:
+  workflow_dispatch:
+    inputs:
+      bvid:
+        description: 'Bilibili bvid'
+        required: false
+      category:
+        description: 'category'
+        type: choice
+        options:
+          - btnews
+          - commercial
+          - opinion
+        required: false
+  schedule:
+    - cron: '0 22 * * *'
+jobs:
+# fetch audio by input & auto schedule
+  prepare-video-meta:
+    runs-on: ubuntu-latest
+    outputs:
+      exist: ${{ steps.get-video.outputs.exist }}
+      filepath: ${{ steps.get-video.outputs.filepath }}
+      index: ${{ steps.get-video.outputs.index }}
+      date: ${{ steps.get-video.outputs.date }}
+      bvid: ${{ steps.get-video.outputs.bvid }}
+      title: ${{ steps.get-video.outputs.title }}
+      description: ${{ steps.get-video.outputs.tidescriptiontle }}
+      category: ${{ steps.get-video.outputs.category }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: install deps
+        run: npm install
+      - name: fetch user audio video
+        id: get-video
+        run: npm run get-video -- --category ${{ github.event.inputs.category }} --bv ${{ github.event.inputs.bvid }}
+  fetch-audio:
+    runs-on: ubuntu-latest
+    needs: [prepare-video-meta]
+    if: needs.prepare-video-meta.outputs.exist == false
+    env:
+      url: https://www.bilibili.com/video/${{needs.prepare-video-meta.outputs.bvid }}
+      title: ${{ needs.prepare-video-meta.outputs.title }}
+      category: ${{ needs.prepare-video-meta.outputs.category }}
+    steps:
+      - name: install lux & ffmpeg
+        run: |
+          wget https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_arm64.tar.gz
+          wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-arm64-static.tar.xz
+          ls -l /usr/local/bin
+          ls -l
+          tar -xvzf lux_0.24.1_Linux_arm64.tar.gz -C /usr/local/bin
+          mkdir -p /usr/local/ffmpeg
+          tar -xvJf 	ffmpeg-release-arm64-static.tar.xz -C /usr/local/
+          mv /usr/local/ffmpeg-7.0.2-arm64-static/* /usr/local/ffmpeg
+          echo "hello"
+          ls -l /usr/local/ffmpeg
+          export PATH=/usr/local/bin:$PATH
+          export PATH=/usr/local/ffmpeg:$PATH
+          chmod +x /usr/local/ffmpeg/ffmpeg
+          ls -l /usr/local/ffmpeg
+          mkdir -p test
+      - name: download audio
+        run: |
+          export PATH=/usr/local/bin:$PATH
+          export PATH=/usr/local/ffmpeg:$PATH
+          echo $PATH
+          ffmpeg -version
+          lux -O=output -o=test ${{env.url}}
+          ls -l
+      - name: convert to mp3
+        run: |
+          export PATH=/usr/local/bin:$PATH
+          export PATH=/usr/local/ffmpeg:$PATH
+          echo $PATH
+          ls -l
+          ls -l test
+          ffmpeg -i test/output.mp4 test/output.mp3
+      - name: Upload output.mp3
+        uses: actions/upload-artifact@v4
+        with:
+          name: output.mp3
+          path: test/output.mp3
+          if-no-files-found: error
+          retention-days: 1
+  stt:
+    runs-on: ubuntu-latest
+    if: needs.prepare-video-meta.outputs.exist == false
+    needs:
+      - fetch-audio
+    steps:
+      - name: Download output.mp3
+        uses: actions/download-artifact@v4
+        with:
+          name: output.mp3
+          path: /tmp
+      - name: upload to dify
+        id: difyfile
+        run: |
+          curl -X POST 'https://api.dify.ai/v1/files/upload' \
+          --header 'Authorization: Bearer ${{secrets.DIFY_TOKEN}}' \
+          --form 'file=@/tmp/output.mp3;type=audio/mp3' \
+          --form 'user=${{secrets.DIFY_USER}}' | jq -r '.id' | xargs -I {} echo "DIFY_AUDIO_FILE_ID={}"  >> "$GITHUB_OUTPUT"
+      - name: call dify
+        run: |
+          echo $DIFY_AUDIO_FILE_ID
+          curl --max-time 600 -X POST 'https://api.dify.ai/v1/workflows/run' \
+          --header 'Authorization: Bearer ${{secrets.DIFY_TOKEN}}' \
+          --header 'Content-Type: application/json' \
+          --data-raw '{
+            "inputs": {
+              "audio": {
+                "transfer_method": "local_file",
+                "upload_file_id": "${{ steps.difyfile.outputs.DIFY_AUDIO_FILE_ID }}",
+                "type": "audio"
+              }
+            },
+            "response_mode": "blocking",
+            "user": "${{secrets.DIFY_USER}}"
+          }' | jq -r '.data.outputs.text' > output.md
+      - name: show result
+        run: |
+          cat output.md
+      - name: Upload output.md
+        uses: actions/upload-artifact@v4
+        with:
+          name: output.md
+          path: output.md
+          if-no-files-found: error
+          retention-days: 1
+  create-pr:
+    if: needs.prepare-video-meta.outputs.exist == false
+    runs-on: ubuntu-latest
+    needs: [stt, prepare-video-meta]
+    steps:
+      - name: mkdir
+        run: mkdir -p /tmp1
+      - name: Download output.md
+        uses: actions/download-artifact@v4
+        with:
+          name: output.md
+          path: /tmp1
+      - name: createHead
+        run: |
+          echo '---
+          title: ${{needs.prepare-video-meta.outputs.title }}
+          description: ${{needs.prepare-video-meta.outputs.description }}
+          tag: []
+          date: ${{needs.prepare-video-meta.outputs.date }}
+          bvid: ${{needs.prepare-video-meta.outputs.bvid }}
+          ---
+          ' >> tmp.md
+          ls -l /tmp1
+          cat /tmp1/output.md >> tmp.md
+          mv tmp.md ${{ needs.prepare-video-meta.outputs.filepath }}
+      - name: Upload res.md
+        uses: actions/upload-artifact@v4
+        with:
+          name: tmp.md
+          path: tmp.md
+          if-no-files-found: error
+          retention-days: 1
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.PAT }}
+          commit-message: ":memo: new ${{needs.prepare-video-meta.outputs.category}} ${{ needs.prepare-video-meta.outputs.title }}"
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          delete-branch: true
+          branch: fetch/${{ needs.prepare-video-meta.outputs.index }}
+          title: ':memo: new ${{needs.prepare-video-meta.outputs.category}} ${{ needs.prepare-video-meta.outputs.title }}'
+          add-paths: |
+            docs/**/*.md
+            images/**/*.webp
+          base: master
+          body: |
+            new ${{needs.prepare-video-meta.outputs.category}} ${{ needs.prepare-video-meta.outputs.title }}
+            - Auto-generated by action: [create-pull-request](https://github.com/peter-evans/create-pull-request) with dify
+          labels: |
+            ${{needs.prepare-video-meta.outputs.category}}
+            automated pr
+          draft: false

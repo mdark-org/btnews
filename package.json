@@ -4,7 +4,8 @@
   "scripts": {
     "get:new": "ts-node script/index.ts",
     "pure": "rm -rf node_modules",
-    "gh-fetch": "node -r ts-node/register --env-file=.env ./script/index.ts"
+    "gh-fetch": "node -r ts-node/register --env-file=.env ./script/index.ts",
+    "get-video": "node -r ts-node/register ./script/fetch-video/index.ts"
   },
   "description": "睡前消息文稿合集",
   "license": "MIT",
@@ -18,9 +19,9 @@
     "dotenv": "^16.4.5",
     "sharp": "^0.32.6",
     "typescript": "^5.2.2",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "ts-node": "^10.9.2"
   },
   "dependencies": {
-    "ts-node": "^10.9.2"
   }
 }
