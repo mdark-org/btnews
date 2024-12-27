@@ -1,0 +1,34 @@
+name: bili-downloader-test
+on:
+  workflow_dispatch:
+    inputs:
+      bvid:
+        description: 'Bilibili bvid'
+        required: true
+jobs:
+  # fetch audio by input & auto schedule
+  fetch:
+    runs-on: ubuntu-latest
+    strategy:
+      # - os: linux arch: arm64
+      matrix:
+        include:
+          - os: linux
+            arch: amd64
+    steps:
+      - name: get detail
+        id: get-video-info
+        run: |
+          curl https://api.bilibili.com/x/web-interface/view?bvid=${{ github.event.inputs.bvid }} | jq -r '.data.cid' | xargs -I {} echo "CID={}"  >> "$GITHUB_OUTPUT"
+      - name: get stream
+        id: get-stream
+        run: |
+          echo 'cid:${{ steps.get-video-info.outputs.CID }}'
+          curl 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ github.event.inputs.bvid }}&cid=${{ steps.get-video-info.outputs.CID }}' \
+            -H 'referer: https://www.bilibili.com/' \
+            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' | jq -r '.data.durl[0].url' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
+      - name: get video
+        run: |
+          curl '${{steps.get-stream.outputs.STREAM_URL}}' \
+            -H 'referer: https://www.bilibili.com/' \
+            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test-output.mp4
