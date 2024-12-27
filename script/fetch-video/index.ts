@@ -58,10 +58,12 @@ function getPathAndIndexByTitle(title:string) {
   const [, type, index ] = regex.exec(title)!
   const category = categoryMap[type as keyof typeof categoryMap]
   const intIdx = parseInt(index)
-  const rest = intIdx%100 > 0 ? 0 : 1
-  const start = (Math.floor(intIdx/100) * 100 + rest).toString().padStart(4, '0')
+  const rest = intIdx%100 > 0 ? 0 : -1
+
+  const start = (Math.floor(intIdx/100 + rest) * 100 + 1).toString().padStart(4, '0')
   const end = (Math.ceil(intIdx/100) * 100).toString().padStart(4, '0')
   const current = intIdx.toString().padStart(4, '0')
+
   const p =   `docs/btnews/${category}/${start}_${end}/${category}_${current}.md`
   return {
     p,
