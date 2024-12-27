@@ -53,32 +53,38 @@ jobs:
       title: ${{ needs.prepare-video-meta.outputs.title }}
       category: ${{ needs.prepare-video-meta.outputs.category }}
     steps:
-      - name: install lux & ffmpeg
-        # https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
+      - name: install ffmpeg
         # https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
         run: |
-          wget https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
           wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
-          ls -l /usr/local/bin
-          ls -l
-          tar -xvzf lux_0.24.1_Linux_x86_64.tar.gz -C /usr/local/bin
           mkdir -p $PWD/ffmpeg
           tar -xvJf ffmpeg-release-amd64-static.tar.xz -C $PWD
           mv $PWD/ffmpeg-7.0.2-amd64-static/* $PWD/ffmpeg
-          ls -l $PWD/ffmpeg
-          export PATH=/usr/local/bin:$PATH
-          export PATH=$PWD/ffmpeg:$PATH
-          chmod +x $PWD/ffmpeg/ffmpeg
-          ls -l $PWD/ffmpeg
-          mkdir -p test
+      - name: install downloader
+        # https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
+        # https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
+        run: |
+          wget https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_linux-x64.zip
+          unzip BBDown_1.6.3_20240814_linux-x64.zip -d /usr/local/bin
+          chmod +x /usr/local/bin/BBDown
+#                    export PATH=/usr/local/bin:$PATH
+      #          export PATH=$PWD/ffmpeg:$PATH
+      #          chmod +x $PWD/ffmpeg/ffmpeg
+#                    wget https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
+      #          ls -l /usr/local/bin
+      #          ls -l
+      #          tar -xvzf lux_0.24.1_Linux_x86_64.tar.gz -C /usr/local/bin
+#                mkdir -p test
       - name: download audio
         run: |
           export PATH=/usr/local/bin:$PATH
           export PATH=$PWD/ffmpeg:$PATH
           echo $PATH
           ffmpeg -version
-          lux -O=output -o=test ${{env.url}}
+          BBDown --file-pattern test/output.mp4 ${{env.url}}
           ls -l
+#          lux -O=output -o=test ${{env.url}}
+
       - name: convert to mp3
         run: |
           export PATH=/usr/local/bin:$PATH
