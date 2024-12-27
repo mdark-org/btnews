@@ -82,9 +82,11 @@ jobs:
         id: get-stream
         run: |
           echo 'cid:${{ needs.prepare-video-meta.outputs.cid }}'
-          curl -i 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ needs.prepare-video-meta.outputs.bvid }}&cid=${{ needs.prepare-video-meta.outputs.cid }}' \
+          curl 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ needs.prepare-video-meta.outputs.bvid }}&cid=${{ needs.prepare-video-meta.outputs.cid }}' \
             -H 'referer: https://www.bilibili.com/' \
-            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' | jq -r '.data.durl[0].url' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
+            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' > resp.txt
+          cat resp.txt
+          cat resp.txt | jq -r '.data.durl[0].url' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
       - name: get video
         run: |
           mkdir -p test
