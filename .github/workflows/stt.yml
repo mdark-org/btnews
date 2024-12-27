@@ -67,23 +67,33 @@ jobs:
           wget https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_linux-x64.zip
           unzip BBDown_1.6.3_20240814_linux-x64.zip -d /usr/local/bin
           chmod +x /usr/local/bin/BBDown
-#                    export PATH=/usr/local/bin:$PATH
-      #          export PATH=$PWD/ffmpeg:$PATH
-      #          chmod +x $PWD/ffmpeg/ffmpeg
-#                    wget https://github.com/iawia002/lux/releases/download/v0.24.1/lux_0.24.1_Linux_x86_64.tar.gz
-      #          ls -l /usr/local/bin
-      #          ls -l
-      #          tar -xvzf lux_0.24.1_Linux_x86_64.tar.gz -C /usr/local/bin
-#                mkdir -p test
-      - name: download audio
+      # download with a downloader
+#      - name: download audio
+#        run: |
+#          export PATH=/usr/local/bin:$PATH
+#          export PATH=$PWD/ffmpeg:$PATH
+#          echo $PATH
+#          ffmpeg -version
+#          BBDown --debug --file-pattern test/output.mp4 ${{env.url}}
+#          ls -l
+#      download with curl
+      - name: get detail
+        id: get-video-info
         run: |
-          export PATH=/usr/local/bin:$PATH
-          export PATH=$PWD/ffmpeg:$PATH
-          echo $PATH
-          ffmpeg -version
-          BBDown --debug --file-pattern test/output.mp4 ${{env.url}}
-          ls -l
-#          lux -O=output -o=test ${{env.url}}
+          curl https://api.bilibili.com/x/web-interface/view?bvid=${{ steps.get-video.outputs.bvid }} | jq -r '.data.cid' | xargs -I {} echo "CID={}"  >> "$GITHUB_OUTPUT"
+      - name: get stream
+        id: get-stream
+        run: |
+          echo 'cid:${{ steps.get-video-info.outputs.CID }}'
+          curl 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ github.event.inputs.bvid }}&cid=${{ steps.get-video-info.outputs.CID }}' \
+            -H 'referer: https://www.bilibili.com/' \
+            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' | jq -r '.data.durl[0].url' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
+      - name: get video
+        run: |
+          mkdir -p test
+          curl '${{steps.get-stream.outputs.STREAM_URL}}' \
+            -H 'referer: https://www.bilibili.com/' \
+            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test/output.mp4
 
       - name: convert to mp3
         run: |
