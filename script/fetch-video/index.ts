@@ -1,4 +1,5 @@
 
+import { Command } from 'commander';
 import * as ghac from '@actions/core';
 import fs from 'fs'
 const regex =/【(睡前消息|高见|讲点黑话)(\d{2,4})】(.+)/
