@@ -82,6 +82,7 @@ async function main() {
   const title = detail.data.title
   const description = detail.data.desc
   const cid = detail.data.cid
+  const avid = detail.data.aid
   const pubtime =  detail.data.pubdate // timestamp 10
   const {p, category, index} = getPathAndIndexByTitle(title)
   // const index 889
@@ -93,6 +94,7 @@ async function main() {
   ghac.setOutput('filepath', p);
   ghac.setOutput('index', index);
   ghac.setOutput('title', title);
+  ghac.setOutput('avid', avid);
   ghac.setOutput('bvid', bvid);
   ghac.setOutput('cid', cid);
   ghac.setOutput('date', pubtime);

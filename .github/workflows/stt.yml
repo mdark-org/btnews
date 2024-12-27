@@ -24,10 +24,11 @@ jobs:
       filepath: ${{ steps.get-video.outputs.filepath }}
       index: ${{ steps.get-video.outputs.index }}
       date: ${{ steps.get-video.outputs.date }}
+      avid: ${{ steps.get-video.outputs.avid }}
       bvid: ${{ steps.get-video.outputs.bvid }}
       cid: ${{ steps.get-video.outputs.cid }}
       title: ${{ steps.get-video.outputs.title }}
-      description: ${{ steps.get-video.outputs.tidescriptiontle }}
+      description: ${{ steps.get-video.outputs.description }}
       category: ${{ steps.get-video.outputs.category }}
     steps:
       - uses: actions/checkout@v4
@@ -81,7 +82,9 @@ jobs:
         id: get-stream
         run: |
           echo 'cid:${{ needs.prepare-video-meta.outputs.cid }}'
-          curl 'https://api.bilibili.com/x/player/wbi/playurl?bvid=${{ needs.prepare-video-meta.outputs.bvid }}&cid=${{ needs.prepare-video-meta.outputs.cid }}' \
+          echo 'avid:${{ needs.prepare-video-meta.outputs.avid }}'
+          echo 'bvid:${{ needs.prepare-video-meta.outputs.bvid }}'
+          curl '${{ secrets.BILI_PROXY }}?bvid=${{ needs.prepare-video-meta.outputs.bvid }}&cid=${{ needs.prepare-video-meta.outputs.cid }}&avid=${{ needs.prepare-video-meta.outputs.avid }}' \
             -H 'referer: https://www.bilibili.com/' \
             -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' > resp.txt
           cat resp.txt
