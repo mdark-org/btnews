@@ -90,12 +90,12 @@ jobs:
         run: |
           mkdir -p test
           mkdir -p test
-          curl -i '${{ steps.get-stream.outputs.STREAM_URL }}' \
+          curl '${{ steps.get-stream.outputs.STREAM_URL }}' \
           -H 'referer: https://www.bilibili.com/' \
           -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test/output.mp4 || true
           if [ $? -ne 0 ]; then
           echo "Downloading main video failed. Trying backup."
-          curl -i '${{ steps.get-stream.outputs.BACKUP_STREAM_URL }}' \
+          curl '${{ steps.get-stream.outputs.BACKUP_STREAM_URL }}' \
           -H 'referer: https://www.bilibili.com/' \
           -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test/output.mp4
           fi
