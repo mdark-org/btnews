@@ -83,8 +83,8 @@ jobs:
             -H 'referer: https://www.bilibili.com/' \
             -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' > resp.txt
           cat resp.txt
-          cat resp.txt | jq -r '.data.durl[0].url' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
-          cat resp.txt | jq -r '.data.durl[0].backup_url[0]' | xargs -I {} echo "BACKUP_STREAM_URL={}"  >> "$GITHUB_OUTPUT"
+          cat resp.txt | jq -r '.data.durl[0].url' | xargs -I {} echo "BACKUP_STREAM_URL={}"  >> "$GITHUB_OUTPUT"
+          cat resp.txt | jq -r '.data.durl[0].backup_url[0]' | xargs -I {} echo "STREAM_URL={}"  >> "$GITHUB_OUTPUT"
       - name: get video
         id: get-video-main
         run: |
@@ -99,13 +99,6 @@ jobs:
           -H 'referer: https://www.bilibili.com/' \
           -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test/output.mp4
           fi
-      - name: get backup video stream
-        id: get-video-backup
-        run: |
-          mkdir -p test
-          curl -i '${{steps.get-stream.outputs.BACKUP_STREAM_URL}}' \
-            -H 'referer: https://www.bilibili.com/' \
-            -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0' --output test/output.mp4
       - name: verify shasum
         run: | 
           shasum test/output.mp4
