@@ -17,13 +17,11 @@ jobs:
       doc-changed: ${{ steps.diff.outputs.count }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: 'master'
       - uses: technote-space/get-diff-action@v6
         id: diff
         with:
-#          PATTERNS: |
-#            docs/**/*.md
+          PATTERNS: |
+            docs/**/*.md
           SET_ENV_NAME_COUNT: DIFF_COUNT
       - name: show diff result
         run:
