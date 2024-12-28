@@ -14,7 +14,7 @@ jobs:
   check-if-need-deploy:
     runs-on: ubuntu-latest
     outputs:
-      doc-changed: ${{ steps.diff.outputs.count > 0 }}
+      doc-changed: ${{ steps.diff.outputs.count != '0' }}
     steps:
       - uses: actions/checkout@v4
         with:
