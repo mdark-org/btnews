@@ -18,11 +18,15 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       doc-changed: ${{ steps.diff.outputs.DIFF }}
+      branch: ${{ steps.diff.outputs.branch }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref || github.ref }}
           fetch-depth: 0
+      - name: Extract branch name
+        id: extract_branch
+        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
       - name: get diff
         id: diff
         run: |
@@ -49,9 +53,9 @@ jobs:
           else
             echo "TARGET_ENV=production" >> $GITHUB_OUTPUT
           fi
-      - name: Pull Vercel Environment Information
-        run: vercel pull --yes --environment=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
-      - name: Build Project Artifacts
-        run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+#      - name: Pull Vercel Environment Information
+#        run: vercel pull --yes --environment=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+#      - name: Build Project Artifacts
+#        run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: Deploy Project Artifacts to Vercel
-        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
+        run: vercel deploy --build-env GIT_BRANCH=${{ needs.check-if-need-deploy.outputs.branch || 'master' }} --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
