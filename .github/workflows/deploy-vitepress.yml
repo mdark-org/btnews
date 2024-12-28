@@ -21,7 +21,7 @@ jobs:
         id: diff
         run:
           echo $(git diff --name-only HEAD master docs)
-          echo $(git diff --name-only HEAD master docs) | wc -l | xargs -I {} echo "DIFF={}" >> "$GITHUB_OUTPUT"
+          echo $(git diff --name-only HEAD master docs) | wc -w | xargs -I {} echo "DIFF={}" >> "$GITHUB_OUTPUT"
           echo ${{ steps.diff.outputs.DIFF }}
   build-and-deploy:
     runs-on: ubuntu-latest
