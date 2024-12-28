@@ -13,16 +13,26 @@ env:
 jobs:
   check-if-need-deploy:
     runs-on: ubuntu-latest
+    outputs:
+      doc-changed: ${{ steps.diff.outputs.count > 0 }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: 'master'
-          fetch-depth: 0
-      - name: check diff
-        run: |
-
+      - uses: technote-space/get-diff-action@v6
+        id: diff
+        with:
+          PATTERNS: |
+            docs/**/*.md
+          SET_ENV_NAME_COUNT: DIFF_COUNT
+      - name: show diff result
+        run:
+          echo ${{ env.GIT_DIFF }}
+          echo ${{ env.DIFF_COUNT }}
   build-and-deploy:
     runs-on: ubuntu-latest
+    needs: [ check-if-need-deploy ]
+    if: ${{ needs.check-if-need-deploy.outputs.doc-changed }}
     steps:
       - uses: actions/checkout@v4
         with:
