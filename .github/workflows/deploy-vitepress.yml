@@ -22,13 +22,13 @@ jobs:
       - uses: technote-space/get-diff-action@v6
         id: diff
         with:
-          PATTERNS: |
-            docs/**/*.md
+#          PATTERNS: |
+#            docs/**/*.md
           SET_ENV_NAME_COUNT: DIFF_COUNT
       - name: show diff result
         run:
           echo ${{ env.GIT_DIFF }}
-          echo ${{ env.DIFF_COUNT }}
+
   build-and-deploy:
     runs-on: ubuntu-latest
     needs: [ check-if-need-deploy ]
