@@ -43,6 +43,7 @@ jobs:
       - name: Install Vercel CLI
         run: npm install --global vercel@latest
       - name: Determine Deployment Environment
+        id: get-deploy-env
         run: |
           if [[ ${{ github.event_name }} == 'pull_request' ]]; then
             echo "TARGET_ENV=preview" >> $GITHUB_OUTPUT
@@ -50,8 +51,8 @@ jobs:
             echo "TARGET_ENV=production" >> $GITHUB_OUTPUT
           fi
       - name: Pull Vercel Environment Information
-        run: vercel pull --yes --environment=${{ steps.Determine_Deployment_Environment.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+        run: vercel pull --yes --environment=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: Build Project Artifacts
-        run: vercel build --target=${{ steps.Determine_Deployment_Environment.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+        run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: Deploy Project Artifacts to Vercel
-        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.Determine_Deployment_Environment.outputs.TARGET_ENV }}
+        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
