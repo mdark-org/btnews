@@ -14,19 +14,15 @@ jobs:
   check-if-need-deploy:
     runs-on: ubuntu-latest
     outputs:
-      doc-changed: ${{ steps.diff.outputs.count }}
+      doc-changed: ${{ steps.diff.outputs.DIFF }}
     steps:
       - uses: actions/checkout@v4
-      - uses: technote-space/get-diff-action@v6
+      - name: get diff
         id: diff
-        with:
-          PATTERNS: |
-            docs/**/*.md
-          SET_ENV_NAME_COUNT: DIFF_COUNT
-      - name: show diff result
         run:
-          echo ${{ env.GIT_DIFF }}
-
+          echo $(git diff --name-only HEAD master docs)
+          echo $(git diff --name-only HEAD master docs) | wc -l | xargs -I {} echo "DIFF={}" >> "$GITHUB_OUTPUT"
+          echo ${{ steps.diff.outputs.DIFF }}
   build-and-deploy:
     runs-on: ubuntu-latest
     needs: [ check-if-need-deploy ]
@@ -43,6 +39,9 @@ jobs:
       - name: Determine Deployment Environment
         id: get-deploy-env
         run: |
+          if [[ (echo $(git diff --name-only HEAD origin/fetch/60 docs) | grep doc | wc -l) == '0' ]]; then
+              echo $(git diff --name-only HEAD origin/fetch/60 docs) | grep doc | wc -l >> "DIFF=$0" >> $GITHUB_OUTPUT
+          else
           if [[ ${{ github.event_name }} == 'pull_request' ]]; then
             echo "TARGET_ENV=preview" >> $GITHUB_OUTPUT
           else
