@@ -24,9 +24,6 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref }}
           fetch-depth: 0
-      - name: Extract branch name
-        id: extract_branch
-        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
       - name: get diff
         id: diff
         run: |
@@ -58,4 +55,4 @@ jobs:
 #      - name: Build Project Artifacts
 #        run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: Deploy Project Artifacts to Vercel
-        run: vercel deploy --build-env GIT_BRANCH=${{ needs.check-if-need-deploy.outputs.branch || 'master' }} --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
+        run: vercel deploy --build-env GIT_BRANCH=${{ github.head_ref || 'master' }} --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
