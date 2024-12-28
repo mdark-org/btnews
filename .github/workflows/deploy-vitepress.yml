@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: get diff
         id: diff
-        run:
+        run: |
           echo $(git diff --name-only HEAD master docs)
           echo $(git diff --name-only HEAD master docs) | wc -w | xargs -I {} echo "DIFF={}" >> "$GITHUB_OUTPUT"
           echo ${{ steps.diff.outputs.DIFF }}
@@ -39,9 +39,6 @@ jobs:
       - name: Determine Deployment Environment
         id: get-deploy-env
         run: |
-          if [[ (echo $(git diff --name-only HEAD origin/fetch/60 docs) | grep doc | wc -l) == '0' ]]; then
-              echo $(git diff --name-only HEAD origin/fetch/60 docs) | grep doc | wc -l >> "DIFF=$0" >> $GITHUB_OUTPUT
-          else
           if [[ ${{ github.event_name }} == 'pull_request' ]]; then
             echo "TARGET_ENV=preview" >> $GITHUB_OUTPUT
           else
