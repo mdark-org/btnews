@@ -26,9 +26,8 @@ jobs:
       - name: get diff
         id: diff
         run: |
-          echo $(git diff --name-only HEAD master -- docs)
-          echo $(git diff --name-only HEAD master -- docs) | wc -w | xargs -I {} echo "DIFF={}" >> "$GITHUB_OUTPUT"
-          echo ${{ steps.diff.outputs.DIFF }}
+          echo $(git diff --name-only HEAD origin/master -- docs)
+          echo $(git diff --name-only HEAD origin/master -- docs) | wc -w | xargs -I {} echo "DIFF={}" >> "$GITHUB_OUTPUT"
   build-and-deploy:
     runs-on: ubuntu-latest
     needs: [ check-if-need-deploy ]
