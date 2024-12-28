@@ -54,10 +54,6 @@ jobs:
         run: vercel pull --yes --environment=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: add env
         run: echo "GIT_BRANCH=${{ github.head_ref || 'master' }}" >> .vercel/.env.${{ steps.get-deploy-env.outputs.TARGET_ENV }}.local
-      - name: show env
-        run: cat .vercel/.env.${{ steps.get-deploy-env.outputs.TARGET_ENV }}.local
-      - name: create .env
-        run: mv .vercel/.env.${{ steps.get-deploy-env.outputs.TARGET_ENV }}.local .env
       - name: Build Project Artifacts
         run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: Deploy Project Artifacts to Vercel
