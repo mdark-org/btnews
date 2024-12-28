@@ -3,7 +3,9 @@ name: Deploy to Vercel
 on:
   push:
     branches: [ master ]
-  pull_request_target:
+  pull_request:
+    types:
+      - opened
     branches: [ master ]
 
 env:
@@ -17,6 +19,9 @@ jobs:
       doc-changed: ${{ steps.diff.outputs.DIFF }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref }}
+
       - name: get diff
         id: diff
         run: |
