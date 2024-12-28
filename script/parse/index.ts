@@ -1,5 +1,4 @@
 import { BedtimeNewsFrontmatter } from "../interfaces";
-import * as cheerio from 'cheerio'
 import { extractItem } from "./extractor";
 import CheerioRoot = cheerio.Root
 export default async function parseHTML($:CheerioRoot, frontmatter: BedtimeNewsFrontmatter): Promise<string> {

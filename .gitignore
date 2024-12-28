@@ -15,3 +15,6 @@ yarn-error.log
 .vitepress/cache
 .vitepress/dist
 .vitepress
+.vercel
+.secrets
+sample.event

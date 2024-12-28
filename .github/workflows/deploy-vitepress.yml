@@ -1,0 +1,47 @@
+name: Deploy to Vercel
+
+on:
+  push:
+    branches: [ master ]
+  pull_request_target:
+    branches: [ master ]
+
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+jobs:
+  check-if-need-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 'master'
+          fetch-depth: 0
+      - name: check diff
+        run: |
+
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 'vitepress'
+      - uses: actions/setup-node@v4
+      - name: install deps
+        run: npm install
+      - name: Install Vercel CLI
+        run: npm install --global vercel@latest
+      - name: Determine Deployment Environment
+        run: |
+          if [[ ${{ github.event_name }} == 'pull_request' ]]; then
+            echo "TARGET_ENV=preview" >> $GITHUB_OUTPUT
+          else
+            echo "TARGET_ENV=production" >> $GITHUB_OUTPUT
+          fi
+      - name: Pull Vercel Environment Information
+        run: vercel pull --yes --environment=${{ steps.Determine_Deployment_Environment.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Build Project Artifacts
+        run: vercel build --target=${{ steps.Determine_Deployment_Environment.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Deploy Project Artifacts to Vercel
+        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.Determine_Deployment_Environment.outputs.TARGET_ENV }}

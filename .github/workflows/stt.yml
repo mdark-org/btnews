@@ -14,7 +14,8 @@ on:
           - opinion
         required: false
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 13 * * *'
+      # 21:00 in CN
 jobs:
 # fetch audio by input & auto schedule
   prepare-video-meta:

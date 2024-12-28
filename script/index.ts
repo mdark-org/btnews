@@ -1,5 +1,4 @@
 import { getArticle } from "./utils/getArticleMetaFromMP";
-import { buildFrontmatter } from './utils/frontmatter';
 import parseHTMLtoMD from './parse';
 import fs from 'fs'
 import path from "path";

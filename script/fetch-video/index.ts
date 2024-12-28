@@ -89,7 +89,6 @@ async function main() {
   const avid = detail.data.aid
   const pubtime =  detail.data.pubdate // timestamp 10
   const {p, category, index,fp} = getPathAndIndexByTitle(title)
-  // const index 889
   let exist = false
   if(fs.existsSync(fp)) {
     exist = true
