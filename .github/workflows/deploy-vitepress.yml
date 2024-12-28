@@ -50,11 +50,11 @@ jobs:
           else
             echo "TARGET_ENV=production" >> $GITHUB_OUTPUT
           fi
-      - name: Pull Vercel Environment Information
-        run: vercel pull --yes --environment=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
-      - name: add env
-        run: echo "GIT_BRANCH=${{ github.head_ref || 'master' }}" >> .vercel/.env.${{ steps.get-deploy-env.outputs.TARGET_ENV }}.local
-      - name: Build Project Artifacts
-        run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+#      - name: Pull Vercel Environment Information
+#        run: vercel pull --yes --environment=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
+#      - name: add env
+#        run: echo "GIT_BRANCH=${{ github.head_ref || 'master' }}" >> .vercel/.env.${{ steps.get-deploy-env.outputs.TARGET_ENV }}.local
+#      - name: Build Project Artifacts
+#        run: vercel build --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }} --token=${{ secrets.VERCEL_TOKEN }}
       - name: Deploy Project Artifacts to Vercel
-        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
+        run: vercel deploy --build-env GIT_BRANCH=${{ github.head_ref || 'master' }} --token=${{ secrets.VERCEL_TOKEN }} --target=${{ steps.get-deploy-env.outputs.TARGET_ENV }}
