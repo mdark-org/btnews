@@ -14,7 +14,7 @@ jobs:
   check-if-need-deploy:
     runs-on: ubuntu-latest
     outputs:
-      doc-changed: ${{ steps.diff.outputs.count != '0' }}
+      doc-changed: ${{ steps.diff.outputs.count }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,7 +32,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     needs: [ check-if-need-deploy ]
-    if: ${{ needs.check-if-need-deploy.outputs.doc-changed }}
+    if: ${{ needs.check-if-need-deploy.outputs.doc-changed != '0' }}
     steps:
       - uses: actions/checkout@v4
         with:
