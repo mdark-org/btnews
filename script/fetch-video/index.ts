@@ -2,7 +2,7 @@
 import { Command } from 'commander';
 import * as ghac from '@actions/core';
 import fs from 'fs'
-const regex =/【(睡前消息|高见|讲点黑话)(\d{2,4})】(.+)/
+const regex =/【(睡前消息|高见|讲点黑话)(\d{2,4})期?】(.+)/
 const categoryMap = {
   '睡前消息': 'btnews',
   '高见': 'opinion',
@@ -20,7 +20,7 @@ function getOptions() {
   const options = program.opts();
   program.parse(process.argv);
   const bv = options.bv!==""?(typeof options.bv == "boolean" ?undefined:options.bv):undefined;
-  const category = options.catagory!==""?(typeof options.bv == "boolean" ?undefined:options.catagory):undefined;
+  const category = options.catagory!==""?(typeof options.catagory == "string" ?undefined:options.catagory):undefined;
   return {
     bv,
     category
@@ -45,8 +45,23 @@ const categoryToBiliMap = {
   }
 } as const
 
+const getDefaultCategory = () => {
+  // 0, 2, 5
+  // 1, 3, 4, 6
+  const day = new Date().getDay()
+  let category = 'btnews' as keyof typeof categoryToBiliMap
+  if( day == 3 || day == 1) {
+    category = 'opinion' as const
+  }else if (day == 4 || day == 6) {
+    category = 'commercial' as const
+  }
+  return category
+}
+
 async function getNewestVideoByCategory(category?: (keyof typeof categoryToBiliMap)) {
-  let _category = category ?? 'btnews'
+
+
+  let _category = category ?? getDefaultCategory()
   const res = await fetch(`https://api.bilibili.com/x/series/recArchivesByKeywords?mid=${categoryToBiliMap[_category].mid}&keywords=${categoryToBiliMap[_category].keywords}`)
   const data = await res.json()
   const video = data.data.archives[0]
@@ -73,7 +88,6 @@ function getPathAndIndexByTitle(title:string) {
     category
   }
 }
-
 async function main() {
   // options
   let bvid = options.bv
@@ -81,10 +95,9 @@ async function main() {
   if(!options.bv) {
     bvid = await getNewestVideoByCategory(options.category)
   }
-
   const detail = await fetch(`https://api.bilibili.com/x/web-interface/view?bvid=${bvid}`).then(res => res.json())
   const title = detail.data.title
-  const description = detail.data.desc
+  const description = detail.data.desc?.replaceAll('\n', '')
   const cid = detail.data.cid
   const avid = detail.data.aid
   const pubtime =  detail.data.pubdate // timestamp 10
