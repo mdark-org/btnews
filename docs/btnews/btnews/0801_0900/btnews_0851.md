@@ -1,6 +1,6 @@
 ---
 title: 【睡前消息851】重判柯文哲，似“绿”者死
-description: 
+description: 民进党暂时放下老对头国民党，集中猛打柯文哲，用意何在？
 tag: []
 date: 1736519193
 bvid: BV1xpcHehEgV
