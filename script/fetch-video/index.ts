@@ -20,7 +20,12 @@ function getOptions() {
   const options = program.opts();
   program.parse(process.argv);
   const bv = options.bv!==""?(typeof options.bv == "boolean" ?undefined:options.bv):undefined;
-  const category = options.catagory!==""?(typeof options.catagory == "string" ?undefined:options.catagory):undefined;
+  let category: "btnews" | "opinion" | "commercial" | undefined
+  if(options.category !== "" && typeof options.category == "string") {
+    category = options.category as "btnews" | "opinion" | "commercial"
+  }else {
+    category = undefined
+  }
   return {
     bv,
     category

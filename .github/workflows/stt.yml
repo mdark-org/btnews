@@ -118,7 +118,7 @@ jobs:
           echo $PATH
           ls -l
           ls -l test
-          ffmpeg -i test/output.mp4 test/output.mp3
+          ffmpeg -i test/output.mp4 -ar 16000 test/output.mp3
       - name: Upload output.mp3
         uses: actions/upload-artifact@v4
         with:
