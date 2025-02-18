@@ -163,7 +163,7 @@ jobs:
           }' > response.json
           ls -l
           cat response.json
-          jq -f response.json -r '.data.outputs.text' > output.md
+          cat response.json | jq -r '.data.outputs.text' > output.md
       - name: show result
         run: |
           cat output.md
