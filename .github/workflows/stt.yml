@@ -160,7 +160,9 @@ jobs:
             },
             "response_mode": "blocking",
             "user": "${{secrets.DIFY_USER}}"
-          }' | jq -r '.data.outputs.text' > output.md
+          }' > response.json
+          cat response.json
+          jq -f response.json -r '.data.outputs.text' > output.md
       - name: show result
         run: |
           cat output.md
