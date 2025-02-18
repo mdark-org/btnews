@@ -161,6 +161,7 @@ jobs:
             "response_mode": "blocking",
             "user": "${{secrets.DIFY_USER}}"
           }' > response.json
+          ls -l
           cat response.json
           jq -f response.json -r '.data.outputs.text' > output.md
       - name: show result
