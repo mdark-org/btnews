@@ -62,7 +62,7 @@ jobs:
         uses: ktKongTong/bili-action@v0.2.4
         with: 
           proxy-stream-host: ${{ secrets.BILI_STREAM_PROXY }}
-          bvid: ${{ steps.bili-meta.bvid }}
+          bvid: ${{ steps.bili-meta.outputs.bvid }}
           audio: true
           audio-file-template: 'output/{bvid}.mp4'
       - name: convert to mp3
