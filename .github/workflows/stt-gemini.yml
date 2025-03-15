@@ -53,6 +53,7 @@ jobs:
       - name: bili-action
         uses: ktKongTong/bili-action@v0.2.2
         with: 
+          proxy-stream-host: ${{ secrets.BILI_STREAM_PROXY }}
           bvid: ${{ needs.prepare-video-meta.outputs.bvid }}
           cid: ${{ needs.prepare-video-meta.outputs.cid }}
           audio: true
