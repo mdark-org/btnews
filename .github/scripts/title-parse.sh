@@ -24,7 +24,7 @@ cat $1 | jq -r '.title' | while read -r title; do
         esac
 
         # 格式化 index 为4位数
-        formatted_index=$(printf "%04d" "$1")
+        formatted_index=$(printf "%04d" "$index")
         format_range "$index"
         path="docs/btnews/${mapped_category}/${formatted_range}"
         filepath="docs/btnews/${mapped_category}/${formatted_range}/${mapped_category}_${formatted_index}.md"

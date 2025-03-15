@@ -20,13 +20,22 @@ jobs:
       - uses: actions/checkout@v4
       - name: Setup FFmpeg
         uses: AnimMouse/setup-ffmpeg@v1
+      - name: set input
+        id: set-input
+        env: 
+          bvid: ${{ inputs.bvid }}
+          category: ${{ inputs.category }}
+        shell: bash
+        run: |
+          bash ${GITHUB_WORKSPACE}/.github/scripts/set-output.sh
       - name: bili-action
         id: bili
         uses: ktKongTong/bili-action@v0.2.4
         with: 
           proxy-stream-host: ${{ secrets.BILI_STREAM_PROXY }}
-          mid: 316568752
-          keyword: 睡前消息
+          bvid: ${{ inputs.bvid }}
+          mid: ${{ steps.set-input.outputs.mid }}
+          keyword: ${{ steps.set-input.outputs.keyword }}
           audio: true
           audio-file-template: 'output/{bvid}.mp4'
       - name: convert to mp3
@@ -65,7 +74,6 @@ jobs:
         id: calc-vars
         run: |
           bash ${GITHUB_WORKSPACE}/.github/scripts/title-parse.sh tmp.json
-          
       - name: createHead
         run: |
           echo '---
