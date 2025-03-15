@@ -3,8 +3,8 @@
 function format_range() {
   local index=$1
   formatted_index=$(printf "%04d" "$1")
-  local range_start=$(((index / 100) * 100) + 1)
-  local range_end=$((range_start + 99) + 1)
+  local range_start=$((((index / 100) * 100) + 1))
+  local range_end=$((range_start + 99))
   formatted_range=$(printf "%04d_%04d" "$range_start" "$range_end")
 }
 
@@ -23,7 +23,6 @@ cat $1 | jq -r '.title' | while read -r title; do
             ;;
         esac
 
-        # 格式化 index 为4位数
         formatted_index=$(printf "%04d" "$index")
         format_range "$index"
         path="docs/btnews/${mapped_category}/${formatted_range}"
