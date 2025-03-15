@@ -3,8 +3,8 @@
 function format_range() {
   local index=$1
   formatted_index=$(printf "%04d" "$1")
-  local range_start=$(((index / 100) * 100))
-  local range_end=$((range_start + 99))
+  local range_start=$(((index / 100) * 100) + 1)
+  local range_end=$((range_start + 99) + 1)
   formatted_range=$(printf "%04d_%04d" "$range_start" "$range_end")
 }
 
@@ -28,9 +28,9 @@ cat $1 | jq -r '.title' | while read -r title; do
         format_range "$index"
         path="docs/btnews/${mapped_category}/${formatted_range}"
         filepath="docs/btnews/${mapped_category}/${formatted_range}/${mapped_category}_${formatted_index}.md"
-
+        echo "path: $filepath"
         if [ ! -f $filepath ]; then
-            echo "exist=true" >> "$GITHUB_OUTPUT"
+          echo "exist=true" >> "$GITHUB_OUTPUT"
         fi
         echo "category=$mapped_category"
         echo "index=$formatted_index"
