@@ -27,7 +27,7 @@ jobs:
           category: ${{ inputs.category }}
         shell: bash
         run: |
-          bash ${GITHUB_WORKSPACE}/.github/scripts/set-output.sh
+          bash ${GITHUB_WORKSPACE}/.github/scripts/set-input.sh
       - name: bili-action
         id: bili
         uses: ktKongTong/bili-action@v0.2.4
