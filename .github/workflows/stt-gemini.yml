@@ -60,11 +60,12 @@ jobs:
           retention-days: 1
       - name: set output to json
         run: | 
-          echo '${{steps.bili.outputs}}' > tmp.json
+          echo '${{ steps.bili.outputs.video }}' > tmp.json
       - name: calc-vars
         id: calc-vars
         run: |
           bash ${GITHUB_WORKSPACE}/.github/scripts/title-parse.sh tmp.json
+          
       - name: createHead
         run: |
           echo '---
@@ -78,7 +79,7 @@ jobs:
           mkdir -p ${{ steps.calc-vars.outputs.path }}
           cat output.md >> tmp.md
           mv tmp.md ${{ steps.calc-vars.outputs.filepath }}
-
+          
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v5
