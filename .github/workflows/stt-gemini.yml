@@ -5,6 +5,17 @@ on:
       bvid:
         description: 'Bilibili bvid'
         required: false
+      prompt:
+        description: 'prompt'
+        default: ''
+        required: false
+      model:
+        description: 'gemini model'
+        type: choice
+        default: "gemini-2.0-pro-exp-02-05"
+        options:
+          - 'gemini-2.0-pro-exp-02-05'
+          - 'gemini-2.0-flash'
       category:
         description: 'category'
         type: choice
@@ -13,6 +24,9 @@ on:
           - commercial
           - opinion
         required: false
+  schedule:
+    - cron: '0 13 * * *'
+      # 21:00 in CN
 jobs:
   fetch-audio:
     runs-on: ubuntu-latest
@@ -29,19 +43,34 @@ jobs:
         run: |
           bash ${GITHUB_WORKSPACE}/.github/scripts/set-input.sh
       - name: bili-action
-        id: bili
+        id: bili-meta
         uses: ktKongTong/bili-action@v0.2.4
         with: 
-          proxy-stream-host: ${{ secrets.BILI_STREAM_PROXY }}
           bvid: ${{ inputs.bvid }}
           mid: ${{ steps.set-input.outputs.mid }}
           keyword: ${{ steps.set-input.outputs.keyword }}
+      - name: set output to json
+        run: | 
+          echo '${{ steps.bili-meta.outputs.video }}' > tmp.json
+      - name: calc-vars
+        id: calc-vars
+        run: |
+          bash ${GITHUB_WORKSPACE}/.github/scripts/title-parse.sh tmp.json
+      - name: bili-action
+        id: bili
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
+        uses: ktKongTong/bili-action@v0.2.4
+        with: 
+          proxy-stream-host: ${{ secrets.BILI_STREAM_PROXY }}
+          bvid: ${{ steps.bili-meta.bvid }}
           audio: true
           audio-file-template: 'output/{bvid}.mp4'
       - name: convert to mp3
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         run: ffmpeg -i output/${{ steps.bili.outputs.bvid }}.mp4 -ar 16000 output/${{ steps.bili.outputs.bvid }}.mp3
       - name: Upload output.mp3
         uses: actions/upload-artifact@v4
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         with:
           name: output.mp3
           path: output/${{ steps.bili.outputs.bvid }}.mp3
@@ -50,31 +79,34 @@ jobs:
       - name: gemini-action
         uses: ktKongTong/gemini-action@v0.2.0
         id: gemini-stt
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         with: 
           token: ${{ secrets.GEMINI_TOKEN }}
-          model: "gemini-2.0-flash"
+          model: ${{inputs.model}}
           file-path: output/${{ steps.bili.outputs.bvid }}.mp3
-          prompt: "这是一个音频文件，请转为文本，并按内容进行合适的分段，同时给每个分段加上小标题。"
+          prompt: |
+            下面是一段音频，请识别为文本。不要返回额外的内容。
+            拆分为合适的段落，并适当的加上标点符号标记。
+            段落与段落之间请用两个换行符号分割，段落不宜太松散，也不宜太紧凑。
+            请一定不要对原文进行较大幅度的删改、任何删改请务必使用~~~进行标识。
+            此外，可能其中部分内容属于不相关的广告部分，请在对应段落前后通过 @@@ 进行标识。
+            ${{ inputs.prompt }}
           file-mime: audio/mp3
       - name: show result
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         run: |
           echo "${{steps.gemini-stt.outputs.output}}" > output.md
           cat output.md
       - name: Upload output.md
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         uses: actions/upload-artifact@v4
         with:
           name: output.md
           path: output.md
           if-no-files-found: error
           retention-days: 1
-      - name: set output to json
-        run: | 
-          echo '${{ steps.bili.outputs.video }}' > tmp.json
-      - name: calc-vars
-        id: calc-vars
-        run: |
-          bash ${GITHUB_WORKSPACE}/.github/scripts/title-parse.sh tmp.json
       - name: createHead
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         run: |
           echo '---
           title: ${{steps.bili.outputs.title }}
@@ -91,6 +123,7 @@ jobs:
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v5
+        if: ${{ steps.calc-vars.outputs.exist != 'true' }}
         with:
           token: ${{ secrets.PAT }}
           commit-message: ":memo: new docs ${{ steps.bili.outputs.title }}"

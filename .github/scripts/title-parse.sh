@@ -28,6 +28,10 @@ cat $1 | jq -r '.title' | while read -r title; do
         format_range "$index"
         path="docs/btnews/${mapped_category}/${formatted_range}"
         filepath="docs/btnews/${mapped_category}/${formatted_range}/${mapped_category}_${formatted_index}.md"
+
+        if [ ! -f $filepath ]; then
+            echo "exist=true" >> "$GITHUB_OUTPUT"
+        fi
         echo "category=$mapped_category"
         echo "index=$formatted_index"
         echo "path=$path"
