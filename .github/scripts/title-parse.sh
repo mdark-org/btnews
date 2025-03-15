@@ -29,6 +29,7 @@ cat $1 | jq -r '.title' | while read -r title; do
         filepath="docs/btnews/${mapped_category}/${formatted_range}/${mapped_category}_${formatted_index}.md"
         echo "path: $filepath"
         if [ ! -f $filepath ]; then
+          echo "file already exist"
           echo "exist=true" >> "$GITHUB_OUTPUT"
         fi
         echo "category=$mapped_category"
