@@ -12,9 +12,9 @@ on:
         required: false
         description: "all bvid(sort by pubdate) before slice-bvid will be ignored(include slice-bvid)"
       limit:
-        default: 500
+        default: 50
         required: false
-        description: "limit, default 500, max 1000"
+        description: "limit, default 50, max 1000"
       max-parallel:
         default: 4
         required: false
@@ -28,7 +28,7 @@ on:
         type: choice
         default: "gemini-2.0-flash"
         options:
-          - "gemini-2.0-pro-exp-02-05"
+          - "gemini-2.5-pro-exp-03-25"
           - "gemini-2.0-flash"
       system-prompt-template:
         description: "system-prompt-template"

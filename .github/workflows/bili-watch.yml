@@ -34,5 +34,5 @@ jobs:
       markdown-template: ${{ matrix.event.presetMarkdownTemplate }}
       prompt-template: ${{ matrix.event.presetPromptTemplate }}
       system-prompt-template: ${{ matrix.event.presetSystemPromptTemplate }}
-      model: 'gemini-2.0-pro-exp-02-05'
+      model: 'gemini-2.5-pro-exp-03-25'
       branch: 'fetch/${{ matrix.event.bvid }}'
