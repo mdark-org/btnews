@@ -1,0 +1,17 @@
+name: format-action
+inputs:
+  template:
+    description: "format template"
+    required: true
+  variable:
+    description: "variable to render with format template"
+    required: true
+  sanitize:
+    description: "escape special char before formating"
+    required: false
+outputs:
+  result:
+    description: 'format result'
+runs:
+  using: node20
+  main: index.mjs

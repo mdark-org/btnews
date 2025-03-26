@@ -1,0 +1,30 @@
+listen:
+  - id: 睡前消息
+    platform:
+      bilibili:
+        post:
+          mid: 316568752
+          keywords: 睡前消息
+          script: '.autodoc/scripts/bilibili/btnews.mjs'
+          filepath: docs/btnews/{{title}}.md
+match:
+  - id: 睡前消息
+    platform:
+      bilibili:
+        script: '.autodoc/scripts/bilibili/btnews.mjs'
+        condition:
+          owner.name: "马督工"
+          title: "睡前消息"
+        template:
+          filepath: docs/btnews/{{title}}.md
+          prompt:
+            system: |
+              这是一段标题为【{{title}}】的视频音频，请识别对应的语言，并转换为对应文本。
+              请为文本进行合适的分段，并添加标点符号，段落前后用两个换行符进行分隔。
+            user: |
+              这是一档时事点评类节目，里面包含一些固定搭配，或者习惯性用语，请参考。
+              - 音频中通常有两人，一个是静静，一个督工，节目形式通常是一问一答的形式。静静介绍背景，督工进一步播报节目主要内容。
+              - 音频开头通常包含：大家好，欢迎收看第xxx期睡前消息，请静静介绍话题。
+              - 这份音频的标题是【{{ title }}】，介绍是【{{desc}}】，对应的动态介绍是【{{dynamic}}】。
+              - 这份音频可能涉及到1~3个不同的话题。通常在介绍中会提到这份音频所涉及的话题，为每个部分加上三级标题，并使用 --- 分割线进行分隔。
+              此外，音频中往往会包含一部分广告。请识别，并为广告前后使用`@@@` 进行标注。不要对原文进行大幅度的修改。

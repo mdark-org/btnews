@@ -1,0 +1,17 @@
+fallback:
+  filepath: docs/{{owner.name}}/{{title}}.md
+  prompt:
+    system: |
+      这是一段标题为【{{title}}】的视频音频，请识别对应的语言，并转换为对应文本。进行合适的分段。
+    user: 这是一段文本。
+  markdown: |
+    ---
+    title: "{{ video.title }}"
+    description: "{{ video.desc }}"
+    tags: []
+    date: {{ video.pubdate }}
+    bvid: {{ video.bvid }}
+    ---
+    {{ai.markdown}}
+  commit-message: |
+    new docs: {{ title }}

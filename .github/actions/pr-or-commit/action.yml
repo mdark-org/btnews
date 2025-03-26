@@ -1,0 +1,48 @@
+name: pr or commit
+inputs:
+  type:
+    required: false
+    # pr or commit
+    default: 'none'
+    description: 'action type, pr or commit'
+  message:
+    description: "commit message"
+  path:
+    description: "add path"
+  branch:
+    description: 'commit branch'
+    required: true
+  github-token:
+    description: "github-token"
+runs:
+  using: "composite"
+  steps:
+    - name: Create Pull Request
+      if: ${{ inputs.type == 'pr' }}
+      id: cpr
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ inputs.github-token }}
+        commit-message: ${{ inputs.message }}
+        delete-branch: true
+        branch: ${{ inputs.branch }}
+        title: ${{ inputs.message }}
+        add-paths: ${{ inputs.path }}
+        body: |
+          ${{ inputs.message }}
+        labels: |
+          automated pr
+        draft: false
+    - name: commit and push
+      if: ${{ inputs.type == 'commit' }}
+      uses: Wandalen/wretry.action@master
+      with:
+        action: EndBug/add-and-commit@v9
+        with: |
+          author_name: "${{ github.actor }}"
+          author_email: ${{ github.actor }}@users.noreply.github.com
+          message: "${{ inputs.message }}"
+          add: "${{ inputs.path }}"
+          pull: '--rebase --autostash'
+        attempt_limit: 3
+        attempt_delay: 2000

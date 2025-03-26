@@ -1,0 +1,8 @@
+name: watch-action
+inputs:
+  rule-path:
+    description: "match rule path"
+    required: false
+runs:
+  using: node20
+  main: index.mjs

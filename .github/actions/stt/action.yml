@@ -1,0 +1,70 @@
+name: gemini-STT
+inputs:
+  filename:
+    description: "filename in artifact"
+    required: true
+  token:
+    description: "gemini-token"
+    required: true
+  prompt:
+    description: "prompt"
+    required: true
+  system-prompt:
+    description: "system-prompt"
+    required: true
+  structure-schema:
+    description: "structure schema"
+    required: false
+  model:
+    description: "gemini model"
+    required: true
+outputs:
+  ai:
+    description: ai
+    value: ${{ steps.final-output.outputs.ai }}
+runs:
+  using: "composite"
+  steps:
+    - name: download audio
+      uses: actions/download-artifact@v4
+      with:
+        name: ${{ inputs.filename }}
+        path: output
+    - name: speech to text with gemini
+      uses: ktKongTong/gemini-action@v0.2.1
+      id: gemini-stt
+      with:
+        token: ${{inputs.token}}
+        model: ${{inputs.model}}
+        file-path: output/${{ inputs.filename }}
+        prompt: ${{ inputs.prompt }}
+        system-prompt: ${{ inputs.system-prompt }}
+        file-mime: audio/mp3
+    - name: set output
+      shell: bash
+      run: |
+        cat <<'EOF' > tmp-stt.md
+        ${{steps.gemini-stt.outputs.output}}
+        EOF
+    - name: Upload output.md
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ inputs.filename }}.stt.md
+        path: tmp-stt.md
+        if-no-files-found: error
+        retention-days: 1
+    - name: set output
+      id: final-output
+      shell: bash
+      run: |
+        cat tmp-stt.md | jq -sR '{markdown: .}' > tmp-stt.json
+        echo 'ai<<'EOF'' >> $GITHUB_OUTPUT
+        cat tmp-stt.json >> $GITHUB_OUTPUT
+        echo 'EOF' >> $GITHUB_OUTPUT
+        cat tmp-stt.json
+    - name: clean file
+      shell: bash
+      run: |
+        rm -f tmp-stt.md
+        rm -rf tmp-stt.json
+        rm -f output-stt.md

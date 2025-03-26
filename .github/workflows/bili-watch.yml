@@ -1,0 +1,38 @@
+name: Watch
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    outputs:
+      result: ${{ steps.set-output.outputs.TARGET_MATRIX }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/watch-action
+        id: watch
+      - name: Set output
+        id: set-output
+        run: |
+          echo "TARGET_MATRIX=$(echo '${{ steps.watch.outputs.result }}' | jq '.[0:4]' | jq -r 'tostring')" >> $GITHUB_OUTPUT
+          echo 'Watch result: ${{ steps.watch.outputs.result }}'
+  fetch:
+    needs: watch
+    strategy:
+      max-parallel: 2
+      fail-fast: false
+      matrix:
+        event: ${{ fromJSON(needs.watch.outputs.result).*.payload }}
+    uses: ./.github/workflows/bili.yml
+    secrets: inherit
+    with:
+      exec-even-exist: false
+      bvid: ${{ matrix.event.bvid }}
+      filepath-template: ${{ matrix.event.presetFilepathTemplate }}
+      markdown-template: ${{ matrix.event.presetMarkdownTemplate }}
+      prompt-template: ${{ matrix.event.presetPromptTemplate }}
+      system-prompt-template: ${{ matrix.event.presetSystemPromptTemplate }}
+      model: 'gemini-2.0-pro-exp-02-05'
+      branch: 'fetch/${{ matrix.event.bvid }}'

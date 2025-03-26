@@ -1,0 +1,125 @@
+name: bili
+on:
+  workflow_call:
+    inputs:
+      bvid:
+        description: "Bilibili bvid"
+        required: true
+        type: string
+      filepath-template:
+        description: "filepath-template"
+        required: false
+        type: string
+      system-prompt-template:
+        description: "system-prompt-template"
+        required: false
+        type: string
+      prompt-template:
+        description: "prompt"
+        required: false
+        type: string
+      markdown-template:
+        description: "markdown-template"
+        required: false
+        type: string
+      commit-message-template:        
+        description: "commit-message-template"
+        required: false
+        type: string
+      exec-even-exist:
+        type: 'boolean'
+        required: false
+      model:
+        type: string
+        description: "gemini model"
+        default: "gemini-2.0-flash"
+      branch:
+        description: "commit branch"
+        required: false
+        type: string
+  workflow_dispatch:
+    inputs:
+      bvid:
+        description: "Bilibili bvid"
+        required: true
+        type: string
+      filepath-template:
+        description: "filepath-template"
+        required: false
+        type: string
+      system-prompt-template:
+        description: "system-prompt-template"
+        required: false
+        type: string
+      prompt-template:
+        description: "prompt-template"
+        required: false
+        type: string
+      markdown-template:
+        description: "markdown-template"
+        required: false
+        type: string
+      commit-message-template:
+        description: "commit-message-template"
+        required: false
+        type: string
+      exec-even-exist:
+        type: 'boolean'
+        required: false
+        default: 'false'
+      model:
+        description: "gemini model"
+        type: choice
+        default: "gemini-2.0-flash"
+        options:
+          - "gemini-2.0-pro-exp-02-05"
+          - "gemini-2.0-flash"
+      branch:
+        description: "commit branch"
+        required: false
+        type: string
+env:
+  bvid: ${{inputs.bvid }}
+  exec-even-exist: ${{ inputs.exec-even-exist }}
+  filepath-template: ${{ inputs.filepath-template }}
+  prompt-template: ${{ inputs.prompt-template }}
+  system-prompt-template: ${{ inputs.system-prompt-template }}
+  markdown-template: ${{ inputs.markdown-template }}
+  commit-message-template: ${{ inputs.commit-message-template }}
+  model: ${{ inputs.model }}
+  branch: ${{ inputs.branch || format('fetch/{0}', inputs.bvid) }}
+jobs:
+  get-video:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get video
+        id: bili
+        uses: ktKongTong/bili-action@v0.2.11
+        with:
+          bvid: ${{ env.bvid }}
+      - uses: actions/checkout@v4
+      - name: Check if branch exists
+        id: check-branch-exists
+        run: |
+          if [[ -n $(git ls-remote --heads origin ${{ env.branch }}) ]]; then
+             echo "exists=true" >> $GITHUB_OUTPUT
+          else
+             echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+      - name: get content
+        if: ${{ steps.check-branch-exists.outputs.exists == 'false' || env.exec-even-exist == 'true' }}
+        uses: ./.github/actions/bili-fetch
+        with:
+          token: ${{ secrets.GEMINI_TOKEN }}
+          github-token: ${{ secrets.PAT }}
+          model: ${{ env.model }}
+          bvid: ${{ env.bvid }}
+          bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
+          exec-even-exist: ${{ env.exec-even-exist }}
+          branch: ${{ env.branch }}
+          type: 'pr'
+          filepath-template: ${{ env.filepath-template }}
+          markdown-template: ${{ env.markdown-template }}
+          prompt-template: ${{ env.prompt-template }}
+          system-prompt-template: ${{ env.system-prompt-template }}
+          commit-message-template: ${{ env.commit-message-tmplate || format('new docs {0}', fromJSON(steps.bili.outputs.video).title) }}
