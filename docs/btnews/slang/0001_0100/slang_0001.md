@@ -2,7 +2,6 @@
 title: 【讲点黑话1】 珠三角“野蛮人”挨打 这也是高级商战？
 description: 火炬高新争夺战告终，宝能系完败，火炬系重获实控权。中国A股罕见的法律大战是怎么打的
 date: 2023-09-04T15:16:47.428Z
-category: commercial
 tags: []
 bvid: BV1Nh4y1D7be
 ---

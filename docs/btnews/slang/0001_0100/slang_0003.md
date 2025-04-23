@@ -1,7 +1,6 @@
 ---
 title: 【讲点黑话3】对台让利时代结束
 description: 国台办支持中止两岸经济协议，对台让利时代结束。 但这只是“开胃菜”，长期畸形的两岸贸易需要更强力的措施扭转。
-category: commercial
 date: 2023-09-09T14:26:44.973Z
 tags: []
 bvid: BV1QG411R7Ph
