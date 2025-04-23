@@ -1,0 +1,25 @@
+listen:
+  - id: 高见
+    platform:
+      bilibili:
+        post:
+          mid: 59104725
+          keywords: 高见
+          filepath: docs/btnews/opinion/{{title}}.md
+match:
+  - id: 高见
+    platform:
+      bilibili:
+        condition:
+          owner.name: "高剑犁"
+          title: "高见"
+        template:
+          filepath: docs/btnews/opinion/{{title}}.md
+          prompt:
+            user: |
+              这是一档时政类节目，里面包含一些固定搭配，或者习惯性用语，请参考。
+              - 音频开头通常包含：20xx年x月x日星期x，欢迎收看第xxx期高见。
+              - 这份音频的标题是【{{ title }}】，介绍是【{{desc}}】，相关的动态介绍是【{{dynamic}}】。
+              - 这份音频只会涉及到一个话题。
+              - 这份音频中可能包含带货广告信息，请识别并用删除线进行标记。
+              - 不要对原文进行大幅度的修改。
