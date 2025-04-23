@@ -108,7 +108,7 @@ jobs:
           fi
       - name: get content
         if: ${{ steps.check-branch-exists.outputs.exists == 'false' || env.exec-even-exist == 'true' }}
-        uses: ./.github/actions/bili-fetch
+        uses: ktKongTong/autodoc-action@v0.2.1
         with:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
@@ -118,6 +118,7 @@ jobs:
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
           type: 'pr'
+          maxOutputTokens: '65536'
           filepath-template: ${{ env.filepath-template }}
           markdown-template: ${{ env.markdown-template }}
           prompt-template: ${{ env.prompt-template }}

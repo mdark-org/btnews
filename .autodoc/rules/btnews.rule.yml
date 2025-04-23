@@ -6,7 +6,7 @@ listen:
           mid: 316568752
           keywords: 睡前消息
           script: '.autodoc/scripts/bilibili/btnews.mjs'
-          filepath: docs/btnews/{{title}}.md
+          filepath: docs/btnews/btnews/{{title}}.md
 match:
   - id: 睡前消息
     platform:
@@ -16,7 +16,7 @@ match:
           owner.name: "马督工"
           title: "睡前消息"
         template:
-          filepath: docs/btnews/{{title}}.md
+          filepath: docs/btnews/btnews/{{title}}.md
           prompt:
             system: |
               这是一段标题为【{{title}}】的视频音频，请识别对应的语言，并转换为对应文本。
