@@ -11,7 +11,7 @@ const title2filepath = (title) => {
   const rangeEnd = rangeStart + 99
   const range = `${String(rangeStart).padStart(4, '0')}_${String(rangeEnd).padStart(4, '0')}`
   const indexStr = String(indexNum).padStart(4, '0')
-  return `docs/btnews/${range}/btnews_${indexStr}.md`
+  return `docs/btnews/btnews/${range}/btnews_${indexStr}.md`
 }
 
 export const listen = function(data) {
