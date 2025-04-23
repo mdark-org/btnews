@@ -8,9 +8,13 @@ on:
       keywords:
         required: true
         description: "keywords filter"
-      slice-bvid:
+      # new1, new2, new3, before, ..., ..., after, ...
+      before:
         required: false
-        description: "all bvid(sort by pubdate) before slice-bvid will be ignored(include slice-bvid)"
+        description: "all bvid after(sort by pubdate, small to big) input will be ignored(include before)"
+      after:
+        required: false
+        description: "all bvid before(sort by pubdate, small to big) input will be ignored(include after)"
       limit:
         default: 50
         required: false
@@ -68,10 +72,19 @@ jobs:
       - uses: actions/github-script@v7
         id: set-result
         with:
+          # new1, new2, new3, before, ..., ..., after, ...
           script: |
             const bvids = "${{ join(fromJSON(steps.bili.outputs.video).batch.*.bvid) }}"
             let allId = bvids.split(',')
-            allId = allId.slice(allId.indexOf("${{ inputs.slice-bvid}}") + 1)
+            let startIndex = allId.indexOf("${{ inputs.before }}")
+            let endIndex = allId.indexOf("${{ inputs.after }}") + 1
+            if(startIndex == -1) {
+              startIndex = 0
+            }
+            if(endIndex == -1) {
+              endIndex = allId.length
+            }
+            allId = allId.slice(startIndex, endIndex)
             allId = allId.slice(0, ${{ fromJSON(inputs.limit) }})
             const lastId = allId[allId.length - 1]
             const chunk1 = allId.filter((id, idx) => idx % 4 == 0)
