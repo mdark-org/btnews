@@ -12,6 +12,9 @@ inputs:
   model:
     description: "gemini model"
     required: true
+  maxOutputTokens:
+    description: "gemini max output token"
+    required: true
   token:
     description: "gemini-token"
     required: true
@@ -75,7 +78,6 @@ runs:
         preset-system-prompt-template: ${{ inputs.system-prompt-template }}
         preset-markdown-template: ${{ inputs.markdown-template }}
         preset-commit-message-template: ${{ inputs.commit-message-template }}
-
     - name: show template result
       shell: bash
       run: |
@@ -84,6 +86,7 @@ runs:
         echo "commit-message: ${{steps.template-loader.outputs.commit-message-template}}"
         echo "prompt: ${{steps.template-loader.outputs.prompt-template}}"
         echo "system-prompt: ${{steps.template-loader.outputs.system-prompt-template }}"
+        echo "schema: ${{ steps.template-loader.outputs.schema-template }}"
     - id: path-resolver
       uses: ./.github/actions/format
       with:
@@ -105,7 +108,7 @@ runs:
           echo "continue; file not exist"
           echo "continue=true" >> $GITHUB_OUTPUT
         elif [ "${{inputs.exec-even-exist}}" = "true" ]; then
-          echo "continue; file exist, but conitue anyway"
+          echo "continue; file exist, but continue anyway"
           echo "continue=true" >> $GITHUB_OUTPUT
         else
           echo "skip; file exist"
@@ -117,7 +120,7 @@ runs:
       with:
         variable: ${{ steps.bili.outputs.video }}
         template: |
-          ${{steps.template-loader.outputs.prompt-template}}
+          ${{ steps.template-loader.outputs.prompt-template }}
     - id: gen-system-prompt
       if: ${{ steps.check-exist.outputs.continue == 'true' }}
       uses: ./.github/actions/format
@@ -141,9 +144,11 @@ runs:
         model: ${{ inputs.model }}
         prompt: ${{ steps.gen-prompt.outputs.result }}
         system-prompt: ${{ steps.gen-system-prompt.outputs.result }}
+        generateSchema: ${{ steps.template-loader.outputs.schema-template }}
+        maxOutputTokens: ${{ inputs.maxOutputTokens }}
     - id: merge-param
-      name: merge
       if: ${{ steps.check-exist.outputs.continue == 'true' }}
+      name: merge
       shell: bash
       run: |
         cat <<'EOF' > tmp.json
@@ -187,12 +192,11 @@ runs:
         rm -f tmp.md
         ls -l "$path"
     - id: gen-commit-message
-      uses: ./.github/actions/format
       if: ${{ steps.check-exist.outputs.continue == 'true' }}
+      uses: ./.github/actions/format
       with:
         variable: ${{ steps.bili.outputs.video }}
         template: ${{steps.template-loader.outputs.commit-message-template}}
-
     - name: commit and push
       if: ${{ steps.check-exist.outputs.continue == 'true' }}
       uses: ./.github/actions/pr-or-commit

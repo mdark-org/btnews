@@ -22,7 +22,7 @@ on:
         description: "markdown-template"
         required: false
         type: string
-      commit-message-template:        
+      commit-message-template:
         description: "commit-message-template"
         required: false
         type: string
@@ -33,13 +33,20 @@ on:
         type: string
         description: "gemini model"
         default: "gemini-2.5-flash-preview-04-17"
+      maxOutputTokens:
+        description: "maxOutputTokens"
+        required: false
+        default: '65536'
+        type: string
       branch:
         description: "commit branch"
         required: false
         type: string
+
       commit-type:
-        description: "commit-type, pr | commit"
+        description: "commit type, pr | commit"
         required: false
+        default: 'pr'
         type: string
   workflow_dispatch:
     inputs:
@@ -70,7 +77,8 @@ on:
       exec-even-exist:
         type: 'boolean'
         required: false
-        default: 'false'
+        default: false
+        description: ' overwrite，即使分支/文件存在，也继续执行'
       model:
         description: "gemini model"
         type: choice
@@ -78,13 +86,14 @@ on:
         options:
           - "gemini-2.5-pro-exp-03-25"
           - "gemini-2.5-flash-preview-04-17"
-      commit-type:
-        description: "commit-type, pr | commit"
-        required: false
-        type: string
       branch:
         description: "commit branch"
         required: false
+        type: string
+      maxOutputTokens:
+        description: "maxOutputTokens"
+        required: false
+        default: '65536'
         type: string
 env:
   bvid: ${{inputs.bvid }}
@@ -117,8 +126,9 @@ jobs:
           fi
       - name: get content
         if: ${{ steps.check-branch-exists.outputs.exists == 'false' || env.exec-even-exist == 'true' }}
-        uses: ktKongTong/autodoc-action@v0.2.1
+        uses: ./.github/actions/bili-fetch
         with:
+          maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
@@ -127,9 +137,8 @@ jobs:
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
           type: ${{ env.commit-type }}
-          maxOutputTokens: '65536'
           filepath-template: ${{ env.filepath-template }}
           markdown-template: ${{ env.markdown-template }}
           prompt-template: ${{ env.prompt-template }}
           system-prompt-template: ${{ env.system-prompt-template }}
-#          commit-message-template: ${{ env.commit-message-template || format('new docs {0}', fromJSON(steps.bili.outputs.video).title) }}
+#          commit-message-template: ${{ env.commit-message-tmplate || format('new docs {0}', fromJSON(steps.bili.outputs.video).title) }}

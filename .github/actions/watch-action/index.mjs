@@ -27761,6 +27761,10 @@ const modifyTemplate = (template, cur) => {
         template.prompt.user = cur?.prompt?.user;
         modified = true;
     }
+    if (!template.prompt.schema && cur?.prompt?.schema) {
+        template.prompt.schema = cur?.prompt?.schema;
+        modified = true;
+    }
     if (!template.filepath && typeof cur?.filepath === 'string') {
         template.filepath = cur?.filepath;
         modified = true;
@@ -27841,6 +27845,7 @@ const createPreset = () => ({
     prompt: {
         user: undefined,
         system: undefined,
+        schema: undefined
     },
     markdown: undefined,
     'commit-message': undefined

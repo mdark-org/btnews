@@ -48,6 +48,8 @@ env:
   model: ${{ inputs.model }}
   exec-even-exist: ${{ inputs.exec-even-exist || 'false' }}
   branch: ${{ inputs.branch || format('batch/{0}/{1}', inputs.mid, inputs.keywords) }}
+  maxOutputTokens: ${{ inputs.maxOutputTokens || '65536' }}
+
 jobs:
   batch-get-video:
     runs-on: ubuntu-latest
@@ -103,6 +105,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
+          maxOutputTokens: ${{ env.maxOutputTokens }}
           prompt-template: ${{ env.prompt-template }}
           system-prompt-template: ${{ env.system-prompt-template }}
           bvid: ${{ matrix.bvid }}
@@ -126,6 +129,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
+          maxOutputTokens: ${{ env.maxOutputTokens }}
           prompt-template: ${{ env.prompt-template }}
           system-prompt-template: ${{ env.system-prompt-template }}
           bvid: ${{ matrix.bvid }}
@@ -149,6 +153,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
+          maxOutputTokens: ${{ env.maxOutputTokens }}
           prompt-template: ${{ env.prompt-template }}
           system-prompt-template: ${{ env.system-prompt-template }}
           bvid: ${{ matrix.bvid }}
@@ -172,6 +177,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
+          maxOutputTokens: ${{ env.maxOutputTokens }}
           prompt-template: ${{ env.prompt-template }}
           system-prompt-template: ${{ env.system-prompt-template }}
           bvid: ${{ matrix.bvid }}

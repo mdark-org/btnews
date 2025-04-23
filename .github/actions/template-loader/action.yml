@@ -35,6 +35,8 @@ outputs:
     description: 'template result'
   commit-message-template:
     description: 'template result'
+  schema-template:
+    description: 'output schema'
 runs:
   using: node20
   main: index.mjs

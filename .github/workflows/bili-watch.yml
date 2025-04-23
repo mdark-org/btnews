@@ -37,5 +37,6 @@ jobs:
       model: 'gemini-2.5-pro-exp-03-25'
       commit-type: 'commit'
       branch: 'master'
+      maxOutputTokens: '65536'
 #      commit-type: 'pr'
 #      branch: 'fetch/${{ matrix.event.bvid }}'
