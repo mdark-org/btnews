@@ -37,6 +37,10 @@ on:
         description: "commit branch"
         required: false
         type: string
+      commit-type:
+        description: "commit-type, pr | commit"
+        required: false
+        type: string
   workflow_dispatch:
     inputs:
       bvid:
@@ -74,6 +78,10 @@ on:
         options:
           - "gemini-2.5-pro-exp-03-25"
           - "gemini-2.5-flash-preview-04-17"
+      commit-type:
+        description: "commit-type, pr | commit"
+        required: false
+        type: string
       branch:
         description: "commit branch"
         required: false
@@ -88,6 +96,7 @@ env:
   commit-message-template: ${{ inputs.commit-message-template }}
   model: ${{ inputs.model }}
   branch: ${{ inputs.branch || format('fetch/{0}', inputs.bvid) }}
+  commit-type: ${{ inputs.commit-type || 'pr' }}
 jobs:
   get-video:
     runs-on: ubuntu-latest
@@ -117,7 +126,7 @@ jobs:
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
-          type: 'pr'
+          type: ${{ env.commit-type }}
           maxOutputTokens: '65536'
           filepath-template: ${{ env.filepath-template }}
           markdown-template: ${{ env.markdown-template }}
