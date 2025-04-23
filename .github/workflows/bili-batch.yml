@@ -78,7 +78,7 @@ jobs:
             if(startIndex == -1) {
               startIndex = 0
             }
-            if(endIndex == -1) {
+            if(endIndex == 0) {
               endIndex = allId.length
             }
             allId = allId.slice(startIndex, endIndex)
