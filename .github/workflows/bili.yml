@@ -123,4 +123,4 @@ jobs:
           markdown-template: ${{ env.markdown-template }}
           prompt-template: ${{ env.prompt-template }}
           system-prompt-template: ${{ env.system-prompt-template }}
-          commit-message-template: ${{ env.commit-message-tmplate || format('new docs {0}', fromJSON(steps.bili.outputs.video).title) }}
+#          commit-message-template: ${{ env.commit-message-template || format('new docs {0}', fromJSON(steps.bili.outputs.video).title) }}
