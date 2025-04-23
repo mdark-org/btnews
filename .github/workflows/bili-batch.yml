@@ -34,9 +34,6 @@ on:
         options:
           - "gemini-2.5-pro-exp-03-25"
           - "gemini-2.5-flash-preview-04-17"
-      system-prompt-template:
-        description: "system-prompt-template"
-        required: false
       prompt-template:
         description: "prompt-template"
         required: false
