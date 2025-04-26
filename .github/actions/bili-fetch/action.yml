@@ -4,7 +4,7 @@ inputs:
     description: "Bilibili bvid"
     required: true
   sessdata:
-    description: "Bilibili Sessdata"
+    description: "Bilibili sessdata"
     required: false
   bili-proxy:
     description: "bili-proxy-host"
