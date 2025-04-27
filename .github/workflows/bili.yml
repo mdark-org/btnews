@@ -116,14 +116,6 @@ jobs:
         with:
           bvid: ${{ env.bvid }}
       - uses: actions/checkout@v4
-#      - name: Check if branch exists
-#        id: check-branch-exists
-#        run: |
-#          if [[ -n $(git ls-remote --heads origin ${{ env.branch }}) ]]; then
-#             echo "exists=true" >> $GITHUB_OUTPUT
-#          else
-#             echo "exists=false" >> $GITHUB_OUTPUT
-#          fi
       - name: get content
         uses: mdark-org/autodoc-action@v0.2.1
         with:

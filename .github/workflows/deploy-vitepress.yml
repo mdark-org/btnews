@@ -2,12 +2,12 @@ name: Deploy to Vercel
 
 on:
   workflow_dispatch:
-  push:
-    branches: [ master ]
-  pull_request:
-    types:
-      - opened
-    branches: [ master ]
+#  push:
+#    branches: [ master ]
+#  pull_request:
+#    types:
+#      - opened
+#    branches: [ master ]
 
 env:
   VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}

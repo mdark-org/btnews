@@ -13,7 +13,7 @@ match:
       bilibili:
         script: '.autodoc/scripts/bilibili/refnews.mjs'
         condition:
-          owner.name: "小黛晨读"
+          owner.name: "(小黛晨读|马督工)"
           title: "参考信息"
         template:
           filepath: docs/btnews/refnews/{{title}}.md
