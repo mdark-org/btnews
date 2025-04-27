@@ -125,7 +125,7 @@ jobs:
 #             echo "exists=false" >> $GITHUB_OUTPUT
 #          fi
       - name: get content
-        uses: ./.github/actions/bili-fetch
+        uses: mdark-org/autodoc-action@v0.2.1
         with:
           maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}

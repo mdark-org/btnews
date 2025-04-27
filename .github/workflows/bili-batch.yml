@@ -50,7 +50,7 @@ env:
   exec-even-exist: ${{ inputs.exec-even-exist || 'false' }}
   branch: ${{ inputs.branch || format('batch/{0}/{1}', inputs.mid, inputs.keywords) }}
   maxOutputTokens: ${{ inputs.maxOutputTokens || '65536' }}
-
+  commit-type: 'commit'
 jobs:
   batch-get-video:
     runs-on: ubuntu-latest
@@ -110,19 +110,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: get content
-        uses: ./.github/actions/bili-fetch
+        uses: mdark-org/autodoc-action@v0.2.1
         with:
+          maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          maxOutputTokens: ${{ env.maxOutputTokens }}
-          prompt-template: ${{ env.prompt-template }}
-          system-prompt-template: ${{ env.system-prompt-template }}
-          bvid: ${{ matrix.bvid }}
+          bvid: ${{ env.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
-          type: 'commit'
+          type: ${{ env.commit-type }}
+          prompt-template: ${{ env.prompt-template }}
+          system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-2:
     needs: [batch-get-video, get-video-chunk-1]
     runs-on: ubuntu-latest
@@ -134,19 +134,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: get content
-        uses: ./.github/actions/bili-fetch
+        uses: mdark-org/autodoc-action@v0.2.1
         with:
+          maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          maxOutputTokens: ${{ env.maxOutputTokens }}
-          prompt-template: ${{ env.prompt-template }}
-          system-prompt-template: ${{ env.system-prompt-template }}
-          bvid: ${{ matrix.bvid }}
+          bvid: ${{ env.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
-          type: 'commit'
+          type: ${{ env.commit-type }}
+          prompt-template: ${{ env.prompt-template }}
+          system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-3:
     needs: [batch-get-video,get-video-chunk-2]
     runs-on: ubuntu-latest
@@ -158,19 +158,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: get content
-        uses: ./.github/actions/bili-fetch
+        uses: mdark-org/autodoc-action@v0.2.1
         with:
+          maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          maxOutputTokens: ${{ env.maxOutputTokens }}
-          prompt-template: ${{ env.prompt-template }}
-          system-prompt-template: ${{ env.system-prompt-template }}
-          bvid: ${{ matrix.bvid }}
+          bvid: ${{ env.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
-          type: 'commit'
+          type: ${{ env.commit-type }}
+          prompt-template: ${{ env.prompt-template }}
+          system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-4:
     needs: [batch-get-video, get-video-chunk-3]
     runs-on: ubuntu-latest
@@ -182,16 +182,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: get content
-        uses: ./.github/actions/bili-fetch
+        uses: mdark-org/autodoc-action@v0.2.1
         with:
+          maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          maxOutputTokens: ${{ env.maxOutputTokens }}
-          prompt-template: ${{ env.prompt-template }}
-          system-prompt-template: ${{ env.system-prompt-template }}
-          bvid: ${{ matrix.bvid }}
+          bvid: ${{ env.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
-          type: 'commit'
+          type: ${{ env.commit-type }}
+          prompt-template: ${{ env.prompt-template }}
+          system-prompt-template: ${{ env.system-prompt-template }}
