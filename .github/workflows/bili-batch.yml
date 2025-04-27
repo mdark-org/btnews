@@ -116,7 +116,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          bvid: ${{ env.bvid }}
+          bvid: ${{ matrix.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
@@ -140,7 +140,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          bvid: ${{ env.bvid }}
+          bvid: ${{ matrix.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
@@ -164,7 +164,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          bvid: ${{ env.bvid }}
+          bvid: ${{ matrix.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
@@ -188,7 +188,7 @@ jobs:
           token: ${{ secrets.GEMINI_TOKEN }}
           github-token: ${{ secrets.PAT }}
           model: ${{ env.model }}
-          bvid: ${{ env.bvid }}
+          bvid: ${{ matrix.bvid }}
           bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
           exec-even-exist: ${{ env.exec-even-exist }}
           branch: ${{ env.branch }}
