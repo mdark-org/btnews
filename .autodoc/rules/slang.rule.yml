@@ -5,6 +5,7 @@ listen:
         post:
           mid: 64219557
           keywords: 讲点黑话
+          script: '.autodoc/scripts/bilibili/slang.mjs'
           filepath: docs/btnews/slang/{{title}}.md
 match:
   - id: 讲点黑话
@@ -14,6 +15,7 @@ match:
           owner.name: "讲点黑话"
           title: "讲点黑话"
         template:
+          script: '.autodoc/scripts/bilibili/slang.mjs'
           filepath: docs/btnews/slang/{{title}}.md
           prompt:
             user: |

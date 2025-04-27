@@ -1,5 +1,5 @@
 
-const regex = /【讲点黑话(\d{1,4})】/
+const regex = /【高见(\d{1,4})期?】/
 
 const title2filepath = (title) => {
     const [full, index] = regex.exec(title)
@@ -11,7 +11,7 @@ const title2filepath = (title) => {
     const rangeEnd = rangeStart + 99
     const range = `${String(rangeStart).padStart(4, '0')}_${String(rangeEnd).padStart(4, '0')}`
     const indexStr = String(indexNum).padStart(4, '0')
-    return `docs/btnews/slang/${range}/slang_${indexStr}.md`
+    return `docs/btnews/opinion/opinion_${indexStr}.md`
 }
 
 export const listen = function(data) {
