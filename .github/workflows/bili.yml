@@ -122,7 +122,7 @@ jobs:
             const bvids = "${{ inputs.bvid }}"
             let allId = bvids.split(',')
             return allId
-  fetch:
+  get-video:
     needs: split-input
     strategy:
       max-parallel: 4
