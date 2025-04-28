@@ -3,12 +3,8 @@ title: 【睡前消息551】你担心金税4期太强，我嫌它还不够强
 date: 2023-02-14
 description: 分析金税4期相关舆情。
 tag: [金税4期,税]
+ytid: LHr7vsAGAM0
 ---
-
-<VideoService 
-provider="Youtube"
-videoId="LHr7vsAGAM0"
-/>
 
 大家好，2022年2月14日星期二，欢迎收看551期睡前消息，请静静介绍话题。
 

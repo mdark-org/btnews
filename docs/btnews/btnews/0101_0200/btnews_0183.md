@@ -3,12 +3,8 @@ title: 【睡前消息183】给台湾新党做科普，谈谈什么是「解放�
 date: 2020-10-20
 description: 给台湾新党做科普，谈谈什么是「解放」
 tag: ["台湾"]
+ytid: ZuKHepsHo8w
 ---
-
-<VideoService 
-:provider="['Youtube']"
-:videoId = "['ZuKHepsHo8w']"
-/>
 
 2020年10月20日星期二，欢迎收看第183期睡前消息。
 

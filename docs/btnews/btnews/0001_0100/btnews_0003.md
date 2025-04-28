@@ -3,12 +3,8 @@ title: 【睡前消息】有人因为没热搜就怀疑周杰伦不红？说明9
 date: 2019-07-19
 description: 东阿阿胶股价暴跌；国民党又双叕内斗了；烟草管理；周杰伦因为没热搜被质疑。
 tag: [台湾,韩国瑜]
+bvid: BV17t411n7FK
 ---
-
-<VideoService
-provider="Bilibili"
-videoId="BV17t411n7FK"
-/>
 
 大家好，周末到了，欢迎收看马前卒施工队的睡前消息，现在请蛋卷坐好，让静静介绍新闻：
 

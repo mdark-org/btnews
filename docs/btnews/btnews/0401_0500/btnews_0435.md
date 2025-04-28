@@ -3,12 +3,9 @@ title: 【睡前消息435】用上限追赶美国下限，中国航天差多远
 date: 2022-05-23
 description: 2022年5月，美国同时测试两款重型火箭。其中SLS火箭是冷战技术集成，属于保守方案；SpaceX星舰是21世纪新技术尝试，属于激进方案。而中国正在建造的长征九号火箭，比美国的保守方案还要迟缓。这可能导致美国抢占低轨轨道，垄断月球火星的稀缺资源。中国应该正确认识差距。
 tag: [航天, 火箭, SpaceX, 马斯克, 重型火箭, SLS火箭, NASA]
+bvid: BV1MS4y1z77L
+ytid: TU0E9UkBwug
 ---
-
-<VideoService 
-:provider="['Bilibili','Youtube']"
-:videoId="['BV1MS4y1z77L','TU0E9UkBwug']"
-/>
 
 大家好，2022年5月22日星期日，欢迎收看第435期睡前消息，请静静介绍话题。
 
