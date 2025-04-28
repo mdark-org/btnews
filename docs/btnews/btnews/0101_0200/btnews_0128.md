@@ -73,7 +73,7 @@ Zeboski，美联社）
 
 ![](/images/btnews/btnews/0101_0200/0128/image7.webp)
 
-<https://mappingpoliceviolence.org/>
+https://mappingpoliceviolence.org/
 
 ![](/images/btnews/btnews/0101_0200/0128/image8.webp)
 
@@ -91,7 +91,7 @@ Zeboski，美联社）
 
 这次出事的明尼苏达州就是歧视比较严重的地区，警察对黑人暴力执法的可能性，是对白人的7倍。如果是轻度犯罪，黑人被捕的概率，是白人的8.7倍。
 
-<https://www.newstoday.fr/the-truth-of-police-violence-in-the-us/>
+https://www.newstoday.fr/the-truth-of-police-violence-in-the-us/
 
 当然，这些统计都是回顾性分析，和我前面反对的逻辑一样，只能说有相关性，不代表因果性，还不能完全证明美国警察的种族歧视是打死黑人的原因。
 
@@ -162,7 +162,7 @@ Zeboski，美联社）
 
 其他的研究发现，司法统计局忽略了维持治安、法庭的开支，以及单亲抚养费支出，全算上还要再加上一千多亿美元。有人估计过，美国经济每年在警务和监狱上消耗的资金，大概要五千亿美元，快赶上美国军费了。很多警察在没什么危险的地方巡逻，就能领20多万美元的工资，随便拿出一点支持警察工会，就能凑很多钱去华盛顿影响政策。这是一个典型的封建军事团体。
 
-<https://eji.org/news/mass-incarceration-costs-182-billion-annually/>
+https://eji.org/news/mass-incarceration-costs-182-billion-annually/
 
 每次暴力执法引发社会骚乱，政府都会尝试推动警察改革，但基本都会被警察工会拦下来。很多暴力执法致死的案件，最后只是把涉事警察免职，不了了之。而且有的警察被开除后，工会还能想办法再聘回来。
 

@@ -35,7 +35,7 @@ date: 2019-09-20
 
 最近几十年搞区别化教育有两个趋势。第一个是承认起点差异，但是培养方向都一样，比如说上海第三女中的校长刚刚接受了采访。
 
-<http://sh.eastday.com/m/20190913/u1ai12831610.html>
+http://sh.eastday.com/m/20190913/u1ai12831610.html
 
 ![](/images/btnews/btnews/0001_0100/0021/image5.webp)
 

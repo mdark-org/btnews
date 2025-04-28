@@ -160,7 +160,7 @@ https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg33.house365.com%2FM02%2
 
 ![](/images/btnews/btnews/0201_0300/0281/image32.webp)
 
-<http://www.ceweekly.cn/2013/0812/58585.shtml>
+http://www.ceweekly.cn/2013/0812/58585.shtml
 
 去年7月，引江济淮项目的毫州段通水，虽然整条引水线路还没打通，只能从淮河里分水，引水量很有限。但已经能明显缓解毫州市区70万居民的用水困难。项目效果立竿见影。
 
@@ -174,7 +174,7 @@ https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg33.house365.com%2FM02%2
 
 ![](/images/btnews/btnews/0201_0300/0281/image34.webp)
 
-<https://www.163.com/dy/article/E08UE1LH0525WSH3.html>
+https://www.163.com/dy/article/E08UE1LH0525WSH3.html
 
 2019年有新闻报道，安徽省所有市都要加入长三角城市群。而长三角经济圈的典型特征之一就是内河航运。但安徽在这方面比较尴尬，虽然境内有长江、淮河两大河流经过，但除了沿长江的皖南地区外，皖中、皖北航运条件都非常一般。
 

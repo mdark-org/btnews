@@ -55,7 +55,7 @@ date: 2020-01-31
 
 所以，27号，人民日报的公号侠客岛就发文章，批判这种行为。
 
-<http://www.hnmsw.com/show_article_119588.html>
+http://www.hnmsw.com/show_article_119588.html
 
 ![](/images/btnews/btnews/0001_0100/0071/image7.webp)
 

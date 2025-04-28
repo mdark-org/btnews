@@ -62,7 +62,7 @@ date: 2021-08-01
 
 ![](/images/btnews/btnews/0301_0400/0308/image1.webp)
 
-<https://new.qq.com/rain/a/20210723A0A9YK00>
+https://new.qq.com/rain/a/20210723A0A9YK00
 
 对于增加生育的顾虑，96.14%的居民认为包括育儿时间精力问题。
 
@@ -204,7 +204,7 @@ date: 2021-08-01
 
 同时，青藏高原全线阳光强烈，会加速绝缘部件的有机材料老化，某些段落风沙多，会污染绝缘部件，这都给电气化改造制造了麻烦，所以青藏铁路的主体部分不用电力机车，为了保证可靠性，还从美国进口了一批内燃机车保证运输。
 
-<https://www.163.com/dy/article/G50653PP05328YVR.html>
+https://www.163.com/dy/article/G50653PP05328YVR.html
 
 <u>——《青藏发电车运行状态测试系统的研究与实现》；2010</u>
 
@@ -214,7 +214,7 @@ date: 2021-08-01
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1697805884308855396&wfr=spider&for=pc)
 
-<http://www.xizang.gov.cn/zwgk/xxfb/gsgg_428/201911/W020191114599657509117.pdf>
+http://www.xizang.gov.cn/zwgk/xxfb/gsgg_428/201911/W020191114599657509117.pdf
 
 [青藏铁路供电女工长：巾帼不让须眉_腾讯新闻](https://new.qq.com/omn/20200718/20200718A0CBCK00.html?pc)
 

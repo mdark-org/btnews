@@ -15,7 +15,7 @@ date: 2020-08-30
 
 北纬60度到南纬30度之间是疟疾的主要分布区。主要的疟疾类型有两种，间日疟与恶性疟。恶性疟在热带、亚热带的湿热地区非常普遍，死亡率也最高。这次东南亚与非洲出现的耐青蒿素突变，都是恶性疟的突变。
 
-<http://www.chinacdc.cn/jkzt/crb/zl/nj/wxzl/201304/t20130423_80361.html>
+http://www.chinacdc.cn/jkzt/crb/zl/nj/wxzl/201304/t20130423_80361.html
 
 ![](/images/btnews/btnews/0101_0200/0161/image2.webp)
 
@@ -27,7 +27,7 @@ date: 2020-08-30
 
 越南战争期间，东南亚普遍出现抗氯喹的恶性疟疾，1964年，越南人民军准备南下作战，向中国求援，中国一方面派出了32万人进入越南援助，另一方面也积极研发新的抗疟疾药物，这才有了中国“523任务”，屠呦呦和她的同事发现青蒿素，创造了新一代抗疟神药。在屠呦呦之前，已经有4个科学家因为疟疾研究得了诺贝尔奖，屠呦呦作为青蒿素发明的关键节点人物，得诺贝尔奖可以说是是众望所归。
 
-<http://www.chinacdc.cn/jkzt/crb/zl/nj/wxzl/201304/t20130423_80361.html>
+http://www.chinacdc.cn/jkzt/crb/zl/nj/wxzl/201304/t20130423_80361.html
 
 [“523任务”与青蒿素发现的历史探究](https://www.guancha.cn/Science/2017_01_09_388444.shtml)
 
@@ -37,9 +37,9 @@ date: 2020-08-30
 
 但是，青蒿素应用了几十年以后，疟原虫也普遍出现了耐药性。2006年，柬埔寨西北地区的湄公河流域，就有人报告了青蒿素临床出现耐药性。2014年研究证实，湄公河流域的疟原虫耐药性来自Kelch-13蛋白的突变。
 
-<https://mbio.asm.org/content/11/1/e01134-19>
+https://mbio.asm.org/content/11/1/e01134-19
 
-<https://new.qq.com/omn/20200808/20200808A0CR5J00.html?pc>
+https://new.qq.com/omn/20200808/20200808A0CR5J00.html?pc
 
 而这次非洲的耐药性疟原虫，也是Kelch-13蛋白上发生了突变。通过系统发育分析，研究人员确认，非洲的耐药性疟原虫不是亚洲传过去的，是独立产生的。两个大洲的疟原虫突变，是青蒿素普及以后的趋同进化，再次证明了进化论无所不在。
 
@@ -47,7 +47,7 @@ date: 2020-08-30
 
 真正的问题是非洲，疟疾患者超过2亿，占全世界的92%。全球每年有4、50万人因疟疾死亡，大部分是非洲的5岁以下儿童。可以说，非洲和非洲儿童现在是疟原虫的大型培养皿。
 
-<https://www.who.int/malaria/media/world-malaria-report-2018/zh/>
+https://www.who.int/malaria/media/world-malaria-report-2018/zh/
 
 [疟疾 - 感染 - 《默沙东诊疗手册大众版》](https://www.msdmanuals.com/zh/home/infections/parasitic-infections-extraintestinal-protozoa/malaria?query=%E7%96%9F%E5%8E%9F%E8%99%AB)
 
@@ -77,7 +77,7 @@ date: 2020-08-30
 
 青蒿素就是干扰疟原虫红细胞增殖的特效药。疟原虫在红细胞内增殖，主要靠吞噬血红蛋白。血红蛋白在疟原虫体内被分解，产生血红素与少量游离的二价铁离子。青蒿素进入疟原虫体内以后，这些二价铁离子就会催化青蒿素的过氧桥，造成过氧桥断裂，释放出大量自由基与活性氧。这些自由基会破坏疟原虫的膜系结构，活性氧会破坏细胞结构，杀死疟原虫。可以说，装满二价铁离子的疟原虫，就像是个装满炸弹的仓库，青蒿素就是引爆这些炸弹的火种。
 
-<https://www.chemicalbook.com/NewsInfo_11103.htm>
+https://www.chemicalbook.com/NewsInfo_11103.htm
 
 今年1月3号，《科学》上发表了一篇有关青蒿素耐药机制的论文，首次解析了Kelch-13蛋白突变的耐药机制。疟原虫通过这一突变，降低了吞噬血红蛋白的效率，等于减少了弹药库里的炸弹密度，让青蒿素无法引爆疟原虫。
 
@@ -113,7 +113,7 @@ date: 2020-08-30
 
 尼日利亚人口现在超过2亿，非洲第一。尼日利亚处于热带地区，大河下游，是疟疾流行区，就算青蒿素普及以后，每年因疟疾死亡的尼日利亚人，还是占了全球疟疾死亡数19%。所以在青蒿素普及之前，24%的尼日利亚人携带镰刀型贫血症，导致2%的新生儿从一出生就有严重的镰刀型贫血症。
 
-<https://www.who.int/malaria/media/world-malaria-report-2018/zh/>
+https://www.who.int/malaria/media/world-malaria-report-2018/zh/
 
 [](https://apps.who.int/iris/bitstream/handle/10665/24857/A59_9-ch.pdf?sequence=1&isAllowed=y)
 
@@ -170,7 +170,7 @@ date: 2020-08-30
 
 去年4月23日，世卫组织宣布，葛兰素史克的疫苗，将陆续在非洲国家马拉维、加纳和肯尼亚推广。世卫组织希望，这个计划2030年之前将会确定疟疾疫苗的新路线图，削减75%的疟疾病例，甚至彻底消灭。
 
-<https://www.who.int/mediacentre/news/notes/2013/malaria-vaccines-20131114/zh/>
+https://www.who.int/mediacentre/news/notes/2013/malaria-vaccines-20131114/zh/
 
 [é¦æ¯çç¾ç«è ææ»æ¯æ²¡æå¼ºâæ°é»âç§å­¦ç½](http://news.sciencenet.cn/htmlnews/2019/12/433476.shtm)
 

@@ -174,7 +174,7 @@ date: 2020-04-14
 
 ![](/images/btnews/btnews/0101_0200/0102/image28.webp)
 
-<http://www.sinovision.net/society/202004/00479970.htm>
+http://www.sinovision.net/society/202004/00479970.htm
 
 4月11日，张文宏教授接受人民网采访，也说“瑞德西韦可以算是有效药物，但不是特效药。”
 

@@ -241,7 +241,7 @@ Government Corporation），典型的美国的国企。专门经营长途和城
 
 ![](/images/btnews/btnews/0001_0100/0044/image40.webp)
 
-法国铁路公司官网<https://www.sncf.com/fr>
+法国铁路公司官网https://www.sncf.com/fr
 
 美国运营最好的线路，性价比还这么差，其他线路就更没人坐了。
 

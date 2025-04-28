@@ -54,7 +54,7 @@ date: 2020-11-06
 
 [胡大一：医生热衷名利致心脏支架滥用](https://www.sohu.com/a/12743204_139908)
 
-<https://news.qq.com/a/20120617/000113.htm>
+https://news.qq.com/a/20120617/000113.htm
 
 2010年前后，中国的确存在一定的滥用心脏支架情况，胡大一教授指出的问题主要发生在2000年到2010年。2011年，中国每次冠状动脉介入手术的支架使用数量达到峰值，平均每台手术1.67个。在这之后，平均每台手术的支架使用数量开始缓慢下降。到了2019年，
 中国冠状动脉介入手术已经增长到91.5万例，但是平均每台手术支架植入量下降到1.46个。
@@ -72,15 +72,15 @@ date: 2020-11-06
 
 根据国家心血管病中心的数据，中国14亿人，冠心病患者1100万，占20岁以上人口的比例1%。美国只有3亿人，其中1280万冠心病患者，占20岁以上人口的比例是6.7%。随着平均年龄增长，就算中国的冠心病患者比例不会达到美国的水平，也必然会增长好几倍。
 
-<https://new.qq.com/omn/20201008/20201008A033DK00.html>
+https://new.qq.com/omn/20201008/20201008A033DK00.html
 
 [Heart Disease Facts \| cdc.gov](https://www.cdc.gov/heartdisease/facts.htm#:~:text=Heart%20Disease%20in%20the%20United%20States&text=One%20person%20dies%20every%2036,1%20in%20every%204%20deaths.&text=Heart%20disease%20costs%20the%20United,year%20from%202014%20to%202015).
 
-<https://www.sciencedirect.com/science/article/pii/S0167527318341482>
+https://www.sciencedirect.com/science/article/pii/S0167527318341482
 
 [Coronary heart disease and stroke disease burden attributable to fruit and vegetable intake in Japan: projected DALYS to 2060 \| BMC Public Health \| Full Text](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7047-z#:~:text=In%20Japan%20in%202014%2C%20there,(2%2C534%2C000)%20%5B8%5D).
 
-<https://www.who.int/topics/cardiovascular_diseases/zh/>
+https://www.who.int/topics/cardiovascular_diseases/zh/
 
 ![](/images/btnews/btnews/0101_0200/0190/image7.webp)
 
@@ -90,9 +90,9 @@ date: 2020-11-06
 
 要挽救中国人的生命，未来必然需要使用更多的心脏支架，做更多的手术，所以现在必须把心脏支架的采购价格压下来，避免医保基金破产。
 
-<http://www.chyxx.com/industry/201806/646639.html>
+http://www.chyxx.com/industry/201806/646639.html
 
-<http://www.chyxx.com/industry/201806/646639.html>
+http://www.chyxx.com/industry/201806/646639.html
 
 ![](/images/btnews/btnews/0101_0200/0190/image8.webp)
 

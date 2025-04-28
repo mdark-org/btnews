@@ -57,7 +57,7 @@ Side，敲诈企业的事情，肯定比黑吃黑事件多100倍。这两年，�
 
 [ÀÕË÷²¡¶¾±¬·¢²¨¼°ÖÐÊ¯ÓÍ£º2Íò×ù¼ÓÓÍÕ¾¶ÏÍø_ÖÐÖ¤Íø](http://www.cs.com.cn/xwzx/zt2017/20170515/01/201705/t20170515_5281615.html)
 
-<https://www.163.com/dy/article/GA4438B90519JFL1.html>
+https://www.163.com/dy/article/GA4438B90519JFL1.html
 
 ![](/images/btnews/btnews/0201_0300/0278/image1.webp)
 
@@ -146,7 +146,7 @@ Side能对应的实体信息都在东欧或者俄罗斯，这就比较难办了�
 
 最近几年其它国家暗网陆续垮台，全球暗网交易总量开始萎缩，但最重视保密技术的九头蛇平台去年逆势增长了23%，注册用户在2019年就超过了250万，而之前暗网巨头“华尔街市场”只有115万用户。现在九头蛇平台占领全球75%以上的暗网交易份额，大多数勒索事件都和它有关系。
 
-<https://news.bitcoin.com/hydras-complex-drug-delivery-system-in-russia-overshadows-western-darknet-markets/>
+https://news.bitcoin.com/hydras-complex-drug-delivery-system-in-russia-overshadows-western-darknet-markets/
 
 [Led by Hydra, Darknet Markets Logged Record Revenue](https://www.bankinfosecurity.com/blogs/led-by-hydra-darknet-markets-logged-their-best-year-ever-p-2990)
 
@@ -179,7 +179,7 @@ Side这种黑客组织真的“盗亦有道”，只针对大企业下手？，
 
 黑客只要钱，对破坏别人的生活没有直接的恶趣味。去年德国杜塞尔多夫大学医院遭到黑客攻击，系统出问题，一名患者因延误治疗死亡。黑客得知消息后，取消攻击，主动提供了解密密钥，还解释说自己本来没想攻击医院，是想攻击大学。表示歉意。
 
-<https://www.163.com/dy/article/FN8LOOIP0511AJQ1.html>
+https://www.163.com/dy/article/FN8LOOIP0511AJQ1.html
 
 但是，犯罪工具就是犯罪工具。在无政府状态下，哪怕有1万个黑客保持平常人的道德底限，也不能保证第一万零一个不滥用技术。目前大企业频繁被敲诈，而政府和普通人相对安全，不是因为黑客做不到，也不是因为他们的道德，而是因为拿钱太麻烦。
 

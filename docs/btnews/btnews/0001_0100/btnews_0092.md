@@ -7,7 +7,7 @@ date: 2020-03-22
 
 [](https://xw.qq.com/amphtml/20200219A0OZ5200)（扣押船只的新闻）
 
-<https://3g.163.com/war/article_cambrian/F76HSSB80530Q86N.html?isFromOtherWeb=true>（时间回顾）
+https://3g.163.com/war/article_cambrian/F76HSSB80530Q86N.html?isFromOtherWeb=true（时间回顾）
 
 2月5日，一艘中国香港籍货轮“大翠云”号途径印度坎德拉港，被印度扣留。2月21日，“大翠云”号被释放，继续前往目的地巴基斯坦卡拉奇，但是印度扣下了一台工业高压釜。
 
@@ -117,7 +117,7 @@ date: 2020-03-22
 
 ![](/images/btnews/btnews/0001_0100/0092/image18.webp)
 
-<http://www.spaceflightfans.cn/event/china-long-march-7a-rocket-testflight>（视频）
+http://www.spaceflightfans.cn/event/china-long-march-7a-rocket-testflight（视频）
 
 中国航天也一样，想要快速进步，总要冒点风险。
 
@@ -141,7 +141,7 @@ date: 2020-03-22
 
 ![](/images/btnews/btnews/0001_0100/0092/image21.webp)
 
-<http://www.xinhuanet.com/tech/2019-08/05/c_1124836977.htm>
+http://www.xinhuanet.com/tech/2019-08/05/c_1124836977.htm
 
 马斯克一家私营公司，为什么能领先其他大国，率先完成低成本航天计划呢？
 

@@ -222,7 +222,7 @@ date: 2020-06-09
 
 ![](/images/btnews/btnews/0101_0200/0126/image43.webp)
 
-哈夫塔尔宣布直接接管政权的讲话<https://www.france24.com/en/20200429-without-naming-libya-s-haftar-france-condemns-unilateral-action-in-libya>
+哈夫塔尔宣布直接接管政权的讲话https://www.france24.com/en/20200429-without-naming-libya-s-haftar-france-condemns-unilateral-action-in-libya
 
 而从土耳其一方来说，他们要的只是地中海南岸的基地，帮他们控制东地中海的天然气，真要是帮民团军消灭了对手，民团军也有转向其他海湾富国的可能性。所以，俄罗斯和土耳其很可能会在对抗的同时保持默契，维持利比亚的分裂。叙利亚战争已经证明，土耳其和俄罗斯可以在相互空袭，相互打飞机的情况下避免全面冲突，这可能也是利比亚的未来。
 
@@ -238,7 +238,7 @@ date: 2020-06-09
 
 偷狗是盗窃罪，公路上撒破坏性路障是危害公共安全罪，这个偷狗团伙估计要多坐几年牢了。但这和能不能吃狗肉没关系，我随手一查，过去几个月，全国偷猪和偷猪肉的案子有十几起。
 
-<https://3g.163.com/news/article/FE56GSCN05487I0H.html?from=history-back-list>
+https://3g.163.com/news/article/FE56GSCN05487I0H.html?from=history-back-list
 
 [索债无果偷猪抵  男子盗窃被抓_李彤](https://www.sohu.com/a/381131056_120055743)
 
@@ -250,7 +250,7 @@ date: 2020-06-09
 
 但是，之所以养殖场供应不足，很大原因是缺乏相关的法规。去年9月有贵阳的顾客投诉当地狗肉没有检疫，贵阳市云岩区市场监督局接到投诉以后，要求超市把狗肉下架。
 
-<http://gz.sina.com.cn/news/2019-10-09/detail-iicezzrr0938817.shtml?qq-pf-to=pcqq.c2c>
+http://gz.sina.com.cn/news/2019-10-09/detail-iicezzrr0938817.shtml?qq-pf-to=pcqq.c2c
 
 但是，无论是市场监督局还是动物防疫部门都承认，国家并没有对应的狗肉检疫标准，如果消费者严肃追究起来，的确市面上所有狗肉都有非法的嫌疑。
 
@@ -258,7 +258,7 @@ date: 2020-06-09
 
 所以，在贵州这个有长期吃狗传统的地方，狗肉也会因为普通的投诉下架。各地的小动物保护协会追着运狗车拦截，把车拦下来以后，也往往用这个理由联系政府部门，把狗带走。甚至宠物医院和所谓的动物保护组织会相互传授经验，恶意利用有关部门故意放出来的法律漏洞。
 
-<http://wjpet.cn/h-nd-225.html>
+http://wjpet.cn/h-nd-225.html
 
 ![](/images/btnews/btnews/0101_0200/0126/image44.webp)
 

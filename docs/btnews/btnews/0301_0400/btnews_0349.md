@@ -35,7 +35,7 @@ date: 2021-11-05
 
 ![](/images/btnews/btnews/0301_0400/0349/image1.webp)
 
-<https://www.163.com/dy/article/GNG1K5250536SQ16.html>
+https://www.163.com/dy/article/GNG1K5250536SQ16.html
 
 从这些消息来看，高中搞差异化教育可以，初中就不允许。公立学校用60万年薪雇教师可以，家长送孩子去学而思、新东方就要打击。但是，初中后面就是高中，私人聘请教师也很难限制得住。
 

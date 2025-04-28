@@ -9,7 +9,7 @@ date: 2021-12-21
 
 ![](/images/btnews/btnews/0301_0400/0369/image1.webp)
 
-<http://www.cankaoxiaoxi.com/mil/20211204/2461864.shtml>
+http://www.cankaoxiaoxi.com/mil/20211204/2461864.shtml
 
 ![](/images/btnews/btnews/0301_0400/0369/image2.webp)
 
@@ -113,7 +113,7 @@ date: 2021-12-21
 
 ![](/images/btnews/btnews/0301_0400/0369/image18.webp)
 
-<https://www.arabianbusiness.com/gcc/uae-national-service-recruits-be-paid-at-least-816-month-576404>
+https://www.arabianbusiness.com/gcc/uae-national-service-recruits-be-paid-at-least-816-month-576404
 
 ![](/images/btnews/btnews/0301_0400/0369/image19.webp)
 
@@ -161,7 +161,7 @@ date: 2021-12-21
 
 ![](/images/btnews/btnews/0301_0400/0369/image30.webp)
 
-<https://www.afpc.af.mil/About/Air-Force-Demographics/>
+https://www.afpc.af.mil/About/Air-Force-Demographics/
 
 ![](/images/btnews/btnews/0301_0400/0369/image31.webp)
 
@@ -272,7 +272,7 @@ https://www.sohu.com/a/209359430_683108
 
 在这之前，还有2016年胜芳镇的红河事件：
 
-<https://www.chtangyao.com/news/xmtmsoty45505>
+https://www.chtangyao.com/news/xmtmsoty45505
 
 [【重磅】河北胜芳镇：中国环境污染的典型标本\|界面新闻 · 中国](https://www.jiemian.com/article/292610.html)
 

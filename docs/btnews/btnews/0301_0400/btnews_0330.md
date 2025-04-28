@@ -101,7 +101,7 @@ Norheim)并没有受到惩罚，
 
 [Column: With U.S. elder abuse in spotlight, a look at guardians \| Reuters](https://www.reuters.com/article/us-column-miller-seniors-idUSKBN1CP154)
 
-<https://aaapg.net/new-book-from-aaapg-founder-dr-sam-sugar-guardianship-and-the-elderly-the-perfect-crime/>
+https://aaapg.net/new-book-from-aaapg-founder-dr-sam-sugar-guardianship-and-the-elderly-the-perfect-crime/
 
 我320期用内华达州举例，是因为这里的问题尤其严重，已经从个人犯罪上升到团伙犯罪。过去的几十年里，拉斯维加斯山谷一直宣传自己是退休者的天堂，很多老年人被本地低税收，干燥，阳光充足的气候吸引，来这里定居。在问题最集中的内华达州克拉克县，有8500名老人处于法定监护状态。
 
@@ -123,7 +123,7 @@ Norheim)并没有受到惩罚，
 
 这个把谢弗带进地方权力中心的科尔特斯，和他是老朋友了。1964年科尔特斯的女儿凯瑟琳出生，就请谢弗做她的教父。而凯瑟琳长大以后，当了内华达州总检察长，众议员，在2019年开始成为本届国会的内华达州民主党参议员，还差点成为拜登的副总统。
 
-<https://aaapg.net/nevada-speculation-on-why-jared-shafer-has-not-yet-been-indicted/>
+https://aaapg.net/nevada-speculation-on-why-jared-shafer-has-not-yet-been-indicted/
 
 谢弗下海之后，他的公司连续被投诉侵占老人财产，但是从未被内华达州检察院起诉调查。2003年，谢弗雇佣了布里斯托尔作为职业监护人。经过公共监护人专员乔恩·诺海姆的认证，布里斯托尔成为克拉克县的法定老人监护人。这期间，布里斯托尔和谢弗被发现，用老年人的财产报销了他们乘坐豪华游轮的5000美元船票。2013年，布里斯托尔由于侵占被监护老年人的财产被捕入狱，她用五年时间把一位老人的财产从50万美元榨干到只剩4万5千美元。根据美国当地媒体的调查，在这几起案件中，法庭没有监督过布里斯托尔如何使用老人的钱。
 

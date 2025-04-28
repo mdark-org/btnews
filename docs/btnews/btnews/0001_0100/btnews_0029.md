@@ -45,7 +45,7 @@ date: 2019-10-15
 
 说最近十几年才确定，是因为在2000年前后，很多中国城市的官员都有很疯狂的规划。安徽阜阳市距离徐州，200公里，他们的市委书记王怀忠2004年被枪毙了。这个书记曾经对全市人民许诺，2020年建成国际化大都市。
 
-<http://pinglun.youth.cn/wywy/cjkj/200907/t20090731_974375.htm>
+http://pinglun.youth.cn/wywy/cjkj/200907/t20090731_974375.htm
 
 ![](/images/btnews/btnews/0001_0100/0029/image4.webp)
 
@@ -97,7 +97,7 @@ date: 2019-10-15
 
 我找到了一张网友制作的中国分县人口密度图
 
-<https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571075063352&di=f51eddf1352ef9640e19517a5e53beb8&imgtype=0&src=http%3A%2F%2Fimg7.itiexue.net%2F946%2F9464971.gif>
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1571075063352&di=f51eddf1352ef9640e19517a5e53beb8&imgtype=0&src=http%3A%2F%2Fimg7.itiexue.net%2F946%2F9464971.gif
 
 ![](/images/btnews/btnews/0001_0100/0029/image9.webp)
 

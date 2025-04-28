@@ -141,7 +141,7 @@ Schools）最初由世界卫生组织（WHO）管理，现在由世界医学教�
 
 但如果拒绝被现代医学评价，中医也可以继续用自己的逻辑评价自己。11月13日的人民日报有一篇重要社论，代表相当一部分中医的观点。
 
-<http://paper.people.com.cn/rmrb/html/2019-11/13/nw.D110000renmrb_20191113_3-09.htm>
+http://paper.people.com.cn/rmrb/html/2019-11/13/nw.D110000renmrb_20191113_3-09.htm
 
 ![](/images/btnews/btnews/0001_0100/0046/image24.webp)
 
@@ -185,7 +185,7 @@ Schools）最初由世界卫生组织（WHO）管理，现在由世界医学教�
 
 现在全世界的城市化率只有50%，中国所有城市都在继续大搞基建。2018年，中国自己就用了25亿立方米混凝土，某些地方的河砂涨到三四百块一吨，再这样下去，自然界的沙砾就不够用了，中国尤其不够用。
 
-<http://dy.163.com/v2/article/detail/DSI8N4090518S7TD.html>
+http://dy.163.com/v2/article/detail/DSI8N4090518S7TD.html
 
 ![](/images/btnews/btnews/0001_0100/0046/image29.webp)
 
@@ -201,7 +201,7 @@ Schools）最初由世界卫生组织（WHO）管理，现在由世界医学教�
 
 [百年老矿的历史记忆（二）](http://www.sohu.com/a/193385376_280092)
 
-<http://www.zgkyb.com/observation/20190712_58149.htm>
+http://www.zgkyb.com/observation/20190712_58149.htm
 
 ![](/images/btnews/btnews/0001_0100/0046/image31.webp)
 

@@ -57,7 +57,7 @@ date: 2021-08-31
 
 ![](/images/btnews/btnews/0301_0400/0321/image6.webp)
 
-<http://www.scio.gov.cn/zfbps/ndhf/2015/Document/1435161/1435161.htm>
+http://www.scio.gov.cn/zfbps/ndhf/2015/Document/1435161/1435161.htm
 
 这说明中国缺乏一次性破坏对手战略武器的能力，不得不采取比较保守的核武器使用战略。也意味着中国在可能的对抗中，需要承受对方的第一波核打击，剩余的核武器才是威慑对方的反击力量。
 
@@ -123,7 +123,7 @@ date: 2021-08-31
 
 ![](/images/btnews/btnews/0301_0400/0321/image19.webp)
 
-<https://kknews.cc/zh-sg/world/mpeqb32.html>
+https://kknews.cc/zh-sg/world/mpeqb32.html
 
 美苏解密资料都证明，两国高层的确会主动避免全面核战争，毕竟在一片废墟上统治世界也没什么意思。但是，对于代价不大的“有限核战争”，很多高层军政人员并不觉得是大问题。美国就有很多右翼精英自称“核实战派”，其中最极端的政客甚至说，以2000万人口的代价，赢得全面的核战争胜利，不算亏。从尼克松到里根时期，美国都经常宣扬类似的核战略，既是对其他国家的恐吓，也体现了一部分真实想法。
 
@@ -131,7 +131,7 @@ date: 2021-08-31
 
 “核实战派”代表作《胜利是可能的》
 
-<https://www.jstor.org/stable/1148409>
+https://www.jstor.org/stable/1148409
 
 去年以来，在新冠疫情中，美国已经损失60多万人口，而且数量还可能大幅度增加。但疫情并没有在美国社会直接引发大规模震荡。这份承受力很可能继续加强美国极端强硬派的战略信心。
 
@@ -161,7 +161,7 @@ date: 2021-08-31
 
 ![](/images/btnews/btnews/0301_0400/0321/image27.webp)
 
-<http://chnun.chinamission.org.cn/chn/zgylhg/cjyjk/t1823437.htm>
+http://chnun.chinamission.org.cn/chn/zgylhg/cjyjk/t1823437.htm
 
 这次美军和美国媒体谈论中国增加战略武器，重要的“证据”之一，就是在玉门风电场附近的戈壁滩上发现了一片新工地。
 
@@ -303,7 +303,7 @@ date: 2021-08-31
 
 ![](/images/btnews/btnews/0301_0400/0321/image57.webp)
 
-<https://nationalinterest.org/blog/reboot/blast-russias-military-past-train-launched-nuclear-missile-167343>
+https://nationalinterest.org/blog/reboot/blast-russias-military-past-train-launched-nuclear-missile-167343
 
 现在冷战过去几十年了，世界重新开始出现两极格局，美苏当年的经验教训，对中国都有重大参考意义。中国作为土木工程能力最强的国家，也可以通过提升发射井的数量和强度，吸引敌人最多的火力，保存尽可能多的反击能力。
 
@@ -379,13 +379,13 @@ W88弹头爆炸结果模拟
 
 美国“民兵”导弹发射井剖面图
 
-<https://www.nps.gov/gis/storymaps/cascade/v1/index.html?appid=012e18f372264017ae1371e640019aad>
+https://www.nps.gov/gis/storymaps/cascade/v1/index.html?appid=012e18f372264017ae1371e640019aad
 
 ![](/images/btnews/btnews/0301_0400/0321/image70.webp)
 
 美国洲际导弹基地布局
 
-<https://www.nps.gov/gis/storymaps/cascade/v1/index.html?appid=012e18f372264017ae1371e640019aad>
+https://www.nps.gov/gis/storymaps/cascade/v1/index.html?appid=012e18f372264017ae1371e640019aad
 
 美国人自己计算过，20世纪50年代，第一批洲际导弹发射井单价360万美元。50年代末技术熟练了，
 “民兵”导弹发射井单价只有50万美元，

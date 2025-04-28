@@ -81,7 +81,7 @@ date: 2019-09-10
 
 隐性债务的利率一般比银行贷款高很多，我们客气一点算，假设平均利率是6%，2.7万亿的6%是1600亿。2018年贵州全省财政收入1726亿，刚够还利息。
 
-<http://czt.guizhou.gov.cn/zwgk/zdgk/tjsj/201901/t20190124_2816316.html>
+http://czt.guizhou.gov.cn/zwgk/zdgk/tjsj/201901/t20190124_2816316.html
 
 ![](/images/btnews/btnews/0001_0100/0018/image9.webp)
 

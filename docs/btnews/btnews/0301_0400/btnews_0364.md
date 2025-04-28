@@ -47,7 +47,7 @@ date: 2021-12-10
 
 纠正有的地方“一刀切”停产限产或者“运动式”减碳，反对不作为、乱作为，严禁部分地区形成“资源先供本地”这样的小循环。将能源保供工作作为近期政治监督专项检查的重要内容，
 
-<https://www.163.com/dy/article/GQC05J1F0534GDXW.html>
+https://www.163.com/dy/article/GQC05J1F0534GDXW.html
 
 看来山西已经意识到部分地方政府的财力不可能兼顾环保任务和取暖了。
 
@@ -244,7 +244,7 @@ http://finance.people.com.cn/GB/n1/2021/0207/c1004-32024516.html
 
 ![](/images/btnews/btnews/0301_0400/0364/image37.webp)
 
-<http://www.southmoney.com/shuju/hysj/202110/16694670.html>
+http://www.southmoney.com/shuju/hysj/202110/16694670.html
 
 等到内蒙和陕北的煤田建设起来，夺走了煤炭定价权，山西煤炭产业的主要功能就逐渐从赚钱转向了保就业。2021年是自从中国有发电厂以来，第一个煤电装机容量低于50%的年份。希望山西能清醒地认识到煤炭经济的未来，也能看清自己煤炭生产成本高的现实劣势，不要把一切希望都寄托给煤炭经济。
 

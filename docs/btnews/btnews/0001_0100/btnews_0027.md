@@ -19,7 +19,7 @@ date: 2019-10-11
 
 ![](/images/btnews/btnews/0001_0100/0027/image4.webp)
 
-<http://www.investide.cn/news/411503>
+http://www.investide.cn/news/411503
 
 [1.1亿美元投资“水泥块”储能，光伏电站了解下！\_混凝土块](http://www.sohu.com/a/340046872_609294)
 

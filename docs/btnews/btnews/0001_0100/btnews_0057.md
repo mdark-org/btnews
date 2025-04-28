@@ -92,7 +92,7 @@ date: 2019-12-24
 
 中新网12月8日报道，四川邛崃市最近正在进行古法炼铁试验，建设了两座古代高炉。
 
-<http://www.sc.chinanews.com/bwbd/2018-12-08/95162.html>
+http://www.sc.chinanews.com/bwbd/2018-12-08/95162.html
 
 ![](/images/btnews/btnews/0001_0100/0057/image16.webp)
 
@@ -128,7 +128,7 @@ date: 2019-12-24
 
 中原地区掌握了高炉技术以后，大量出口生铁农具和厨具，西南山区的落后民族非常喜欢买。上周我还在观察者网关于李子柒的内容下面看到这样一条回复，非常生动，应该是有过亲身经历。看来一直到最近几十年，西南山区依然有很多地方缺乏铁器。
 
-<https://user.guancha.cn/main/content?id=211718>
+https://user.guancha.cn/main/content?id=211718
 
 ![](/images/btnews/btnews/0001_0100/0057/image22.webp)
 
@@ -152,13 +152,13 @@ date: 2019-12-24
 
 ![](/images/btnews/btnews/0001_0100/0057/image25.webp)
 
-<http://paper.people.com.cn/rmrb/html/2019-12/20/nw.D110000renmrb_20191220_1-17.htm>
+http://paper.people.com.cn/rmrb/html/2019-12/20/nw.D110000renmrb_20191220_1-17.htm
 
 可能有人会觉得，这是地广人稀的黑龙江经验，不适合内地。但是，人民日报找的样板是绥化市兰西县，人口53万，耕地216万亩，人均4亩，一年只能种一茬。和大多地区相比，这个人均土地不算太多。所以兰西县的例子可以向其他地区推广。就算农村没有农民了，我们也有办法种地。
 
 下一条新闻比较意外。
 
-<http://www.bj.xinhuanet.com/bjxxjd/2019-12/23/c_1125378169.htm>
+http://www.bj.xinhuanet.com/bjxxjd/2019-12/23/c_1125378169.htm
 
 12月23日新华网报导，中国中药协会给鸿茅药业颁发了“2018年度履行社会责任明星企业”奖。但是我记得，广东医生谭秦东被鸿茅药业送进鉴于，给中国互联网创造了“跨省”这个缩写词，就是2018年1月的事情。看来谭秦东跨省事件算是过去了。
 
@@ -172,7 +172,7 @@ date: 2019-12-24
 
 ![](/images/btnews/btnews/0001_0100/0057/image27.webp)
 
-<https://news.21food.cn/13/588313.html>
+https://news.21food.cn/13/588313.html
 
 ![](/images/btnews/btnews/0001_0100/0057/image28.webp)
 

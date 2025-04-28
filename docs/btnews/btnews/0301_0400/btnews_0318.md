@@ -29,7 +29,7 @@ date: 2021-08-24
 
 看全国地图，福建省在东南沿海地区。但是从福建省内部看，三明和所属的县都分布在福建中部内陆山区。过去对台军事工作比较重，福建是全国的战备前线，人口密集区不断被台湾伪军骚扰，国家的长期投资不多，没有多少老工业基地。但是三明市是个例外，因为三明在地理环境上相对安全，被确定为当时的福建小三线工业中心，战时要同时支援福州和厦门两个沿海地区。
 
-<https://gimg2.baidu.com/image_search/src=http://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/ac345982b2b7d0a2b1829ef5cfef76094b369a0b.jpg&refer=http://gss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1632356028&t=fad05e53affb9994eb820ce1531ca42c>
+https://gimg2.baidu.com/image_search/src=http://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/ac345982b2b7d0a2b1829ef5cfef76094b369a0b.jpg&refer=http://gss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1632356028&t=fad05e53affb9994eb820ce1531ca42c
 
 所以国家投入大量资源，在当时的三元县、现在的三明市和下属县区建设军工厂和重工业，还专门成立了三明重工业建设委员会。后来重工业建设委员会和三明县合并，就是今天的三明市。到了60年代初，三明市区已经像许多东北城市那样，依靠国家投资完成了工业化，同时成为福建省内的铁路枢纽。沙县属于三明市，而且也在铁路干线上，是火车翻过武夷山之后第一个大站，培育类似于柳州螺蛳粉、符离集烧鸡的中国铁路食品，这就是著名的沙县小吃的起源。80年代看全国地图，三明还是福州、厦门之外第三重要的福建城市。
 

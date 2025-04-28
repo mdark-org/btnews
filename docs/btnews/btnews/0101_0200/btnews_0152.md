@@ -110,7 +110,7 @@ date: 2020-08-09
 
 [科学网—122 接种Vero细胞生产的疫苗不会致癌 - 孟胜利的博文](http://blog.sciencenet.cn/home.php?mod=space&uid=55647&do=blog&id=1236747)
 
-<http://www.ggene.cn/html/protocol/abc/lilunzhishi/2011/0328/5217.html>
+http://www.ggene.cn/html/protocol/abc/lilunzhishi/2011/0328/5217.html
 
 所以，哪怕从理论层面分析，Vero细胞的问题已经用技术标准消除了，和200多块一针的疫苗同样安全。2017年世界卫生组织发表第三次狂犬病专家磋商会文件，建议停用神经组织疫苗，其他的疫苗，包括鸡胚疫苗，鸭胚疫苗、Vero细胞疫苗，人二倍体细胞疫苗，安全性都得到了确认。
 
@@ -122,7 +122,7 @@ date: 2020-08-09
 
 ![](/images/btnews/btnews/0101_0200/0152/image6.webp)
 
-<https://www.who.int/vaccine_safety/initiative/tools/Rabies_Vaccine_rates_information_sheet.pdf?ua=1>
+https://www.who.int/vaccine_safety/initiative/tools/Rabies_Vaccine_rates_information_sheet.pdf?ua=1
 
 全球数据来看，反而人二倍体细胞疫苗不良反应更多，中国为什么要引进这种更贵的疫苗技术呢？
 
@@ -151,7 +151,7 @@ date: 2020-08-09
 
 ![](/images/btnews/btnews/0101_0200/0152/image10.webp)
 
-<http://news.bioon.com/article/6718644.html>
+http://news.bioon.com/article/6718644.html
 
 [ä¸­å³æçæ³°è¯ç©ä¸´åºè¯éªææ¯åæ°èç](http://www.gcpunion.org/web/static/articles/catalog_ff8080815702574c01570866f936002a/article_5b6a8512677d5f680167e99db2eb0599/5b6a8512677d5f680167e99db2eb0599.html)
 
@@ -163,7 +163,7 @@ date: 2020-08-09
 
 前面提到，国内的人二倍体狂犬病疫苗都是成都康华生物独家生产。这家企业的实控人是温州奥康鞋业的老板王振滔。成都康华2016年的营业额是9200多万，2019年是5.55亿。2016年净利润660多万，现在是1.87亿。看来温州老板的眼光很准，中国疫苗市场不仅规模大，还能承受幅度很大的涨价。
 
-<https://www.shangyexinzhi.com/article/1935387.html>
+https://www.shangyexinzhi.com/article/1935387.html
 
 过去一年，人二倍体细胞法疫苗的批签发量比例大幅上升，从4%增长到18%。考虑到每支人二倍体细胞疫苗的售价是vero细胞疫苗的四倍，中国人花在两种疫苗上的钱差不多，今后可能还会花更多的钱买更贵的疫苗。
 
@@ -171,7 +171,7 @@ date: 2020-08-09
 
 ![](/images/btnews/btnews/0101_0200/0152/image12.webp)
 
-<https://www.chyxx.com/industry/202003/838929.html>
+https://www.chyxx.com/industry/202003/838929.html
 
 然而，这笔钱花的毫无意义，虽然支撑了一批疫苗公司产业升级，但我们本来就不需要这些疫苗企业。如果大多数疫苗企业都搞畸形产业升级，把疫苗价格普遍提升到几百块一针，恐怕被狗咬而不打疫苗的贫困人口会上升，制造更多的死亡案例。我们必须尽快给全国的狗打疫苗，消灭这个占全球80%的人用狂犬病疫苗市场。就算暂时不能全面解决问题，至少也要正确宣传疫苗常识，不要让高价疫苗再赚那么多钱。
 

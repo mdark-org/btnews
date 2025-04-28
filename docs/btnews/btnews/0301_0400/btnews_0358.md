@@ -49,7 +49,7 @@ date: 2021-11-26
 
 美国陆战队刚刚开发了一种新型步兵战车，可以理解为陆上的无人机航母，带着多种自杀无人机搞火力支援。
 
-<https://www.163.com/dy/article/GM6MCU5705504DOH.html>
+https://www.163.com/dy/article/GM6MCU5705504DOH.html
 
 今年7月份，73集团军在福建演习，也展示了小型无人机集群辅助攻坚的效果。
 

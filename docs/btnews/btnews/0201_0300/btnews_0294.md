@@ -93,11 +93,11 @@ date: 2021-06-29
 
 ![](/images/btnews/btnews/0201_0300/0294/image12.webp)
 
-<http://www.hzsic.cn/detail.html?code=C1&newsId=5413154>
+http://www.hzsic.cn/detail.html?code=C1&newsId=5413154
 
 ![](/images/btnews/btnews/0201_0300/0294/image13.webp)
 
-<https://www.163.com/dy/article/GDGQL22M05373AW1.html>
+https://www.163.com/dy/article/GDGQL22M05373AW1.html
 
 恒大这次的公告非常巧妙，既展示了自己的亮点，又回避了关键的问题。我上次分析恒大问题的时候提到，恒大在国内开出的商业汇票普遍延期支付，在市场上只能大幅打折才能转卖出去。如果恒大真的实际资金充沛，真的打算足额兑付所有的商业票据，根本不需要卖方卖车，直接按打折价买下自己的商票，就能拿到超额利润。
 
@@ -135,7 +135,7 @@ date: 2021-06-29
 
 ![](/images/btnews/btnews/0201_0300/0294/image19.webp)
 
-<http://share.jj58.com.cn/wap/thread/view-thread/tid/50088>
+http://share.jj58.com.cn/wap/thread/view-thread/tid/50088
 
 但到11月，恒大又发公告证实，几乎所有的战略投资人都签署了补充协议，无条件放弃了原有的回购权利。
 
@@ -171,9 +171,9 @@ date: 2021-06-29
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1703686774590091942&wfr=spider&for=pc)
 
-<https://new.qq.com/omn/20210626/20210626A082ID00.html>
+https://new.qq.com/omn/20210626/20210626A082ID00.html
 
-<https://www.163.com/dy/article/GDIVGF660545AKND.html>
+https://www.163.com/dy/article/GDIVGF660545AKND.html
 
 [ é¡µé¢æ²¡ææ¾å° ](http://news.sina.com.cn/c/2021-06-22/doc-ikqcfnca2530770.shtml)
 
@@ -221,7 +221,7 @@ date: 2021-06-29
 
 最后介绍一个和我们节目相关的新闻。上周开始，很多观众在不同渠道反映，政府开始给高龄老人发智能手表，配套送流量。相关的微博下面，@睡前消息编辑部的评论一条接一条。希望以后能有更多类似的消息。
 
-<https://www.douban.com/group/topic/232451393/>
+https://www.douban.com/group/topic/232451393/
 
 督工，今天是6月份最后一期，到了7月份，睡前消息节目就要到第二个整年纪念日了，去年的目标都实现了吗？
 

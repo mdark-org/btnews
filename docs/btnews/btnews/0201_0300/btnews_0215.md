@@ -190,7 +190,7 @@ date: 2020-12-31
 
 [å¤©æ´¥æ¿ä¿¡2äº¿åºå¸å¨é¢åå®è¿çº¦ æä¿æ¹å¤©æ¿éå¢åºå¡æ¿å - ç»æµè§å¯ç½ ï¼ ä¸ä¸è´¢ç»æ°é»ç½ç«](http://www.eeo.com.cn/2020/0829/405911.shtml)
 
-<https://www.wocaifu.com/?p=257073>
+https://www.wocaifu.com/?p=257073
 
 [天津医药集团混改落地：上实集团牵头入股67%\_10%公司_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_10458945)
 
@@ -261,7 +261,7 @@ https://www.sohu.com/a/410733233_114988?spm=smpc.news-home.pol-subject-news.2.15
 
 10月17日，《国家组织冠脉支架集中带量采购文件》发布，预计每年采购107万个，均价从1.3万下跌到700元，希望这笔费用至少拿出一半用来提高医护待遇。
 
-<http://www.xinhuanet.com/fortune/2020-10/17/c_1126623420.htm>
+http://www.xinhuanet.com/fortune/2020-10/17/c_1126623420.htm
 
 7月12日，云南昆明小学六年级学生获得全国青少年科技创新大奖，论文是“C10orf67基因在结直肠癌发展中的功能与机制”。
 
@@ -323,13 +323,13 @@ https://www.sohu.com/a/410733233_114988?spm=smpc.news-home.pol-subject-news.2.15
 
  农业农村部5月29日，认为全国人民对不吃狗肉意见不大，把前面的征求意见稿变成了正式文件。
 
-<http://www.sinovision.net/society/202004/00479325.htm>
+http://www.sinovision.net/society/202004/00479325.htm
 
 [农业农村部：狗已“特化”为伴侣动物，不宜列入禽畜管理](https://www.guancha.cn/politics/2020_04_09_546082.shtml)
 
 [农业农村部首次明确33种家养畜禽，不包含狗](https://www.guancha.cn/politics/2020_05_29_552182.shtml)
 
-<https://news.163.com/20/0529/11/FDPSIKLR0001899O.html>
+https://news.163.com/20/0529/11/FDPSIKLR0001899O.html
 
 [珠海市人大常委会法工委解读“禁野令”：猫、狗不能食用_绿政公署_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_6962775)
 
@@ -370,7 +370,7 @@ https://www.sohu.com/a/410733233_114988?spm=smpc.news-home.pol-subject-news.2.15
 
 这段发言似乎又说明政府希望我们对婚姻再理性一点。
 
-<https://video.sina.com.cn/p/news/2020-05-24/detail-iircuyvi4801605.d.html?qq-pf-to=pcqq.c2c>
+https://video.sina.com.cn/p/news/2020-05-24/detail-iircuyvi4801605.d.html?qq-pf-to=pcqq.c2c
 
 [湖南男子为9万元拆迁费想除夕登记结婚，民政局霸气回应](https://www.guancha.cn/politics/2020_01_03_530328.shtml)
 
@@ -414,6 +414,6 @@ https://www.sohu.com/a/410733233_114988?spm=smpc.news-home.pol-subject-news.2.15
 
 临近年底，荆州宣布搬迁关公像，再投资1.55亿，贵州独山还没有反馈，期待2021年会有好消息。
 
-<https://new.qq.com/omn/20201231/20201231A05QFX00.html>
+https://new.qq.com/omn/20201231/20201231A05QFX00.html
 
 2020年很长，长到我们的215期节目超出了平常的时间，还是没有完成回顾。所以，明天，2021年的第一天，我们继续做新闻盘点。2020年过去了，我很怀念它，我们2021年再见！

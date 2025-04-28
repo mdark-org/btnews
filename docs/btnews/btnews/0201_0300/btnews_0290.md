@@ -9,7 +9,7 @@ date: 2021-06-20
 
 今年，天问一号一次性实现了火星探测的绕落巡，跨越式追上了美国人的火星探索进度。现在又提出载人登火，是不是我们快要见证历史了？
 
-<https://sputniknews.cn/science/202106161033900684/>
+https://sputniknews.cn/science/202106161033900684/
 
 ![](/images/btnews/btnews/0201_0300/0290/image1.webp)
 

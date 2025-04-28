@@ -11,7 +11,7 @@ tag: ["白宫","建筑","古典主义","特朗普","第一夫人"]
 
 ![](/images/btnews/btnews/0201_0300/0222/image2.webp)
 
-<https://www.whitehouse.gov/presidential-actions/executive-order-promoting-beautiful-federal-civic-architecture/>
+https://www.whitehouse.gov/presidential-actions/executive-order-promoting-beautiful-federal-civic-architecture/
 
 [æçæ°é»å®¢æ·ç«¯](https://m.k.sohu.com/d/505036017)
 
@@ -43,7 +43,7 @@ tag: ["白宫","建筑","古典主义","特朗普","第一夫人"]
 
 [AIA issues letter to President Trump opposing proposed executive order - AIA](https://www.aia.org/press-releases/6264391-aia-issues-letter-to-president-trump-oppos)
 
-<https://www.asla.org/NewsReleaseDetails.aspx?id=56920>
+https://www.asla.org/NewsReleaseDetails.aspx?id=56920
 
 [Draft Executive Order Would Make ‘Federal Buildings Beautiful Again’ \| Chicago News \| WTTW](https://news.wttw.com/2020/02/18/draft-executive-order-would-make-federal-buildings-beautiful-again)
 
@@ -92,7 +92,7 @@ tag: ["白宫","建筑","古典主义","特朗普","第一夫人"]
 
 [Bloomberg - Are you a robot?](https://www.bloomberg.com/news/articles/2020-12-24/trump-s-beautiful-building-order-is-here-to-stay)
 
-<https://www.cfa.gov/>
+https://www.cfa.gov/
 
 但是，建筑风格不是强行制定就能推广的。现代人拥有强大的建筑材料，对建筑的要求和古代人完全不同。就算政府建筑需要给人稳重感，普通人也不喜欢超级古典建筑带来的压迫效果，不希望自己在远远超出日常空间的柱廊下面被忽视掉。古典主义的时代已经过去了，不可能全面复兴。
 
@@ -104,9 +104,9 @@ tag: ["白宫","建筑","古典主义","特朗普","第一夫人"]
 
 2020年12月23日和24日，山西省河曲县和浮山县分别召开干部大会，开展“人口小县机构改革试点”工作。
 
-<http://www.sxdygbjy.gov.cn/content/2020-12/25/3_302751.html>
+http://www.sxdygbjy.gov.cn/content/2020-12/25/3_302751.html
 
-<http://www.fushan.gov.cn/contents/2876/718666.html>
+http://www.fushan.gov.cn/contents/2876/718666.html
 
 督工，这是全国的统一安排吗？
 
@@ -171,7 +171,7 @@ tag: ["白宫","建筑","古典主义","特朗普","第一夫人"]
 
 另外，前几天河北疫情有一次小爆发，高邑县公安局退休副局长带头外出，不戴口罩，辱骂执勤人员，被拘留五天，这个高邑县，也是一个很神奇的小县。19万人口，211平方公里。如果换算成一个正方形，边长还不到15公里。
 
-<https://xw.qq.com/partner/aoyoubrowser/20210110006777/TWF2021011000677700?ADTAG=aoyoubrowser&pgv_ref=aoyoubrowser>
+https://xw.qq.com/partner/aoyoubrowser/20210110006777/TWF2021011000677700?ADTAG=aoyoubrowser&pgv_ref=aoyoubrowser
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1688545708102924846&wfr=spider&for=pc)
 
@@ -227,7 +227,7 @@ tag: ["白宫","建筑","古典主义","特朗普","第一夫人"]
 
 这份意见提到，浙赣运河规划长约760公里，江西境内410公里，规划投资1700亿元。看来江西省把这件事当真了。
 
-<http://zizhan.mot.gov.cn/st/jiangxi/tongzhigonggao/202101/t20210108_3513505.html>
+http://zizhan.mot.gov.cn/st/jiangxi/tongzhigonggao/202101/t20210108_3513505.html
 
 最后发一个例行的段子，大家都知道河北省疫情紧张，很多人群密集的机构都要求做全体核酸检测。但是，河北省作为一个环绕京津的省份，很多事情是外省想象不到的。比如说，唯一的211大学，河北工业大学在天津。
 

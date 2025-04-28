@@ -137,7 +137,7 @@ tag: ["三星","台湾","坦桑尼亚","大豆","文在寅","韩国"]
 
 ![](/images/btnews/btnews/0201_0300/0283/image16.webp)
 
-<http://www.customs.gov.cn/customs/302249/2480148/3364480/index.html>
+http://www.customs.gov.cn/customs/302249/2480148/3364480/index.html
 
 大豆是中国进口最多的农产品，增加从非洲进口，是不是为了分散来源，减少对单一对象的依赖。
 
@@ -159,7 +159,7 @@ tag: ["三星","台湾","坦桑尼亚","大豆","文在寅","韩国"]
 
 ![](/images/btnews/btnews/0201_0300/0283/image20.webp)
 
-<https://www.chyxx.com/industry/202005/865290.html>
+https://www.chyxx.com/industry/202005/865290.html
 
 具体到坦桑尼亚，它全国2020年大豆产量估计在1万吨左右，相对中国目前的需求，几乎可以忽略不计。
 
@@ -167,7 +167,7 @@ tag: ["三星","台湾","坦桑尼亚","大豆","文在寅","韩国"]
 
 ![](/images/btnews/btnews/0201_0300/0283/image21.webp)
 
-<https://www.investgo.cn/article/gb/gbdt/202008/500343.html>
+https://www.investgo.cn/article/gb/gbdt/202008/500343.html
 
 根据统计，非洲大豆平均亩产只有全球平均水平的一半，而坦桑尼亚比非洲平均线还低，是农业技术落后的国家。同样以热带草原型高原为主的埃塞俄比亚，大豆亩产就几乎是坦桑尼亚的两倍。
 
@@ -191,7 +191,7 @@ tag: ["三星","台湾","坦桑尼亚","大豆","文在寅","韩国"]
 
 ![](/images/btnews/btnews/0201_0300/0283/image25.webp)
 
-<https://new.qq.com/rain/a/20201217A03GLC00>
+https://new.qq.com/rain/a/20201217A03GLC00
 
 在最近一个农业生产季里，受价格驱动，玉米又在和大豆“争夺”耕种面积。作为主粮之一，玉米同样具有重要战略地位，政府扶持引导时不能厚此薄彼，甚至会更重视主粮自给率。在耕地总面积有限的情况下，未来几年，国产大豆产量也许还会下降。所以中国需要再增加一些食用大豆的进口渠道，帮助稳定市场价格。
 
@@ -219,7 +219,7 @@ tag: ["三星","台湾","坦桑尼亚","大豆","文在寅","韩国"]
 
 ![](/images/btnews/btnews/0201_0300/0283/image30.webp)
 
-<http://www.xinhuanet.com/silkroad/2017-08/22/c_129686177.htm>
+http://www.xinhuanet.com/silkroad/2017-08/22/c_129686177.htm
 
 不过，中坦贸易里有一个潜在问题，中国顺差过大。2020年中国对坦桑尼亚出口41.7亿美元，进口只有不到4.1亿美元，出口是进口的十倍。
 
@@ -253,7 +253,7 @@ tag: ["三星","台湾","坦桑尼亚","大豆","文在寅","韩国"]
 
 ![](/images/btnews/btnews/0201_0300/0283/image35.webp)
 
-<https://wire.farmradio.fm/farmer-stories/tanzania-lack-of-markets-low-prices-frustrate-soybean-farmers/>
+https://wire.farmradio.fm/farmer-stories/tanzania-lack-of-markets-low-prices-frustrate-soybean-farmers/
 
 据坦桑尼亚媒体消息，中坦协议初步为坦桑尼亚大豆安排了每年40万吨配额。而从潜力上看，坦桑尼亚以后花上一两个五年计划的时间，大规模开发农地，每年再多生产几百万吨大豆并不难。而中国人吃肉和吃豆腐需求旺盛，每年市场每年新增的需求可以轻松覆盖这几百万吨产量。这是个两利的选择。
 

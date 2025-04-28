@@ -35,7 +35,7 @@ date: 2019-12-28
 
 领奖的时候，这个登记员说自己相信“宁拆百座庙，不毁一桩婚”，国家号召同行向她学习。现在民法典要设置一个月的冷静期，虽然对不起宪法，但很明显是在追认这些国家工作人员的操作。
 
-<http://news.eastday.com/c/20130517/u1a7398194.html>
+http://news.eastday.com/c/20130517/u1a7398194.html
 
 ![](/images/btnews/btnews/0001_0100/0058/image5.webp)
 
@@ -49,7 +49,7 @@ date: 2019-12-28
 
 最近几年，国家政策已经把很多权利绑定到小家庭，比如说买房和子女入学，比如说拆迁，都制造了很多临时性的结婚离婚需求。如果真的规定离婚要等一个月才生效，很多家庭买房和子女入学都要受影响，一进一出很可能影响上百万的财产。民政局肯定不会赔这笔钱，那就必然会增加很多社会怨气。
 
-<https://new.qq.com/omn/20180623/20180623A0YT4W.html>
+https://new.qq.com/omn/20180623/20180623A0YT4W.html
 
 ![](/images/btnews/btnews/0001_0100/0058/image6.webp)
 
@@ -166,7 +166,7 @@ date: 2019-12-28
 
 这条铁路的名字有点误导，其实2006年，陇海铁路已经从柳沟站引入一条支线到敦煌。兰州到敦煌市的客运列车已经开通13年了。
 
-<http://news.eastday.com/eastday/node81741/node81762/node121916/userobject1ai1890041.html>
+http://news.eastday.com/eastday/node81741/node81762/node121916/userobject1ai1890041.html
 
 ![](/images/btnews/btnews/0001_0100/0058/image18.webp)
 
@@ -198,11 +198,11 @@ date: 2019-12-28
 
 在东部坐火车旅行，因为铁路高度和地面差不多，周围有植被，一般能看出几百米就不错了。这条路从敦煌出发，首先要穿越沙漠，为了避开沙丘，有很长一段高架桥，可以俯瞰沙漠，就像在沙漠低空飞行。
 
-<http://wrj.sohu.com/show/single/32099>
+http://wrj.sohu.com/show/single/32099
 
 ![](/images/btnews/btnews/0001_0100/0058/image22.webp)
 
-<http://kuaibao.qq.com/s/20191213A0ILCT00?refer=spider>
+http://kuaibao.qq.com/s/20191213A0ILCT00?refer=spider
 
 ![](/images/btnews/btnews/0001_0100/0058/image23.webp)
 

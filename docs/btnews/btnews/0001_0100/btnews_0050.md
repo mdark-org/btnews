@@ -36,7 +36,7 @@ date: 2019-12-03
 
 ![](/images/btnews/btnews/0001_0100/0050/image2.webp)
 
-<https://mjbizdaily.com/no-longer-a-shortage-canadian-cannabis-industry-group-declares/>
+https://mjbizdaily.com/no-longer-a-shortage-canadian-cannabis-industry-group-declares/
 
 在第一期节目中，我们提到加拿大贩毒亏损的原因之一是网点覆盖率太低，建设成本太高。有观众建议他们学习淘宝京东，上网贩毒，这个方案怎么样？
 
@@ -56,7 +56,7 @@ date: 2019-12-03
 
 [Cannabis Canada: Ontario sets plans to let private sector handle cannabis distribution - BNN Bloomberg](https://www.bnnbloomberg.ca/cannabis-canada-1.1351119)
 
-<https://www.cannabis-nb.com/about-cannabis-nb/>
+https://www.cannabis-nb.com/about-cannabis-nb/
 
 最后还要说一下外部因素。从人口地理上说，加拿大是不存在的，只有贴着美国边境的一条郊区。
 
@@ -68,7 +68,7 @@ date: 2019-12-03
 
 ![](/images/btnews/btnews/0001_0100/0050/image4.webp)
 
-<https://cannabisreportworld.com/united-states-of-weed/>
+https://cannabisreportworld.com/united-states-of-weed/
 
 所以，最后加拿大国营公司还是用了最笨的办法，打价格战，准备在魁北克推出大麻烟丝，1盎司125.7加元，1克3.37美元，比黑市还便宜。
 

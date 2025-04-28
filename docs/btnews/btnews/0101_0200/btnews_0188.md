@@ -94,7 +94,7 @@ B站有一位up主“台妹pk”。她是一个台湾姑娘，现在嫁到了上
 
 新闻链接：
 
-<http://www.sasac.gov.cn/n2588025/n2588124/c15549205/content.html>
+http://www.sasac.gov.cn/n2588025/n2588124/c15549205/content.html
 
 ![](/images/btnews/btnews/0101_0200/0188/image14.webp)
 

@@ -32,7 +32,7 @@ date: 2020-01-07
 
 陈彦升之前的官方身份是台湾探空火箭计划主持人，再往前，他长期在NASA的马歇尔太空飞行中心工作，深度参与星球大战计划，开发过全球最大的氢氧发动机SSME，也了解固体火箭发动机。在离开NASA之前，陈彦升参与的最后一个项目，是探讨3个月到达火星的核动力火箭。可以说，这是台湾能找到的最高层航天科技领袖。
 
-<http://www.energytaiwanforum.org/zh/node/4471>
+http://www.energytaiwanforum.org/zh/node/4471
 
 ![](/images/btnews/btnews/0001_0100/0063/image3.webp)
 

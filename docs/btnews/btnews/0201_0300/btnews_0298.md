@@ -114,7 +114,7 @@ date: 2021-07-09
 
 ![](/images/btnews/btnews/0201_0300/0298/image8.webp)
 
-<http://news.cbg.cn/gndjj/2019/0719/11242351.shtml>
+http://news.cbg.cn/gndjj/2019/0719/11242351.shtml
 
 ![](/images/btnews/btnews/0201_0300/0298/image9.webp)
 

@@ -17,7 +17,7 @@ date: 2019-10-08
 
 这的确是很大的损失，但是和往年对比，也不算特别严重。我查了去年的数据，2018年送走了31个院士，今年已经过去十个多月，去世27人，不算异常。
 
-<http://dy.163.com/v2/article/detail/E4HA1HVC05454U3A.html>
+http://dy.163.com/v2/article/detail/E4HA1HVC05454U3A.html
 
 ![](/images/btnews/btnews/0001_0100/0026/image3.webp)
 
@@ -81,7 +81,7 @@ date: 2019-10-08
 
 这个人做事认真，学农业比学土木工程还投入，每个月都要请专家来指导技术。浙江和嘉兴的地方报纸每年都会去他的农场采访，把他们夫妻俩当作回乡创业的典型。
 
-<http://nb.ifeng.com/a/20170518/5681398_0.shtml>
+http://nb.ifeng.com/a/20170518/5681398_0.shtml
 
 ![](/images/btnews/btnews/0001_0100/0026/image11.webp)
 
@@ -89,7 +89,7 @@ date: 2019-10-08
 
 ![](/images/btnews/btnews/0001_0100/0026/image12.webp)
 
-<http://jx.zjol.com.cn/system/2014/01/08/019800156.shtml>
+http://jx.zjol.com.cn/system/2014/01/08/019800156.shtml
 
 ![](/images/btnews/btnews/0001_0100/0026/image13.webp)
 

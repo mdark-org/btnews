@@ -54,7 +54,7 @@ date: 2019-11-12
 
 从洛阳伊川发源的这一场金融诈骗甚至产生了全国效应，其他地方的报纸点名相当不客气。
 
-<https://ln.qq.com/a/20150820/013383_all.htm>
+https://ln.qq.com/a/20150820/013383_all.htm
 
 ![](/images/btnews/btnews/0001_0100/0041/image9.webp)
 
@@ -76,7 +76,7 @@ date: 2019-11-12
 
 ![](/images/btnews/btnews/0001_0100/0041/image12.webp)
 
-<http://www.64365.com/ask/5306878.aspx>
+http://www.64365.com/ask/5306878.aspx
 
 ![](/images/btnews/btnews/0001_0100/0041/image13.webp)
 
@@ -86,7 +86,7 @@ date: 2019-11-12
 
 ![](/images/btnews/btnews/0001_0100/0041/image14.webp)
 
-<https://new.qq.com/omn/20191104/20191104A0BFU500.html>
+https://new.qq.com/omn/20191104/20191104A0BFU500.html
 
 ![](/images/btnews/btnews/0001_0100/0041/image15.webp)
 
@@ -104,7 +104,7 @@ date: 2019-11-12
 
 更要命的是，这些资金是以“7天通知存款”的名义借走的，起存点是50万。我前面说了，这个级别的存款，国家不包赔，所以大户们时刻盯着伊川农商行的老板，唯恐他出事。
 
-<http://www.southmoney.com/yinhang/yinhangzhishi/201908/3694044_2.html>
+http://www.southmoney.com/yinhang/yinhangzhishi/201908/3694044_2.html
 
 ![](/images/btnews/btnews/0001_0100/0041/image18.webp)
 
@@ -112,7 +112,7 @@ date: 2019-11-12
 
 ![](/images/btnews/btnews/0001_0100/0041/image19.webp)
 
-<http://dy.163.com/v2/article/detail/E2A30NEC0519RSN6.html>
+http://dy.163.com/v2/article/detail/E2A30NEC0519RSN6.html
 
 ![](/images/btnews/btnews/0001_0100/0041/image20.webp)
 
@@ -207,7 +207,7 @@ date: 2019-11-12
 
 后来90年代后期，城市国企全面大下岗，农村政府拼命找农民加税，收提留款，一个重要原因，就是90年代前期乱花的金融资源太多，产生的经济效益很少，通胀压力很大。等到超额的贷款稍微减少，全国各级企业都停转，交不上税，国家只能直接从工人农民身上榨资源。
 
-<http://www.docin.com/p-1117991965.html>
+http://www.docin.com/p-1117991965.html
 
 ![](/images/btnews/btnews/0001_0100/0041/image30.webp)
 

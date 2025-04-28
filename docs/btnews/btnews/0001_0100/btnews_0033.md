@@ -90,7 +90,7 @@ date: 2019-10-25
 
 但是，智利1000多万劳动力，只有20万在矿业，2%。
 
-<http://www.cbcie.com/news/803018.html>
+http://www.cbcie.com/news/803018.html
 
 ![](/images/btnews/btnews/0001_0100/0033/image15.webp)
 
@@ -98,7 +98,7 @@ date: 2019-10-25
 
 而且智利的矿业非常依赖于外国需求。中美贸易战只要对铜的需求产生一点点影响，智利的社会就会动荡。无论左翼右翼，只要改变不了这个事实，谁的总统也做不长。
 
-<http://greenmine.org.cn/home/ptcms/news.html?item=kydt.cyyj&id=zgkyb-59439>
+http://greenmine.org.cn/home/ptcms/news.html?item=kydt.cyyj&id=zgkyb-59439
 
 ![](/images/btnews/btnews/0001_0100/0033/image16.webp)
 
@@ -257,7 +257,7 @@ date: 2019-10-25
 
 最后是往期内容回顾时间。7月30日第六期睡前消息，我们报道了薛蛮子的柬埔寨圈钱计划。今天，网易财经报道，薛蛮子同学失联了，多名委托他投资的金主在找他。
 
-<http://money.163.com/19/1024/09/ES8AR5QE00258105.html>
+http://money.163.com/19/1024/09/ES8AR5QE00258105.html
 
 ![](/images/btnews/btnews/0001_0100/0033/image38.webp)
 

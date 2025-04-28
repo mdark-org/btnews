@@ -65,7 +65,7 @@ date: 2021-05-14
 
 [Explained: Why does India need Covid-19 vaccine ingredients from US? \| Explained News,The Indian Express](https://indianexpress.com/article/explained/us-embargo-raw-materials-covishield-covovax-production-covid-19-vaccine-7280711/)
 
-<https://ucpnz.co.nz/2021/04/18/american-export-controls-threaten-to-hinder-global-vaccine-production/?lang=en>
+https://ucpnz.co.nz/2021/04/18/american-export-controls-threaten-to-hinder-global-vaccine-production/?lang=en
 
 [](https://pdf.dfcfw.com/pdf/H3_AP202011021425697545_1.pdf?1604425282000.pdf)
 
@@ -95,13 +95,13 @@ date: 2021-05-14
 
 去年7月，国内市场就已经在准备解决供应链紧张问题了。当时很多疫苗生产商都在招标国内原材料供应商，比如填料、培养基、胰蛋白酶等。去年11月，工信部副部长王江平带队到江浙沪调研，了解各企业生产准备情况，召开了产业链供应链企业座谈会。
 
-<https://www.miit.gov.cn/xwdt/gxdt/ldhd/art/2020/art_41632bf141a943a0aba4fcffdc6a6698.html>
+https://www.miit.gov.cn/xwdt/gxdt/ldhd/art/2020/art_41632bf141a943a0aba4fcffdc6a6698.html
 
 事实证明，中国平时的疫苗产量不如印度，但如果真要紧急动员，不靠别人，自己也能搭建产业链。比如说，现在全球疫苗玻璃瓶紧缺，中国很快拿出了国产替代品，国药、科兴疫苗还用上了更高级的预灌封注射器。产业链完整的好处，在这个时候最明显。
 
 [国产疫苗全部用进口瓶？我国医用玻璃了解一下！-疫苗瓶-策划](http://www.stdaily.com/cehua/ymbotle/2021-01/28/content_1074963.shtml)
 
-<http://img1.bioon.net/sub/showarticle.asp?newsid=94894>
+http://img1.bioon.net/sub/showarticle.asp?newsid=94894
 
 5月5日，美国贸易部长表示，美国支持企业暂时放弃新冠疫苗知识产权专利，但是医药制造业普遍表示强烈反对，认为这会进一步扰乱本就紧张的供应链。督工，如果美国真的迫使各企业把专利拿出来，印度能不能解决产能问题？
 
@@ -113,7 +113,7 @@ date: 2021-05-14
 
 [印度新冠疫情：官员将第二波归咎于“双重突变”病毒，防疫工作又错在哪里呢？ - BBC News 中文](https://www.bbc.com/zhongwen/simp/world-57005754)
 
-<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01052-7/fulltext>
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01052-7/fulltext
 
 ![](/images/btnews/btnews/0201_0300/0274/image1.webp)
 
@@ -216,7 +216,7 @@ date: 2021-05-14
 
 252期节目，我们分析了美军撤离阿富汗的问题。现在美国已经正式启动了撤离计划，很多带不走的装备，就地炸碎也不留给阿富汗盟友。这说明美国也知道塔利班随时会进城把装备都变成战利品。
 
-<https://www.163.com/war/article/G9N8PVEO000181KT.html>
+https://www.163.com/war/article/G9N8PVEO000181KT.html
 
 ![](/images/btnews/btnews/0201_0300/0274/image19.webp)
 

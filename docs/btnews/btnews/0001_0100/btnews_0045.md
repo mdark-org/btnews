@@ -7,7 +7,7 @@ date: 2019-11-22
 
 香港问题最近越来越严重，已经到了全国人大公开批评香港高等法院的地步了。
 
-<http://www.xinhuanet.com/2019-11/19/c_1125246732.htm>
+http://www.xinhuanet.com/2019-11/19/c_1125246732.htm
 
 ![](/images/btnews/btnews/0001_0100/0045/image1.webp)
 
@@ -188,7 +188,7 @@ date: 2019-11-22
 
 再往后几年，1999年和2000年，黑龙江大庆市，离我家不远的葫芦岛市杨家杖子矿务局都出过大事，现在香港街头的所有玩法，放到当年都不值一提。
 
-<https://www.docin.com/p-87404086.html?docfrom=rrela>
+https://www.docin.com/p-87404086.html?docfrom=rrela
 
 ![](/images/btnews/btnews/0001_0100/0045/image39.webp)
 

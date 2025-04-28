@@ -231,7 +231,7 @@ http://www.stats.gov.cn/tjsj/tjbz/hyflbz/201710/t20171012_1541679.html
 
 ![](/images/btnews/btnews/0201_0300/0266/image23.webp)
 
-<http://www.ccpit.org/Contents/Channel_3857/2020/1209/1313481/content_1313481.htm>
+http://www.ccpit.org/Contents/Channel_3857/2020/1209/1313481/content_1313481.htm
 
 4月15日，韩国总统文在寅召开经济长官扩大会议，认为各国均出现了以本国为中心重组全球供应链的迹象，半导体产业的情况最为突出。文在寅表示，大力支持韩国发展为综合半导体强国，
 “维护全球第一的地位并拉开与其他国家的差距”。

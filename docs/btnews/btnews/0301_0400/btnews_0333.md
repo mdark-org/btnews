@@ -25,7 +25,7 @@ date: 2021-09-28
 
 ![](/images/btnews/btnews/0301_0400/0333/image4.webp)
 
-<https://www.zaobao.com/realtime/china/story20210330-1135200>
+https://www.zaobao.com/realtime/china/story20210330-1135200
 
 ![](/images/btnews/btnews/0301_0400/0333/image5.webp)
 
@@ -41,13 +41,13 @@ https://www.hk01.com/%E5%91%A8%E5%A0%B1/610590/%E8%B6%85%E7%B4%9A%E6%AE%AF%E8%91
 
 ![](/images/btnews/btnews/0301_0400/0333/image8.webp)
 
-<http://news.stnn.cc/hongkong/2021/0407/846476.shtml>
+http://news.stnn.cc/hongkong/2021/0407/846476.shtml
 
 最近引发争论的项目是香港新界的沙湾殡葬园。按香港特区官方解释，随着香港老龄化加剧，到2035年，每年去世人口将增加一半以上，现有墓区将无法容纳。所以确实应该增加墓地。
 
 2010年香港政府开始规划新的墓区，计划一共要提供90万个骨灰位置，并且新墓园将分散在全港18个行政区内，由各区共同承担责任。这个原则本身还是比较公平的。![](/images/btnews/btnews/0301_0400/0333/image9.webp)
 
-<https://www.legco.gov.hk/yr16-17/chinese/fc/pwsc/papers/p16-45c.pdf>
+https://www.legco.gov.hk/yr16-17/chinese/fc/pwsc/papers/p16-45c.pdf
 
 目前除了沙湾墓园以外，香港还有其他几个新墓区的预算也通过了。比如沙田区的石门墓园，位置很靠近香港市区，设计有4万个位置，规模与沙湾墓园第一期接近。正在工程招标。
 

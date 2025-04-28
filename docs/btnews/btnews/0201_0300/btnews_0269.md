@@ -209,7 +209,7 @@ tag: ["足球","体育","反虐待动物立法"]
 
 上个月，山东一所学校的两个职工驱赶校内流浪狗，做法非常暴力，把狗打出血了，还调侃说今晚吃狗肉，引发了学生和网民抗议。
 
-<https://www.163.com/dy/article/G5RDA48N0534FG7Z.html>
+https://www.163.com/dy/article/G5RDA48N0534FG7Z.html
 
 ![](/images/btnews/btnews/0201_0300/0269/image24.webp)
 

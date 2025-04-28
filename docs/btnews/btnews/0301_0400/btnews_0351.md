@@ -47,7 +47,7 @@ date: 2021-11-09
 
 到了2009年，德国有17座核电站在运行，差不多占四分之一的发电量，而后续的接班能源还没没确定。这个时候是强势的默克尔连任总理，决定给一批核电站做延期。没想到，2011年日本又发生了福岛核事故，重新激发了德国人对核电站的恐惧，默克尔只能选择绿党还激进的弃核政策，立即关闭8座核电站，剩下9座到2022年全关掉。
 
-<https://news.bjx.com.cn/html/20210316/1141873.shtml>
+https://news.bjx.com.cn/html/20210316/1141873.shtml
 
 [德国重新评估核能政策_世界频道_财新网](https://international.caixin.com/2011-03-15/100236868.html)
 
@@ -91,9 +91,9 @@ date: 2021-11-09
 
 但是从国际贸易的角度看，中国的铀矿来源更丰富，也更多元化了。目前世界前三大铀矿生产国是加拿大、哈萨克斯坦、澳大利亚，第四是纳米比亚。中广核铀业公司在2012年收购了纳米比亚湖山铀矿，2019年又从力拓手里收购了纳米比亚罗辛铀矿，这两座铀矿分别是世界第三、第五大铀矿基地，一年起码有五千吨产能。哈萨克斯坦方面，中广核通过入股，拿到了四座大型铀矿。虽然中国现在还要进口不少铀，但基本都是在自己能控制的矿山买矿。
 
-<http://www.cgnurc.com.cn/cgnurc/c100516/2021-08/27/content_cd838a919f3140db854ccbc9d42bf11f.shtml>
+http://www.cgnurc.com.cn/cgnurc/c100516/2021-08/27/content_cd838a919f3140db854ccbc9d42bf11f.shtml
 
-<https://news.bjx.com.cn/html/20210811/1169284.shtml>
+https://news.bjx.com.cn/html/20210811/1169284.shtml
 
 ![](/images/btnews/btnews/0301_0400/0351/image5.webp)
 
@@ -207,11 +207,11 @@ date: 2021-11-09
 中国这次搞钍基实验堆，并没有照抄美国人的冷战方案，而是采用氟化锂、氟化铀、氟化钍三元熔盐作燃料，以氧化铍为慢化剂。高中化学介绍过，酸、碱、盐在熔融状态下也能电离，和金属发生反应。所以熔盐堆的主要技术瓶颈，就是做出不怕腐蚀的管道，而且还要在高温、高应力、高辐射环境下保证管道的稳定性。这些材料技术，过去只有美国人能做。最近几年，中科院金属研究所的董加胜、韩维新做出了GH
 3535合金，耐熔盐腐蚀，耐650度高温，而且有希望把指标提高到800度，让纯净的食盐也能以液态通过。这个新材料，是今年钍基熔盐堆投产的前提。
 
-<https://www.sciencedirect.com/science/article/abs/pii/S0254058416305211>
+https://www.sciencedirect.com/science/article/abs/pii/S0254058416305211
 
 [æ¢è®¿ä¸­ç§é¢éå±æççå ç»æéå±ææç ç©¶å¢éâèµè®¯âç§å­¦ç½](http://news.sciencenet.cn/htmlnews/2014/8/301136.shtm)
 
-<http://www.mitbbs.com/article_t/Military/61146991.html>
+http://www.mitbbs.com/article_t/Military/61146991.html
 
 ![](/images/btnews/btnews/0301_0400/0351/image13.webp)
 
@@ -225,7 +225,7 @@ date: 2021-11-09
 
 [世界首座  我国具有第四代核能特征反应堆成功临界，年内并网发电](http://m.cnhubei.com/content/2021-09/13/content_14093075.html)
 
-<http://www.scio.gov.cn/32618/Document/1491736/1491736.htm>
+http://www.scio.gov.cn/32618/Document/1491736/1491736.htm
 
 ![](/images/btnews/btnews/0301_0400/0351/image15.webp)
 

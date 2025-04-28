@@ -41,9 +41,9 @@ date: 2020-11-27
 
 ![](/images/btnews/btnews/0101_0200/0199/image5.webp)
 
-<https://www.unhcr.org/news/stories/2020/9/5f4df3b94/sahrawi-refugees-covid-19-lockdown-hit-livestock-epidemic.html>
+https://www.unhcr.org/news/stories/2020/9/5f4df3b94/sahrawi-refugees-covid-19-lockdown-hit-livestock-epidemic.html
 
-<https://www.unicef.org/emergencies/algeria_54061.html>
+https://www.unicef.org/emergencies/algeria_54061.html
 
 [Sahrawi refugee camps - Wikipedia](https://en.wikipedia.org/wiki/Sahrawi_refugee_camps)
 
@@ -51,7 +51,7 @@ date: 2020-11-27
 
 ![](/images/btnews/btnews/0101_0200/0199/image6.webp)
 
-<https://tradingeconomics.com/morocco/exports/mauritania>
+https://tradingeconomics.com/morocco/exports/mauritania
 
 [Guerguerat - Wikipedia](https://en.wikipedia.org/wiki/Guerguerat)
 

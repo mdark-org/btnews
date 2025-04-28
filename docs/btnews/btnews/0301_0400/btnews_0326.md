@@ -187,7 +187,7 @@ date: 2021-09-12
 
 ![](/images/btnews/btnews/0301_0400/0326/image39.webp)
 
-<https://www.binzhouw.com/index/company/detailc/uid/188299/pid/225249.html>
+https://www.binzhouw.com/index/company/detailc/uid/188299/pid/225249.html
 
 之所以魏桥集团敢于在低谷期收购同行资产，不怕财务危机，主要原因是它拥有国内规模最大的企业自备电厂和独立电网，生产成本低于所有中国同行。
 
@@ -229,7 +229,7 @@ date: 2021-09-12
 
 ![](/images/btnews/btnews/0301_0400/0326/image44.webp)
 
-<https://shupeidian.bjx.com.cn/html/20170110/802474.shtml>
+https://shupeidian.bjx.com.cn/html/20170110/802474.shtml
 
 不过，这种模式可能已经接近尾声。近年国家的环保政策执行越来越严格，不管是什么历史理由，只要排污指标严重落后，就坚决执行产能淘汰。并且自备电厂也要开始缴纳社会性补贴，魏桥集团发电和生产电解铝的成本恐怕要逐渐上升了。
 
@@ -239,7 +239,7 @@ date: 2021-09-12
 
 ![](/images/btnews/btnews/0301_0400/0326/image46.webp)
 
-<http://www.xinhuanet.com/power/2018-04/17/c_129852216.htm>
+http://www.xinhuanet.com/power/2018-04/17/c_129852216.htm
 
 ![](/images/btnews/btnews/0301_0400/0326/image47.webp)
 
@@ -285,7 +285,7 @@ date: 2021-09-12
 
 ![](/images/btnews/btnews/0301_0400/0326/image56.webp)
 
-<https://pdf.dfcfw.com/pdf/H3_AP202109071514815205_1.pdf?1631043904000.pdf>
+https://pdf.dfcfw.com/pdf/H3_AP202109071514815205_1.pdf?1631043904000.pdf
 
 前面提到印度尼西亚调整了自己的铝土矿政策，魏桥集团在印尼铝土资源上也有重要投资，同样也是国内企业布局印尼的领头企业。
 

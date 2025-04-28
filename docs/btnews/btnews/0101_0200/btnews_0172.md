@@ -22,7 +22,7 @@ date: 2020-09-25
 
 我们可以看看2002年取消蓝印户口时的官方新闻。
 
-<https://www.chinacourt.org/article/detail/2002/04/id/3024.shtml>
+https://www.chinacourt.org/article/detail/2002/04/id/3024.shtml
 
 ![](/images/btnews/btnews/0101_0200/0172/image1.webp)
 
@@ -133,9 +133,9 @@ Groom）去世，享年77岁。
 
 另外，还有一个因素，就是各地的官方组织纷纷用活动经费来支持票房。网上随便一搜，就能看到很多基层支部组织观看的新闻。
 
-<http://wmw.haimen.gov.cn/view.asp?keyno=18895>
+http://wmw.haimen.gov.cn/view.asp?keyno=18895
 
-<http://tzb.tjufe.edu.cn/info/1737/3794.htm>
+http://tzb.tjufe.edu.cn/info/1737/3794.htm
 
 昨天，扬子晚报报道，南京航空航天大学在操场上放露天电影，团委给全校学生看《八佰》。新闻明确指出，露天电影是南航和21世纪校园电影院线的正规合作，付费购买，这也是《八佰》票房的一部分。我们应该严肃讨论一下，这笔钱是不是应该这么花。
 

@@ -126,7 +126,7 @@ date: 2020-04-12
 
 最近十几年扶贫，各个对口单位喜欢帮助当地居民种经济作物，比如说适应地中海气候的油橄榄。这既增加了火灾的烈度，也降低了居民往外搬的愿望。
 
-<http://local.newssc.org/system/20200405/002900039.htm>
+http://local.newssc.org/system/20200405/002900039.htm
 
 ![](/images/btnews/btnews/0101_0200/0101/image21.webp)
 

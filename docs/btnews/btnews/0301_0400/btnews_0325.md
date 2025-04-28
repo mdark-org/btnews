@@ -53,7 +53,7 @@ date: 2021-09-10
 
 首先是最重要的信息：投稿邮箱：
 
-<dianzhongkehuan@163.com> （大字幕）
+dianzhongkehuan@163.com （大字幕）
 
 163邮箱，名字是“点众科幻”的拼音，投稿请注明“科幻征文”。
 
@@ -195,7 +195,7 @@ date: 2021-09-10
 
 317期节目，我提到科技部刚刚向全国科研人员发出号召，征集颠覆性技术研发方向，还公布了标准的意见格式，其中包括两个表格，要填写新技术的影响力，以及具体的应用场景。
 
-<http://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/qtwj/qtwj2021/202108/t20210819_176486.html>
+http://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/qtwj/qtwj2021/202108/t20210819_176486.html
 
 ![](/images/btnews/btnews/0301_0400/0325/image11.webp)
 
@@ -207,6 +207,6 @@ date: 2021-09-10
 
 提醒大家，投稿邮箱名是“点众科幻”的拼音，服务器在163，投稿请注明“科幻征文”。期待各位观众积极参加征文活动，
 
-<dianzhongkehuan@163.com> （大字幕）
+dianzhongkehuan@163.com （大字幕）
 
 325期睡前消息到此结束，我们周日再见！

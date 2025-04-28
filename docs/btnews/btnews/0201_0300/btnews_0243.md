@@ -148,7 +148,7 @@ https://new.qq.com/rain/a/20210227A04EWJ00
 
 2个小时的演讲很长，我把当时的结论摘出来给大家听听：
 
-<https://user.guancha.cn/main/content?id=12632&page=0>
+https://user.guancha.cn/main/content?id=12632&page=0
 
 91分30秒之后——
 

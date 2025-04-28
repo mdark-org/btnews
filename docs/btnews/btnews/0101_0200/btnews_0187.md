@@ -236,7 +236,7 @@ date: 2020-10-30
 
 10月23日，钟南山正式回应了“体外研究”的说法。
 
-<https://xw.qq.com/partner/aoyoubrowser/20201023A0FMF0/20201023A0FMF000?ADTAG=aoyoubrowser&pgv_ref=aoyoubrowser>
+https://xw.qq.com/partner/aoyoubrowser/20201023A0FMF0/20201023A0FMF000?ADTAG=aoyoubrowser&pgv_ref=aoyoubrowser
 
 我给大家复述“我在几天前粤港澳大湾区三地合作协议（论坛）中曾讲过一句话，复方板蓝根，而非板蓝根在实验室有抗新冠病毒作用，这离体内有效还很远，白云山药厂作为‘内行人’应很了解，但（其中）有人断章取义，将我这句话扩大，甚至说是板蓝根，这是一种歪曲，有关部门已出来澄清。”
 
@@ -260,6 +260,6 @@ date: 2020-10-30
 
 今年美国亩产又有2.5吨以上的记录，中国农业必须正视转基因粮食的竞争了。
 
-<http://www.360doc.com/content/20/0105/20/50226449_884357996.shtml>
+http://www.360doc.com/content/20/0105/20/50226449_884357996.shtml
 
 好，187期睡前消息到此结束，感谢大家收看，我们周日再见。

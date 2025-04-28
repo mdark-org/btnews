@@ -140,7 +140,7 @@ date: 2019-08-27
 
 青鹿中医现在的认证信息是中医药科普自媒体，他的爱奇艺账号显示，对应的公众号是青鹿TCM。
 
-<http://www.iqiyi.com/w_19rvkbdqbt.html>
+http://www.iqiyi.com/w_19rvkbdqbt.html
 
 青鹿TCM公号有自我介绍，是北京国医九和医药公司的财产。
 

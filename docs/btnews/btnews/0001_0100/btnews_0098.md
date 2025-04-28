@@ -28,7 +28,7 @@ bvid: BV1v64y1u7hb
 
 ![](/images/btnews/btnews/0001_0100/0098/image4.webp)
 
-<http://www.cgnpc.com.cn/cgn/hngy06/lm_tt_two_hngy.shtml>
+http://www.cgnpc.com.cn/cgn/hngy06/lm_tt_two_hngy.shtml
 
 阳江核电站为了保证冷却水，在水里设置了好几层保护措施。第一层保护，是防波堤之间的气幕装置，如果监测到大量水母、鱼群、虾群，气幕装置会始喷气，在水中形成一道气墙，挡住鱼虾群阻隔。第二层保护是海洋生物实时监测系统，用声纳和摄像头监测生物群，一旦出现紧急状况，马上派出捕捞船撒网捞鱼。之后还有三重拦污网，才允许海水进入冷却回路。
 
@@ -68,12 +68,12 @@ bvid: BV1v64y1u7hb
 
 ![](/images/btnews/btnews/0001_0100/0098/image7.webp)
 
-<http://nri.bjmu.edu.cn/ktzjj/44190.htm>
+http://nri.bjmu.edu.cn/ktzjj/44190.htm
 
 但是，论文中所说的精确删除，并不是像电影《黑衣人》里那样，彻底删除某个时间段内产生的特定记忆。而是使用基因编辑工具（crisper-SaCas9），敲除了一个基因，导致大鼠无法产生和恐惧有关的久远记忆（remote
 memory）。
 
-<https://advances.sciencemag.org/content/6/12/eaay6687>
+https://advances.sciencemag.org/content/6/12/eaay6687
 
 人类的记忆分为短期记忆和长期记忆。粗略的来说，如果短期记忆放在内存的信息，那么长期记忆就是硬盘信息。这次试验干扰的久远记忆是一种长期记忆。在长期记忆的形成机制里有一个重要的环节叫做“长期增强作用”（Long-term
 potentiation，LTP），是通过同步刺激两个神经元实现的。
@@ -221,7 +221,7 @@ potentiation，LTP），是通过同步刺激两个神经元实现的。
 
 下面这条新闻对蛋卷来说是个坏消息，比上一期讨论能不能吃猫狗还可怕。
 
-<https://news.163.com/20/0402/17/F97MEO8600018AOR.html>
+https://news.163.com/20/0402/17/F97MEO8600018AOR.html
 
 3月31日，中国农业科学院哈尔滨兽医研究所发表论文，用数据证明，武汉的猫很容易感染新冠病毒，而且猫之间还可以通过飞沫传播，建议严密监测猫的感染情况，作为监测疫情的辅助手段。
 

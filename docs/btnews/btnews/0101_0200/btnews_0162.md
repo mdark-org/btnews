@@ -13,13 +13,13 @@ date: 2020-09-01
 
 最近几个月，南宁一直在整顿农贸市场。比如对农贸市场实施“限塑令”整治，清理卫生环境，给市场的卫生间除味，要求农贸市场张贴公益广告，增加无障碍设施，这些都是不错的管理。但紧接着，管理措施越来越多，有的市民到农贸市场，因为电瓶车没停在停车位上，要被贴罚单。再然后，就有了这两张图。
 
-<http://www.fcgsnews.com/news/qn/2020-4-17/136299.shtml>
+http://www.fcgsnews.com/news/qn/2020-4-17/136299.shtml
 
 [](http://finance.eastmoney.com/a/202006271534248925.html)
 
 [](http://finance.eastmoney.com/a/202007161558422878.html)
 
-<http://www.cicn.com.cn/zggsb/2020-07/08/cms128523article.shtml>
+http://www.cicn.com.cn/zggsb/2020-07/08/cms128523article.shtml
 
 [](http://finance.eastmoney.com/a/202007021540276174.html)
 

@@ -57,7 +57,7 @@ date: 2021-05-16
 
 在人民网留言板上，内蒙古普查员4月27日抱怨，半年前的报酬还没拿到，地方领导倒是回复很快，但还是说补贴刚刚核实完，需要等一等才能给。
 
-<http://liuyan.people.com.cn/threads/content?tid=9929313>
+http://liuyan.people.com.cn/threads/content?tid=9929313
 
 ![](/images/btnews/btnews/0201_0300/0275/image3.webp)
 
@@ -67,7 +67,7 @@ date: 2021-05-16
 
 在律师网上，今年4月份开始有人考虑用法律手段要工资。
 
-<https://www.66law.cn/question/35505985.aspx>
+https://www.66law.cn/question/35505985.aspx
 
 ![](/images/btnews/btnews/0201_0300/0275/image5.webp)
 

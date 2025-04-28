@@ -61,7 +61,7 @@ date: 2019-12-10
 
 ![](/images/btnews/btnews/0001_0100/0052/image6.webp)
 
-<http://img.jk51.com/img_jk51/241371348.jpeg>
+http://img.jk51.com/img_jk51/241371348.jpeg
 
 在巴基斯坦地震分布图上，帕米尔方向的红色都要挤不下了。
 
@@ -220,6 +220,6 @@ date: 2019-12-10
 
 ![](/images/btnews/btnews/0001_0100/0052/image24.webp)
 
-<https://www.huxiu.com/moment/75008.html?f=chouti>
+https://www.huxiu.com/moment/75008.html?f=chouti
 
 好，第52期睡前消息到此结束,我们周五再见。

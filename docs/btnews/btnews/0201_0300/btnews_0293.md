@@ -79,7 +79,7 @@ tag: ["巴西","上海船舶研究设计院","旋翼帆"]
 
 ![](/images/btnews/btnews/0201_0300/0293/image9.webp)
 
-<http://sdari.cssc.net.cn/component_news/news_detail.php?id=506>
+http://sdari.cssc.net.cn/component_news/news_detail.php?id=506
 
 [æ·¡æ°´æ²³è°·å¯¹VLOCè¹éæç¥å¤§è°æ´,çåè¹ï¼\_ä¿¡å¾·æµ·äºç½-ä¸ä¸æµ·äºä¿¡æ¯å¨è¯¢æå¡å¹³å°](https://xindemarinenews.com/world/618.html)
 

@@ -29,9 +29,9 @@ date: 2021-06-08
 
 媒体转载这篇演讲的时候，往往会选出最刺激的内容优先传播，比如很多编辑把标题改成《高考是为了改命！》。
 
-<https://new.qq.com/omn/20210606/20210606A07ONH00.html>
+https://new.qq.com/omn/20210606/20210606A07ONH00.html
 
-<https://new.qq.com/rain/a/20210604V08N2200>
+https://new.qq.com/rain/a/20210604V08N2200
 
 但是，张锡峰的演讲稿之所以成为热议新闻，最关键的还是他对同学说的一句话：
 
@@ -41,7 +41,7 @@ date: 2021-06-08
 
 [验证码_哔哩哔哩](https://www.bilibili.com/read/cv11594727)
 
-<https://new.qq.com/omn/20210603/20210603A04JCY00.html>
+https://new.qq.com/omn/20210603/20210603A04JCY00.html
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1701690728774408318&wfr=spider&for=pc)
 

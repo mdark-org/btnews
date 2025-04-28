@@ -31,7 +31,7 @@ date: 2021-07-30
 
 郑州火车站到黄河花园口大堤不到18公里，北四环到黄河只有3公里，上周郑州地铁被暴雨堵在隧道里，新闻冲击力很强，很多观众的直觉是黄河流域防汛有很大压力。但郑州恰恰属于淮河流域，因为黄河过了洛阳之后，很快变成悬河，高于周围的平原，郑州以下的沿途降水基本流不进去，北面的往海河方向走，南边往淮河方向走。身边最大的一条河不能帮助排水，反而是水流的障碍，这是河南东部下暴雨容易内涝的原因之一，现在黄河北岸的卫辉市已经在水里泡三天了，起码要周末才能解决问题，也是类似的原因。
 
-<https://gimg2.baidu.com/image_search/src=http://5b0988e595225.cdn.sohucs.com/images/20170903/c354a881da0a4f78a19a5aea6a10056f.jpeg&refer=http://5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630196479&t=3086e98eda8ca6cde1767bf552c45147>
+https://gimg2.baidu.com/image_search/src=http://5b0988e595225.cdn.sohucs.com/images/20170903/c354a881da0a4f78a19a5aea6a10056f.jpeg&refer=http://5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1630196479&t=3086e98eda8ca6cde1767bf552c45147
 
 ![](/images/btnews/btnews/0301_0400/0307/image2.webp)
 
@@ -79,7 +79,7 @@ date: 2021-07-30
 
 如果我们希望彻底解决淮河水患问题，早晚要重新给淮河挖一条足够宽，足够顺畅的入海河道，不要让淮河绕路长江才能入海。至于淮河干流和京杭运河交叉的问题，淮河入海通道已经有了成功经验，给两条河修一个立交桥，将来我们可能会修更大的水上立交。
 
-<http://jssslt.jiangsu.gov.cn/art/2020/9/15/art_80217_9506986.html>
+http://jssslt.jiangsu.gov.cn/art/2020/9/15/art_80217_9506986.html
 
 [科普 \| 亚洲最大水立交—淮河入海水道大运河立交_澎湃号·政务_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_10877831)
 
@@ -103,7 +103,7 @@ date: 2021-07-30
 
 ![](/images/btnews/btnews/0301_0400/0307/image11.webp)
 
-<https://xueqiu.com/1234340046/82632248>
+https://xueqiu.com/1234340046/82632248
 
 ![](/images/btnews/btnews/0301_0400/0307/image12.webp)
 
@@ -111,7 +111,7 @@ date: 2021-07-30
 
 ![](/images/btnews/btnews/0301_0400/0307/image13.webp)
 
-<https://xueqiu.com/1015390053/133685948>
+https://xueqiu.com/1015390053/133685948
 
 最近几周，鲁南制药的股权争夺战忽然成为媒体焦点。7月22号，赵龙宣布自己在海外的法律诉讼全面胜利。同时，赵龙翻出旧账，批评法律行业著名的金杜律师事务所，说他们在这件事表现节目不光彩。
 

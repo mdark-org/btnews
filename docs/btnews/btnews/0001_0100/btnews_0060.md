@@ -63,7 +63,7 @@ date: 2020-01-01
 
 在这些工程背后，是地球上第一个十亿吨钢铁产量的国家。现在最终统计数据还没出来，但是不考虑瞒报，合法数据至少是9.8亿吨，就算没达到十亿吨，那也是我们谦虚一下。去年的亚军是印度，每个月大概900万吨，合计一亿吨出头。如果地球上出现第二个十亿吨钢产量的国家，那有可能是30年后的印度。但是首先他们要解决污染和能源问题。毕竟印度国土面积只有中国的三分之一。
 
-<http://www.tetimes.com/finance/20191212/27370.html>
+http://www.tetimes.com/finance/20191212/27370.html
 
 2019年的大工程我就不一一介绍了，但是，现在回忆起来，这些大型工程在2019年带来了一系列副产品，就是事故。1月12日，神木李家沟煤矿事故，死了21个工人。
 
@@ -125,7 +125,7 @@ https://www.guancha.cn/politics/2019_01_13_486666.shtml
 
 第二件事是兰州一件类似于生化危机的故事，生物制药厂消毒工作失败，制药罐培养了传染病细菌，随风传播，导致200人感染，甚至从哈尔滨来的实习生也感染上了，又把病菌带回哈尔滨。
 
-<http://www.lanzhou.gov.cn/art/2019/12/26/art_127_838908.html?authkey=8nibm2>
+http://www.lanzhou.gov.cn/art/2019/12/26/art_127_838908.html?authkey=8nibm2
 
 ![](/images/btnews/btnews/0001_0100/0060/image21.webp)
 
@@ -230,7 +230,7 @@ https://www.guancha.cn/politics/2019_01_13_486666.shtml
 
 ![](/images/btnews/btnews/0001_0100/0060/image38.webp)
 
-<https://news.163.com/19/0502/08/EE5IFV1P0001875P.html>
+https://news.163.com/19/0502/08/EE5IFV1P0001875P.html
 
 这一期的最后，我们关注百度问题。
 
@@ -250,7 +250,7 @@ https://www.guancha.cn/politics/2019_01_13_486666.shtml
 
 在外界压力下，百度从一月开始修改考核模式，向谷歌学习，号称要“去KPI化”
 
-<http://tech.163.com/19/0203/07/E72RIHJV00097U7R.html>
+http://tech.163.com/19/0203/07/E72RIHJV00097U7R.html
 
 3月3日，全国政协会议开幕之前，记者问李彦宏，
 百度在BAT里面占什么样的位置。李彦宏说我们一直在搞人工智能，
@@ -260,7 +260,7 @@ https://www.guancha.cn/politics/2019_01_13_486666.shtml
 
 4月30日，中国工程院公布了2019年院士候选人名单，百度的李彦宏、王海峰，都是候选人，但是6月6日，工程院宣布李彦宏被筛掉了。。
 
-<http://news.eastday.com/eastday/13news/auto/news/china/20190606/u7ai8614914.html>
+http://news.eastday.com/eastday/13news/auto/news/china/20190606/u7ai8614914.html
 
 5月17日，百度公布一季度的财报，营收241亿元人民币（约合35.9亿美元），同比增长15%，还不错。但是李彦宏开掉了搜索总裁向海龙。
 

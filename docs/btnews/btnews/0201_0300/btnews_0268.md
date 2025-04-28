@@ -25,7 +25,7 @@ date: 2021-04-30
 
 网上也不难找到前些年泰国和马来西亚的大学生科目分类：
 
-<http://www.nssd.cn/articles/Article_Read.aspx?id=672570059>
+http://www.nssd.cn/articles/Article_Read.aspx?id=672570059
 
 ![](/images/btnews/btnews/0201_0300/0268/image3.webp)
 
@@ -121,7 +121,7 @@ POINT HOWEVER IS TO CHANGE IT”
 
 连续两期说了人口问题，截止到本期节目进演播室，第七次人口普查的数据还是没有出来，只有国家统计局发了一个简单的通知，让大家安心，人口还在增长。在正式数据出来之前，这个话题暂且放下，我来分享几条简讯。
 
-<http://www.stats.gov.cn/tjsj/zxfb/202104/t20210429_1816871.html>
+http://www.stats.gov.cn/tjsj/zxfb/202104/t20210429_1816871.html
 
 ![](/images/btnews/btnews/0201_0300/0268/image11.webp)
 

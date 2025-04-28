@@ -97,7 +97,7 @@ date: 2020-04-21
 
 但是，诺基亚贝尔并不是纯外企，而是一家2017年7月1日成立的合资央企。中国华信邮电占一半股份，联手开发5g设备。
 
-<http://www.sasac.gov.cn/n2588025/n4423279/n4517386/n9551442/c9813931/content.html>
+http://www.sasac.gov.cn/n2588025/n4423279/n4517386/n9551442/c9813931/content.html
 
 ![](/images/btnews/btnews/0101_0200/0105/image14.webp)
 

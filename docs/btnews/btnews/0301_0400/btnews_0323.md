@@ -118,7 +118,7 @@ IGN给它打了9分。
 
 [](https://www.iyiou.com/analysis/2017122763050)
 
-<https://wglh.com/stock/history/sz002230/>
+https://wglh.com/stock/history/sz002230/
 
 ![](/images/btnews/btnews/0301_0400/0323/image18.webp)
 

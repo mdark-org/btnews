@@ -11,7 +11,7 @@ date: 2020-11-13
 
 一套无人机系统不光有飞机，还需要一整套高度信息化的指挥控制平台，以及全寿命周期的后勤服务。从美国公布的文件来看，这次对台军售的4架无人机，除了装备有各种导航、雷达系统，还包括2个固定地面站、2个移动地面站，美方承包工程，技术和后勤服务，人员培训以及技术资料等。现在一套MQ-9系统差不多要配套60人，这些配套后勤才是主要成本。
 
-<https://www.dsca.mil/press-media/major-arms-sales/taipei-economic-and-cultural-representative-office-united-states-18>
+https://www.dsca.mil/press-media/major-arms-sales/taipei-economic-and-cultural-representative-office-united-states-18
 
 但想遥控MQ-9B，光有地面后勤还不行，还要借用美军卫星通信链路。给MQ-9提供卫星通信支持的是SES公司，有70多颗同步轨道和O3b中轨道卫星。凭借军事通信服务的垄断平台，就算明知道美国在坐地起价，绝大部分国家也只能忍着。现在美军向其它国家卖一套MQ-9B，报价基本都是6亿，这次倒也不算额外坑蔡英文一笔。
 

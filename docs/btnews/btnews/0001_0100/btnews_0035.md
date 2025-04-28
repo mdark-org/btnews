@@ -225,7 +225,7 @@ NBA的贾巴尔在2008年被诊断患有白血病，他总结自己痊愈的原�
 
 我给大家看一段湖北日报登载的当事人回忆录，里面介绍了参加核工程的大学生：
 
-<http://www.hbwmw.gov.cn/zlk/tjyd/201412/t20141205_55640.shtml>
+http://www.hbwmw.gov.cn/zlk/tjyd/201412/t20141205_55640.shtml
 
 ![](/images/btnews/btnews/0001_0100/0035/image25.webp)
 

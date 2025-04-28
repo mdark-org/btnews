@@ -7,7 +7,7 @@ date: 2020-12-25
 
 前天12月23日，《解放日报》整版报道了浙江衢州市，里面提到了一个很少听说的地理概念，“浙赣运河”。督工你能介绍一下这条运河吗？
 
-<http://www.ckxxbao.com/jiefangribao/336751_9.html>
+http://www.ckxxbao.com/jiefangribao/336751_9.html
 
 ![](/images/btnews/btnews/0201_0300/0212/image1.webp)
 
@@ -21,7 +21,7 @@ date: 2020-12-25
 
 中间分水岭名气很大，是黄山分水岭的延续，但是绝对海拔只有100米。
 
-<https://www.163.com/dy/article/DUD4SJEG0524V9U6.html>
+https://www.163.com/dy/article/DUD4SJEG0524V9U6.html
 
 ![](/images/btnews/btnews/0201_0300/0212/image4.webp)
 
@@ -132,7 +132,7 @@ dir="rtl">“</span>北提升、南畅通、东通海、西振兴”。所谓“
 
 “北提升”，就是积极沟通长江和太湖航道，挖掘京杭运河的潜力。现在杭州正在修八堡船闸，把京杭运河南段提升到三级航道，让千吨级内河船可以从山东开到杭州。
 
-<http://www.zgjtb.com/zhitong/2020-12/17/content_254612.htm>
+http://www.zgjtb.com/zhitong/2020-12/17/content_254612.htm
 
 而<span
 dir="rtl">“</span>南畅通”，主要是整治静静家乡温州附近的瓯江流域，让浙江另一个穷市，丽水市拥有入海航道。
@@ -147,7 +147,7 @@ dir="rtl">“</span>南畅通”，主要是整治静静家乡温州附近的瓯
 
 ![](/images/btnews/btnews/0201_0300/0212/image22.webp)
 
-<https://zj.qq.com/a/20140530/008954.htm>
+https://zj.qq.com/a/20140530/008954.htm
 
 2014年，杭州钱江晚报又抱怨了一次，说运河白修了。
 
@@ -170,21 +170,21 @@ dir="rtl">“</span>江海直达”型船舶从浙江舟山出发，进入杭甬
 
 浙江省为了这些航道，付出的代价不小，是要实现什么目标呢？
 
-<http://www.xinhuanet.com/fortune/2018-05/31/c_129884077.htm>
+http://www.xinhuanet.com/fortune/2018-05/31/c_129884077.htm
 
 马云在2018年说了一个数字，说过去中国物流业产值占GDP的20%左右，现在下降到15%是很大进步，但是发达国家普遍只有11%，导致中国制造业利润偏低，竞争力不足。
 
 到了2019年，中国物流业成本还要占到GDP的14.7，这是中国经济的典型缺点。
 
-<http://www.qingdao.gov.cn/n172/n24624151/n24625135/n24625149/n24625177/200428103519264421.html>
+http://www.qingdao.gov.cn/n172/n24624151/n24625135/n24625149/n24625177/200428103519264421.html
 
 水运成本是铁路的三分之一，公路的七分之一，如果能把大宗散货和集装箱运输尽可能转移到水运，中国的物流成本可以砍掉一大截。浙江省山多，平地少，现在土地已经很紧张了，水运是提升潜力最大的地方。
 
-<http://www.nssd.org/articles/Article_Read.aspx?id=7001949870>
+http://www.nssd.org/articles/Article_Read.aspx?id=7001949870
 
 另外，从产业竞争的角度说，浙江省最直接的对手是江苏。江苏全省87%的面积是平原；浙江省只有23%。江苏省可以通过长江沟通中西部，浙江省向西必须翻山。网上有人对比过长江下游各省的物流产业，
 
-<http://www.nssd.org/articles/Article_Read.aspx?id=7001949870>
+http://www.nssd.org/articles/Article_Read.aspx?id=7001949870
 
 ![](/images/btnews/btnews/0201_0300/0212/image25.webp)
 

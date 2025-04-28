@@ -143,7 +143,7 @@ date: 2020-12-11
 >
 > ![](/images/btnews/btnews/0201_0300/0206/image17.webp)
 >
-> <https://www.spacecom.mil/MEDIA/NEWS-ARTICLES/Article/2023118/shaw-and-whiting-trade-places-both-space-commands-win-big/>
+> https://www.spacecom.mil/MEDIA/NEWS-ARTICLES/Article/2023118/shaw-and-whiting-trade-places-both-space-commands-win-big/
 >
 > 在太空军成立之前，美国空军的太空作战指挥部在2014年成立了联合太空行动中心，英美加澳四个国家参与，2015年新西兰也加入了。2020年在原来的美国空军太空部队框架下，英美澳加成立了联合太空作战行动中心范登堡基地指挥部，现在是美国太空军主要指挥中心。
 
@@ -157,13 +157,13 @@ date: 2020-12-11
 >
 > [JUST IN: Space Force Tightening Ties with U.K.  ](https://www.nationaldefensemagazine.org/articles/2020/7/15/just-in-space-force-tightening-ties-with-uk)
 >
-> <https://lompocrecord.com/news/local/stronger-together-air-force-leaders-stress-collaboration-during-space-operations-center-transition-at-vandenberg-air/article_8e8ac079-9bf0-50e4-ac60-c43969b285ba.html>
+> https://lompocrecord.com/news/local/stronger-together-air-force-leaders-stress-collaboration-during-space-operations-center-transition-at-vandenberg-air/article_8e8ac079-9bf0-50e4-ac60-c43969b285ba.html
 
 [Combined Space Operations Center - Wikipedia](https://en.wikipedia.org/wiki/Combined_Space_Operations_Center)
 
 > ['We are the center of space operations': Air Force Maj. Gen. DeAnna Burt takes charge of unit during first change of command \| Vandenberg Air Force Base \| santamariatimes.com](https://santamariatimes.com/news/local/crime-and-courts/we-are-the-center-of-space-operations-air-force-maj-gen-deanna-burt-takes-charge/article_db61ac62-4185-569a-b028-7215db086903.html)
 >
-> <https://spacewatch.global/2020/02/combined-space-operations-initiative-welcomes-france-and-germany/>
+> https://spacewatch.global/2020/02/combined-space-operations-initiative-welcomes-france-and-germany/
 >
 > 整合整个西方资源以后，美国太空军接下来的主要任务是建设阿拉斯加埃尔门多夫空军基地，目的非常明确，就是遏制中国和俄罗斯。
 >

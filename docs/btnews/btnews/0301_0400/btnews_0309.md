@@ -26,7 +26,7 @@ date: 2021-08-03
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1705089239220865389&wfr=spider&for=pc)
 
-<https://new.qq.com/rain/a/20200930A0IIX900>
+https://new.qq.com/rain/a/20200930A0IIX900
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1705089239220865389&wfr=spider&for=pc)
 
@@ -130,7 +130,7 @@ acid
 
 另外，这次河南水灾，受害的不仅仅是郑州。黄河北岸的卫辉市、鹤壁市也有严重暴雨，卫河等好几条河流决堤，50万人的卫辉市全城被淹，城区积水2米持续了一周，到昨天才有所缓解。但是卫辉市得到的关注度远不如郑州一个区，说明特大城市到的经济资源和文化关注度远远超过了人口比例。这虽然是经济发展的客观规律，但在救灾问题上，我们不能基于平时的文化影响力去考虑问题。
 
-<https://www.163.com/dy/article/GGCHIF6G0526OQ1K.html>
+https://www.163.com/dy/article/GGCHIF6G0526OQ1K.html
 
 [航拍卫辉共产主义渠：推下数量卡车封堵决口_七环视频_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_13751396)
 
@@ -172,7 +172,7 @@ acid
 
 话题再回到郑州，互联网上有一句曾经全国流行的名言：“世界那么大，我想去看看”。这是6年前郑州女教师著名的辞职信，最近顾老师重新回到了都市，回到了媒体焦点。
 
-<https://www.163.com/dy/article/GGD45KED051283GO.html>
+https://www.163.com/dy/article/GGD45KED051283GO.html
 
 ![](/images/btnews/btnews/0301_0400/0309/image9.webp)
 

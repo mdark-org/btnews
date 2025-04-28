@@ -17,7 +17,7 @@ tag: ["印度","海外劳工","假发","非洲","新冠"]
 
 ![](/images/btnews/btnews/0201_0300/0270/image3.webp)
 
-<https://www.163.com/dy/article/G8TBLHJO0536CCS7.html?f=post2020_dy_recommends>
+https://www.163.com/dy/article/G8TBLHJO0536CCS7.html?f=post2020_dy_recommends
 
 **印度是全球最大的海外劳工原籍国。印度政府原来一直在商讨尽快恢复国际航班，把工人重新送出去。现在国际旅行再次受限，会有什么影响。**
 
@@ -27,7 +27,7 @@ tag: ["印度","海外劳工","假发","非洲","新冠"]
 
 ![](/images/btnews/btnews/0201_0300/0270/image5.webp)
 
-<https://www.arabnews.com/node/1826451/business-economy>
+https://www.arabnews.com/node/1826451/business-economy
 
 2019年12月，第53期睡前消息我们分析印度经济结构，就曾经说过，印度海外劳工的侨汇对印度非常重要。
 
@@ -43,7 +43,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image7.webp)
 
-<https://trendeconomy.com/data/h2?commodity=TOTAL&reporter=India&trade_flow=Export,Import&partner=World&indicator=TV,YoY&time_period=2018,2019,2020>
+https://trendeconomy.com/data/h2?commodity=TOTAL&reporter=India&trade_flow=Export,Import&partner=World&indicator=TV,YoY&time_period=2018,2019,2020
 
 印度在服务业国际贸易上有顺差，但服务顺差远不够填平商品贸易逆差。几十年来，印度一直都靠海外劳工的侨汇，才能保持国际收支基本平衡。
 
@@ -151,7 +151,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image24.webp)
 
-<https://www.newindianexpress.com/business/2021/mar/31/fabulous-fy21-india-biggest-recipient-of-fpi-inflows-worth-rs-26-lakh-crore-2283990.html>
+https://www.newindianexpress.com/business/2021/mar/31/fabulous-fy21-india-biggest-recipient-of-fpi-inflows-worth-rs-26-lakh-crore-2283990.html
 
 在巨额FPI支持下，印度股市总市值与当年GDP的比率，十年来首次超过了100％。但同时，印度财政赤字占GDP的比例，也达到前所未见的12.7%。横向比较，印度财政和货币政策双宽松的程度，几乎已经与美国相当。
 
@@ -259,7 +259,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image44.webp)
 
-<https://www.163.com/dy/article/G66UACHJ0512FOSV.html>
+https://www.163.com/dy/article/G66UACHJ0512FOSV.html
 
 **海关人员解释，人发在国内外价差很大，能达到三四倍，走私能获暴利。为什么国内人发价格会这么贵。**
 
@@ -267,7 +267,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image46.webp)
 
-<https://www.163.com/dy/article/G66UACHJ0512FOSV.html>
+https://www.163.com/dy/article/G66UACHJ0512FOSV.html
 
 因为中国有全球最大的假发产业，产量占全球80%左右。2018年中国大陆假发产业销售收入约260亿元人民币，当年度出口假发制品5.48万吨，金额31.5亿美元。按金额算，又有超过80%的假发是出口到境外的。
 
@@ -278,7 +278,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image47.webp)
 
-<https://new.qq.com/omn/20200611/20200611A053WL00.html?pc>
+https://new.qq.com/omn/20200611/20200611A053WL00.html?pc
 
 ![](/images/btnews/btnews/0201_0300/0270/image48.webp)
 
@@ -298,7 +298,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image51.webp)
 
-<https://xw.qq.com/partner/hwbrowser/20200919A09XZD/20200919A09XZD00?ADTAG=hwb&pgv_ref=hwb&appid=hwbrowser&ctype=news>
+https://xw.qq.com/partner/hwbrowser/20200919A09XZD/20200919A09XZD00?ADTAG=hwb&pgv_ref=hwb&appid=hwbrowser&ctype=news
 
 ![](/images/btnews/btnews/0201_0300/0270/image52.webp)
 
@@ -322,13 +322,13 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image56.webp)
 
-<http://www.faxingtupian.com/toufahuli/faxingba/042GEH014.html>
+http://www.faxingtupian.com/toufahuli/faxingba/042GEH014.html
 
 原料减少了，但国内假发产业却还在不断发展壮大。近十年间，行业销售收入又翻了一番。
 
 ![](/images/btnews/btnews/0201_0300/0270/image57.webp)
 
-<https://www.chyxx.com/industry/202005/861427.html>
+https://www.chyxx.com/industry/202005/861427.html
 
 为了满足需求，进口人发就成了产业的刚需。不过，人发上可以携带大量害虫和病菌，在卫生防疫部门看来，是很危险的潜在污染源。在国家禁止进口的固体废物名单上，“未经加工的人发”排在第一位。这也是非法走私猖獗的一个重要原因。
 
@@ -382,7 +382,7 @@ https://www.statista.com/statistics/263633/trade-balance-of-india/
 
 ![](/images/btnews/btnews/0201_0300/0270/image65.webp)
 
-<https://www.163.com/dy/article/FQ1V9EOI0528CJEP.html>
+https://www.163.com/dy/article/FQ1V9EOI0528CJEP.html
 
 睡前消息之前节目提到过。上世纪八九十年代，纺织业、服装业曾是中国大陆最有国际比较优势的产业。当时中国大陆的优势是，劳动力比发达地区便宜，技术又比发展中地区熟练；并且还能够自产部分设备和上游辅料，可以少买一些昂贵的进口货。最后结果是，每个单项上都不一定是特别突出，但综合性价比却是最强的。
 

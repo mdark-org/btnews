@@ -124,7 +124,7 @@ tag: ["黎明计划","腾讯","《反垄断法》","互联网企业","刚果","�
 
 ![](/images/btnews/btnews/0301_0400/0357/image10.webp)
 
-<http://www.xinhuanet.com/legal/2020-01/04/c_1125420952.htm>
+http://www.xinhuanet.com/legal/2020-01/04/c_1125420952.htm
 
 ![](/images/btnews/btnews/0301_0400/0357/image11.webp)
 

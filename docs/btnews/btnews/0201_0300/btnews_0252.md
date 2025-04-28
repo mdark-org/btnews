@@ -148,7 +148,7 @@ https://www.statista.com/statistics/262894/western-coalition-soldiers-killed-in-
 
 ![](/images/btnews/btnews/0201_0300/0252/image22.webp)
 
-<https://www.sigar.mil/pdf/quarterlyreports/2019-10-30qr-section3-funding.pdf>
+https://www.sigar.mil/pdf/quarterlyreports/2019-10-30qr-section3-funding.pdf
 
 2019年阿富汗政府得到了42亿美元外国援助。而阿富汗2020年的预算总额是55亿美元。多年来，阿富汗政府75%-80%的预算都直接依赖外国援助。剩下的本地税收，也主要是服务业给外国人提供服务赚钱才能交上来。
 
@@ -290,7 +290,7 @@ https://www.statista.com/statistics/1075910/total-us-war-spending-afghanistan-ca
 
 2060年到现在只有39年，今年新入学的大学生，到2060年也只有58岁，在此之前，烧煤的设备会全部拆除。无论国家会不会实施延迟退休，煤炭发电都不会是终身职业。我看了一下华北电力大学的专业设置，热能工程是两个国家级重点学科之一。这一代热电厂工作人员，要认真考虑自己后半生的职业规划了。
 
-<https://www.ncepu.edu.cn/xkjs/zdxk/index.htm>
+https://www.ncepu.edu.cn/xkjs/zdxk/index.htm
 
 ![](/images/btnews/btnews/0201_0300/0252/image43.webp)
 

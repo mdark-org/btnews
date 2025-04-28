@@ -69,7 +69,7 @@ date: 2020-09-13
 
 庭审实况录像：
 
-<http://whtsgk.gov.cn/ilive/www/wh/jsp/showPlay.jsp?playId=33BB89A5_A8CA_0CE1_4217_E6B8B3176B24>
+http://whtsgk.gov.cn/ilive/www/wh/jsp/showPlay.jsp?playId=33BB89A5_A8CA_0CE1_4217_E6B8B3176B24
 
 ![](/images/btnews/btnews/0101_0200/0167/image9.webp)
 
@@ -187,7 +187,7 @@ date: 2020-09-13
 
 另外，按照美国的制裁规定，9月15日开始对华为进行全面的技术封锁，今天已经是13号了，所以华为海思这几天要包机去台湾，把已经生产出来的全部芯片运回大陆，作为最后的储备。国内芯片产业要加油了
 
-<https://news.163.com/20/0913/00/FMC5PBKD0001899O.html>
+https://news.163.com/20/0913/00/FMC5PBKD0001899O.html
 
 另外还有一则新闻，可以说和上面的事有关系，也可以说没关系。大家应该知道今年高考多了一个“强基计划”选项，教育部挑选36所研究型大学，额外拿出几千个名额，招收和国家长期发展相关的基础研究方向学生。理科的重点是数学、物理、化学、生物，文科的主要方向是历史、哲学、古文字。
 

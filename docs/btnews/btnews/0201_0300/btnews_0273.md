@@ -96,7 +96,7 @@ GDP高，政府收入低不仅仅是昆山和余杭两个县级单位之间的�
 
 ![](/images/btnews/btnews/0201_0300/0273/image9.webp)
 
-<https://www.163.com/dy/article/FU2GOE270530I1ON.html>
+https://www.163.com/dy/article/FU2GOE270530I1ON.html
 
 督工你怎么评价浙江省按每亩税收评价企业的政策？
 
@@ -196,7 +196,7 @@ https://www.guancha.cn/politics/2021_04_30_589389.shtml
 
 最近几个月，日本频繁传出学校霸凌事件，3月份北海道少女自杀事件，基本被证实和未成年人内部的暴力事件相关。
 
-<https://www.163.com/dy/article/G9CKIT2F0518EA51.html>
+https://www.163.com/dy/article/G9CKIT2F0518EA51.html
 
 针对父母的担心，日本的保险公司推出了“霸凌保险”业务。只要交4000日元，就可以用赔付的钱请律师，搜集争取，和学校谈判更多的赔偿金。我相信大多数观众并不希望用这种消极手段来保护未成年人，中国社会需要早点考虑建立新的隐私保护和信息使用制度了。
 

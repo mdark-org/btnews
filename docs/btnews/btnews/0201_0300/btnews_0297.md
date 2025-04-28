@@ -85,7 +85,7 @@ date: 2021-07-06
 
 眼下地方政府都选了阻力最小的角度干预家庭，暂时不会采取太激烈的社会化抚养政策。不过，在某些程序上，父母“持证上岗”还是非常必要的。2003年开始，中国取消了强制婚检制度，新生儿缺陷率立刻开始上升。
 
-<https://health.qq.com/a/20140930/015354.htm>
+https://health.qq.com/a/20140930/015354.htm
 
 《中国妇幼卫生事业发展报告》显示，2003年的新生儿缺陷率是百分之1.2，2010年上升到百分之1.5。和整体的经济发展趋势正好相反。地方妇幼保健机构的调查也显示，通过免费婚检可以明显降低遗传病发病率。
 
@@ -115,17 +115,17 @@ https://www.thepaper.cn/newsDetail_forward_13356027
 
 6月27日，大概就是提格雷武装对政府军打歼灭战的时候，埃及要求安理会讨论尼罗河复兴大坝问题。埃塞俄比亚表示明确反对，昨天还宣布派出军队，坚决保护复兴大坝第二轮蓄水。埃塞俄比亚的内忧外患很可能成为引爆东北非人口危机的雷管。
 
-<https://new.qq.com/omn/20210629/20210629A04SVC00.html>
+https://new.qq.com/omn/20210629/20210629A04SVC00.html
 
-<https://www.163.com/dy/article/GDTPP25B0544UM79.html>
+https://www.163.com/dy/article/GDTPP25B0544UM79.html
 
-<https://m.guancha.cn/internation/2021_07_04_596939.shtml>
+https://m.guancha.cn/internation/2021_07_04_596939.shtml
 
-<https://www.163.com/dy/article/GE5DO43G0544UM79.html>
+https://www.163.com/dy/article/GE5DO43G0544UM79.html
 
 252期节目，我们分析了阿富汗局势，认为美国快速撤军会导致阿富汗出现巨大的动荡和灾难。现在美国还没有完全撤完，当地居民已经到军事基地里面捡垃圾了，希望能收集一点工业品，应付接下来的动荡。
 
-<https://www.163.com/dy/article/GDQDG6K505504DPG.html>
+https://www.163.com/dy/article/GDQDG6K505504DPG.html
 
 德国作为美国的盟友，撤军比较快，284期节目我提到，德国人连27吨的石头纪念碑都运走了。6月29日，德国宣布完成了撤军，最后撤走的一批物资，包括22.5万升没喝完的啤酒，理由是因为宗教原因不能就地出售。
 
@@ -137,7 +137,7 @@ https://www.thepaper.cn/newsDetail_forward_13356027
 回绝提议　阿富汗塔利班要求土耳其撤军-新华网
 ](http://www.xinhuanet.com/world/2021-06/12/c_1211197123.htm)
 
-<https://new.qq.com/omn/20210622/20210622A063J000.html>
+https://new.qq.com/omn/20210622/20210622A063J000.html
 
 [港媒：中国从美国进口煤炭，填补了澳大利亚留下的空缺](https://www.guancha.cn/internation/2021_06_30_596383.shtml)
 

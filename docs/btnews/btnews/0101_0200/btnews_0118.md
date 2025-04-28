@@ -41,11 +41,11 @@ MV开头用了毕业就分手的剧情，场景在上海，我猜编剧一定看
 
 先看2013年的两则新闻，郑州日报说“最难就业季”来了。
 
-<https://www.henan100.com/news/2013/286351.shtml>
+https://www.henan100.com/news/2013/286351.shtml
 
 ![](/images/btnews/btnews/0101_0200/0118/image3.webp)
 
-<https://www.chsi.com.cn/jyzd/jyxx/201301/20130123/386686508.html>
+https://www.chsi.com.cn/jyzd/jyxx/201301/20130123/386686508.html
 
 同一年，河南新乡市调查大学生，也说大学生就业难，“压力山大”，给2020年的校长提供了素材。
 

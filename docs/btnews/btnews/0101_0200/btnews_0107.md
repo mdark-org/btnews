@@ -60,7 +60,7 @@ date: 2020-04-26
 
 现在机械化插秧已经很普遍了，但是育苗方面的确还很落后，需要提高效率。4月10日，人民日报专门报道了今年的春播情况，里面提到，南方省份的育秧工作普遍机械化。
 
-<http://paper.people.com.cn/rmrb/html/2020-04/10/nw.D110000renmrb_20200410_1-18.htm>
+http://paper.people.com.cn/rmrb/html/2020-04/10/nw.D110000renmrb_20200410_1-18.htm
 
 农民不再设置单独的秧田，而是在大棚里面搞而工厂化育苗。比传统人工育苗节水、省时，而且不受春季低温、阴雨等灾害性天气的影响。
 
@@ -84,7 +84,7 @@ date: 2020-04-26
 
 4月3日，人民日报头版报道了一个好例子。为了抢在清明节前摘下第一茬春茶，浙江省武义县投入1400多台采茶机，解决人力不足的问题。
 
-<http://paper.people.com.cn/rmrb/html/2020-04/03/nw.D110000renmrb_20200403_7-01.htm>
+http://paper.people.com.cn/rmrb/html/2020-04/03/nw.D110000renmrb_20200403_7-01.htm
 
 ![](/images/btnews/btnews/0101_0200/0107/image10.webp)
 
@@ -133,7 +133,7 @@ date: 2020-04-26
 
 [404,æ¨è®¿é®çé¡µé¢å·²ç»ä¸å­å¨!](https://www.sohu.com/a/390500873_120599799)
 
-<http://www.xinhuanet.com/2020-04/23/c_1125893806.htm>
+http://www.xinhuanet.com/2020-04/23/c_1125893806.htm
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1664760489569221665&wfr=spider&for=pc)
 
@@ -226,13 +226,13 @@ date: 2020-04-26
 
 衢州市所在的浙江省虽然比山东富裕，但是衢州市是浙江省最穷的地方，全市去年一般公共预算收入137亿。如果能通过宣扬儒学再造一个圣城，把曲阜市的国学生意分一部分过来，就算影响不了全国文明城市的评定，对地方经济来说也是好事。
 
-<http://www.qz123.com/news_show-196462.html>
+http://www.qz123.com/news_show-196462.html
 
 ![](/images/btnews/btnews/0101_0200/0107/image30.webp)
 
 衢州把南宗孔子后裔接回来，当统战部部长，还让他主持编排了一部话剧，名字叫《大宗南渡》，意思是我这里才是儒家正宗，很明显是对着曲阜去的。衢州干部为了争夺圣城的地位很卖力，但我还是希望他们在实体经济上也这么用心。
 
-<http://www.kongzi.gov.cn/news.aspx?cultureID=10061>
+http://www.kongzi.gov.cn/news.aspx?cultureID=10061
 
 ![](/images/btnews/btnews/0101_0200/0107/image31.webp)
 

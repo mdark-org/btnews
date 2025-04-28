@@ -21,7 +21,7 @@ http://www.hljdaily.com.cn/article/335/146335.html
 
 《企业所得税法》第九条规定，企业捐款，可以减少纳税基数。信息时报在2月3日报道，广州税务人员给辛有志宣传过相关政策。
 
-<http://epaper.xxsb.com/html/content/2020-02/03/content_790422.html>
+http://epaper.xxsb.com/html/content/2020-02/03/content_790422.html
 
 ![](/images/btnews/btnews/0001_0100/0088/image3.webp)
 

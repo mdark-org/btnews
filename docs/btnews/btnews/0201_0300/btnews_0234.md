@@ -232,15 +232,15 @@ date: 2021-02-09
 
 [猪眼生物工程角膜“艾欣瞳”，只适合一小部分角膜盲人_凤凰网健康_凤凰网](https://health.ifeng.com/c/7gd5ZVqzvKO)
 
-<https://med.sina.com/article_detail_103_1_21566.html>
+https://med.sina.com/article_detail_103_1_21566.html
 
 [âè¾æ¬£ç³âå©ä¸´æ²5000ä¾è´«å°è§èç²æ£èéè§åæ\_ç¦ç¹æ°é»\_ççæ°é»ç½](http://www.langya.cn/lyxw/zxwjdxw/201904/t20190412_576384.html)
 
-<https://news.bioon.com/article/6683354.html>
+https://news.bioon.com/article/6683354.html
 
 [ä¸­å½åçå»å­¦ï¼è¾æ¬£ç³è¢«åä¸ºä¸´åºåºç¨å¤ä¸­å¿ç ç©¶è¯¾é¢\|è¾æ¬£ç³\|è§è\|ä¸­å½åçå»å­¦\_æ°æµªè´¢ç»\_æ°æµªç½](http://finance.sina.com.cn/stock/hkstock/ggscyd/2017-07-05/doc-ifyhvyie0172034.shtml)
 
-<http://www.crmi.cn/s/bus_tissue.php#b1>
+http://www.crmi.cn/s/bus_tissue.php#b1
 
 但是，2015年的猪角膜技术，到现在也没有推广，有眼科专家指出，这是因为生物技术的水平还不够，这种角膜不含任何角膜细胞，只能替代角膜中央8毫米左右的基质部分。如果病人不是这个部位出问题，猪角膜还是不能完全替代人类自己捐献的角膜。
 
@@ -254,7 +254,7 @@ date: 2021-02-09
 
 [CorNeat KPro  \| Artificial Cornea \| CorNeat Vision ](https://www.corneat.com/corneat-kpro)
 
-<https://www.corneat.com/our-technology-ip>
+https://www.corneat.com/our-technology-ip
 
 手术之后几周，眼白巩膜和结膜中的细胞会逐渐生长，填满纳米纤维网，这些细胞之间又会生成胶原蛋白，最终把整个纳米纤维网固定在巩膜上，让人体组织和前面的光学材料完美结合。刚刚做手术的以色列患者，已经是78岁的老人，之前被很多大医院认为不适合手术，现在他可以重新读报纸了，证明了新技术的可行性，所以全世界都关注。
 
@@ -280,7 +280,7 @@ date: 2021-02-09
 
 但从2020年的新闻看，斯里兰卡还在为中国失明患者提供角膜。这对于人口第一大国，对于工业第一大国来说，是应该尽早消灭的尴尬问题。
 
-<https://new.qq.com/omn/20200225/20200225A0A2MW00.html?pc>
+https://new.qq.com/omn/20200225/20200225A0A2MW00.html?pc
 
 目前以色列人工角膜在美国FDA已经进入了临床一期实验，而且这家公司也准备2021年在中国国家药品监督管理局提交申请，在中国招募60-70名患者测试新技术。希望这些病人能安全通过实验，尽早把新技术引进中国。
 

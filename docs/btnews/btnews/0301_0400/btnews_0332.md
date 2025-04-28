@@ -55,7 +55,7 @@ date: 2021-09-26
 
 [How Much Money Do Crabbers Make? \| Work - Chron.com](https://work.chron.com/much-money-crabbers-make-24015.html)
 
-<https://daydaynews.cc/international/221978.html>
+https://daydaynews.cc/international/221978.html
 
 ![](/images/btnews/btnews/0301_0400/0332/image4.webp)
 
@@ -87,7 +87,7 @@ date: 2021-09-26
 
 ![](/images/btnews/btnews/0301_0400/0332/image9.webp)
 
-<https://sa.sogou.com/sgsearch/sgs_tc_news.php?req=gNWjMh9kjpEtYgjReTdUXVc-NASRKkGoOHnYu_zWNoR7i56voFMPoQTblKCnPTzN>
+https://sa.sogou.com/sgsearch/sgs_tc_news.php?req=gNWjMh9kjpEtYgjReTdUXVc-NASRKkGoOHnYu_zWNoR7i56voFMPoQTblKCnPTzN
 
 但是，中越边境太长，合法贸易量实在太大，所以没查到的海鲜肯定更多。所以，越南进口的这些雪蟹，只能说明中国现在才是最大的雪蟹进口国。2020年，中国第一个疫情爆发地是武汉海鲜市场，所以海鲜进口总量下降了20%。2021年，中国在更高的位置上恢复海鲜进口，美国人想增加购买量更难了。
 
@@ -103,7 +103,7 @@ date: 2021-09-26
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1703275350197070938&wfr=spider&for=pc)
 
-<http://m.rzw.com.cn/article/51177>
+http://m.rzw.com.cn/article/51177
 
 但是雪蟹的养殖比三文鱼要难，性成熟需要6年，到第9年才能达到捕捞水平。阿拉斯加曾经召集全世界的水产养殖专家开会，研究人工养殖雪蟹，日本，加拿大，俄罗斯的专家都认为，养殖时间过长导致的风险成本过高，短期内无法实现大规模全过程人工养殖，只能进行蟹苗的恢复性养殖。所以，短期内美国人吃的雪蟹必然越来越少。好在中国人养殖的其他海水蟹产量不断增加，预计今年会第一次超过30万吨，美国人最好是换换口味，试试反过来吃中国人的养殖螃蟹。
 
@@ -117,11 +117,11 @@ date: 2021-09-26
 
 根据健康时报对患儿家长的采访，家长是知情并且同意用高价药的。同时，家长对收费单上网曝光，成为热搜新闻也表示不满，不希望自己的孩子被当作炒作工具。这条新闻之所以成为热搜，一种可能性是药企和代理销售公司向在媒体透露信息，激发读者的同情心，给医保局施压，要求医保基金把天价药列入采购目录。
 
-<https://www.163.com/dy/article/GJ3F5G9D0514AJO3.html>
+https://www.163.com/dy/article/GJ3F5G9D0514AJO3.html
 
 脊髓性肌萎缩症简称SMA，是一种治疗成本很高的罕见病。目前市面上可以选择的SMA特效药主要有三种。新闻中提到的渤健生物研发的诺西那生钠注射液，每针70万，第一年六针420万，之后每四个月打一针，每年210万。全流程治疗费用至少630万。
 
-<https://www.biogen.cn/content/dam/corporate/cn_CN/pdf/%E8%AF%BA%E8%A5%BF%E9%82%A3%E7%94%9F%E9%92%A0%E6%B3%A8%E5%B0%84%E6%B6%B2%E8%AF%B4%E6%98%8E%E4%B9%A6_2020%E5%B9%B411%E6%9C%88.pdf>
+https://www.biogen.cn/content/dam/corporate/cn_CN/pdf/%E8%AF%BA%E8%A5%BF%E9%82%A3%E7%94%9F%E9%92%A0%E6%B3%A8%E5%B0%84%E6%B6%B2%E8%AF%B4%E6%98%8E%E4%B9%A6_2020%E5%B9%B411%E6%9C%88.pdf
 
 [
 百度百科-验证](https://baike.baidu.com/item/%E8%AF%BA%E8%A5%BF%E9%82%A3%E7%94%9F%E9%92%A0%E6%B3%A8%E5%B0%84%E6%B6%B2/53136613)
@@ -134,7 +134,7 @@ date: 2021-09-26
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1666547258742607818&wfr=spider&for=pc)
 
-<https://med.sina.com/article_detail_103_1_44351.html>
+https://med.sina.com/article_detail_103_1_44351.html
 
 [公司新闻_文献解读 \| 一项关于10585对中国夫妇进行基于NGS的SMA携带者筛查的研究](http://www.joingenome.com/newsCenter_company_news/154.html)
 
@@ -146,7 +146,7 @@ date: 2021-09-26
 这么贵的治疗方案，就算是西方发达国家，也不一定允许它进医保。2018年6月，澳大利亚把渤健生物的诺西那生钠注射液纳入药品福利计划。去年5月，日本把诺华公司的特效药列入公共医保范围，定价1.67亿日元，相当于
 1100万人民币。今年，英国药物成本与疗效管理部门批准了诺华的特效药进入医保，但是拒绝了罗氏特效药进入医保，理由是成本过高。
 
-<https://www.163.com/dy/article/GJ71T20P0552ES0E.html>
+https://www.163.com/dy/article/GJ71T20P0552ES0E.html
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1701612106549674856&wfr=spider&for=pc)
 
@@ -162,7 +162,7 @@ date: 2021-09-26
 
 2006年台湾省开始推广SMA普筛，现在已经进入孕前全面普筛阶段。2018年，美国联邦咨询委员会建议对所有新生儿进行SMA筛查，现在福建和北京也开始试点推广SMA筛查。
 
-<https://www.163.com/dy/article/GHO81UAK0552ES0E.html>
+https://www.163.com/dy/article/GHO81UAK0552ES0E.html
 
 [ç¾åº¦å®å¨éªè¯](https://baijiahao.baidu.com/s?id=1710660359904299472&wfr=spider&for=pc)
 

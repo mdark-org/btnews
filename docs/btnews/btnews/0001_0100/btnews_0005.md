@@ -104,7 +104,7 @@ tag: ["马伯庸","蔡英文","长安十二时辰"]
 
 ![](/images/btnews/btnews/0001_0100/0005/image9.webp)
 
-<https://user.guancha.cn/main/content?id=20136&s=fwzlwzbt&from=groupmessage>
+https://user.guancha.cn/main/content?id=20136&s=fwzlwzbt&from=groupmessage
 
 ![](/images/btnews/btnews/0001_0100/0005/image10.webp)
 

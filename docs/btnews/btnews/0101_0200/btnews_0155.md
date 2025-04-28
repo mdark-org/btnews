@@ -118,7 +118,7 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 第一次看到这个数字的时候，我也不敢相信，所以我去查了一下这个“韩国社会灾难特别调查委员会”。它是一个受韩国政府支持的独立调查委员会。官方网站上有本次调查的结果文件。
 
-<http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830>
+http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830
 
 文件说了1.4万人死亡数字的来源，并不是一个个数出来的，而是根据大样本抽样调查的推算结果。抽样调查的数据来自韩国两个地区，北方的汉城，京畿道，忠清地区和江原道的3000户家庭，以及南方“湖南地区”的2000户家庭，一共15472人。
 
@@ -130,7 +130,7 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 ![](/images/btnews/btnews/0101_0200/0155/image13.webp)
 
-<http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830>
+http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830
 
 根据这个抽样结果，调查委员会认定，使用加湿器杀菌剂的家庭比例为所有家庭的16.6%。在使用加湿器杀菌剂的人中，患病去就医比例是8.8%。而一旦因为杀菌剂肺炎去了医院，就有2.6%的死亡率。
 
@@ -142,7 +142,7 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 ![](/images/btnews/btnews/0101_0200/0155/image15.webp)
 
-<http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830>
+http://socialdisasterscommission.go.kr/news/report/Read.jsp?ntt_id=3830
 
 我对这个数字也比较存疑，把韩国自己的调查比例套上去，计算出来的也不是1.4万，而是2800人。韩国官方之前有过一个调查，认为直接死亡数字是1553人，都明显低于1.4万。所以，我认为，真实数字也许比1553要多，但不会多到1.4万那么多。
 
@@ -161,7 +161,7 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 [Polyhexamethylene guanidine - Wikipedia](https://en.wikipedia.org/wiki/Polyhexamethylene_guanidine)
 
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4610354/>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4610354/
 
 韩国禹贡（yugong）化学公司是SK化学的前身，它在1994年发明了加湿器添加剂，命名为“加湿器伴侣”。从这个名字看，绝对不是为了给加湿器本身消毒的产品。类
 
@@ -175,7 +175,7 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 直译说明书的这段话，中文意思是：“为了家族健康，请在加湿器的水里直接加入混合。”
 
-<https://namu.wiki/w/%EA%B0%80%EC%8A%B5%EA%B8%B0%20%EC%82%B4%EA%B7%A0%EC%A0%9C%20%EC%82%AC%EB%A7%9D%EC%82%AC%EA%B1%B4#s-5.4>
+https://namu.wiki/w/%EA%B0%80%EC%8A%B5%EA%B8%B0%20%EC%82%B4%EA%B7%A0%EC%A0%9C%20%EC%82%AC%EB%A7%9D%EC%82%AC%EA%B1%B4#s-5.4
 
 ![](/images/btnews/btnews/0101_0200/0155/image19.webp)
 
@@ -194,7 +194,7 @@ Mahindra）来制造4G设备，同时禁止印度国营电信买中国设备。
 
 死亡事件发生之后，利洁时集团花了两亿韩元贿赂国立汉城大学的赵重庚教授，湖西大学食品与营养系的柳一宰教授，让他们进行所谓的“研究”，做出了一个加湿器消毒剂对人体没有明显害处的结论。韩国检方在调查中发现了这个利益输送，赵重庚教授和柳一宰教授在2016年就被捕入狱，判刑两年。
 
-<https://namu.wiki/w/%EA%B0%80%EC%8A%B5%EA%B8%B0%20%EC%82%B4%EA%B7%A0%EC%A0%9C%20%EC%82%AC%EB%A7%9D%EC%82%AC%EA%B1%B4#s-5.4>
+https://namu.wiki/w/%EA%B0%80%EC%8A%B5%EA%B8%B0%20%EC%82%B4%EA%B7%A0%EC%A0%9C%20%EC%82%AC%EB%A7%9D%EC%82%AC%EA%B1%B4#s-5.4
 
 现在文在寅重启调查，并不仅仅是为了给反对党施加压力，手里是有真凭实据的。
 

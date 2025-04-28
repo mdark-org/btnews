@@ -43,7 +43,7 @@ Analytica）。剑桥分析早期的实际控制人，就是特朗普大选的�
 
 ![](/images/btnews/btnews/0101_0200/0116/image5.webp)
 
-<https://www.ftc.gov/news-events/press-releases/2011/11/facebook-settles-ftc-charges-it-deceived-consumers-failing-keep>
+https://www.ftc.gov/news-events/press-releases/2011/11/facebook-settles-ftc-charges-it-deceived-consumers-failing-keep
 
 当然，现在这个罚款对Facebook来说也绝对不少。2019年Facebook营业收入707亿美元，其中净利润185亿。罚款50亿美元算是大放血。应该说这就是美国联邦贸易委员会的意图，既不能让大到不能倒的Facebook破产，也必须给它一个记忆深刻的教训。
 
@@ -65,7 +65,7 @@ Analytica）。剑桥分析早期的实际控制人，就是特朗普大选的�
 
 [首页 - 《财经》客户端](https://news.caijingmobile.com/article/detail/368419)
 
-<http://www.jingujie.com/news/103462.html>
+http://www.jingujie.com/news/103462.html
 
 之前消费者协会评测全国100款app，有91款过度使用手机个人信息，将近一半隐私条款不达标。如果消费者协会能学习美国联邦贸易委员会，不仅仅是做个评测，而是通过司法程序索赔，让中国的互联网企业赔到肉疼，相信中国的互联网企业也能打起精神保护个人信息。我们说下一个话题。
 

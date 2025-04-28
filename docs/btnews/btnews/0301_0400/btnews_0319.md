@@ -31,7 +31,7 @@ date: 2021-08-27
 
 8月19日，腾讯所谓“捐款500亿”的新闻忽然翻上了热搜。评论往往说这反映了大企业的“求生欲”
 
-<https://www.163.com/dy/article/GHSIF0HF05372YR7.html>
+https://www.163.com/dy/article/GHSIF0HF05372YR7.html
 
 很多网民认为，这意味着即将开始“均贫富”运动，第一步应该“逼”大型企业捐款，换取经营合法性。督工你怎么评价这个观点？
 
@@ -57,7 +57,7 @@ date: 2021-08-27
 
 但是，昨天8月26日，中央财办分管日常工作的副主任参加新闻发布会，再次解释会议精神，说共同富裕要靠共同奋斗，不搞“杀富济贫”，要坚持在发展中保障和改善民生。第三次分配要基于自愿基础，不强制，起到改善分配结构的补充作用。
 
-<https://www.163.com/dy/article/GIB40B8P05129QAF.html>
+https://www.163.com/dy/article/GIB40B8P05129QAF.html
 
 所以，要理解这次调整政策的意图，我们还是要综合看以往的文件和实践。
 
@@ -170,7 +170,7 @@ http://www.gov.cn/zhengce/2020-11/03/content_5556991.htm
 
 ![](/images/btnews/btnews/0301_0400/0319/image16.webp)
 
-<http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/42311/44157/xgzc44163/Document/1691428/1691428.htm>
+http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/42311/44157/xgzc44163/Document/1691428/1691428.htm
 
 最后我们可以看一下韩国的例子。韩国右翼财阀的代表，三星家族继承人李在镕本周出狱假释，这既是文在寅左翼势力对现实的让步，也说明三星财阀和左翼势力做出了一定妥协
 

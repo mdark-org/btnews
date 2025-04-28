@@ -25,7 +25,7 @@ date: 2020-08-07
 
 这个筒仓建于1970年，现在每年要处理黎巴嫩60%的进口粮食。所以很多人担心爆炸之后，黎巴嫩进口粮食出问题。
 
-<http://www.dev.kataeb.org/local/2016/08/12/improvements-underway-at-beirut-port-silos>
+http://www.dev.kataeb.org/local/2016/08/12/improvements-underway-at-beirut-port-silos
 
 从无人机照片来看，筒仓也受到很大受破坏，迎着爆炸地点的一侧，第一排筒仓基本被炸碎，第二排筒仓也倒了一半，只有第三排基本完整。
 

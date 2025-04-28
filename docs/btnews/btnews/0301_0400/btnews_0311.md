@@ -35,7 +35,7 @@ date: 2021-08-08
 
 ![](/images/btnews/btnews/0301_0400/0311/image3.webp)
 
-<https://nordot.app/777494499896459264>
+https://nordot.app/777494499896459264
 
 **菅义伟内阁提出，2030年前，把加氢站增加到1000个。未来 10 年里要拨款
 3700 亿日元支持氢能源发展。**
@@ -64,7 +64,7 @@ date: 2021-08-08
 
 ![](/images/btnews/btnews/0301_0400/0311/image10.webp)
 
-<https://www.keguanjp.com/kgjp_gongtong/pt20210616100024.html>
+https://www.keguanjp.com/kgjp_gongtong/pt20210616100024.html
 
 今年3月，日本就又建成了全球最大的氢气生产设施，进一步加强了在产业上游的优势。
 
@@ -78,7 +78,7 @@ date: 2021-08-08
 
 在日本看来，氢燃料电池成为新能源的第一选择，差的不是技术，而是宣传和认同，所以在奥运会上拼命推广。
 
-![](/images/btnews/btnews/0301_0400/0311/image13.webp)<https://china.kyodonews.net/news/2021/06/41e7ad398f8e-co2.html>
+![](/images/btnews/btnews/0301_0400/0311/image13.webp)https://china.kyodonews.net/news/2021/06/41e7ad398f8e-co2.html
 
 **日本已经很久没有领先世界的独创技术了，为什么忽然在氢能源方面占据了这么大优势？**
 
@@ -98,7 +98,7 @@ date: 2021-08-08
 
 ![](/images/btnews/btnews/0301_0400/0311/image16.webp)
 
-<http://www.qibebt.cas.cn/xwzx/kydt/201809/t20180925_5097391.html>
+http://www.qibebt.cas.cn/xwzx/kydt/201809/t20180925_5097391.html
 
 20世纪九十年代，国际油价处在历史性低谷。1998年底，一桶还不到10美元。如果没有政府强力推动，企业根本没有开发新能源的意愿，全世界能源行业都减少了新能源开发的研发投入。只有日本因为本土缺资源，而且在上一次石油危机受过沉重打击，所以依然关注新能源技术。在政府协调之下，日本对氢储能技术进行反周期投资，在绕不开的技术路线上拿到了大批关键专利。
 
@@ -125,7 +125,7 @@ date: 2021-08-08
 
 ![](/images/btnews/btnews/0301_0400/0311/image21.webp)
 
-<https://c.m.163.com/news/a/GEB1QU5D0539QLJZ.html?spss=newsapp>
+https://c.m.163.com/news/a/GEB1QU5D0539QLJZ.html?spss=newsapp
 
 虽然日产、本田都声称，只是暂时停止开发，仍然看好氢能源的长远前景，但如果日本企业自己都不坚持氢能源了，其他国家更不可能来分担进一步开发商业化产品的成本。现在，日本大企业只有丰田一家还在坚持自己的氢能源信仰，其他企业都有所动摇。日本似乎正在逐渐丢掉过去20年积累的新能源技术优势。
 

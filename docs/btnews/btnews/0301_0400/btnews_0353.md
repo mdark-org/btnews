@@ -156,7 +156,7 @@ ARM架构芯片在技术上也有优点，体积小、功耗低，适合国内�
 
 > [《国内外集成电路装备现状分析》 2019 | 百度学术](https://xueshu.baidu.com/usercenter/paper/show?paperid=15330m1075440ce09k3w0rx08g511277)
 
-<https://user.observersnews.com/main/content?id=629631&s=fwzxhfbt>
+https://user.observersnews.com/main/content?id=629631&s=fwzxhfbt
 
 为了得到纯净的光源，还需要用11个特殊反射镜聚焦光线。只要有一个镜面出问题，误差就会在后面的反射过程中连续放大。按比例算一下，如果做一面从上海延伸到南京的镜子，我们日常见到的普通镜面，会有很多5米高的凸起，太空望远镜级别的镜面，有2厘米高的凸起，而EUV光刻机镜子的高度偏差还是不到1毫米。
 

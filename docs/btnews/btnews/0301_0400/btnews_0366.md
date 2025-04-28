@@ -36,13 +36,13 @@ date: 2021-12-14
 
 孙海洋对此也很无奈，一方面说买孩子的人应该交给法律处理，另一方面也表示尽量不要伤害孩子，14年过去了，所有怨恨都放下了。
 
-<https://www.163.com/dy/article/GQMLGBLB0552DNJF.html>
+https://www.163.com/dy/article/GQMLGBLB0552DNJF.html
 
 督工你怎么看待孙海洋对购买儿童家庭的谅解态度？
 
 孙海洋说“怨恨已经放下”，多半是无奈的选择，因为就在孙家找到孩子的同时，另一个相关家庭做出了相反的选择。
 
-<https://www.163.com/news/article/GR17IDJJ00019B3E.html>
+https://www.163.com/news/article/GR17IDJJ00019B3E.html
 
 [
 热点快追｜符建涛助警方认出拐卖孙卓的人贩子-新华网
@@ -60,7 +60,7 @@ date: 2021-12-14
 
 而孙海洋的一个朋友，一起寻找被拐卖孩子，一起拍电影的朋友杜小华，也刚刚公开对人贩子和买家喊话：“不要以后和我们说你们养育有多辛苦，你们的幸福是建立在我们的痛苦之上。”
 
-<http://www.sinovision.net/society/202112/00508259.htm>
+http://www.sinovision.net/society/202112/00508259.htm
 
 从这两个身边的案例看，我相信孙海洋绝对不想谅解买走自己儿子的家庭，“没有买卖就没有伤害”，这句话用在他身上最合适不过。
 
@@ -123,7 +123,7 @@ https://www.163.com/dy/article/GQO749NU0552G221.html
 
 网民同时发现，这些执法队员并不是政府公务员也不是雇员，而是企业员工，属于“静海市容”外包公司。这家公司雇佣了169个人，过去几年在海门市中标了多个政府采购项目，都是替村镇或者开发区维护市容，年营业额2300万，督工你怎么看待这种执法模式？
 
-<https://www.163.com/dy/article/GQT0JMDG0512B07B.html>
+https://www.163.com/dy/article/GQT0JMDG0512B07B.html
 
 我们先看南通市海门区政府处理当事人的文件。
 
@@ -133,7 +133,7 @@ https://www.163.com/dy/article/GQO749NU0552G221.html
 
 综合执法局这个机构，是最近十几年出现的，所有法律依据都来自住建部的文件《城市管理执法办法》，最新一版文件来自2017年。
 
-<https://www.shaoyang.gov.cn/sycgj/gfxwj/201705/266c51f1833b4cb29f6ebc0cb7691587.shtml>
+https://www.shaoyang.gov.cn/sycgj/gfxwj/201705/266c51f1833b4cb29f6ebc0cb7691587.shtml
 
 这个文件很长，但是我在整个文件里搜索“镇”字，只出现了一次。就是总则的第二条：
 

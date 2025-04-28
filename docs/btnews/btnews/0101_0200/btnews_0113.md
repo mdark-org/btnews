@@ -59,7 +59,7 @@ date: 2020-05-10
 
 ![](/images/btnews/btnews/0101_0200/0113/image6.webp)
 
-<http://city.ce.cn/cjzx/202004/28/t20200428_7247663.shtml>
+http://city.ce.cn/cjzx/202004/28/t20200428_7247663.shtml
 
 新闻里说的0.5厘米，是地图的测绘精度，和不是定位精度。0.5厘米级的定位，必须靠地面设备。
 
@@ -71,7 +71,7 @@ date: 2020-05-10
 
 ![](/images/btnews/btnews/0101_0200/0113/image8.webp)
 
-<https://www.navcen.uscg.gov/?pageName=dgpsMain>
+https://www.navcen.uscg.gov/?pageName=dgpsMain
 
 [Federal Register :: Request Access](https://www.federalregister.gov/documents/2018/03/21/2018-05684/discontinuance-of-the-nationwide-differential-global-positioning-system-ndgps)
 

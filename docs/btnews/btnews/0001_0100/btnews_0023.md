@@ -19,7 +19,7 @@ date: 2019-09-27
 
 ![](/images/btnews/btnews/0001_0100/0023/image2.webp)
 
-<https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569396079704&di=1f1c1fadf499e598469e0953b1548038&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fd1a20cf431adcbef5ce0026dacaf2edda2cc9f80.jpg>
+https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569396079704&di=1f1c1fadf499e598469e0953b1548038&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fd1a20cf431adcbef5ce0026dacaf2edda2cc9f80.jpg
 
 ![](/images/btnews/btnews/0001_0100/0023/image3.webp)
 

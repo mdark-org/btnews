@@ -133,6 +133,6 @@ date: 2021-11-21
 最后再提醒大家，已投稿内容，发在拼音网址[kehuan.dianzhong.com/](http://kehuan.dianzhong.com/)
 投稿邮箱名是“点众科幻”的拼音，服务器在163，投稿请注明“科幻征文”。期待各位观众继续参加征文活动，
 
-<dianzhongkehuan@163.com> （字幕）
+dianzhongkehuan@163.com（字幕）
 
 好，感谢大家收看，356期睡前消息到此结束，我们周二再见！

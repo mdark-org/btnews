@@ -31,7 +31,7 @@ date: 2021-06-25
 
 2004 年美国海军在圣地亚哥海岸附近发现不明空中现象
 
-<https://www.nbcnews.com/87c308d0-1d81-405d-ba2a-6fbd3f67478e>
+https://www.nbcnews.com/87c308d0-1d81-405d-ba2a-6fbd3f67478e
 
 2019 年美国海军在圣地亚哥海岸附近发现不明飞行物体/空中现象
 
@@ -198,7 +198,7 @@ aerial phenomena）。**
 
 ![](/images/btnews/btnews/0201_0300/0292/image36.webp)
 
-<https://www.163.com/dy/article/G48R31G8051480KF.html>
+https://www.163.com/dy/article/G48R31G8051480KF.html
 
 我读书的时候，教科书说近代中国有一个重要的缺陷：“有海无防”。这是20世纪中期对炮舰时代的总结。最近几十年，越来越多的作战平台转向空中，中国最怕被人继续说“有空无防”。连美国都要重新整理不明飞行物数据了，中国用AI技术去分析不明飞行物，是一个非常合理的趋势。
 
@@ -233,9 +233,9 @@ aerial phenomena）。**
 
 [´ó²ùº£¹Ø¼©Ë½ÐÛÓ¥:60¶È¸ßÎÂÓÍ²ÕÈ¡¼ì 7¼¶·çÀËÌø°ï½Ø´¬\_ÐÂÀËÐÂÎÅ](http://news.sina.com.cn/c/2014-10-21/052031020611.shtml)
 
-<https://www.chinacourt.org/article/detail/2021/01/id/5718083.shtml>
+https://www.chinacourt.org/article/detail/2021/01/id/5718083.shtml
 
-<https://news.xmnn.cn/xmnn/2021/03/17/100864848.shtml>
+https://news.xmnn.cn/xmnn/2021/03/17/100864848.shtml
 
 [æè°¢æ¨çæµè§\_å±äº§ååç½](http://news.12371.cn/2012/11/28/ARTI1354082272424988.shtml)
 
@@ -338,7 +338,7 @@ aerial phenomena）。**
 
 ![](/images/btnews/btnews/0201_0300/0292/image50.webp)
 
-<https://www.163.com/dy/article/G4BJS8S50541SCZC.html>
+https://www.163.com/dy/article/G4BJS8S50541SCZC.html
 
 另外，除了考虑工业物流之外，构皮滩大坝的青山绿水和上下垂直航道也是难得一见的景色，如果正对着大坝建一个度假村，我还真考虑每年夏天去好好住几天，看看货船从山上开下来的奇迹。如果能安排货船从贵阳一直开到武汉，那我就更想去了。这才是贵州真正应该开发旅游的地方。
 

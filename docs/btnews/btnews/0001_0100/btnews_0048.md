@@ -73,7 +73,7 @@ date: 2019-11-29
 
 其实中国也有类似的现象。攀枝花和丽江的直线距离只有100多公里，人口也都是100万出头，丽江靠旅游，攀枝花靠工业。这些年丽江的名气比攀枝花大好几倍，但是攀枝花的gdp是1000多亿，丽江只有350亿。每年丽江要消耗国家90亿的财政补助，才能勉强实现财政平衡。绝大多数地方靠旅游业是富不起来的。
 
-<https://www.libaiwu.com/31551.htm>
+https://www.libaiwu.com/31551.htm
 
 ![](/images/btnews/btnews/0001_0100/0048/image10.webp)
 
@@ -125,7 +125,7 @@ date: 2019-11-29
 
 排名第一的北京大学，也就是陆步轩的母校，累计得到校友捐赠31亿元。但是从相关媒体报道看，掏钱的大户包括百度创始人李彦宏、中公教育李永新和新东方俞敏洪，从来没有陆步轩的名字，也没有来自猪肉产业的捐款。
 
-<http://www.cuaa.net/paihang/news/news.jsp?information_id=135471>
+http://www.cuaa.net/paihang/news/news.jsp?information_id=135471
 
 ![](/images/btnews/btnews/0001_0100/0048/image16.webp)
 

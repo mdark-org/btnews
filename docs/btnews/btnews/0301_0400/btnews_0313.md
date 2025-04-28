@@ -7,7 +7,7 @@ date: 2021-08-13
 
 7月，日本科学家在国际知名期刊《科学》上发布研究成果，宣布成功在小鼠体外培育卵泡，并且产生可以成功受精的卵子，培育出有活力的后代。督工，这次试验的成功对于人类有什么意义呢？
 
-<https://science.sciencemag.org/content/373/6552/eabe0237>
+https://science.sciencemag.org/content/373/6552/eabe0237
 
 短期内的影响，可能是制造人工卵子，帮助女性。从长期来看，这意味着不需要雌性哺乳动物，人类也能制造受精卵，实现只有雄性的正常生育。
 
@@ -47,7 +47,7 @@ date: 2021-08-13
 
 ![](/images/btnews/btnews/0301_0400/0313/image7.webp)
 
-<https://embryology.med.unsw.edu.au/embryology/index.php/Category:Mouse_E12.5>
+https://embryology.med.unsw.edu.au/embryology/index.php/Category:Mouse_E12.5
 
 之前林克彦团队，曾经直接利用基因工程从男性皮肤细胞产生了卵子，而用女性细胞产生了精子。
 
@@ -75,7 +75,7 @@ date: 2021-08-13
 
 昨天，长沙一位房地产从业人员晒出了“最快法拍房”交易记录。
 
-<https://new.qq.com/omn/20210812/20210812A09VIH00.html>
+https://new.qq.com/omn/20210812/20210812A09VIH00.html
 
 一套房子62.5万起拍，瞬间有人出价135.5万，心理上打垮了所有竞价者，快速成交。
 
@@ -83,7 +83,7 @@ date: 2021-08-13
 
 上周8月6日，深圳南山区一套法拍二手房，经过88轮竞争，8137万成交价。而同一小区类似的二手房，挂牌价只有4000多万。
 
-<https://new.qq.com/rain/a/20210806A0EFIS00>
+https://new.qq.com/rain/a/20210806A0EFIS00
 
 ![](/images/btnews/btnews/0301_0400/0313/image10.webp)
 
@@ -107,7 +107,7 @@ date: 2021-08-13
 
 贝壳研究院发布的2020年年报显示，去年北京市法拍住宅成交均价是每平米4.52万元，同时，普通二手房均价是5.81万。哪怕考虑到一些额外的成本和风险，还是有很多人愿意来买。
 
-<http://news.eastday.com/eastday/13news/auto/news/china/20210104/u7ai9677560.html>
+http://news.eastday.com/eastday/13news/auto/news/china/20210104/u7ai9677560.html
 
 法拍房的打折优势一直都有，最近几年没有明显变化。但是最近几年法拍房越来越受欢迎，数据显示，2017年，全国31.4万人参与购买法拍房，
 2020年达到54.8万。[æé½æ³ææ¿ä¹éè´­äºï¼4å¹´æ´å¢143åï¼è¿æ¯ä¸ªä»ä¹ç¥ä»å¸åºï¼-è¯å¸æ¥æ¥ç½](http://www.zqrb.cn/house/hangyedongtai/2021-03-28/A1616940544716.html)
@@ -155,13 +155,13 @@ dir="rtl">“</span>卖旧买新”的置换人群。
 
 去年12月，福建泉州市民在人民网领导留言板上向市委书记投诉，说当地一套法拍房成交价达3.35万/平米，每平米远高于市场价一万多，怀疑有人恶意哄抬房价，希望官方能介入调查。
 
-<http://liuyan.people.com.cn/threads/content?tid=8780750>
+http://liuyan.people.com.cn/threads/content?tid=8780750
 
 ![](/images/btnews/btnews/0301_0400/0313/image17.webp)
 
 今年5月，又有泉州市民抱怨，自媒体大肆宣传个别法拍房价格高于市场价，营造房价疯涨氛围，认为法拍房是泉州房价上涨的原因之一。
 
-<http://liuyan.people.com.cn/threads/content?tid=10188627>
+http://liuyan.people.com.cn/threads/content?tid=10188627
 
 从逻辑上说，这些市民说的没错，优质法拍房的每一次成交价格，都在嘲笑限购限价政策制造的政府指导价。政府要是对法拍房搞限价，就要担负直接压低国有资产售价责任，所以只能把限购政策扩大到法拍房。
 
@@ -189,7 +189,7 @@ dir="rtl">“</span>卖旧买新”的置换人群。
 
 最近，我们连续关注了国家打击课外补习产业的问题。很多已经上市的企业股价暴跌，几乎所有企业都放弃了新招聘计划，老员工也处于闲置状态。8月3日，北京昌平区宣布，关注到这一产业的劳动风险问题。指导培训机构与职工协商，以在岗培训、弹性工时、协商薪酬等措施避免裁员。
 
-<http://www.bjchp.gov.cn/cpqzf/315734/bmdt/cp5425405/index.html>
+http://www.bjchp.gov.cn/cpqzf/315734/bmdt/cp5425405/index.html
 
 ![](/images/btnews/btnews/0301_0400/0313/image20.webp)
 

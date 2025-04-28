@@ -61,7 +61,7 @@ AP1000主系统
 
 ![](/images/btnews/btnews/0001_0100/0094/image9.webp)
 
-<https://www.clpgroup.com/NuclearEnergy/Sch/risk/risk5_2_1.aspx>
+https://www.clpgroup.com/NuclearEnergy/Sch/risk/risk5_2_1.aspx
 
 类似的低等级级事故是不是很多？
 
@@ -93,7 +93,7 @@ AP1000主系统
 
 （2018年报296页）
 
-<https://www.asn.fr/Informer/Publications/Rapports-de-l-ASN/La-surete-nucleaire-et-la-radioprotection-en-France-en-2018>
+https://www.asn.fr/Informer/Publications/Rapports-de-l-ASN/La-surete-nucleaire-et-la-radioprotection-en-France-en-2018
 
 [法国核能 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD%E6%A0%B8%E8%83%BD)
 

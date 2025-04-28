@@ -236,7 +236,7 @@ date: 2020-04-07
 
 最近几天，连续有前国家元首感染新型肺炎去世的消息。4月1日，索马里前总理在英国医院去世。4月5号，利比亚总理在开罗的一家医院病死，死因也是新型肺炎。
 
-<http://www.sinovision.net/politics/202004/00479256.htm>
+http://www.sinovision.net/politics/202004/00479256.htm
 
 [利比亚前总理马哈茂德感染新冠肺炎去世](https://www.guancha.cn/internation/2020_04_06_545624.shtml)
 

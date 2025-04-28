@@ -201,7 +201,7 @@ of slavery as well as its legacies of racial inequality.
 
 接下来我和大家分享几条简讯。昨天，6月29日，金沙江上的乌东德水电站首批机组发电。
 
-<http://www.xinhuanet.com/photo/2020-06/29/c_1126173360.htm>
+http://www.xinhuanet.com/photo/2020-06/29/c_1126173360.htm
 
 ![](/images/btnews/btnews/0101_0200/0135/image38.webp)
 
@@ -221,7 +221,7 @@ of slavery as well as its legacies of racial inequality.
 
 在高科技产品方面，中国最近也有突破。6月28日，中国自己研制的高能离子注入机成功实现百万电子伏特高能离子加速。
 
-<http://www.xinhuanet.com/tech/2020-06/28/c_1126168843.htm>
+http://www.xinhuanet.com/tech/2020-06/28/c_1126168843.htm
 
 ![](/images/btnews/btnews/0101_0200/0135/image43.webp)
 

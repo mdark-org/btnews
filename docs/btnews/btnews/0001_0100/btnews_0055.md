@@ -23,7 +23,7 @@ date: 2019-12-20
 
 ![](/images/btnews/btnews/0001_0100/0055/image3.webp)
 
-<http://dy.163.com/v2/article/detail/DRH6QMV00528BA7O.html>
+http://dy.163.com/v2/article/detail/DRH6QMV00528BA7O.html
 
 ![](/images/btnews/btnews/0001_0100/0055/image4.webp)
 

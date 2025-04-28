@@ -115,7 +115,7 @@ date: 2020-06-12
 
 [](https://mp.weixin.qq.com/s/IcjzLP9LxtcW7KG59yZAPA)
 
-<https://www.huxiu.com/article/359310.html?f=chouti>
+https://www.huxiu.com/article/359310.html?f=chouti
 
 长江流域抗生素偏高是没错的，报道里采访了不少南京水科院以及河海大学的学者，让他们讲长江水体的抗生素污染。
 
@@ -139,15 +139,15 @@ date: 2020-06-12
 
 复旦大学的研究团队已经有结论了。他们发现孕妇尿液的抗生素浓度，跟孕妇的饮食结构有关。导致尿检出抗生素的饮食，包括水产、肉类、牛奶和鸡蛋。超过10%的肉类、水产和牛奶都检测出大量抗生素残留。
 
-<https://www.sciencedirect.com/science/article/abs/pii/S0956713517302219>
+https://www.sciencedirect.com/science/article/abs/pii/S0956713517302219
 
 其中覆盖范围最广，对大城市影响最大的抗生素来源是牛奶。复旦的论文结论已经明确说了，牛奶可能是最主要的抗生素摄入来源，第二是鸡蛋。喝牛奶多的孕妇，摄入兽用抗生素的风险就高。
 
-<https://pubs.acs.org/doi/abs/10.1021/acs.est.5b05749>
+https://pubs.acs.org/doi/abs/10.1021/acs.est.5b05749
 
 除了孕妇，儿童喝奶多，尿检中兽用抗生素的含量也明显更高。复旦大学在2018年的论文中做过分析，把儿童分成两组，每周喝牛奶超过11次的一组，每周不到7次的一组，前面那组的儿童的抗生素检出率高50%。
 
-<https://www.sciencedirect.com/science/article/pii/S0160412018312790>
+https://www.sciencedirect.com/science/article/pii/S0160412018312790
 
 肉类抗生素超标问题也很严重。每周吃肉超过8次的儿童，和对照组相比，兽用抗生素检出率要高55%。吃蔬菜素食多的，抗生素检出率明显要低。
 
@@ -157,7 +157,7 @@ date: 2020-06-12
 
 复旦大学2016年的论文有数据，对孕妇检测发现，抗生素穿过了胎盘屏障，通过血液进入了胎儿体内。持续摄入低剂量抗生素，会破坏孕妇和婴儿的肠道菌群平衡，导致以后出现儿童免疫系统疾病，比如肠道炎症、哮喘与肥胖症。这是各必须解决的问题。
 
-<https://www.sciencedirect.com/science/article/pii/S0160412018312790>
+https://www.sciencedirect.com/science/article/pii/S0160412018312790
 
 牛奶普遍含有抗生素，这是不是中国特有的情况？
 
@@ -167,7 +167,7 @@ date: 2020-06-12
 
 [](https://www.fda.gov/media/91217/download)
 
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6760505/>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6760505/
 
 中国自己的产品也证明，在抗生素残留问题上，几乎所有国内牛奶都靠不住。2008年三聚氰胺事件后，国产奶粉企业纷纷投资收购海外牧场，使用外国牛奶制作奶粉，再加上产自奶企自建现代化牧场的奶源，目前国产奶粉的抗生素残留量都比较低。但是液体牛奶没法大规模使用外国原料，从国内散户收购原料也比较多，绝大多数都有抗生素残留。
 
