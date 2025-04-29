@@ -5,6 +5,7 @@ listen:
         post:
           mid: 59104725
           keywords: 高见
+          script: '.autodoc/scripts/bilibili/opinion.mjs'
           filepath: docs/btnews/opinion/{{title}}.md
 match:
   - id: 高见
@@ -15,6 +16,7 @@ match:
           title: "高见"
         template:
           filepath: docs/btnews/opinion/{{title}}.md
+          script: '.autodoc/scripts/bilibili/opinion.mjs'
           prompt:
             user: |
               这是一档时政类节目，里面包含一些固定搭配，或者习惯性用语，请参考。
