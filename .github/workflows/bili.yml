@@ -117,7 +117,7 @@ env:
 jobs:
 
   split-input:
-    runs-on: ${{ env.runs-on }}
+    runs-on: 'ubuntu-latest'
     outputs:
       videos: ${{ steps.set-result.outputs.result }}
     steps:
@@ -136,7 +136,7 @@ jobs:
       fail-fast: false
       matrix:
         bvid: ${{ fromJSON(needs.split-input.outputs.videos) }}
-    runs-on: ${{ env.runs-on }}
+    runs-on: ubuntu-latest
     steps:
       - name: get video
         id: bili
