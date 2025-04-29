@@ -34,13 +34,16 @@ on:
         options:
           - "gemini-2.5-pro-exp-03-25"
           - "gemini-2.5-flash-preview-04-17"
-      prompt-template:
-        description: "prompt-template"
-        required: false
       branch:
         description: "branch"
         required: false
-
+      runs-on:
+        description: "runs-on"
+        type: choice
+        required: false
+        options:
+          - "ubuntu-latest"
+          - "self-hosted"
 env:
   mid: ${{ inputs.mid }}
   keywords: ${{ inputs.keywords }}
@@ -51,9 +54,10 @@ env:
   branch: ${{ inputs.branch || format('batch/{0}/{1}', inputs.mid, inputs.keywords) }}
   maxOutputTokens: ${{ inputs.maxOutputTokens || '65536' }}
   commit-type: 'commit'
+  runs-on: ${{ inputs.runs-on || 'ubuntu-latest' }}
 jobs:
   batch-get-video:
-    runs-on: ubuntu-latest
+    runs-on: ${{ env.runs-on }}
     outputs:
       videos: ${{ steps.set-result.outputs.result }}
     steps:
@@ -101,7 +105,7 @@ jobs:
           branch: ${{ env.branch }}
   get-video-chunk-1:
     needs: [batch-get-video]
-    runs-on: ubuntu-latest
+    runs-on: ${{ env.runs-on }}
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
@@ -125,7 +129,7 @@ jobs:
           system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-2:
     needs: [batch-get-video, get-video-chunk-1]
-    runs-on: ubuntu-latest
+    runs-on: ${{ env.runs-on }}
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
@@ -149,7 +153,7 @@ jobs:
           system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-3:
     needs: [batch-get-video,get-video-chunk-2]
-    runs-on: ubuntu-latest
+    runs-on: ${{ env.runs-on }}
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
@@ -173,7 +177,7 @@ jobs:
           system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-4:
     needs: [batch-get-video, get-video-chunk-3]
-    runs-on: ubuntu-latest
+    runs-on: ${{ env.runs-on }}
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}

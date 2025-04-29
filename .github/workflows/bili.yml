@@ -42,7 +42,10 @@ on:
         description: "commit branch"
         required: false
         type: string
-
+      runs-on:
+        description: "runs-on"
+        required: false
+        type: string
       commit-type:
         description: "commit type, pr | commit"
         required: false
@@ -71,10 +74,6 @@ on:
         required: false
         default: 'pr'
         type: string
-      commit-message-template:
-        description: "commit-message-template"
-        required: false
-        type: string
       exec-even-exist:
         type: 'boolean'
         required: false
@@ -87,6 +86,13 @@ on:
         options:
           - "gemini-2.5-pro-exp-03-25"
           - "gemini-2.5-flash-preview-04-17"
+      runs-on:
+        description: "runs-on"
+        type: choice
+        required: false
+        options:
+          - "ubuntu-latest"
+          - "self-hosted"
       branch:
         description: "commit branch"
         required: false
@@ -107,10 +113,11 @@ env:
   model: ${{ inputs.model }}
   branch: ${{ inputs.branch || format('fetch/{0}', inputs.bvid) }}
   commit-type: ${{ inputs.commit-type || 'pr' }}
+  runs-on: ${{inputs.runs-on || 'ubuntu-latest' }}
 jobs:
 
   split-input:
-    runs-on: ubuntu-latest
+    runs-on: ${{ env.runs-on }}
     outputs:
       videos: ${{ steps.set-result.outputs.result }}
     steps:
@@ -129,7 +136,7 @@ jobs:
       fail-fast: false
       matrix:
         bvid: ${{ fromJSON(needs.split-input.outputs.videos) }}
-    runs-on: ubuntu-22.04
+    runs-on: ${{ env.runs-on }}
     steps:
       - name: get video
         id: bili
