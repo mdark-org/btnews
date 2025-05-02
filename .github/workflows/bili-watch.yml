@@ -20,6 +20,7 @@ jobs:
           echo 'Watch result: ${{ steps.watch.outputs.result }}'
   fetch:
     needs: watch
+    if:  needs.watch.outputs.result != '[]'
     strategy:
       max-parallel: 2
       fail-fast: false
