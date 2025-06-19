@@ -72,7 +72,7 @@ on:
       commit-type:
         description: "commit type, pr | commit"
         required: false
-        default: 'pr'
+        default: 'commit'
         type: string
       exec-even-exist:
         type: 'boolean'
@@ -82,10 +82,10 @@ on:
       model:
         description: "gemini model"
         type: choice
-        default: "gemini-2.5-flash-preview-04-17"
+        default: "gemini-2.5-flash-preview-05-20"
         options:
-          - "gemini-2.5-pro-exp-03-25"
-          - "gemini-2.5-flash-preview-04-17"
+          - "gemini-2.5-pro-preview-06-05"
+          - "gemini-2.5-flash-preview-05-20"
       runs-on:
         description: "runs-on"
         type: choice
