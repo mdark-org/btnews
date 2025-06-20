@@ -1,8 +1,9 @@
 
-const regex = /【睡前消息(\d{1,4})期?】/
+const regex = /【睡前消息(\d{1,4}(\.5)?)期?】/
 
 const title2filepath = (title) => {
   const [full, index] = regex.exec(title)
+  // index may
   const indexNum = parseInt(index)
   let rangeStart = Math.floor(indexNum / 100) * 100 + 1
   if (indexNum % 100 === 0) {
@@ -10,7 +11,10 @@ const title2filepath = (title) => {
   }
   const rangeEnd = rangeStart + 99
   const range = `${String(rangeStart).padStart(4, '0')}_${String(rangeEnd).padStart(4, '0')}`
-  const indexStr = String(indexNum).padStart(4, '0')
+  let indexStr = String(indexNum).padStart(4, '0')
+  if(index.endsWith('.5')) {
+    indexStr = indexStr + "_5"
+  }
   return `docs/btnews/btnews/${range}/btnews_${indexStr}.md`
 }
 
