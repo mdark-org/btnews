@@ -1,7 +1,7 @@
 # btnews
 这是一个睡前消息文稿的存档仓库
 
-[在线查看](https://btnews.ktlab.io)
+[在线查看](https://vp-btnews.ktlab.io)
 
 [rss](https://btnews.ktlab.io/feed.rss)
 
