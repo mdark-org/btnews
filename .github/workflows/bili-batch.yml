@@ -57,7 +57,7 @@ env:
   runs-on: ${{ inputs.runs-on || 'ubuntu-latest' }}
 jobs:
   batch-get-video:
-    runs-on: ${{ env.runs-on }}
+    runs-on: 'ubuntu-latest'
     outputs:
       videos: ${{ steps.set-result.outputs.result }}
     steps:
@@ -105,7 +105,7 @@ jobs:
           branch: ${{ env.branch }}
   get-video-chunk-1:
     needs: [batch-get-video]
-    runs-on: ${{ env.runs-on }}
+    runs-on: 'ubuntu-latest'
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
@@ -129,7 +129,7 @@ jobs:
           system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-2:
     needs: [batch-get-video, get-video-chunk-1]
-    runs-on: ${{ env.runs-on }}
+    runs-on: 'ubuntu-latest'
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
@@ -153,7 +153,7 @@ jobs:
           system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-3:
     needs: [batch-get-video,get-video-chunk-2]
-    runs-on: ${{ env.runs-on }}
+    runs-on: 'ubuntu-latest'
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
@@ -177,7 +177,7 @@ jobs:
           system-prompt-template: ${{ env.system-prompt-template }}
   get-video-chunk-4:
     needs: [batch-get-video, get-video-chunk-3]
-    runs-on: ${{ env.runs-on }}
+    runs-on: 'ubuntu-latest'
     continue-on-error: true
     strategy:
       max-parallel: ${{ fromJSON(inputs.max-parallel) }}
