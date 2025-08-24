@@ -35,7 +35,7 @@ jobs:
       markdown-template: ${{ matrix.event.presetMarkdownTemplate }}
       prompt-template: ${{ matrix.event.presetPromptTemplate }}
       system-prompt-template: ${{ matrix.event.presetSystemPromptTemplate }}
-      model: 'gemini-2.5-flash-preview-05-20'
+      model: 'gemini-2.5-flash'
       commit-type: 'commit'
       branch: 'master'
       maxOutputTokens: '65536'
