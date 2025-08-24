@@ -30,10 +30,10 @@ on:
       model:
         description: "stt model, currently only support gemini, which is cheap(free for most case), fast and good enough for such task"
         type: choice
-        default: "gemini-2.5-flash-preview-05-20"
+        default: "gemini-2.5-flash"
         options:
-          - "gemini-2.5-pro-exp-03-25"
-          - "gemini-2.5-flash-preview-05-20"
+          - "gemini-2.5-pro"
+          - "gemini-2.5-flash"
       branch:
         description: "branch"
         required: false
