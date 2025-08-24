@@ -11,7 +11,7 @@ jobs:
       result: ${{ steps.set-output.outputs.TARGET_MATRIX }}
     steps:
       - uses: actions/checkout@v4
-      - uses: mdark-org/autodoc-action/.github/actions/watch-action@v0.2.2
+      - uses: mdark-org/autodoc-action/.github/actions/watch-action@v0.2.3
         id: watch
       - name: Set output
         id: set-output

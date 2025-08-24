@@ -145,7 +145,7 @@ jobs:
           bvid: ${{ matrix.bvid }}
       - uses: actions/checkout@v4
       - name: get content
-        uses: mdark-org/autodoc-action@v0.2.2
+        uses: mdark-org/autodoc-action@v0.2.3
         with:
           maxOutputTokens: ${{ inputs.maxOutputTokens }}
           token: ${{ secrets.GEMINI_TOKEN }}
