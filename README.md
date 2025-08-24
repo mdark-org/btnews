@@ -1,9 +1,9 @@
 # btnews
 这是一个睡前消息文稿的存档仓库
 
-[在线查看](https://btnews.ktlab.io)
+[在线查看](https://mdark.org/docs/btnews/index)
 
-[rss](https://btnews.ktlab.io/feed.rss)
+[rss](https://mdark.org/rss/btnews)
 
 最初该仓库是作为睡前消息文稿内容的存档仓库存在的，后续更新引入其他栏目内容。
 
@@ -11,10 +11,15 @@ master 分支仅存储文稿内容以及文稿抓取脚本。
 ### clone
 如果你需要 clone 该仓库并提交内容，请务必使用 单分支 clone，大小约为 1G（images 文件），全量 clone 过大 4g（优化中）
 ```
-git clone -b master --single-branch https://github.com/ktKongTong/btnews
+git clone -b master --single-branch https://github.com/mdark-org/btnews
 ```
 
 
+### 2025
+
+主分支移除所有文档框架，仅当作纯文档仓库。作为 MDARK 的一部分。
+详见 [https://github.com/mdark-org](https://github.com/mdark-org)
+每日利用 github action 定时抓取 UP 更新视频。
 
 ### 2024.12.20
 
