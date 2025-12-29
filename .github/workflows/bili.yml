@@ -30,9 +30,12 @@ on:
         type: 'boolean'
         required: false
       model:
-        type: string
         description: "gemini model"
-        default: "gemini-2.5-flash"
+        type: choice
+        default: 'gemini-3.0-flash-preview'
+        options:
+          - "gemini-2.5-pro"
+          - "gemini-3.0-flash-preview"
       maxOutputTokens:
         description: "maxOutputTokens"
         required: false
@@ -82,10 +85,10 @@ on:
       model:
         description: "gemini model"
         type: choice
-        default: "gemini-2.5-flash"
+        default: 'gemini-3.0-flash-preview'
         options:
           - "gemini-2.5-pro"
-          - "gemini-2.5-flash"
+          - "gemini-3.0-flash-preview"
       runs-on:
         description: "runs-on"
         type: choice
