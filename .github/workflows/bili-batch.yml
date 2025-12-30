@@ -32,7 +32,7 @@ on:
         type: choice
         options:
           - "gemini-2.5-pro"
-          - "gemini-3.0-flash-preview"
+          - "gemini-3-flash-preview"
       branch:
         description: "branch"
         required: false
