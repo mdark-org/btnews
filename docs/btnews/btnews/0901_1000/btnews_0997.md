@@ -7,7 +7,7 @@ bvid: ''
 category: btnews
 index: 0997
 ytid: ''
-wechat-mp: true
+wx_mp: true
 ---
 
 
