@@ -1,11 +1,13 @@
 ---
 title: 【睡前消息997】西芒杜铁矿 重载铁路出国
-description: 1 魏桥集团开发西非西芒杜铁矿。 2 中国铁路近期发展
+description: ''
 tags: []
-date: 2025-12-28T00:00:00.000Z
-bvid: BV13svCBfEvt
+date: '2025-12-28'
+bvid: ''
 category: btnews
 index: 0997
+ytid: ''
+wechat-mp: true
 ---
 
 
@@ -129,4 +131,3 @@ index: 0997
 
 
 
-test
