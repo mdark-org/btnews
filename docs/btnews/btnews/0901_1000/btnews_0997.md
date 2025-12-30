@@ -6,7 +6,7 @@ category: btnews
 index: 0997
 wx_mp: true
 description: ''
-bvid: ''
+bvid: BV13svCBfEvt
 ytid: ''
 ---
 
