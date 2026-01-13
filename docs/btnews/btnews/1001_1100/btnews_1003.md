@@ -3,7 +3,7 @@ title: 【睡前消息1003】以色列出兵、阿联酋出钱，伺候索马里
 description: ''
 tags: []
 date: '2026-01-10'
-bvid: ''
+bvid: 'BV1a2rKB6ERd'
 category: btnews
 index: '1003'
 ytid: ''

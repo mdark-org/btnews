@@ -3,7 +3,7 @@ title: 【睡前消息1004】伊朗、古巴、委内瑞拉 为什么是一家�
 description: ''
 tags: []
 date: '2026-01-12'
-bvid: ''
+bvid: 'BV1xF6dBwEHn'
 category: btnews
 index: '1004'
 ytid: ''
