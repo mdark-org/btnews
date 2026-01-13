@@ -3,7 +3,7 @@ title: 【睡前消息1000】身后是一千，小目标是一万
 description: ''
 tags: []
 date: '2026-01-02'
-bvid: ''
+bvid: 'BV1tWvDBkEbb'
 category: btnews
 index: '1000'
 ytid: ''
