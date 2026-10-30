@@ -16,25 +16,27 @@ jobs:
         with:
           python-version: '3.11'
       - run: python -m pip -q install google-genai
+      - name: Fetch episode audio via existing repository Bilibili downloader
+        uses: mdark-org/autodoc-action/.github/actions/bili-download-audio@v0.2.3
+        with:
+          bvid: BV1vZxi68E2p
+          bili-proxy: ${{ secrets.BILI_STREAM_PROXY }}
       - name: Transcribe short audio segments and emit transcript for PR review
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_TOKEN }}
         run: |
           python - <<'PY2'
-          import os, subprocess, urllib.request, math
+          import os, subprocess, math
           from google import genai
           from google.genai import types
-          url='https://s3-auto.mdark.org/bili/BV1vZxi68E2p/audio.m4a'
-          print('Fetching original episode audio',flush=True)
-          urllib.request.urlretrieve(url,'/tmp/source.m4a')
-          dur=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=noprint_wrappers=1:nokey=1','/tmp/source.m4a']).decode().strip())
+          dur=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=noprint_wrappers=1:nokey=1','output/BV1vZxi68E2p.mp3']).decode().strip())
           print(f'Original duration: {dur:.1f} seconds',flush=True)
           client=genai.Client(api_key=os.environ['GEMINI_API_KEY'])
           chunk=240
           for idx in range(math.ceil(dur/chunk)):
             start=idx*chunk
             dest=f'/tmp/part{idx:02d}.mp3'
-            subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-ss',str(start),'-t',str(min(chunk,dur-start)),'-i','/tmp/source.m4a','-ar','16000','-ac','1','-c:a','libmp3lame','-b:a','48k',dest],check=True)
+            subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-ss',str(start),'-t',str(min(chunk,dur-start)),'-i','output/BV1vZxi68E2p.mp3','-ar','16000','-ac','1','-c:a','libmp3lame','-b:a','48k',dest],check=True)
             audio=open(dest,'rb').read()
             print(f'=== PART {idx+1}: START {start} seconds, length {min(chunk,dur-start):.1f} seconds ===',flush=True)
             resp=client.models.generate_content(
