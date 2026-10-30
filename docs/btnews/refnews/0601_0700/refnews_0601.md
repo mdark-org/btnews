@@ -39,7 +39,6 @@ bvid: BV1SfL36xE44
 
 4月8日以来，他连续发视频指证几所名校发在顶刊的论文造假，让多所985、211高校坐立不安。目前取得一定战果：同济大学生命科学与技术学院院长、副教授王平免职，一名研究人员被解聘；南开大学生命科学学院院长、长江学者陈佺正在被调查；中山大学生命科学学院副院长[邝栋明](https://www.zaobao.com.sg/news/china/story20260605-9159174)正在被调查；最新一个是上海大学转化医学研究院院长[苏佳灿](https://gmis.shu.edu.cn/ZSJZ/BS/2026/ShowMajor.php-ID%3D469.htm)，学校已启动调查。
 
-```
 >
 > - [同济大学：王平教授简介](https://life.tongji.edu.cn/78/07/c12618a358407/page.htm)
 > - [同济大学：5月6日情况通报](https://news.tongji.edu.cn/info/1008/94355.htm)
@@ -106,7 +105,6 @@ bvid: BV1SfL36xE44
 
 房地产大亨Related Companies创始人把马姆达尼向富人征税的口号比作令人作呕的种族辱骂。公司已将总部从纽约迁至佛罗里达州西棕榈滩。但大型房地产股并未受到困扰，市场很快消化了提案的预期影响，认为影响范围有限。分析人士指出，该税项的行政成本和执行难度可能被低估，或将催生全新的评估与避税产业链。
 
-```
 >
 > - [福布斯中国：纽约征税争议与 Steven Roth 发言](https://www.forbeschina.com/innovation/71996)
 > - [CNN：Steven Roth 的言论（英文）](https://kesq.com/money/cnn-business-consumer/2026/05/06/mamdanis-tax-the-rich-slogan-is-just-as-hateful-as-racial-slurs-new-york-real-estate-titan-says/)
@@ -117,7 +115,6 @@ bvid: BV1SfL36xE44
 
 向第二套房征税正在美国多地从讨论走向现实。罗德岛州7月开始征收“泰勒丝税”，对价值超过100万美元且一年至少183天无人居住的房屋征收额外税。引发关注是因为流行天后泰勒·斯威夫特在当地有房，是潜在的征税对象之一。
 
-```
 > - [罗德岛州税务局：非业主自住房产税（英文）](https://tax.ri.gov/tax-sections/sales-excise-taxes/non-owner-occupied-property-tax)
 
 旧金山和蒙大拿州围绕空置房屋税的提案仍在法院审理，能否落地仍存在不确定性。在加州圣地亚哥，一项针对空置房屋的税收提案将在6月交由选民表决。
@@ -126,13 +123,11 @@ bvid: BV1SfL36xE44
 
 在澳大利亚，13日公布的联邦预算案对房地产税征收体系进行40年来最大变革。再加上资本利得税调整，利好弱势的劳动群体，尤其是年轻人，对资本群体和老登略有不利。
 
-```
 >
 > - [SBS中文：2026年5月12日联邦预算案](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/australian-economic-insights-federal-budget-2026/d9tbt2myh)
 
 2027年7月1日起，负扣税优惠只能用于购买新建筑房，买二手房不再适用，以引导税收支持更多流向新增住房供应。负扣税是指投资房产的支出高于租金收入时，亏损部分可用于抵税。再加上其他投资费用，可大幅降低纳税金额。
 
-```
 >
 > - [SBS中文：负扣税改革与祖父条款](https://www.sbs.com.au/language/chinese/zh-hans/podcast-episode/federal-budget-2026-five-minute-guide/7rfhsxy0x/)
 
@@ -142,7 +137,6 @@ bvid: BV1SfL36xE44
 
 这是资本利得税25年来最重要的调整。以往投资者出售投资房产时只需要缴纳50%的盈利税，很多人选择长期持有，尽可能拉长投资时长，博取高房价和高投资回报。对于处于最高边际税率47%的投资者来说，这个优惠实际上将长期收益的税务负担减半至大约23.5%。
 
-```
 >
 > - [国家税务总局：澳大利亚房地产投资者税收改革](https://www.chinatax.gov.cn/chinatax/c102793/c5251483/content.html)
 
