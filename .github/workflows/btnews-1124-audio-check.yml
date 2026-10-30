@@ -1,0 +1,45 @@
+name: Temporary audio check for btnews 1124
+on:
+  pull_request:
+    types: [synchronize]
+    paths:
+      - .github/workflows/btnews-1124-audio-check.yml
+permissions:
+  contents: read
+jobs:
+  transcribe:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip -q install google-genai
+      - name: Transcribe short audio segments and emit transcript for PR review
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_TOKEN }}
+        run: |
+          python - <<'PY2'
+          import os, subprocess, urllib.request, math
+          from google import genai
+          from google.genai import types
+          url='https://s3-auto.mdark.org/bili/BV1vZxi68E2p/audio.m4a'
+          print('Fetching original episode audio',flush=True)
+          urllib.request.urlretrieve(url,'/tmp/source.m4a')
+          dur=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=noprint_wrappers=1:nokey=1','/tmp/source.m4a']).decode().strip())
+          print(f'Original duration: {dur:.1f} seconds',flush=True)
+          client=genai.Client(api_key=os.environ['GEMINI_API_KEY'])
+          chunk=240
+          for idx in range(math.ceil(dur/chunk)):
+            start=idx*chunk
+            dest=f'/tmp/part{idx:02d}.mp3'
+            subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-ss',str(start),'-t',str(min(chunk,dur-start)),'-i','/tmp/source.m4a','-ar','16000','-ac','1','-c:a','libmp3lame','-b:a','48k',dest],check=True)
+            audio=open(dest,'rb').read()
+            print(f'=== PART {idx+1}: START {start} seconds, length {min(chunk,dur-start):.1f} seconds ===',flush=True)
+            resp=client.models.generate_content(
+              model='gemini-3-flash-preview',
+              contents=[types.Part.from_bytes(data=audio,mime_type='audio/mpeg'), '请把这段中文节目音频按实际语音忠实地逐字转写成简体中文。不得概括或编造，按自然句分行，保留主持人全部正文、年份、数字、名字与转场，不要重复。出现广告带货时也应原样转录，便于后续识别删除。只输出转写结果。'],
+              config=types.GenerateContentConfig(temperature=0,max_output_tokens=6000))
+            print(resp.text or '[EMPTY RESPONSE]',flush=True)
+          PY2
