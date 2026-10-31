@@ -1,5 +1,5 @@
 ---
-wechat_delivery_verification: 1
+wechat_delivery_verification: 2
 source: https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTc0NQ==&mid=2247511486&idx=1&sn=10ba00b470c88b2c74b0dd82350a381c&chksm=c2d766f0f5a0efe66d3ce7733582ac5c4f28b63282b4da9a679357c6c112f0a9f5b66423d864
 account: 睡前人间
 ---
