@@ -1,19 +1,11 @@
 ---
 title: 【睡前消息1069】监督政府 监督学术 都让专业的人来
-description: |
-  1 黄岩区人大投票否决政府项目
-  2 耿同学学术打假问题。
+description: 黄岩区人大否决本级政府的重大投资项目，耿同学否定985院长的论文真实性，背后都隐含同一条规律——监督需要经验。
 tags: []
 date: 1782214519
 bvid: BV1CCj267Ef6
 wechat_url: https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTc0NQ==&mid=2247511371&idx=1&sn=c1b4d0f8a6ce4d21f393ce03c08f1c0c&chksm=c2d76605f5a0ef13fc5b8833c1a734232f46490c08ca6930abf6934aa12a5467b7ce17a567de
 ---
-
-![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1069/images/01.webp)
-
-黄岩区人大否决本级政府的重大投资项目，耿同学否定985院长的论文真实性，背后都隐含同一条规律——监督需要经验。
-
-正文
 
 大家好，2026年6月23日星期二，欢迎收看1069期睡前消息，请静静介绍话题。
 
