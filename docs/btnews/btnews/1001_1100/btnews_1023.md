@@ -1,19 +1,19 @@
 ---
 title: 【睡前消息1023】日本修宪容易 伊朗挨打有原因
-date: 1772363345
-category: btnews
 description: 1 高市早苗内阁修宪前景。 2 近期中东问题
 tags: []
-index: '1023'
+date: 1772363345
+category: btnews
+index: "1023"
 bvid: BV1sMPMz9EAo
-ytid: ''
+ytid: ""
 wx_mp: true
+wechat_url: https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTc0NQ==&mid=2247510596&idx=1&sn=504c9d5e8e1c64efdbda56af0e2810fa&chksm=c2d7610af5a0e81ca4c23b9a8a4804464ebc4d00759cbb165a74818da634acea2d1d4ebf8004
 ---
 
 
 
-
-![btnews_1023_1](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_1.webp)
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/01.webp)
 
 
 
@@ -23,11 +23,7 @@ wx_mp: true
 
 随着高市早苗当选，日本“修宪”话题，再一次成为了舆论焦点，2月19日，高市早苗在内阁发布会上表示，希望尽快推动修改宪法和《皇室典范》的进程。
 
-
-
-![btnews_1023_2](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_2.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/02.webp)
 
 督工，有关日本修宪的话题，似乎已经持续了很多年，这一次能成吗？
 
@@ -47,19 +43,11 @@ wx_mp: true
 
 根据日本媒体的调查，这一届81%的当选众议员赞同修改宪法，宣布自卫队是合法军队，和其他国家的军队有类似职能。就算高市早苗不当选首相，其他人在这个位置上，为了满足议员的诉求，也会提出差不多的政策。
 
-
-
-![btnews_1023_3](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_3.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/03.webp)
 
 比如说，曾经和高市早苗竞争过首相位置的现防卫大臣、小泉进次郎，在记者会上公开表示，要完善以全民公投方式来修宪的环境。在自民党内，除了极少数的非主流议员之外，修宪议题已经形成共识。
 
-
-
-![btnews_1023_4](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_4.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/04.webp)
 
 高市早苗的修宪计划，主要有四个项目。
 
@@ -99,11 +87,7 @@ wx_mp: true
 
 目前日本参议院一共有248个议席，2025年日本举行了参议院选举，在改选的124个席位当中，自民党只得到了39席，加上未改选的62席，一共101个席位。同时，最大的反对党立宪民主党，拥有38个席位。
 
-
-
-![btnews_1023_5](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_5.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/05.webp)
 
 高市早苗上台之后，算上愿意拥护修宪议题的维新会、国民民主党、参政党和保守党等等政党，还是不能在参议院拿到三分之二多数所需要的166席。这就挡住了高市早苗的修宪想法。
 
@@ -113,53 +97,35 @@ wx_mp: true
 
 日本修宪之后就会大规模扩军吗？
 
-很难，因为时间已经到了2026年，日本自卫队的最大限制不是法律，而是日本财政和人口压力。回头看安倍晋三时代。虽然被称为右翼精神领袖，但是安倍晋三在军备问题上非常谨慎。
+很难，因为时间已经到了2026年，日本自卫队的最大限制不是法律，而是日本财政和人口压力。
+
+ 
+
+回头看安倍晋三时代。虽然被称为右翼精神领袖，但是安倍晋三在军备问题上非常谨慎。
 
 2019年安倍内阁的国家预算，军费5.2万亿日元，占预算总支出的5.2%，还不到日本GDP的1%，和其他国家比并不突出。同一年中国GDP正好100万亿，军费是1.19万亿。
 
-
-
-![btnews_1023_6](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_6.webp)
-
-
+![图表&#xA;&#xA;AI 生成的内容可能不正确。](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/06.webp)
 
 安倍下台之后，日本军费开始连年上涨。2023年，岸田文雄内阁的国家预算，军费6.78万亿日元，占GDP的比例达到1.2%。
 
-
-
-![btnews_1023_7](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_7.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/07.webp)
 
 高市早苗上台之后，日本的军费增速再次提升。最新的2026年预算，军费接近9万亿日元，相比安倍时代几乎翻倍，达到了GDP 的1.5%。作为对比，中国2025年的比例是1.27%。
 
-
-
-![btnews_1023_8](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_8.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/08.webp)
 
 但是，高市早苗的军费，恐怕也很难再增加了。因为日本一直没有走出90年代之后的经济停滞。
 
 安倍晋三执政期间，推动超宽松货币政策，逐渐摆脱了通缩，经济开始有起色。但是，经济增长，代价是用央行无限印钱，普通人承受物价上涨。扣除通胀因素，只看购买力，日本2025年的GDP只能说刚刚回到90年代高峰期水平。
 
-
-
-![btnews_1023_9](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_9.webp)
-
-
+![](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/09.webp)
 
 与其同时，日本的财政状况可是比20世纪差多了。目前日本政府债务1145万亿，超过GDP的两倍。高市早苗内阁的最新预算，25%的支出用来还债，其中10.7%用来还国债的利息。今后几年，日本走出低利率时代，国债借新还旧的压力还会更大。
 
+![图表, 直方图&#xA;&#xA;AI 生成的内容可能不正确。](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/10.webp)
 
-
-![btnews_1023_10](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_10.webp)
-
-
-
-![btnews_1023_11](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_11.webp)
-
-
+![图表&#xA;&#xA;AI 生成的内容可能不正确。](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/11.webp)
 
 和90年代相比，日本的另一个问题是老龄化。高市内阁的预算，31%的支出用于社会保障，比军费的4倍还多。随着人口下降，高市早苗加军费的空间已经不多了。
 
@@ -171,11 +137,7 @@ wx_mp: true
 
 这个周末，美国和以色列主动进攻，在一年内第二次发动了对伊朗的战争。2025年6月那次，美国没有预先集结兵力，双方对攻还是打了12天。现在战争刚进入第二天，我就沿着逆时针方向，聊聊周边国家的变化。
 
-
-
-![btnews_1023_12](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_12.webp)
-
-
+![地图&#xA;&#xA;AI 生成的内容可能不正确。](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/12.webp)
 
 伊朗东面有三个国家，阿富汗、巴基斯坦，隔海相望是大国印度。因为印度本土缺资源，长期以来印度一直是伊朗石油的大客户。在这次轰炸开始之前3天，2月25日，印度总理莫迪到了以色列，不仅去了行政首都特拉维夫，还公开访问了耶路撒冷，悼念哈马斯袭击的死难者。与其同时，印度和以色列展开自由贸易谈判。一般认为，以色列这次给印度提供了从来不出口的军事技术，比如说参加过实战的铁穹防空系统，换来了莫迪的坚定支持。
 
@@ -191,9 +153,9 @@ wx_mp: true
 
 阿塞拜疆的民族和伊朗相似，但是最近几十年的背后支持者是伊朗西北邻国土耳其。而土耳其一向和伊朗有竞争关系，最近虽然有所缓和，但也不可能在关键问题上支持伊朗。2025年，在库尔德问题上，美国默许了土耳其的扩张，换到什么承诺不清楚，反正土耳其听说伊朗国内动荡，第一反应是加强边界上的高墙防线，挡住难民。
 
-![btnews_1023_13](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_13.webp)
+ 
 
-
+![地图&#xA;&#xA;AI 生成的内容可能不正确。](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/13.webp)
 
 然后是西面，伊拉克有大量的什叶派，伊朗插手不少。前几天伊朗人民暴动，伊朗就用了从伊拉克撤回来的什叶派民兵镇压。但是，如果美国舰队在南面波斯湾行动，伊拉克和伊朗一样，都会变成内陆国，除了简单的人力之外，提供不了什么资源。在伊拉克背后，是土耳其支持的叙利亚。是美国大规模驻军的约旦，再加上最讨厌伊朗的沙特。所以这个方向也没机会。
 
@@ -209,9 +171,7 @@ wx_mp: true
 
 所以，在2022年春天，俄罗斯进攻力量最强的时候，也只是借助白俄罗斯领土从侧面偷袭了基辅，正面的部队始终不能突破东部几个州的战线，现在还在进行几公里范围内的拉锯战。所以在基辅巷战的同时，正面局势没有崩盘。等到基辅、哈尔科夫、赫尔松方面的部队缺乏后勤，退回战前位置，乌克兰战争就长期化了。
 
-
-
-![btnews_1023_14](https://storage.mdark.org/btnews/btnews/1001_1100/1023/btnews_1023_14.webp)
+![地图&#xA;&#xA;AI 生成的内容可能不正确。](https://s3-auto.mdark.org/dest/docs/btnews/btnews/1001_1100/btnews_1023/images/14.webp)
 
 伊朗统治集团在和平时期的紧迫感似乎不强，或者说因为内部矛盾太深，没有能力进行高强度备战。可能有的观众已经注意到了，刚才我逆时针介绍了伊朗的邻国，唯独跳过了里海东岸的土库曼斯坦。
 
@@ -223,5 +183,4 @@ wx_mp: true
 
 感谢大家收看，1023期节目到此结束，我们周二再见！
 
-
-
+ 
