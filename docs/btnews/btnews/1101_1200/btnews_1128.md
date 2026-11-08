@@ -133,7 +133,7 @@ bvid: BV19uW76YE7B
 
 很显然，这种制度不利于小党，有利于执政经验丰富的人民行动党。工人党作为最大的反对党，2025年只凑出了26个人参选，连总议席的三分之一都填不满。在新加坡东部有个马林百列集选区，工人党经营了十几年，从行动党的铁票仓变成了摇摆区。到了提名日当天，工人党因为人手不够，被迫放弃了马林百列选区，让给行动党直接胜选。
 
-（资料补充：2025年工人党未在马林百列—布拉德尔高地集选区提名，人民行动党因此自动当选；工人党领袖解释称，需要保留候补人选以应对其他团队变动。）[CNA：2025年大选候选人名单](https://www.channelnewsasia.com/singapore/ge2025-who-contesting-where-at-a-glance-5080186) [The Straits Times：工人党对2025年选区部署的说明](https://www.straitstimes.com/singapore/politics/pritam-singh-had-hoped-wp-would-tip-one-or-two-more-constituencies-at-ge)
+（资料补充：2025年工人党未在马林百列—布拉德尔高地集选区提名，人民行动党因此自动当选；工人党领袖表示，选区边界调整后，党内决定调整竞选部署，并指出可用候选人有限。）[CNA：2025年大选候选人名单](https://www.channelnewsasia.com/singapore/ge2025-who-contesting-where-at-a-glance-5080186) [The Straits Times：工人党对2025年选区部署的说明](https://www.straitstimes.com/singapore/politics/pritam-singh-had-hoped-wp-would-tip-one-or-two-more-constituencies-at-ge)
 
 最直接的作弊手段是调整选区边界。睡前消息959期介绍过，每隔10年，美国就会进行一次人口普查，然后重新调整选区。美国政党为了扩大优势、打击对手，经常搞出一些奇形怪状的选区，让自己用最小的优势赢下了最多的席位。
 
