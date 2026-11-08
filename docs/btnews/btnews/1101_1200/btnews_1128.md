@@ -11,7 +11,9 @@ bvid: BV19uW76YE7B
 
 最近几天，新加坡政府推出两项新政策。首先是延迟退休，法定退休年龄从64岁提高到65岁，同时鼓励退休员工再就业，一直干到70岁；其次是给公务员加工资。新加坡公务员的工资一直是全球最高水平，今年普遍再涨2%以上，如果是部长级的高官涨得更多，涨幅高达64%。比如说新加坡总理黄循财，涨薪之后年薪360万新元，折合人民币1800万。
 
-（资料核对：退休年龄及再就业年龄将于2029年分别提高至65岁和70岁；2026年符合条件的普通公务员调薪为2%—9%，政治职务人员本轮一次性调薪最高9%。64%是总理年薪总包由约220万升至360万新元的增幅，并非部长普遍涨幅。）[CNA：退休年龄调整](https://www.channelnewsasia.com/singapore/older-workers-senior-flexible-jobs-retirement-age-6485981) [公共服务署：公务员调薪](https://www.psd.gov.sg/newsroom/eligible-civil-servants-to-receive-salary-adjustments-of-2-percent-to-9-percent/) [CNA：政治人物薪酬调整](https://www.channelnewsasia.com/singapore/ministerial-salaries-million-increase-lawrence-wong-6368681)
+[CNA：退休年龄调整](https://www.channelnewsasia.com/singapore/older-workers-senior-flexible-jobs-retirement-age-6485981)
+[公共服务署：公务员调薪](https://www.psd.gov.sg/newsroom/eligible-civil-servants-to-receive-salary-adjustments-of-2-percent-to-9-percent/)
+[CNA：政治人物薪酬调整](https://www.channelnewsasia.com/singapore/ministerial-salaries-million-increase-lawrence-wong-6368681)
 
 任何一条新政策如果换在其他国家，都可能会出现大问题。比如说法国2023年计划延迟退休，上百万人上街抗议；而新加坡旁边的印度尼西亚，去年准备给公务员加工资，年轻人打着海贼王的旗帜上街闹事。
 
@@ -21,7 +23,9 @@ bvid: BV19uW76YE7B
 
 ### 理性的任性 新加坡公务员自我加薪
 
-不能完全这么说。新加坡的执政党是人民行动党，法律上来说并没有特殊地位。到了实际操作层面，反对党也有充分的活动空间，允许公开竞选，甚至可以占据议会席位。工人党是一个主要的反对党，2020年新加坡大选，工人党在6个选区跟行动党正面竞争，拿到了10个议席。[CNA：2020年大选结果](https://www.channelnewsasia.com/singapore/ge2020-general-election-final-result-pap-wp-952471)
+不能完全这么说。新加坡的执政党是人民行动党，法律上来说并没有特殊地位。到了实际操作层面，反对党也有充分的活动空间，允许公开竞选，甚至可以占据议会席位。工人党是一个主要的反对党，2020年新加坡大选，工人党在 8 个选区跟行动党正面竞争，拿到了10个议席。
+
+[CNA：2020年大选结果](https://www.channelnewsasia.com/singapore/ge2020-general-election-final-result-pap-wp-952471)
 
 听名字就能知道，工人党是一个左翼政党，竞选纲领倾向于底层直接的生活需求，比如说规定最低工资、提高医保额度、降低物价。放在欧洲、美国，甚至是日本、韩国，这样一个反对党肯定会利用推迟退休年龄的机会发动抗议。
 
@@ -35,7 +39,8 @@ bvid: BV19uW76YE7B
 
 1966年，新加坡反对党领袖谢太宝策划街头抗议，被预防性逮捕。谢太宝一直不肯认罪，行动党政府也不在乎，每两年续签拘留令，把谢太宝关了32年，这在全世界也是数得着的政治犯。
 
-（资料核对：谢太宝于1966年至1989年被无审判拘留，共23年；1989年获释后仍受限制令，直至1998年解除。因此“32年”包含后续限制期，不能理解为连续监禁32年。）[Amnesty International](https://www.amnesty.org/en/wp-content/uploads/2021/06/asa360061998en.pdf) [The Straits Times](https://www.straitstimes.com/politics/political-activists-opposition-politicians-nominate-former-political-detainee-chia-thye-poh)
+[Amnesty International](https://www.amnesty.org/en/wp-content/uploads/2021/06/asa360061998en.pdf)
+[The Straits Times](https://www.straitstimes.com/politics/political-activists-opposition-politicians-nominate-former-political-detainee-chia-thye-poh)
 
 工人党自己也体验过《内部安全法》的利害。1987年，新加坡有一批天主教社工跟外籍劳工联系，帮助他们争取加薪；同时还有一批海归律师和艺术家，公开批评行动党政府限制言论自由，帮助工人党出版党报。到了5月份，行动党抓了22个人关进拘留所。按照行动党政府的说法，这些年轻人拿工人党和天主教会做掩护，想要颠覆新加坡的政治体制，建立一个马克思主义的国家。
 
@@ -49,13 +54,13 @@ bvid: BV19uW76YE7B
 
 比如说睡前消息915期提到，特朗普第一次竞选总统，党内的对手是小布什的弟弟小小布什，他有一个墨西哥老婆。特朗普把墨西哥罪犯的照片跟小小布什的照片轮流播放，让对手不敢开口说移民话题，最后只能退出竞选。
 
-美国人可以随意评判政治人物的个人行为，是因为一个判例——“纽约时报诉沙利文案”。具体经过这里不展开了。简单来说，美国法院认为，政客属于公众人物，掌握了公权力和话语权，既然政客主动把自己送进了舆论场，那就必须忍受更严格的评判。普通人评价大人物，就算有过头的地方，也必须容忍。
+美国人可以随意评判政治人物的个人行为，是因为一个判例——“沙利文起诉纽约时报案”。具体经过这里不展开了。简单来说，美国法院认为，政客属于公众人物，掌握了公权力和话语权，既然政客主动把自己送进了舆论场，那就必须忍受更严格的评判。普通人评价大人物，就算有过头的地方，也必须容忍。
 
 新加坡的法律完全相反，严格保护公众人物。如果被政治领袖起诉诽谤而且成立，不仅要赔钱，赔偿金额还与对方的影响力相关。新加坡宪法同时规定，任何人只要被法院宣判破产，就不能参加任何大选。
 
 这两条法律拼在一起，产生了组合效果。如果你骂执政党，只要有一个字缺乏根据，或者是做了主观评判，就会被罚到破产，自动退出政治领域。甚至不需要主动发言，只要参与争论，被动发言也有一样的效果。
 
-新加坡所有反对党基本上都在言论方面吃过亏。1997年，工人党有一个明星政客邓亮洪，在华人区里的威望很高，经常和李光耀斗嘴。行动党的11名高官公开批评邓亮洪，说他是大汉族主义者、高中文凭主义。邓亮洪咽不下这口气，跑到警察局报案，说李光耀、李显龙诽谤自己，要求警方调查。
+新加坡所有反对党基本上都在言论方面吃过亏。1997年，工人党有一个明星政客邓亮洪，在华人区里的威望很高，经常和李光耀斗嘴。行动党的11名高官公开批评邓亮洪，说他是大汉族主义者、搞种族主义。邓亮洪咽不下这口气，跑到警察局报案，说李光耀、李显龙诽谤自己，要求警方调查。
 
 他肯定是想举报不成，最多是伤不到李光耀，自己丢个面子拉倒。没有想到，行动党的官员拿着报案记录做依据，认为这也属于发表错误言论，对邓亮洪发起了民事诉讼。法院认定，邓亮洪要赔偿810万新币，直接破产了。
 
@@ -75,7 +80,7 @@ bvid: BV19uW76YE7B
 
 比如说，新加坡现在没有最低工资制度，只有各个行业的职称工资。如果劳动者没有通过任何对应岗位的技能测试，那就只能凭借供求关系拿钱，拿再低的工资也合法。
 
-（补充：新加坡没有覆盖所有劳动者的全国统一最低工资，但清洁、保安、园林、零售、餐饮、废弃物管理等行业及部分职业实施渐进式工资模式（PWM）。）[新加坡人力部](https://www.mom.gov.sg/employment-practices/progressive-wage-model/what-is-pwm)
+[新加坡人力部](https://www.mom.gov.sg/employment-practices/progressive-wage-model/what-is-pwm)
 
 工人党作为一个左翼政党，核心竞选纲领之一就是要让新加坡推行最低工资制度。2020年，世界银行的经济学家林志蔚加入工人党，当选了国会议员。林志蔚第一次参加国会辩论，就凭借自己的经济学背景，再次要求设置最低工资。他表示，有研究结果证明，最低工资不会影响就业。
 
@@ -99,7 +104,9 @@ bvid: BV19uW76YE7B
 
 比如说2016年开始，新加坡政府推出一项新政策，投入了几十亿新币刺激产业转型，目标是给新加坡人提供高薪工作机会。但是，政府公布的数据只区分了本地居民和外国人，没有区分本国公民和永居者。
 
-工人党的竞选口号之一是给公民争取工作机会，所以工人党议员向行动党政府要数据，要求确认其中给本国公民提供了多少岗位。行动党内阁的贸工部长当场表示：“我可以给你这个数据，但是我请问，你要这个数据的目的是什么？是不是暗示新加坡公民和永久居民有矛盾呢？”[CNA：2020年国会关于公民与永久居民就业数据的交锋](https://www.channelnewsasia.com/singapore/chan-chun-sing-pritam-singh-spar-in-parliament-over-data-distribution-new-jobs-among-sporeans-and-non-citizens-5690421)
+工人党的竞选口号之一是给公民争取工作机会，所以工人党议员向行动党政府要数据，要求确认其中给本国公民提供了多少岗位。行动党内阁的贸工部长当场表示：“我可以给你这个数据，但是我请问，你要这个数据的目的是什么？是不是暗示新加坡公民和无国籍的永久居民有矛盾呢？”
+
+[CNA：2020年国会关于公民与永久居民就业数据的交锋](https://www.channelnewsasia.com/singapore/chan-chun-sing-pritam-singh-spar-in-parliament-over-data-distribution-new-jobs-among-sporeans-and-non-citizens-5690421)
 
 在新加坡政治气氛下，行动党贸工部长这段话是很直白的威胁了。因为按照新加坡的刑法，如果言论可能挑起阶层或者种族矛盾，就可以定罪了，刑期3年。虽然威胁不等于起诉，但是作为成年人，谁都知道自己已经碰到了行动边界，对话到此为止。
 
@@ -133,7 +140,8 @@ bvid: BV19uW76YE7B
 
 很显然，这种制度不利于小党，有利于执政经验丰富的人民行动党。工人党作为最大的反对党，2025年只凑出了26个人参选，连总议席的三分之一都填不满。在新加坡东部有个马林百列集选区，工人党经营了十几年，从行动党的铁票仓变成了摇摆区。到了提名日当天，工人党因为人手不够，被迫放弃了马林百列选区，让给行动党直接胜选。
 
-（资料补充：2025年工人党未在马林百列—布拉德尔高地集选区提名，人民行动党因此自动当选；工人党领袖表示，选区边界调整后，党内决定调整竞选部署，并指出可用候选人有限。）[CNA：2025年大选候选人名单](https://www.channelnewsasia.com/singapore/ge2025-who-contesting-where-at-a-glance-5080186) [The Straits Times：工人党对2025年选区部署的说明](https://www.straitstimes.com/singapore/politics/pritam-singh-had-hoped-wp-would-tip-one-or-two-more-constituencies-at-ge)
+[CNA：2025年大选候选人名单](https://www.channelnewsasia.com/singapore/ge2025-who-contesting-where-at-a-glance-5080186)
+[The Straits Times：工人党对2025年选区部署的说明](https://www.straitstimes.com/singapore/politics/pritam-singh-had-hoped-wp-would-tip-one-or-two-more-constituencies-at-ge)
 
 最直接的作弊手段是调整选区边界。睡前消息959期介绍过，每隔10年，美国就会进行一次人口普查，然后重新调整选区。美国政党为了扩大优势、打击对手，经常搞出一些奇形怪状的选区，让自己用最小的优势赢下了最多的席位。
 
@@ -151,7 +159,8 @@ bvid: BV19uW76YE7B
 
 至于说行动党自己，根本不需要在乎这9天限制，因为全国所有基层组织都归人民协会管，而这个人民协会又是总理办公室直接控制。就算行动党输掉了某个集选区，当地居委会还是要听自己的，行动党完全可以用居委会的名义给老人发慰问金、主持社区活动。
 
-（资料补充：人民协会是法定机构，政府目录将其列在文化、社区及青年部项下；《人民协会法》规定总理担任协会主席，并由主席任命相关成员。）[新加坡政府目录](https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa) [《人民协会法》](https://sso.agc.gov.sg/Act/PAA1960?ProvIds=pr4-.)
+[新加坡政府目录](https://www.sgdi.gov.sg/ministries/mccy/statutory-boards/pa)
+[《人民协会法》](https://sso.agc.gov.sg/Act/PAA1960?ProvIds=pr4-.)
 
 最近几年，互联网改变了全世界的选举模式，很多国家都有政治新人通过网络媒体快速拿到影响力，很多人甚至打败了老牌建制派，成为政府首脑。比如说睡前消息1033期节目介绍了尼泊尔新任总理沙阿。这个沙阿以前是个土木工程师，兼职做说唱歌手，通过在网络上抨击现政府，当上了加德满都市长。
 
@@ -167,11 +176,12 @@ bvid: BV19uW76YE7B
 
 新加坡现在是604万人。在一个正常国家，600多万总人口，起码有100多万底层劳动者，比如说环卫工、建筑工人。但是新加坡这600多万人，有240万根本就没有投票权，其中186万是拿工作签证的，只是来打工挣钱，还有54万人拿绿卡，花钱买的身份。
 
-（数据更新：截至2026年6月，新加坡总人口约621万，其中公民368万、永久居民约55万、非居民198万；非居民并不全是工作准证持有人。）[新加坡人口简报2026](https://www.population.gov.sg/media-centre/population-in-brief-2026/)
+[新加坡人口简报2026](https://www.population.gov.sg/media-centre/population-in-brief-2026/)
 
 外国人不能投票，不能罢工，跟本土公民结婚也要政府审批，如果有意见就会被直接驱逐出境。比如说2012年，几十名中国公交车司机因为收入不合理组织罢工，全部赶回中国。
 
-（资料核对：新加坡并非一概禁止罢工，公共交通等基本服务的罢工须提前14天通知；工作准证持有人与新加坡公民或永久居民结婚确需人力部批准，但并非所有外国人都适用。2012年公交司机罢工共有171人参与，29人被遣返，5人被起诉，并非全部参与者都被遣返。）[新加坡人力部：工作准证持有人婚姻规定](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/what-are-the-marriage-and-pregnancy-regulations-for-wp-holders-in-singapore) [美国国务院《2012年人权报告》](https://www.justice.gov/eoir/media/319551/dl?inline=)
+[新加坡人力部：工作准证持有人婚姻规定](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/what-are-the-marriage-and-pregnancy-regulations-for-wp-holders-in-singapore)
+[美国国务院《2012年人权报告》](https://www.justice.gov/eoir/media/319551/dl?inline=)
 
 现在新加坡劳动年龄人口总共是400万，本土有投票权的200万，外来的200万，基本上相等，所以底层工作可以全部扔给外国人，本国公民基本上都处于中产阶层。
 
@@ -179,7 +189,8 @@ bvid: BV19uW76YE7B
 
 除了房子，绝大多数新加坡公民的储蓄也被行动党控制了。新加坡法律强制规定，公民成年开始，每个月收入的将近37%强制打进了公积金账户。新加坡政府再用这笔钱全世界投资，每年派发最高4%的利息，65岁之后才能取本金。这让执政党多了一个控制公民的手段，也让公民期待政权稳定。
 
-（资料核对：37%是55岁及以下、月薪超过750新元的符合条件员工的雇主与雇员合计缴纳率（雇主17%、雇员20%）；55岁起可按条件提取部分CPF储蓄，65岁起可开始领取月度退休金，并非65岁才能提取本金。）[CPF Board：缴纳率](https://www.cpf.gov.sg/employer/employer-obligations/how-much-cpf-contributions-to-pay) [CPF Board：提取规则](https://www.cpf.gov.sg/service/article/when-can-i-withdraw-my-cpf-savings)
+[CPF Board：缴纳率](https://www.cpf.gov.sg/employer/employer-obligations/how-much-cpf-contributions-to-pay)
+[CPF Board：提取规则](https://www.cpf.gov.sg/service/article/when-can-i-withdraw-my-cpf-savings)
 
 最狠的一招是直接惩罚反对票。新加坡政府会定期组织邻里翻新计划，给老房的维修电梯、粉刷外墙。只有政府及时翻新，房价和房租才会涨。如果哪个选区支持率低，就会被公开惩罚。
 
@@ -197,7 +208,9 @@ bvid: BV19uW76YE7B
 
 除了自己培养管培生之外，行动党每到大选还要进行外部招聘，到跨国投行和顶级的律所挖人，补充新鲜血液。这次给高级公务员大幅度涨了工资，人民行动党的理由是要对齐私营企业的高层待遇，保证人才心甘情愿向政府流动。
 
-现任的总理黄循财就是典型的管培生，17岁被新加坡政府送到美国留学，回国进入贸工部，两年之后又进了财政部。2004年，黄循财32岁，担任卫生部医疗融资司司长，随后又做了李显龙的私人秘书。[黄循财履历](https://www.straitstimes.com/singapore/politics/8-things-to-know-about-lawrence-wong-the-paps-new-4g-leader)
+现任的总理黄循财就是典型的管培生，17岁被新加坡政府送到美国留学，回国进入贸工部，两年之后又进了财政部。2004年，黄循财32岁，担任卫生部医疗融资司司长，随后又做了李显龙的私人秘书。
+
+[黄循财履历](https://www.straitstimes.com/singapore/politics/8-things-to-know-about-lawrence-wong-the-paps-new-4g-leader)
 
 李家原本选定的接班人是王瑞杰，被新加坡政府先后送到了剑桥和哈佛，一直读到硕士毕业。王瑞杰回国之后，先担任了李光耀秘书，40岁做了贸工部的常任秘书，4年之后担任了金融管理局局长。王瑞杰最后因为健康问题不能接班，就让黄循财递补，自己去当副总理。这几乎是行动党所有高官的标准履历。
 
@@ -219,7 +232,8 @@ bvid: BV19uW76YE7B
 
 从最近变动来看，2011年选举，新加坡人嫌组屋建得慢、老人看病贵，行动党的得票率降到60%，属于历史最低。行动党立刻就宣布新建10万套组屋，老年公民看病全免费。到了2015年，得票率拉回到70%。
 
-（资料核对：2011年至2014年间，建屋发展局累计推出近10万套预购组屋；先锋一代配套于2014年推出，提供医疗补贴、MediSave充值等福利，并非老年公民看病全免费。）[建屋发展局](https://www.hdb.gov.sg/about-us/our-story/our-history) [新加坡卫生部：先锋一代配套](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/pioneer-generation-package/)
+[建屋发展局](https://www.hdb.gov.sg/about-us/our-story/our-history)
+[新加坡卫生部：先锋一代配套](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/pioneer-generation-package/)
 
 必胜的支持率对于执政党也是有参考作用的。同样的道理，普京虽然确信自己必然会赢得选举，也会允许相当一部分选民自由地表达反对态度。
 
