@@ -9,9 +9,9 @@ bvid: BV1nWW36fEsk
 
 上周最热的新闻是延安大学音乐教师投湖自杀。从流传的绝笔信来看，工作最大的难点是去争取横向科研经费。如果达不到学校的要求，要么用自己的钱造假，循环一圈再回到个人账户；要么接受降薪或者解聘。之前《中国社会科学报》的调查显示，全国117位高校教师，近90%认为身边有自己出钱伪装横向经费的问题，18%的人承认自己也造假。督工，你怎么评价这套横向科研经费的问题？
 
-[情况通报报道](https://www.thepaper.cn/newsDetail_forward_34406907)
+[陕西省教育厅回应延安大学教师白某某离世：正全面调查核实相关问题_教育家_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_34406907)
 
-[调查报道](https://news.inewsweek.cn/society/2026-11-06/32929.shtml)
+[延安大学“绝笔信”发布者发声，学校要求教师签横向经费承诺书 - 中国新闻周刊网](https://news.inewsweek.cn/society/2026-11-06/32929.shtml)
 
 ---
 
@@ -31,13 +31,13 @@ bvid: BV1nWW36fEsk
 
 2024年，美国西北大学吴瑛教授因为被政府调查“亲华”倾向，外来的科研资金暂时中断，就直接自杀了，当时她才61岁。《南华早报》的标题是《吴瑛失去了她的美国实验室，然后，她失去了生命》。
 
-[原报道](https://www.scmp.com/news/china/science/article/3276370/china-born-neuroscientist-jane-wu-lost-her-us-lab-then-she-lost-her-life)
+[Exclusive | China-born neuroscientist Jane Wu lost her US lab. Then she lost her life | South China Morning Post](https://www.scmp.com/news/china/science/article/3276370/china-born-neuroscientist-jane-wu-lost-her-us-lab-then-she-lost-her-life)
 
 现在中国大学的考核标准就是从美国学的，而且是兼顾两种教授的压力。因为你也说不清中国的中老年教师到底算是有终身编制，还是没编制。所以明面上有降薪的压力，暗地里有各种不礼貌的操作，合起来把白老师逼死了。
 
 中国向美国学习这份经验，起源是1985年的科学技术体制改革决定，鼓励教师独立去接科研任务。“横向经费”这个名字一听就是典型的80年代体制内用词。
 
-[教育部资料](https://www.edu.cn/documents_8573/20090908/t20090908_405839.shtml)
+[1985年发布《关于科学技术体制改革的决定》—科研发展—中国教育和科研计算机网CERNET](https://www.edu.cn/documents_8573/20090908/t20090908_405839.shtml)
 
 在2000年之前，中国教师如果拿到了横向经费，算是业绩增量；如果能下海创业，搞一个方正集团、华工科技，更是名利双收。但如果完全拿不到经费，也不会因此有什么额外的压力，原来的日子也能过。直到1999年的扩招之后，规则就开始变了。
 
@@ -45,7 +45,7 @@ bvid: BV1nWW36fEsk
 
 当然，最重要的无形资产是同期推出的“985”和“211”名单，明显把大学分成两种：缺钱的和不缺钱的。
 
-[教育部资料](https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt15/15zt15_mtbd/201511/t20151106_217950.html)
+[“211工程”与“985工程” - 中华人民共和国教育部政府门户网站](https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/jyzt_2015nztzl/2015_zt15/15zt15_mtbd/201511/t20151106_217950.html)
 
 市场经济有马太效应，强者愈强。如果一个大学在中东部，而且顶着“211”的身份，就有足够的科研项目，也能勾搭到横向资金。与此同时，政府提供的拨款和贷款担保，也会以纵向资金的方式进入大学。所以头部大学重点专业的项目是做不完的，还得拿出一部分资金给其他学院，认真的扮演一个综合性大学。这样反而头部大学就不那么在意横向资金考核了。
 
@@ -65,7 +65,7 @@ bvid: BV1nWW36fEsk
 
 前面提到，横向资金制度的起源是20世纪80年代、90年代学习美国的结果。但问题是，美国从全世界吸收资金，美国的大校从全世界可以招募优秀学生和教师，也才养了不到200所研究型大学。其他的大学都知道自己的中心是本科生教学，最多是希望教师发表一些专著，证明自己还在继续拓展知识边界就行。所以，大多数美国大学教师并没有横向的资金压力。
 
-[Carnegie 2025 Research Activity Designations](https://carnegieclassifications.acenet.edu/news/carnegie-classifications-release-2025-research-activity-designations-debut-updated-methodology/)
+[Carnegie Classifications Release 2025 Research Activity Designations, Debut Updated Methodology - CARNEGIE CLASSIFICATION OF INSTITUTIONS OF HIGHER EDUCATION](https://carnegieclassifications.acenet.edu/news/carnegie-classifications-release-2025-research-activity-designations-debut-updated-methodology/)
 
 中国除了100多所“211”大学之外，还有1400个本科大学，起码其中一半要建设研究型大学。至少400个有博士点的大学，都会考核教师的科研成果。而且观众都知道，地方教育机构和大学的行政官员一旦确定了指标，就会全面推行，不会区分什么学院什么专业。所以，白老师作为音乐老师，也要承担横向资金任务。
 
@@ -91,7 +91,7 @@ bvid: BV1nWW36fEsk
 
 在美国制造业内部，排名第一的行业是化工和制药行业，靠生物医药撑着；排名第二的行业是计算机半导体行业，靠互联网和AI撑着；再后面就是依托发达农业的食品行业了，再加上依托航空优势的特色机械产业。
 
-[USAFacts（数据来源：BEA）](https://usafacts.org/articles/what-does-the-us-produce/)
+[What does the US produce? | USAFacts](https://usafacts.org/articles/what-does-the-us-produce/)
 
 所以，如果说美国的产学研结合有什么借鉴意义，就是他们的大学教授确实很擅长建立一个高科技新行业，从0到1进行突破。但在支持传统行业方面，直接让大学和企业合作未必就能带来明显的优势，反而有加速去工业化的嫌疑。
 
@@ -119,7 +119,7 @@ bvid: BV1nWW36fEsk
 
 比如说，计算机用电子管和晶体管做逻辑判断，消耗的时间以毫秒计算，哪怕是电子管的稳定性稍微差一点，也能够替代手动计算的计算助理。又比如说，生物制药已经开始从基因层面治愈一些遗传病了，传统的化学小分子药就只能缓解血液和消化道的问题。就算是新的药物产量很小，也会受到病人的欢迎，至少会有一部分富豪愿意出天价来买。
 
-[小分子药物治疗领域综述](https://onlinelibrary.wiley.com/doi/full/10.1002/ardp.70272)
+[USFDA‐Approved Small Molecules in the Year 2025: Medicinal Chemistry Strategies and Trends - Rao - 2026 - Archiv der Pharmazie - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1002/ardp.70272)
 
 很多美国的初创企业在只能靠实验室生产的时候，已经拿到了几亿美元的订单和预付款，正好可以利用美国宽松的资金环境，快速发展成世界级企业。
 
@@ -151,11 +151,11 @@ bvid: BV1nWW36fEsk
 
 对于中国人来说，夫琅和费这个名字首先是在物理教科书里面听到的。他最先发现了太阳光谱的吸收线，探索了恒星的物质构成，算是一个顶级物理学家。但是教科书往往忽略了他死于铅中毒，长期直接参与光学仪器生产导致的铅中毒。作为一个玻璃匠的儿子，他一辈子都在生产一线工作。
 
-[官方传记](https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/chronicles/joseph-von-fraunhofer.html)
+[Joseph von Fraunhofer](https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/chronicles/joseph-von-fraunhofer.html)
 
 以他命名的弗劳恩霍夫协会是一个半市场、半计划机构，3万员工分成几十个研究所，国家提供30%的基础运行资金，给几万个工程师可以提供生活费，也保证大型研究设备的维护费用。剩下的七成经费，有三成来自竞标科研项目，四成来自企业横向科研经费。任何一笔钱进入某个研究所，都会事先约定好最后的科研红利分配方式。但是一般来说，国家会鼓励创新型团队直接带着技术出去，变成纯粹的市场化公司。
 
-[官方财务数据](https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/facts-and-figures/finances.html)
+[Finances](https://www.fraunhofer.de/en/about-fraunhofer/profile-structure/facts-and-figures/finances.html)
 
 从分工地位来说，弗劳恩霍夫协会与美国的研究型大学有重合，但是它并不负责培养学生，一般也不需要发论文维持社会地位，所以能够长期关注具体的工艺，专心改造生产流程，降低企业生产成本。对于德国这个传统产业发达的工业国来说，弗劳恩霍夫协会这是一个比较合理的科研模式。
 
@@ -169,15 +169,15 @@ bvid: BV1nWW36fEsk
 
 1985年，张忠谋从美国回来，担任了台湾工研院的院长，确定了半导体产业升级方向。1986年，台湾半导体团队终于有信心直接应对市场竞争了，决定吸引传统产业的资本入伙，成立一个独立企业。台塑集团的王永庆当时就是因为工研院有官方背景去说服，才确信半导体行业有前途，愿意出资支持，这就是后来的台积电。
 
-[工研院官方沿革](https://50th.itri.org.tw/history/semiconductors/2/)
+[從0到1發展半導體　衍生護國神山群 - 工研院50周年 深耕產業 創新未來](https://50th.itri.org.tw/history/semiconductors/2/)
 
 除此之外，台湾的联发科、台湾光罩也都是工研院系统孵化出来的。
 
-[工研院官方沿革](https://50th.itri.org.tw/history/semiconductors/2/)
+[從0到1發展半導體　衍生護國神山群 - 工研院50周年 深耕產業 創新未來](https://50th.itri.org.tw/history/semiconductors/2/)
 
 在中国大陆，接受德国和台湾工业转移比例最高的地方，是苏州下属的昆山和太仓这两个县级市。众所周知，中国县级单位几乎不会有自己的大学。苏州虽然教育比较发达，也只有常熟这个县级市有自己的工学院。昆山和太仓工业发达，又没有直接管理的大学，就在2008年照搬了台湾和德国模式，成立了自己的工业研究院。
 
-[地方政府资料](https://zg.changzhou.gov.cn/content/suitable/show?catid=2206&id=15171)
+[苏州、无锡、常州等地取得4项重大创新成果](https://zg.changzhou.gov.cn/content/suitable/show?catid=2206&id=15171)
 
 昆山工研院的首要工作目标就是提供政府补贴，欢迎企业来昆山做中试项目，然后推向市场。所谓“中试”，就是实验室和工厂之间的生产阶段，具有一定风险性，很有可能在实验室能够完成的技术突破，到了生产线上就做不出来；就算做出来，和上下游的产业配合也未必顺畅。
 
@@ -191,13 +191,13 @@ bvid: BV1nWW36fEsk
 
 到了2024年，中国大陆在经济规模上已经接近美国，应该考虑一点自己的产学研发展模式了，最起码不能照搬美国去工业化的经验。
 
-[世界银行世界发展指标数据库](https://databank.worldbank.org/reports.aspx?country=CHN,USA,WLD&series=NY.GDP.MKTP.CD&source=2)
+[World Development Indicators | DataBank](https://databank.worldbank.org/reports.aspx?country=CHN,USA,WLD&series=NY.GDP.MKTP.CD&source=2)
 
 当然了，这不是说要全面否定美国经验。事实证明，如果有足够的风险投资，美国的研究型大学确实很适合从0到1培养高科技行业。中国现在走欧美接受工业转移也快到头了，下一步必须要考虑自己开创一些经济增长点。所以合理的模式是保持横向科研资金对于一部分前排大学教授的激励，同时让大多数本科学校放弃综合性大学的虚名，老老实实的为企业、为工研院模式提供人才，先积累一线的工作经历，再去考虑工艺型的创新。
 
 这不仅是我一个人的观点，也是最近中国的政策调整趋势。上周出台的中央文件《关于推动科技创新和产业创新深度融合的意见》，关键词是“加强企业主导的产学研融通创新”。请静静读两段。
 
-[科技部正式文件](https://most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2026/202610/t20261021_197540.html)
+[中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见-中华人民共和国科学技术部](https://most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2026/202610/t20261021_197540.html)
 
 > 改革任务组织模式。强化国家科技计划项目的产业应用导向，常态化征集企业需求，在指南编制、立项评审、项目验收中，合理增加来自企业和创业投资机构的专家数量，推动科技界、产业界、用户等多方参与。健全企业牵头项目的管理规定，完善“揭榜挂帅”、“业主制”等组织方式和“里程碑”管理、分阶段拨款等资助方式。健全“应用考核技术、市场考核产品”的项目验收机制，加强研发目标和产业化目标一体考核。推动国家重大工程和产业发展专项同步部署科研任务，明确科技创新目标，健全组织实施机制。
 > 
@@ -217,6 +217,6 @@ bvid: BV1nWW36fEsk
 
 最近，南京大学带头引进了衡水中学经验，要考核大学生的上课抬头率，这很明显是黔驴技穷，在做末日前的最后挣扎。未来大学教育面临的冲击，可能比整个科研体系还要更大。所以，我建议最近要找工作的观众，要谨慎考虑大学提供的职位，尽量要考虑自己能够给企业提供哪些增量。
 
-[南京大学情况说明报道](https://www.thepaper.cn/newsDetail_forward_34402682)
+[南京大学发布情况说明：智慧教室系统不再统计抬头率数据_澎湃号·媒体_澎湃新闻-The Paper](https://www.thepaper.cn/newsDetail_forward_34402682)
 
 感谢各位收看，1129期节目到此结束，我们13号周五再见。
