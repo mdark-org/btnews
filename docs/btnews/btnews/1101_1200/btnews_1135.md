@@ -51,7 +51,7 @@ Crunchyroll是2006年创立的企业，一开始是走野蛮生长路线，去�
 
 索尼对于日本动漫出海的另外一个贡献是打击盗版。为了保护正版动漫，索尼投入了大量的法务资源，最近的成就是3月13日打掉了全球最大的动漫盗版网站HiAnime。这个网站巅峰时刻是月访问量3.64亿，网站的排名冲到过全球第120名。到了7月份，这个网站的7个运营人员在越南被逮捕，给其他的同行做了榜样。
 
-[Alleged Operators of HiAnime Piracy Ring Arrested in Vietnam with U.S. Support](https://torrentfreak.com/alleged-operators-of-hianime-piracy-ring-arrested-in-vietnam-with-u-s-support/)
+[Alleged Operators of HiAnime Piracy Ring Arrested in Vietnam with U.S. Support](https://torrentfreak.com/alleged-operators-of-hianime-piracy-ring-arrested-in-vietnam-with-u.s.-support/)
 
 当然，日本动漫也不是全靠索尼或者其他日本企业的平台去打开市场。美国流媒体平台也发现英语观众愿意看日本动漫，所以主动去找日本工作室买节目。今年年初，百合向动画电影《超时空辉夜姬》在全网走红，这就是网飞和日本方面的合作。网飞提供资金、参与开发，拿到了全球的独家首发权。
 
